@@ -23,6 +23,16 @@ export function Header() {
           <img src="/logo-dark-styled.png" alt="logo" className="w-[90px] inline-block hidden dark:block" />
         </a>
       </div>
+      
+      {/* Navigation Menu */}
+      <nav className="flex items-center gap-4 ml-8">
+        <a href="/pif" className="text-sm text-bolt-elements-textSecondary hover:text-bolt-elements-textPrimary transition-colors">
+          PIF Generator
+        </a>
+        <a href="/msds" className="text-sm text-bolt-elements-textSecondary hover:text-bolt-elements-textPrimary transition-colors">
+          MSDS Generator
+        </a>
+      </nav>
       {chat.started && ( // Display ChatDescription and HeaderActionButtons only when the chat has started.
         <>
           <span className="flex-1 px-4 truncate text-center text-bolt-elements-textPrimary">
