@@ -1,0 +1,48 @@
+// Palmitoyl Tripeptide-1 - Anti-aging Peptide
+// INCI: Palmitoyl Tripeptide-1
+{
+  "id": "R011193",
+  "inci_name": "Palmitoyl Tripeptide-1",
+  "common_name": "Palmitoyl-GHK",
+  "molecular_weight": "578.8 Da",
+  "category": "Active Compound",
+  "concentration_range": {
+    "min": 0.001,
+    "max": 0.01,
+    "unit": "%",
+    "recommended": "0.005%"
+  },
+  "ph_range": {
+    "min": 5.0,
+    "max": 7.5,
+    "optimal": 6.5
+  },
+  "solubility": "Water soluble",
+  "functions": [
+    "Collagen stimulation",
+    "Anti-aging",
+    "Skin repair",
+    "Elastin synthesis"
+  ],
+  "compatibility": {
+    "synergistic": ["Hyaluronic acid", "Vitamin C", "Other peptides", "Ceramides"],
+    "avoid": ["Strong acids", "High temperatures", "Metal ions"],
+    "neutral": ["Most gentle ingredients", "Botanical extracts"]
+  },
+  "safety_rating": "COSMETIC_SAFE",
+  "restrictions": [
+    "Heat sensitive during formulation",
+    "pH sensitive - avoid extremes"
+  ],
+  "allergen_info": "Very low allergenic potential",
+  "regulatory_status": "Approved for cosmetic use globally",
+  "pricing_zar": 4850.00,
+  "supplier_ids": ["BASF001", "EVONIK001"],
+  "usage_frequency": 7,
+  "criticality_score": 65,
+  "peptide_sequence": "Gly-His-Lys with palmitoyl chain",
+  "mechanism": "Stimulates collagen I, III and fibronectin synthesis",
+  "clinical_studies": "Proven improvement in wrinkle depth and skin firmness",
+  "stability": "Requires careful formulation to maintain activity",
+  "bioavailability": "Enhanced by palmitoyl chain for skin penetration"
+}

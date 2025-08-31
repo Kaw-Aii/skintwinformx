@@ -1,0 +1,140 @@
+// Ceramide Barrier Repair Cream - Intensive Skin Barrier Restoration
+// Formulation ID: B19CBR006
+// Category: Barrier Repair + Intensive Care
+{
+  "formulation_id": "B19CBR006",
+  "product_name": "Ceramide Barrier Repair Cream",
+  "category": "Barrier Repair Treatment",
+  "vessel_type": "Emulsion_Reactor",
+  "target_skin_type": ["Compromised barrier", "Sensitive skin", "Irritated skin"],
+  "complexity_score": 76,
+  
+  "formulation_phases": {
+    "phase_a_water": {
+      "R010000": 58.2,    // De Ion Water
+      "R0101114": 6.0,    // B.P. Glycerine
+      "butylene_glycol": 3.0,
+      "allantoin": 0.5,
+      "temperature": 75,
+      "mixing_time": 20
+    },
+    "phase_b_oil": {
+      "shea_butter": 8.0,
+      "ceramide_np": 3.0,
+      "ceramide_ap": 1.5,
+      "ceramide_eop": 1.0,
+      "cholesterol": 1.0,
+      "jojoba_oil": 4.0,
+      "temperature": 75,
+      "lipid_lamellae": true
+    },
+    "phase_c_emulsification": {
+      "cetearyl_alcohol": 4.0,
+      "glyceryl_stearate": 2.5,
+      "peg_100_stearate": 1.5,
+      "temperature": 75
+    },
+    "phase_d_active_repair": {
+      "niacinamide": 4.0,
+      "panthenol": 2.0,
+      "centella_asiatica": 1.5,
+      "madecassoside": 0.3,
+      "temperature": 50
+    },
+    "phase_e_peptides": {
+      "palmitoyl_tripeptide_5": 0.2,
+      "copper_tripeptide_1": 0.1,
+      "temperature": 40
+    },
+    "phase_f_preservation": {
+      "R0104015": 0.8,    // Microcare PHG
+      "phenoxyethanol": 0.3,
+      "ethylhexylglycerin": 0.2
+    }
+  },
+  
+  "manufacturing_sequence": [
+    {
+      "step": 1,
+      "ingredient": "Water Phase",
+      "quantity": "67.7g",
+      "vessel_contents_before": "Empty emulsion reactor",
+      "reaction": "Aqueous phase formation with humectant matrix",
+      "vessel_contents_after": "Clear hydrating solution",
+      "interim_product_name": "Barrier Support Base",
+      "observable_changes": "Clear, viscous solution with soothing properties"
+    },
+    {
+      "step": 2,
+      "ingredient": "Oil Phase",
+      "quantity": "18.5g",
+      "vessel_contents_before": "Water phase at 75°C",
+      "reaction": "Ceramide complex formation → lipid bilayer structure",
+      "vessel_contents_after": "Lipid-rich oil phase",
+      "interim_product_name": "Ceramide Complex",
+      "observable_changes": "Rich, luxurious oil phase with ceramide structure"
+    },
+    {
+      "step": 3,
+      "ingredient": "Emulsification System",
+      "quantity": "8.0g",
+      "vessel_contents_before": "Oil phase (18.5g)",
+      "reaction": "Stable emulsion formation → barrier-mimetic structure",
+      "vessel_contents_after": "Stable cream emulsion",
+      "interim_product_name": "Barrier Mimetic Cream",
+      "observable_changes": "Smooth, stable cream with excellent barrier properties"
+    },
+    {
+      "step": 4,
+      "ingredient": "Active Repair Complex",
+      "quantity": "7.8g",
+      "vessel_contents_before": "Cream emulsion (94.2g)",
+      "reaction": "Barrier repair activation → inflammation reduction",
+      "vessel_contents_after": "Active repair cream",
+      "interim_product_name": "Therapeutic Barrier Cream",
+      "observable_changes": "Enhanced therapeutic properties, soothing texture"
+    }
+  ],
+  
+  "benefits": [
+    "Restores compromised skin barrier",
+    "Intensive moisture retention",
+    "Reduces skin sensitivity and irritation", 
+    "Strengthens natural lipid barrier",
+    "Soothes and calms irritated skin",
+    "Long-lasting hydration and protection"
+  ],
+  
+  "application_instructions": [
+    "Apply generously to clean skin twice daily",
+    "Focus on areas of dryness or irritation",
+    "Gently massage until fully absorbed",
+    "Suitable for face and body use",
+    "Can be used under makeup as primer"
+  ],
+  
+  "safety_assessment": {
+    "safety_status": "HYPOALLERGENIC",
+    "patch_test": "Suitable for sensitive skin",
+    "photosensitivity": "None",
+    "ph_target": 5.5,
+    "shelf_life": "30 months"
+  },
+  
+  "expected_results": {
+    "immediate": "Instant relief from dryness and irritation",
+    "1_week": "Improved skin barrier function",
+    "4_weeks": "Significantly reduced sensitivity",
+    "8_weeks": "Restored healthy skin barrier",
+    "clinical_studies": "89% showed improved barrier function in 4 weeks"
+  },
+  
+  "ingredient_count": 20,
+  "total_concentration": 100.0,
+  "stability_testing": {
+    "temperature_range": "5°C to 30°C",
+    "light_stability": "Stable in standard packaging",
+    "freeze_thaw": "Passed 5 cycles",
+    "ceramide_stability": "Maintains structural integrity for 24 months"
+  }
+}

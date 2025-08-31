@@ -1,0 +1,109 @@
+// Probiotic Balance Serum Product
+// Product Design: Microbiome-supporting treatment for skin balance
+{
+  "id": "B19PSB007",
+  "label": "Probiotic Balance Serum",
+  "category": "Microbiome Treatment",
+  "ingredient_count": 19,
+  "complexity_score": 82,
+  
+  "target_skin_type": ["Imbalanced microbiome", "Acne-prone", "Sensitive reactive"],
+  "target_demographics": {
+    "age_groups": ["18-30", "30-40"],
+    "skin_concerns": ["Acne", "Sensitivity", "Reactive skin", "Microbiome health"],
+    "lifestyle": ["Health-conscious", "Natural beauty", "Wellness-focused"]
+  },
+  
+  "formulation_phases": {
+    "probiotic_base": {
+      "ingredient_count": 4,
+      "primary_function": "Living microbiome support",
+      "complexity_level": "Complex"
+    },
+    "prebiotic_support": {
+      "ingredient_count": 4,
+      "primary_function": "Probiotic nourishment",
+      "complexity_level": "Moderate"
+    },
+    "barrier_support": {
+      "ingredient_count": 4,
+      "primary_function": "Skin barrier strengthening",
+      "complexity_level": "Simple"
+    },
+    "balancing_actives": {
+      "ingredient_count": 4,
+      "primary_function": "Sebum regulation",
+      "complexity_level": "Moderate"
+    },
+    "soothing_complex": {
+      "ingredient_count": 4,
+      "primary_function": "Anti-inflammatory",
+      "complexity_level": "Simple"
+    }
+  },
+  
+  "benefits": [
+    "Supports healthy skin microbiome",
+    "Reduces harmful bacteria overgrowth",
+    "Balances skin pH naturally",
+    "Strengthens skin's natural defenses",
+    "Reduces acne and breakouts"
+  ],
+  
+  "secondary_benefits": [
+    "Calms reactive skin",
+    "Improves skin tolerance",
+    "Natural probiotic action",
+    "Suitable for sensitive skin"
+  ],
+  
+  "clinical_claims": [
+    "85% showed improved skin balance",
+    "Proven microbiome support",
+    "Clinically tested probiotic activity"
+  ],
+  
+  "shelf_life": "12 months (refrigerated)",
+  "packaging_type": "Dark glass bottle with dropper",
+  "volume_ml": 30,
+  
+  "commercial_info": {
+    "retail_price_zar": 695.00,
+    "target_market": "Natural premium",
+    "brand_positioning": "Revolutionary microbiome science for balanced skin",
+    "distribution_channels": ["Natural health stores", "Online", "Professional"],
+    "launch_date": "2024-Q3"
+  },
+  
+  "regulatory_status": {
+    "approval_status": "Approved",
+    "required_testing": ["Probiotic viability", "Microbiome studies", "Safety"],
+    "safety_assessment": "Probiotic safety tested, hypoallergenic",
+    "labeling_requirements": ["Probiotic claims", "Storage instructions", "Live culture info"]
+  },
+  
+  "clinical_data": {
+    "clinical_studies": [
+      {
+        "study_type": "Microbiome analysis study",
+        "duration_weeks": 6,
+        "participants": 35,
+        "efficacy_result": "85% showed improved microbiome balance"
+      }
+    ],
+    "efficacy_data": {
+      "microbiome_balance": "82% improvement",
+      "acne_reduction": "65% fewer breakouts",
+      "skin_tolerance": "78% improvement in reactivity"
+    },
+    "satisfaction_score": 87
+  },
+  
+  "market_position_score": 78,
+  "competitive_advantages": [
+    "Live probiotic technology",
+    "Synbiotic formulation approach",
+    "Microbiome-focused positioning",
+    "Natural and science-backed"
+  ]
+}

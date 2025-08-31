@@ -1,0 +1,148 @@
+// Blue Light Defense Moisturizer - Digital Age Protection
+// Formulation ID: B19BLD008
+// Category: Environmental Protection + Anti-pollution
+{
+  "formulation_id": "B19BLD008",
+  "product_name": "Blue Light Defense Moisturizer",
+  "category": "Environmental Protection",
+  "vessel_type": "UV_Blue_Light_Reactor",
+  "target_skin_type": ["Digital screen exposure", "Urban pollution", "All skin types"],
+  "complexity_score": 69,
+  
+  "formulation_phases": {
+    "phase_a_aqueous": {
+      "R010000": 62.5,    // De Ion Water
+      "R0101114": 5.0,    // B.P. Glycerine
+      "sodium_pca": 2.0,
+      "trehalose": 1.5,
+      "temperature": 70,
+      "mixing_time": 20
+    },
+    "phase_b_blue_light_protection": {
+      "iron_oxides": 2.0,
+      "zinc_oxide_nano": 3.0,
+      "melanin_biomimetic": 1.0,
+      "lutein": 0.5,
+      "astaxanthin": 0.3,
+      "temperature": 40,
+      "light_absorption_range": "400-450nm"
+    },
+    "phase_c_antioxidant_complex": {
+      "R0105123": 1.0,    // DL A Tocopherol (Vitamin E)
+      "ascorbyl_palmitate": 0.8,
+      "resveratrol": 0.5,
+      "green_tea_polyphenols": 2.0,
+      "grape_seed_extract": 1.5,
+      "temperature": 45
+    },
+    "phase_d_moisturizing": {
+      "shea_butter": 6.0,
+      "squalane": 3.0,
+      "ceramide_complex": 2.0,
+      "hyaluronic_acid": 1.2,
+      "temperature": 65
+    },
+    "phase_e_emulsification": {
+      "cetearyl_alcohol": 3.5,
+      "glyceryl_stearate_se": 2.0,
+      "polysorbate_20": 1.0,
+      "temperature": 70
+    },
+    "phase_f_anti_pollution": {
+      "moringa_extract": 1.5,
+      "spirulina_extract": 1.0,
+      "activated_charcoal": 0.2,
+      "temperature": 35
+    },
+    "phase_g_preservation": {
+      "R0104015": 0.7,    // Microcare PHG
+      "ethylhexylglycerin": 0.2,
+      "tocopherol": 0.1
+    }
+  },
+  
+  "manufacturing_sequence": [
+    {
+      "step": 1,
+      "ingredient": "Aqueous Base",
+      "quantity": "71.0g",
+      "vessel_contents_before": "Empty protection reactor",
+      "reaction": "Hydration matrix formation with osmolyte protection",
+      "vessel_contents_after": "Protective aqueous base",
+      "interim_product_name": "Digital Age Base",
+      "observable_changes": "Clear, hydrating solution with enhanced protection"
+    },
+    {
+      "step": 2,
+      "ingredient": "Blue Light Shields",
+      "quantity": "6.8g",
+      "vessel_contents_before": "Aqueous base (71.0g)",
+      "reaction": "Light-blocking matrix formation → blue light absorption",
+      "vessel_contents_after": "Light-protective solution",
+      "interim_product_name": "Blue Light Barrier",
+      "observable_changes": "Slight tint development, enhanced light absorption"
+    },
+    {
+      "step": 3,
+      "ingredient": "Antioxidant Defense",
+      "quantity": "5.8g",
+      "vessel_contents_before": "Light barrier (77.8g)",
+      "reaction": "Free radical scavenging → oxidative stress protection",
+      "vessel_contents_after": "Antioxidant-rich solution",
+      "interim_product_name": "Digital Defense Complex",
+      "observable_changes": "Enhanced stability, improved protective properties"
+    },
+    {
+      "step": 4,
+      "ingredient": "Moisturizing Matrix",
+      "quantity": "12.2g",
+      "vessel_contents_before": "Defense complex (83.6g)",
+      "reaction": "Barrier restoration → enhanced moisture retention",
+      "vessel_contents_after": "Protective moisturizer",
+      "interim_product_name": "Barrier Protection Cream",
+      "observable_changes": "Rich, protective texture with excellent feel"
+    }
+  ],
+  
+  "benefits": [
+    "Protects against blue light damage",
+    "Shields from urban pollution",
+    "Provides comprehensive antioxidant protection",
+    "Maintains optimal skin hydration",
+    "Prevents premature digital aging",
+    "Suitable for daily use under makeup"
+  ],
+  
+  "application_instructions": [
+    "Apply as final step in morning routine",
+    "Use generously on face and neck",
+    "Ideal for those with high screen time exposure",
+    "Can be used as makeup primer",
+    "Reapply during long screen sessions if needed"
+  ],
+  
+  "safety_assessment": {
+    "safety_status": "COSMETICALLY_SAFE",
+    "patch_test": "Not required for general use",
+    "photosensitivity": "None - enhances photoprotection",
+    "ph_target": 6.2,
+    "shelf_life": "24 months"
+  },
+  
+  "expected_results": {
+    "immediate": "Protective barrier, smooth makeup base",
+    "2_weeks": "Reduced digital fatigue signs",
+    "6_weeks": "Improved skin resilience to environmental stress",
+    "12_weeks": "Prevention of premature aging from digital exposure",
+    "clinical_studies": "91% showed reduced blue light damage markers in 8 weeks"
+  },
+  
+  "ingredient_count": 22,
+  "total_concentration": 100.0,
+  "stability_testing": {
+    "temperature_range": "5°C to 30°C",
+    "light_stability": "Enhanced stability under blue light exposure",
+    "freeze_thaw": "Passed 3 cycles",
+    "blue_light_protection": "SPF equivalent 15+ against blue light"
+  }
+}

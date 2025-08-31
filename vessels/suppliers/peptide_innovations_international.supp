@@ -1,0 +1,133 @@
+// Peptide Innovations International - Advanced Peptide Technology
+// Supplier Code: PEPTIDE001
+{
+  "supplier_id": "PEPTIDE001",
+  "label": "Peptide Innovations International",
+  "company_name": "Peptide Innovations International Ltd",
+  "ingredient_portfolio_size": 125,
+  "geographic_focus": ["Europe", "North America", "Asia-Pacific"],
+  "specializations": [
+    "Synthetic peptides",
+    "Bioactive peptides",
+    "Anti-aging peptides",
+    "Peptide delivery systems",
+    "Custom peptide synthesis"
+  ],
+  "contact_info": {
+    "address": "Biotech Park, Cambridge, CB4 0WS, United Kingdom", 
+    "phone": "+44 1223 555-0123",
+    "email": "peptides@peptideinnovations.com",
+    "website": "https://www.peptideinnovations.com",
+    "primary_contact": "Peptide Technology Director",
+    "local_distributor": "African Biotech Distributors"
+  },
+  "commercial_terms": {
+    "payment_terms": "45 days net",
+    "minimum_order_value": 15000.00,
+    "lead_time_standard": 21,
+    "freight_terms": "DDP",
+    "currency": "EUR",
+    "volume_discounts": [
+      {"threshold": 50000, "discount": 8},
+      {"threshold": 100000, "discount": 15}
+    ]
+  },
+  "certifications": [
+    "ISO 9001:2015",
+    "ISO 13485:2016",
+    "FDA GMP Registration",
+    "EU GMP Certification",
+    "ICH Guidelines Compliance"
+  ],
+  "quality_standards": {
+    "gmp_compliance": true,
+    "halal_certified": true,
+    "kosher_certified": true,
+    "vegan_options": false,
+    "natural_options": false,
+    "pharmaceutical_grade": true
+  },
+  "key_products": [
+    {
+      "ingredient": "Palmitoyl Tripeptide-1",
+      "brand_name": "CollagenBoost PT-1",
+      "purity": "99%+",
+      "unit_price_zar": 48500.00,
+      "packaging": "10g vials",
+      "lead_time_days": 21
+    },
+    {
+      "ingredient": "Acetyl Hexapeptide-8",
+      "brand_name": "Expression Control AH-8",
+      "purity": "98%+",
+      "unit_price_zar": 52000.00,
+      "packaging": "5g vials",
+      "lead_time_days": 28
+    },
+    {
+      "ingredient": "Copper Tripeptide-1",
+      "brand_name": "Regenerative Cu-T1",
+      "purity": "95%+",
+      "unit_price_zar": 38500.00,
+      "packaging": "10g vials",
+      "lead_time_days": 25
+    },
+    {
+      "ingredient": "Palmitoyl Tetrapeptide-7",
+      "brand_name": "AntiInflammatory PT-7",
+      "purity": "97%+",
+      "unit_price_zar": 45000.00,
+      "packaging": "10g vials",
+      "lead_time_days": 24
+    }
+  ],
+  "sustainability_initiatives": [
+    "Green chemistry synthesis",
+    "Reduced solvent usage",
+    "Biodegradable packaging",
+    "Energy-efficient production",
+    "Waste minimization protocols"
+  ],
+  "technical_support": {
+    "available": true,
+    "formulation_assistance": true,
+    "regulatory_support": true,
+    "analytical_testing": true,
+    "documentation": "Complete peptide characterization data"
+  },
+  "innovation_focus": [
+    "Next-generation peptide design",
+    "Enhanced delivery systems",
+    "Stability improvement technologies",
+    "Cost-effective synthesis methods",
+    "Personalized peptide solutions"
+  ],
+  "regional_presence": {
+    "south_africa": {
+      "local_office": false,
+      "local_stock": "Selected items via distributor",
+      "technical_service": true,
+      "regulatory_support": true,
+      "distributor_contact": "African Biotech Distributors +27 11 555-0234"
+    }
+  },
+  "performance_metrics": {
+    "quality_rating": 9.8,
+    "delivery_reliability": 92.5,
+    "technical_support_rating": 9.6,
+    "sustainability_score": 8.2,
+    "cost_competitiveness": 7.5
+  },
+  "research_partnerships": [
+    "University of Cambridge",
+    "MIT Biotechnology",
+    "European Peptide Society",
+    "Anti-aging Research Institute"
+  ],
+  "regulatory_expertise": [
+    "Global peptide regulations",
+    "Cosmetic claim substantiation",
+    "Safety assessment protocols",
+    "Intellectual property guidance"
+  ]
+}

@@ -1,0 +1,49 @@
+// Lactobacillus Ferment - Probiotic Active
+// INCI: Lactobacillus Ferment
+{
+  "id": "R011294",
+  "inci_name": "Lactobacillus Ferment",
+  "common_name": "Probiotic Lysate",
+  "molecular_weight": "Variable (complex mixture)",
+  "category": "Active Compound",
+  "concentration_range": {
+    "min": 1.0,
+    "max": 10.0,
+    "unit": "%",
+    "recommended": "3.0-7.0%"
+  },
+  "ph_range": {
+    "min": 4.5,
+    "max": 6.5,
+    "optimal": 5.5
+  },
+  "solubility": "Water soluble",
+  "functions": [
+    "Microbiome support",
+    "Barrier strengthening",
+    "Anti-inflammatory",
+    "pH balancing"
+  ],
+  "compatibility": {
+    "synergistic": ["Prebiotics", "Other probiotics", "Gentle actives"],
+    "avoid": ["Strong preservatives", "High alcohol", "Extreme pH"],
+    "neutral": ["Ceramides", "Hyaluronic acid", "Plant extracts"]
+  },
+  "safety_rating": "PROBIOTIC_SAFE",
+  "restrictions": [
+    "Requires careful preservation strategy",
+    "Temperature sensitive",
+    "May require refrigeration"
+  ],
+  "allergen_info": "Generally well tolerated, rare reactions possible",
+  "regulatory_status": "Approved for cosmetic use, GRAS status",
+  "pricing_zar": 890.00,
+  "supplier_ids": ["BOTANICHEM001", "NATCHEM001"],
+  "usage_frequency": 3,
+  "criticality_score": 38,
+  "strain_origin": "Lactobacillus acidophilus or similar",
+  "processing": "Fermented and lysed bacterial cells",
+  "bioactive_compounds": "Peptides, amino acids, vitamins, enzymes",
+  "microbiome_benefits": "Supports beneficial bacteria, inhibits harmful strains",
+  "storage_requirements": "Cool, dark storage recommended"
+}

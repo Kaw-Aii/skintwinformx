@@ -1,0 +1,48 @@
+// Azelaic Acid - Multi-functional Active
+// INCI: Azelaic Acid
+{
+  "id": "R011092",
+  "inci_name": "Azelaic Acid",
+  "common_name": "Nonanedioic Acid",
+  "molecular_weight": "188.2 Da",
+  "category": "Active Compound",
+  "concentration_range": {
+    "min": 1.0,
+    "max": 20.0,
+    "unit": "%",
+    "recommended": "5.0-10.0%"
+  },
+  "ph_range": {
+    "min": 3.5,
+    "max": 5.5,
+    "optimal": 4.2
+  },
+  "solubility": "Water soluble (limited), requires solubilization",
+  "functions": [
+    "Exfoliation",
+    "Anti-acne",
+    "Brightening",
+    "Anti-inflammatory"
+  ],
+  "compatibility": {
+    "synergistic": ["Niacinamide", "Zinc compounds", "Hyaluronic acid"],
+    "avoid": ["Other strong acids simultaneously", "High pH ingredients"],
+    "neutral": ["Gentle moisturizers", "Ceramides"]
+  },
+  "safety_rating": "COSMETIC_SAFE",
+  "restrictions": [
+    "Start with lower concentrations",
+    "May cause initial purging",
+    "Concentration limits in some regions"
+  ],
+  "allergen_info": "Generally well tolerated, may cause initial irritation",
+  "regulatory_status": "OTC drug in US (>10%), cosmetic ingredient (<10%)",
+  "pricing_zar": 285.00,
+  "supplier_ids": ["BASF001", "EVONIK001"],
+  "usage_frequency": 4,
+  "criticality_score": 52,
+  "mechanism": "Dual action - exfoliation and antimicrobial",
+  "target_conditions": ["Acne", "Hyperpigmentation", "Rosacea"],
+  "clinical_efficacy": "Proven equivalent to tretinoin for acne with better tolerance",
+  "formulation_challenges": "Poor water solubility, requires special techniques"
+}

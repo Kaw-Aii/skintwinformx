@@ -1,0 +1,48 @@
+// Iron Oxides - Blue Light Protection
+// INCI: Iron Oxides
+{
+  "id": "R011395",
+  "inci_name": "Iron Oxides",
+  "common_name": "CI 77491, CI 77492, CI 77499",
+  "molecular_weight": "159.7 Da (Fe2O3)",
+  "category": "Functional Additive",
+  "concentration_range": {
+    "min": 0.1,
+    "max": 25.0,
+    "unit": "%",
+    "recommended": "1.0-5.0%"
+  },
+  "ph_range": {
+    "min": 3.0,
+    "max": 12.0,
+    "optimal": 7.0
+  },
+  "solubility": "Insoluble - mineral pigment",
+  "functions": [
+    "Blue light protection",
+    "UV protection",
+    "Color correction",
+    "Antioxidant"
+  ],
+  "compatibility": {
+    "synergistic": ["Zinc oxide", "Titanium dioxide", "Other UV filters"],
+    "avoid": ["Strong acids that may cause dissolution"],
+    "neutral": ["Most ingredients", "Emulsifiers"]
+  },
+  "safety_rating": "GRAS",
+  "restrictions": [
+    "Particle size regulations for nanoparticles",
+    "Color additive regulations"
+  ],
+  "allergen_info": "Non-allergenic, inert mineral",
+  "regulatory_status": "Approved color additive globally",
+  "pricing_zar": 125.00,
+  "supplier_ids": ["BASF001", "EVONIK001", "MEGANEDE001"],
+  "usage_frequency": 5,
+  "criticality_score": 42,
+  "particle_size": "10-200 nm (varies by application)",
+  "light_protection": "Broad spectrum including blue light (400-450nm)",
+  "color_variants": "Yellow, red, black iron oxides available",
+  "environmental_safety": "Eco-friendly, naturally occurring mineral",
+  "formulation_benefits": "Provides natural-looking tint while protecting skin"
+}

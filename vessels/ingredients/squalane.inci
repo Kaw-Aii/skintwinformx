@@ -1,0 +1,45 @@
+// Squalane - Biomimetic Emollient
+// INCI: Squalane
+{
+  "id": "R010991",
+  "inci_name": "Squalane",
+  "common_name": "Hydrogenated Squalene",
+  "molecular_weight": "422.8 Da",
+  "category": "Base/Carrier",
+  "concentration_range": {
+    "min": 0.5,
+    "max": 100.0,
+    "unit": "%",
+    "recommended": "2.0-10.0%"
+  },
+  "ph_range": {
+    "min": 3.0,
+    "max": 10.0,
+    "optimal": 6.0
+  },
+  "solubility": "Oil soluble",
+  "functions": [
+    "Emollient",
+    "Barrier protection",
+    "Non-comedogenic moisturizing",
+    "Penetration enhancer"
+  ],
+  "compatibility": {
+    "synergistic": ["All oil-soluble actives", "Ceramides", "Fatty acids"],
+    "avoid": ["None known"],
+    "neutral": ["Water-soluble ingredients", "Most preservatives"]
+  },
+  "safety_rating": "GRAS",
+  "restrictions": [],
+  "allergen_info": "Non-allergenic, naturally occurring in human sebum",
+  "regulatory_status": "Approved for cosmetic and food use",
+  "pricing_zar": 420.00,
+  "supplier_ids": ["BASF001", "EVONIK001", "NATCHEM001"],
+  "usage_frequency": 15,
+  "criticality_score": 58,
+  "source_origin": "Plant-derived (sugarcane, olive) or synthetic",
+  "sustainability": "Sustainable plant-derived sources available",
+  "skin_compatibility": "Identical to natural skin lipid - squalene",
+  "stability": "Highly stable, oxidation resistant",
+  "texture": "Lightweight, fast-absorbing, non-greasy"
+}

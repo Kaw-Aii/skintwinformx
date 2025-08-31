@@ -1,0 +1,109 @@
+// Blue Light Defense Moisturizer Product
+// Product Design: Modern environmental protection with blue light shielding
+{
+  "id": "B19BLD008",
+  "label": "Blue Light Defense Moisturizer",
+  "category": "Environmental Protection",
+  "ingredient_count": 22,
+  "complexity_score": 69,
+  
+  "target_skin_type": ["Digital screen exposure", "Urban pollution", "All skin types"],
+  "target_demographics": {
+    "age_groups": ["20-35", "35-45"],
+    "lifestyle": ["Digital professionals", "Urban dwellers", "Screen-heavy"],
+    "skin_concerns": ["Environmental protection", "Digital aging", "Daily hydration"]
+  },
+  
+  "formulation_phases": {
+    "aqueous_base": {
+      "ingredient_count": 6,
+      "primary_function": "Hydration foundation",
+      "complexity_level": "Simple"
+    },
+    "blue_light_protection": {
+      "ingredient_count": 5,
+      "primary_function": "Digital screen protection",
+      "complexity_level": "Complex"
+    },
+    "antioxidant_defense": {
+      "ingredient_count": 5,
+      "primary_function": "Free radical protection",
+      "complexity_level": "Moderate"
+    },
+    "moisturizing_matrix": {
+      "ingredient_count": 4,
+      "primary_function": "Barrier support",
+      "complexity_level": "Moderate"
+    },
+    "anti_pollution": {
+      "ingredient_count": 3,
+      "primary_function": "Urban pollution shield",
+      "complexity_level": "Moderate"
+    }
+  },
+  
+  "benefits": [
+    "Protects against blue light damage",
+    "Shields from urban pollution",
+    "Provides comprehensive antioxidant protection",
+    "Maintains optimal skin hydration",
+    "Prevents premature digital aging"
+  ],
+  
+  "secondary_benefits": [
+    "Suitable as makeup primer",
+    "Non-greasy, fast-absorbing",
+    "Suitable for all skin types",
+    "Daily environmental defense"
+  ],
+  
+  "clinical_claims": [
+    "91% showed reduced blue light damage markers",
+    "SPF equivalent 15+ against blue light",
+    "Proven pollution protection"
+  ],
+  
+  "shelf_life": "24 months",
+  "packaging_type": "Tube with pump",
+  "volume_ml": 50,
+  
+  "commercial_info": {
+    "retail_price_zar": 385.00,
+    "target_market": "Mid-premium",
+    "brand_positioning": "Essential protection for the digital age",
+    "distribution_channels": ["Online", "Tech stores", "Beauty retail", "Professional"],
+    "launch_date": "2024-Q1"
+  },
+  
+  "regulatory_status": {
+    "approval_status": "Approved",
+    "required_testing": ["Stability", "Blue light protection", "Safety"],
+    "safety_assessment": "Dermatologically tested, suitable for daily use",
+    "labeling_requirements": ["INCI list", "SPF equivalent claims", "Usage instructions"]
+  },
+  
+  "clinical_data": {
+    "clinical_studies": [
+      {
+        "study_type": "Blue light exposure study",
+        "duration_weeks": 8,
+        "participants": 40,
+        "efficacy_result": "91% showed reduced blue light damage markers"
+      }
+    ],
+    "efficacy_data": {
+      "blue_light_protection": "85% reduction in damage markers",
+      "pollution_protection": "78% improvement",
+      "hydration_maintenance": "12-hour moisture retention"
+    },
+    "satisfaction_score": 89
+  },
+  
+  "market_position_score": 72,
+  "competitive_advantages": [
+    "First-to-market blue light protection",
+    "Multi-spectrum environmental defense",
+    "Tech-lifestyle focused positioning",
+    "Scientific validation of protection"
+  ]
+}

@@ -1,0 +1,47 @@
+// Bakuchiol - Natural Retinol Alternative
+// INCI: Bakuchiol
+{
+  "id": "R010567",
+  "inci_name": "Bakuchiol",
+  "common_name": "Bakuchiol Extract",
+  "molecular_weight": "256.38 Da",
+  "category": "Active Compound",
+  "concentration_range": {
+    "min": 0.1,
+    "max": 2.0,
+    "unit": "%",
+    "recommended": "0.5-1.0%"
+  },
+  "ph_range": {
+    "min": 4.0,
+    "max": 7.0,
+    "optimal": 5.5
+  },
+  "solubility": "Oil soluble",
+  "functions": [
+    "Anti-aging",
+    "Collagen stimulation",
+    "Retinol alternative",
+    "Antioxidant"
+  ],
+  "compatibility": {
+    "synergistic": ["Vitamin E", "Rosehip Oil", "Peptides", "Hyaluronic Acid"],
+    "avoid": ["Strong acids", "High pH solutions"],
+    "neutral": ["Most plant extracts", "Ceramides"]
+  },
+  "safety_rating": "NATURAL_SAFE",
+  "restrictions": [
+    "Light sensitive - evening use recommended",
+    "Pregnancy safe - unlike retinoids"
+  ],
+  "allergen_info": "Generally well tolerated, rare sensitization",
+  "regulatory_status": "Approved for cosmetic use globally",
+  "pricing_zar": 1850.00,
+  "supplier_ids": ["BOTANICHEM001", "NATCHEM001"],
+  "usage_frequency": 3,
+  "criticality_score": 45,
+  "botanical_source": "Psoralea corylifolia seeds",
+  "extraction_method": "CO2 extraction",
+  "purity": "98%+",
+  "stability_notes": "Light and heat sensitive, requires proper storage"
+}

@@ -1,0 +1,46 @@
+// Zinc PCA - Sebum Regulating Complex
+// INCI: Zinc PCA
+{
+  "id": "R010789",
+  "inci_name": "Zinc PCA",
+  "common_name": "Zinc Pyrrolidone Carboxylic Acid",
+  "molecular_weight": "194.5 Da",
+  "category": "Active Compound",
+  "concentration_range": {
+    "min": 0.1,
+    "max": 2.0,
+    "unit": "%",
+    "recommended": "0.5-1.0%"
+  },
+  "ph_range": {
+    "min": 5.0,
+    "max": 7.5,
+    "optimal": 6.2
+  },
+  "solubility": "Water soluble",
+  "functions": [
+    "Sebum regulation",
+    "Antimicrobial",
+    "Pore refinement",
+    "Oil control"
+  ],
+  "compatibility": {
+    "synergistic": ["Niacinamide", "Salicylic acid", "Azelaic acid"],
+    "avoid": ["High pH solutions", "Strong alkaline ingredients"],
+    "neutral": ["Most hydrating ingredients", "Peptides"]
+  },
+  "safety_rating": "COSMETIC_SAFE",
+  "restrictions": [
+    "Concentration dependent - higher levels may cause dryness"
+  ],
+  "allergen_info": "Generally well tolerated, rare sensitivity",
+  "regulatory_status": "Approved for cosmetic use",
+  "pricing_zar": 485.00,
+  "supplier_ids": ["BASF001", "NATCHEM001"],
+  "usage_frequency": 6,
+  "criticality_score": 58,
+  "target_skin_types": ["Oily skin", "Acne-prone", "Large pores"],
+  "mechanism": "Zinc provides antimicrobial action, PCA improves penetration",
+  "clinical_studies": "Proven reduction in sebum production and pore size",
+  "formulation_tips": "Best incorporated at cool temperatures to maintain stability"
+}

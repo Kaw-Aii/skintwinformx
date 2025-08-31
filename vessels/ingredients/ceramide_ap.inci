@@ -1,0 +1,44 @@
+// Ceramide AP - Advanced Barrier Lipid
+// INCI: Ceramide AP
+{
+  "id": "R011597",
+  "inci_name": "Ceramide AP",
+  "common_name": "Ceramide 6 II, N-(2-Hydroxyethyl) Stearamide",
+  "molecular_weight": "411.7 Da",
+  "category": "Base/Carrier",
+  "concentration_range": {
+    "min": 0.05,
+    "max": 3.0,
+    "unit": "%",
+    "recommended": "0.5-1.5%"
+  },
+  "ph_range": {
+    "min": 4.0,
+    "max": 8.0,
+    "optimal": 5.5
+  },
+  "solubility": "Oil soluble, requires proper emulsification",
+  "functions": [
+    "Barrier repair",
+    "Desquamation regulation",
+    "Lipid bilayer formation",
+    "Anti-aging support"
+  ],
+  "compatibility": {
+    "synergistic": ["Ceramide NP", "Ceramide EOP", "Cholesterol", "Fatty acids"],
+    "avoid": ["Strong surfactants", "High temperature processing"],
+    "neutral": ["Most emollients", "Humectants"]
+  },
+  "safety_rating": "GRAS",
+  "restrictions": [],
+  "allergen_info": "Non-allergenic, naturally occurring in skin",
+  "regulatory_status": "Approved for cosmetic use globally",
+  "pricing_zar": 3200.00,
+  "supplier_ids": ["EVONIK001", "BASF001"],
+  "usage_frequency": 5,
+  "criticality_score": 58,
+  "biological_function": "Essential component of stratum corneum",
+  "mechanism": "Promotes orderly desquamation and barrier integrity",
+  "clinical_benefits": "Proven to restore damaged barrier function",
+  "formulation_notes": "Works synergistically with other ceramides in 3:1:1 ratio"
+}

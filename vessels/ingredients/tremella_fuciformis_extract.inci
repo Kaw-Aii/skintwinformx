@@ -1,0 +1,45 @@
+// Tremella Fuciformis Extract - Snow Mushroom
+// INCI: Tremella Fuciformis Extract
+{
+  "id": "R011496",
+  "inci_name": "Tremella Fuciformis Extract",
+  "common_name": "Snow Mushroom Extract",
+  "molecular_weight": "Variable (polysaccharide complex)",
+  "category": "Active Compound",
+  "concentration_range": {
+    "min": 0.1,
+    "max": 5.0,
+    "unit": "%",
+    "recommended": "0.5-2.0%"
+  },
+  "ph_range": {
+    "min": 4.5,
+    "max": 7.5,
+    "optimal": 6.0
+  },
+  "solubility": "Water soluble",
+  "functions": [
+    "Super-hydration",
+    "Moisture retention",
+    "Film forming",
+    "Anti-aging"
+  ],
+  "compatibility": {
+    "synergistic": ["Hyaluronic acid", "Glycerine", "Other humectants"],
+    "avoid": ["Strong acids", "High salt concentrations"],
+    "neutral": ["Most ingredients", "Peptides", "Vitamins"]
+  },
+  "safety_rating": "GRAS",
+  "restrictions": [],
+  "allergen_info": "Very low allergenic potential",
+  "regulatory_status": "Approved for cosmetic use globally",
+  "pricing_zar": 1250.00,
+  "supplier_ids": ["BOTANICHEM001", "NATCHEM001"],
+  "usage_frequency": 2,
+  "criticality_score": 28,
+  "botanical_source": "Tremella fuciformis mushroom",
+  "active_component": "Tremella polysaccharides",
+  "hydration_capacity": "Can hold 500x its weight in water",
+  "comparison": "More effective than hyaluronic acid in some studies",
+  "traditional_use": "Traditional Chinese medicine for skin beauty"
+}
