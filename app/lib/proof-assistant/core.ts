@@ -12,24 +12,23 @@ import type {
   VerificationResult,
   Proof,
   ProofStep,
-  Evidence,
   CognitiveState,
   RelevanceRealizationContext,
 } from './types';
 
-import { FormalLogicEngine, type FormalProof, type FormalProposition } from './formal-logic';
+import { FormalLogicEngine, type FormalProof } from './formal-logic';
 
 export class FormulationProofAssistant {
-  private config: ProofAssistantConfig;
-  private skinModel: SkinModel;
-  private cognitiveState: CognitiveState;
-  private formalEngine: FormalLogicEngine;
+  private _config: ProofAssistantConfig;
+  private _skinModel: SkinModel;
+  private _cognitiveState: CognitiveState;
+  private _formalEngine: FormalLogicEngine;
 
   constructor(config: ProofAssistantConfig, skinModel: SkinModel) {
-    this.config = config;
-    this.skinModel = skinModel;
-    this.cognitiveState = this.initializeCognitiveState();
-    this.formalEngine = new FormalLogicEngine();
+    this._config = config;
+    this._skinModel = skinModel;
+    this._cognitiveState = this._initializeCognitiveState();
+    this._formalEngine = new FormalLogicEngine();
   }
 
   /**
@@ -38,13 +37,13 @@ export class FormulationProofAssistant {
   async verifyFormulation(request: VerificationRequest): Promise<VerificationResult> {
     try {
       // Initialize relevance realization context
-      const context = this.createRelevanceContext(request);
+      const context = this._createRelevanceContext(request);
 
       // Update cognitive state based on current request
-      this.updateCognitiveState(context);
+      this._updateCognitiveState(context);
 
       // Generate proof steps
-      const proof = await this.generateProof(request, context);
+      const proof = await this._generateProof(request, context);
 
       // Validate proof completeness and soundness
       const validation = this.validateProof(proof);
@@ -63,6 +62,7 @@ export class FormulationProofAssistant {
     } catch (error) {
       console.error('Verification failed:', error);
       const errorMessage = error instanceof Error ? error.message : 'Unknown error';
+
       return {
         isValid: false,
         confidence: 0,
@@ -76,11 +76,11 @@ export class FormulationProofAssistant {
   /**
    * Generate formal proof for given hypothesis
    */
-  private async generateProof(request: VerificationRequest, context: RelevanceRealizationContext): Promise<Proof> {
+  private async _generateProof(request: VerificationRequest, context: RelevanceRealizationContext): Promise<Proof> {
     const steps: ProofStep[] = [];
 
     // Step 1: Establish initial assumptions
-    steps.push(this.createAssumptionStep(request));
+    steps.push(this._createAssumptionStep(request));
 
     // Step 2: Generate formal mathematical proof using Coq-inspired logic
     const formalProof = await this.generateFormalVerification(request);
@@ -121,7 +121,7 @@ export class FormulationProofAssistant {
   /**
    * Initialize cognitive state for relevance realization
    */
-  private initializeCognitiveState(): CognitiveState {
+  private _initializeCognitiveState(): CognitiveState {
     return {
       relevanceWeights: new Map(),
       attentionalFocus: [],
@@ -133,7 +133,7 @@ export class FormulationProofAssistant {
   /**
    * Create relevance realization context
    */
-  private createRelevanceContext(request: VerificationRequest): RelevanceRealizationContext {
+  private _createRelevanceContext(request: VerificationRequest): RelevanceRealizationContext {
     return {
       currentGoal: request.hypothesis,
       activeIngredients: request.ingredients.map((ing) => ing.id),
@@ -149,28 +149,28 @@ export class FormulationProofAssistant {
   /**
    * Update cognitive state based on current context
    */
-  private updateCognitiveState(context: RelevanceRealizationContext): void {
+  private _updateCognitiveState(context: RelevanceRealizationContext): void {
     // Update relevance weights based on current goal
     context.activeIngredients.forEach((ingredientId) => {
-      const currentWeight = this.cognitiveState.relevanceWeights.get(ingredientId) || 0;
-      this.cognitiveState.relevanceWeights.set(ingredientId, currentWeight + 0.1);
+      const currentWeight = this._cognitiveState.relevanceWeights.get(ingredientId) || 0;
+      this._cognitiveState.relevanceWeights.set(ingredientId, currentWeight + 0.1);
     });
 
     // Update attentional focus
-    this.cognitiveState.attentionalFocus = [
+    this._cognitiveState.attentionalFocus = [
       context.currentGoal,
       ...context.activeIngredients.slice(0, 3),
       context.skinCondition,
     ].filter(Boolean);
 
     // Update memory activation
-    this.cognitiveState.memoryActivation.set('lastVerification', Date.now());
+    this._cognitiveState.memoryActivation.set('lastVerification', Date.now());
   }
 
   /**
    * Create assumption step for proof
    */
-  private createAssumptionStep(request: VerificationRequest): ProofStep {
+  private _createAssumptionStep(request: VerificationRequest): ProofStep {
     return {
       id: `assumption_${Date.now()}`,
       type: 'assumption',
@@ -484,7 +484,7 @@ export class FormulationProofAssistant {
    */
   private async generateFormalVerification(request: VerificationRequest): Promise<FormalProof | null> {
     try {
-      return await this.formalEngine.generateFormalProof(request);
+      return await this._formalEngine.generateFormalProof(request);
     } catch (error) {
       console.warn('Formal verification failed:', error);
       return null;
@@ -526,7 +526,7 @@ export class FormulationProofAssistant {
     concentration: number,
     constraints: any[]
   ): Promise<ProofStep> {
-    const safetyProp = this.formalEngine.verifyIngredientSafety(
+    const safetyProp = this._formalEngine.verifyIngredientSafety(
       ingredientId,
       concentration,
       constraints
@@ -561,9 +561,9 @@ export class FormulationProofAssistant {
   private async verifyPenetrationModelFormal(
     ingredients: Array<{ id: string; molecularWeight: number; logP: number }>
   ): Promise<ProofStep> {
-    const penetrationProp = this.formalEngine.verifyPenetrationModel(
+    const penetrationProp = this._formalEngine.verifyPenetrationModel(
       ingredients,
-      this.skinModel
+      this._skinModel
     );
 
     return {
