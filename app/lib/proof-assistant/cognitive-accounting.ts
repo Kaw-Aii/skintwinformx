@@ -5,22 +5,22 @@
  * for formulation verification processes.
  */
 
-import type { CognitiveState, RelevanceRealizationContext, ProofStep, Evidence } from './types';
+import type { CognitiveState, RelevanceRealizationContext, ProofStep } from './types';
 
 /**
  * Manages cognitive resources and relevance realization during proof generation
  */
 export class CognitiveAccountingSystem {
-  private cognitiveState: CognitiveState;
-  private relevanceThreshold: number;
-  private attentionCapacity: number;
-  private memoryDecayRate: number;
+  private _cognitiveState: CognitiveState;
+  private _relevanceThreshold: number;
+  private _attentionCapacity: number;
+  private _memoryDecayRate: number;
 
   constructor(relevanceThreshold = 0.5, attentionCapacity = 7, memoryDecayRate = 0.1) {
-    this.relevanceThreshold = relevanceThreshold;
-    this.attentionCapacity = attentionCapacity;
-    this.memoryDecayRate = memoryDecayRate;
-    this.cognitiveState = this.initializeCognitiveState();
+    this._relevanceThreshold = relevanceThreshold;
+    this._attentionCapacity = attentionCapacity;
+    this._memoryDecayRate = memoryDecayRate;
+    this._cognitiveState = this._initializeCognitiveState();
   }
 
   /**
@@ -28,16 +28,16 @@ export class CognitiveAccountingSystem {
    */
   updateCognitiveState(context: RelevanceRealizationContext): void {
     // Update relevance weights based on current goal alignment
-    this.updateRelevanceWeights(context);
+    this._updateRelevanceWeights(context);
 
     // Manage attentional focus with capacity constraints
-    this.updateAttentionalFocus(context);
+    this._updateAttentionalFocus(context);
 
     // Apply memory decay and update activations
-    this.updateMemoryActivation(context);
+    this._updateMemoryActivation(context);
 
     // Calculate uncertainty levels for current context
-    this.updateUncertaintyLevels(context);
+    this._updateUncertaintyLevels(context);
   }
 
   /**
@@ -47,19 +47,19 @@ export class CognitiveAccountingSystem {
     let relevanceScore = 0;
 
     // Goal alignment relevance
-    const goalAlignment = this.calculateGoalAlignment(step, context);
+    const goalAlignment = this._calculateGoalAlignment(step, context);
     relevanceScore += goalAlignment * 0.4;
 
     // Ingredient relevance
-    const ingredientRelevance = this.calculateIngredientRelevance(step, context);
+    const ingredientRelevance = this._calculateIngredientRelevance(step, context);
     relevanceScore += ingredientRelevance * 0.3;
 
     // Evidence quality relevance
-    const evidenceRelevance = this.calculateEvidenceRelevance(step);
+    const evidenceRelevance = this._calculateEvidenceRelevance(step);
     relevanceScore += evidenceRelevance * 0.2;
 
     // Temporal relevance (recency bias)
-    const temporalRelevance = this.calculateTemporalRelevance(step);
+    const temporalRelevance = this._calculateTemporalRelevance(step);
     relevanceScore += temporalRelevance * 0.1;
 
     return Math.min(relevanceScore, 1.0);
@@ -85,11 +85,11 @@ export class CognitiveAccountingSystem {
     // Sort by relevance and apply attention capacity constraint
     const prioritySteps = stepRelevance
       .sort((a, b) => b.relevance - a.relevance)
-      .slice(0, this.attentionCapacity)
+      .slice(0, this._attentionCapacity)
       .map((item) => item.step);
 
     // Calculate cognitive load
-    const cognitiveLoad = this.calculateCognitiveLoad(prioritySteps);
+    const cognitiveLoad = this._calculateCognitiveLoad(prioritySteps);
 
     // Create resource allocation map
     const resourceAllocation = new Map<string, number>();
@@ -110,16 +110,16 @@ export class CognitiveAccountingSystem {
    */
   realizeRelevance(candidates: ProofStep[], context: RelevanceRealizationContext): ProofStep[] {
     // Phase 1: Salience detection
-    const salientSteps = this.detectSalience(candidates, context);
+    const salientSteps = this._detectSalience(candidates, context);
 
     // Phase 2: Coherence assessment
-    const coherentSteps = this.assessCoherence(salientSteps, context);
+    const coherentSteps = this._assessCoherence(salientSteps, context);
 
     // Phase 3: Elegance evaluation
-    const elegantSteps = this.evaluateElegance(coherentSteps);
+    const elegantSteps = this._evaluateElegance(coherentSteps);
 
     // Phase 4: Integration synthesis
-    return this.synthesizeIntegration(elegantSteps, context);
+    return this._synthesizeIntegration(elegantSteps, context);
   }
 
   /**
@@ -127,28 +127,28 @@ export class CognitiveAccountingSystem {
    */
   trackCognitiveEffort(step: ProofStep, effort: number): void {
     const stepId = step.id;
-    const currentEffort = this.cognitiveState.memoryActivation.get(`effort_${stepId}`) || 0;
+    const currentEffort = this._cognitiveState.memoryActivation.get(`effort_${stepId}`) || 0;
 
     // Update effort tracking with exponential moving average
     const alpha = 0.3;
     const newEffort = alpha * effort + (1 - alpha) * currentEffort;
-    this.cognitiveState.memoryActivation.set(`effort_${stepId}`, newEffort);
+    this._cognitiveState.memoryActivation.set(`effort_${stepId}`, newEffort);
 
     // Update uncertainty based on effort
     const uncertainty = Math.min(effort / 10.0, 1.0);
-    this.cognitiveState.uncertaintyLevels.set(stepId, uncertainty);
+    this._cognitiveState.uncertaintyLevels.set(stepId, uncertainty);
   }
 
   /**
    * Get current cognitive state
    */
   getCognitiveState(): CognitiveState {
-    return { ...this.cognitiveState };
+    return { ...this._cognitiveState };
   }
 
   // Private helper methods
 
-  private initializeCognitiveState(): CognitiveState {
+  private _initializeCognitiveState(): CognitiveState {
     return {
       relevanceWeights: new Map(),
       attentionalFocus: [],
@@ -157,27 +157,27 @@ export class CognitiveAccountingSystem {
     };
   }
 
-  private updateRelevanceWeights(context: RelevanceRealizationContext): void {
+  private _updateRelevanceWeights(context: RelevanceRealizationContext): void {
     // Increase weights for goal-relevant ingredients
     context.activeIngredients.forEach((ingredientId) => {
-      const currentWeight = this.cognitiveState.relevanceWeights.get(ingredientId) || 0;
+      const currentWeight = this._cognitiveState.relevanceWeights.get(ingredientId) || 0;
       const goalRelevance = context.currentGoal.toLowerCase().includes(ingredientId.toLowerCase()) ? 0.2 : 0.1;
-      this.cognitiveState.relevanceWeights.set(ingredientId, currentWeight + goalRelevance);
+      this._cognitiveState.relevanceWeights.set(ingredientId, currentWeight + goalRelevance);
     });
 
     // Apply decay to all weights
-    for (const [key, weight] of this.cognitiveState.relevanceWeights) {
-      const decayedWeight = weight * (1 - this.memoryDecayRate);
+    for (const [key, weight] of this._cognitiveState.relevanceWeights) {
+      const decayedWeight = weight * (1 - this._memoryDecayRate);
 
       if (decayedWeight < 0.01) {
-        this.cognitiveState.relevanceWeights.delete(key);
+        this._cognitiveState.relevanceWeights.delete(key);
       } else {
-        this.cognitiveState.relevanceWeights.set(key, decayedWeight);
+        this._cognitiveState.relevanceWeights.set(key, decayedWeight);
       }
     }
   }
 
-  private updateAttentionalFocus(context: RelevanceRealizationContext): void {
+  private _updateAttentionalFocus(context: RelevanceRealizationContext): void {
     // Combine current goal, active ingredients, and skin condition
     const candidateFoci = [
       context.currentGoal,
@@ -189,41 +189,41 @@ export class CognitiveAccountingSystem {
     // Calculate relevance scores for each focus candidate
     const scoredFoci = candidateFoci.map((focus) => ({
       focus,
-      score: this.cognitiveState.relevanceWeights.get(focus) || 0.1,
+      score: this._cognitiveState.relevanceWeights.get(focus) || 0.1,
     }));
 
     // Select top candidates within attention capacity
-    this.cognitiveState.attentionalFocus = scoredFoci
+    this._cognitiveState.attentionalFocus = scoredFoci
       .sort((a, b) => b.score - a.score)
-      .slice(0, this.attentionCapacity)
+      .slice(0, this._attentionCapacity)
       .map((item) => item.focus);
   }
 
-  private updateMemoryActivation(context: RelevanceRealizationContext): void {
+  private _updateMemoryActivation(context: RelevanceRealizationContext): void {
     const currentTime = Date.now();
 
     // Activate memories related to current context
     context.activeIngredients.forEach((ingredientId) => {
-      this.cognitiveState.memoryActivation.set(`ingredient_${ingredientId}`, currentTime);
+      this._cognitiveState.memoryActivation.set(`ingredient_${ingredientId}`, currentTime);
     });
 
-    this.cognitiveState.memoryActivation.set('current_goal', currentTime);
-    this.cognitiveState.memoryActivation.set('skin_condition', currentTime);
+    this._cognitiveState.memoryActivation.set('current_goal', currentTime);
+    this._cognitiveState.memoryActivation.set('skin_condition', currentTime);
 
     // Apply temporal decay to memory activations
-    for (const [key, timestamp] of this.cognitiveState.memoryActivation) {
+    for (const [key, timestamp] of this._cognitiveState.memoryActivation) {
       const age = currentTime - timestamp;
       const decayFactor = Math.exp(-age / (1000 * 60 * 60)); // 1-hour half-life
 
       if (decayFactor < 0.1) {
-        this.cognitiveState.memoryActivation.delete(key);
+        this._cognitiveState.memoryActivation.delete(key);
       } else {
-        this.cognitiveState.memoryActivation.set(key, timestamp * decayFactor);
+        this._cognitiveState.memoryActivation.set(key, timestamp * decayFactor);
       }
     }
   }
 
-  private updateUncertaintyLevels(context: RelevanceRealizationContext): void {
+  private _updateUncertaintyLevels(context: RelevanceRealizationContext): void {
     // Calculate uncertainty based on missing information and complexity
     const totalConstraints = context.userConstraints.length;
     const environmentalFactors = context.environmentalFactors.size;
@@ -232,12 +232,12 @@ export class CognitiveAccountingSystem {
 
     const informationUncertainty = Math.max(0.1, 1.0 - environmentalFactors / 10.0);
 
-    this.cognitiveState.uncertaintyLevels.set('complexity', complexityUncertainty);
-    this.cognitiveState.uncertaintyLevels.set('information', informationUncertainty);
-    this.cognitiveState.uncertaintyLevels.set('overall', (complexityUncertainty + informationUncertainty) / 2.0);
+    this._cognitiveState.uncertaintyLevels.set('complexity', complexityUncertainty);
+    this._cognitiveState.uncertaintyLevels.set('information', informationUncertainty);
+    this._cognitiveState.uncertaintyLevels.set('overall', (complexityUncertainty + informationUncertainty) / 2.0);
   }
 
-  private calculateGoalAlignment(step: ProofStep, context: RelevanceRealizationContext): number {
+  private _calculateGoalAlignment(step: ProofStep, context: RelevanceRealizationContext): number {
     const stepText = step.statement.toLowerCase();
     const goalText = context.currentGoal.toLowerCase();
 
@@ -248,14 +248,14 @@ export class CognitiveAccountingSystem {
     return matchingWords.length / Math.max(goalWords.length, 1);
   }
 
-  private calculateIngredientRelevance(step: ProofStep, context: RelevanceRealizationContext): number {
+  private _calculateIngredientRelevance(step: ProofStep, context: RelevanceRealizationContext): number {
     const stepText = step.statement.toLowerCase();
     const matchingIngredients = context.activeIngredients.filter((ing) => stepText.includes(ing.toLowerCase()));
 
     return matchingIngredients.length / Math.max(context.activeIngredients.length, 1);
   }
 
-  private calculateEvidenceRelevance(step: ProofStep): number {
+  private _calculateEvidenceRelevance(step: ProofStep): number {
     if (step.evidence.length === 0) {
       return 0.1;
     }
@@ -266,7 +266,7 @@ export class CognitiveAccountingSystem {
     return (avgReliability + avgRelevance) / 2.0;
   }
 
-  private calculateTemporalRelevance(step: ProofStep): number {
+  private _calculateTemporalRelevance(step: ProofStep): number {
     // Assume newer steps are more relevant (recency bias)
     const stepTime = parseInt(step.id.split('_').pop() || '0');
     const currentTime = Date.now();
@@ -276,7 +276,7 @@ export class CognitiveAccountingSystem {
     return Math.exp(-age / (1000 * 60 * 60));
   }
 
-  private calculateCognitiveLoad(steps: ProofStep[]): number {
+  private _calculateCognitiveLoad(steps: ProofStep[]): number {
     // Calculate load based on step complexity and evidence requirements
     let totalLoad = 0;
 
@@ -298,15 +298,15 @@ export class CognitiveAccountingSystem {
     return Math.min(totalLoad, 1.0);
   }
 
-  private detectSalience(candidates: ProofStep[], context: RelevanceRealizationContext): ProofStep[] {
+  private _detectSalience(candidates: ProofStep[], context: RelevanceRealizationContext): ProofStep[] {
     // Filter steps that meet minimum relevance threshold
     return candidates.filter((step) => {
       const relevance = this.calculateRelevanceScore(step, context);
-      return relevance >= this.relevanceThreshold;
+      return relevance >= this._relevanceThreshold;
     });
   }
 
-  private assessCoherence(steps: ProofStep[], context: RelevanceRealizationContext): ProofStep[] {
+  private _assessCoherence(steps: ProofStep[], _context: RelevanceRealizationContext): ProofStep[] {
     // Group steps by logical chains and assess coherence
     const coherentSteps: ProofStep[] = [];
 
@@ -324,7 +324,7 @@ export class CognitiveAccountingSystem {
     return coherentSteps;
   }
 
-  private evaluateElegance(steps: ProofStep[]): ProofStep[] {
+  private _evaluateElegance(steps: ProofStep[]): ProofStep[] {
     // Prefer steps with higher confidence and simpler premises
     return steps.sort((a, b) => {
       const eleganceA = a.confidence / Math.max(a.premises.length, 1);
@@ -334,7 +334,7 @@ export class CognitiveAccountingSystem {
     });
   }
 
-  private synthesizeIntegration(steps: ProofStep[], context: RelevanceRealizationContext): ProofStep[] {
+  private _synthesizeIntegration(steps: ProofStep[], _context: RelevanceRealizationContext): ProofStep[] {
     // Ensure logical flow from assumptions to conclusions
     const orderedSteps: ProofStep[] = [];
     const processed = new Set<string>();
