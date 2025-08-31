@@ -1,0 +1,85 @@
+// Salicylic Acid - Beta Hydroxy Acid Exfoliant  
+// INCI: Salicylic Acid
+{
+  "inci_name": "Salicylic Acid",
+  "common_name": "BHA, 2-hydroxybenzoic acid",
+  "molecular_weight": "138.12 g/mol",
+  "concentration_range": {
+    "min": 0.5,
+    "max": 2.0,
+    "optimal": 1.0,
+    "unit": "%",
+    "regulatory_limit": "2.0% in cosmetics"
+  },
+  "ph_range": {
+    "min": 3.0,
+    "max": 4.0,
+    "optimal": 3.5,
+    "notes": "pH critical for efficacy"
+  },
+  "solubility": "Limited water soluble, alcohol soluble",
+  "melting_point": "158-160°C",
+  "functions": [
+    "Chemical exfoliant",
+    "Pore cleansing",
+    "Anti-inflammatory",
+    "Antimicrobial",
+    "Keratolytic"
+  ],
+  "skin_benefits": [
+    "Unclogs pores",
+    "Removes dead skin cells",
+    "Reduces blackheads and whiteheads",
+    "Improves skin texture",
+    "Reduces inflammation",
+    "Controls acne"
+  ],
+  "compatibility": {
+    "excellent": ["Niacinamide", "Hyaluronic acid", "Ceramides"],
+    "good": ["Zinc oxide", "Azelaic acid"],
+    "avoid": ["Retinol", "AHA acids", "Benzoyl peroxide", "Vitamin C"],
+    "requires_care": ["High pH ingredients"],
+    "notes": "Can increase photosensitivity"
+  },
+  "stability": {
+    "heat": "Stable up to 70°C",
+    "light": "Photostable",
+    "ph_sensitive": true,
+    "oxidation": "Stable"
+  },
+  "safety_rating": "SAFE_WITH_RESTRICTIONS",
+  "regulatory_status": "Restricted to 2% in leave-on products",
+  "usage_frequency": 82,
+  "category": "Chemical Exfoliant",
+  "supplier_info": {
+    "primary_suppliers": ["Merck", "Spectrum Chemical", "TCI"],
+    "pricing_zar": {
+      "500g": 850.00,
+      "1kg": 1500.00,
+      "5kg": 6800.00
+    }
+  },
+  "formulation_notes": [
+    "Dissolve in alcohol or propylene glycol first",
+    "Maintain pH below 4.0 for efficacy",
+    "Add to formulation at low temperature (<40°C)",
+    "Requires sunscreen recommendation"
+  ],
+  "warnings": [
+    "May cause photosensitivity",
+    "Can cause dryness and irritation",
+    "Not recommended for sensitive skin",
+    "Patch test strongly recommended"
+  ],
+  "clinical_data": {
+    "pore_reduction": "Significant improvement in 4 weeks at 1-2%",
+    "acne_improvement": "30-50% reduction in lesions",
+    "texture_improvement": "Smoother skin texture in 2-4 weeks"
+  },
+  "contraindications": [
+    "Pregnancy (high concentrations)",
+    "Aspirin allergy",
+    "Compromised skin barrier",
+    "Recent chemical peels"
+  ]
+}

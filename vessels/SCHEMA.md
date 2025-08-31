@@ -402,3 +402,28 @@ This schema directly supports the hypergraph analysis documented in [vessels/exa
 - **Topology**: Multi-layer hypergraph with cross-layer connectivity
 
 See [ARCHITECTURE.md](./examples/ARCHITECTURE.md) for detailed technical implementation and [README.md](./examples/README.md) for comprehensive network analysis.
+
+## Extended Documentation Suite
+
+This schema is part of a comprehensive documentation ecosystem:
+
+### Technical Documentation
+- **[SCHEMA_VISUALIZATION.md](./SCHEMA_VISUALIZATION.md)** - Detailed visual representations with mermaid diagrams
+- **[API_DOCUMENTATION.md](./API_DOCUMENTATION.md)** - Complete API reference for schema operations
+- **[HYPERGRAPH_INTEGRATION.md](./HYPERGRAPH_INTEGRATION.md)** - Integration patterns and data flows
+- **[TECHNICAL_INDEX.md](./TECHNICAL_INDEX.md)** - Navigation guide and cross-references
+
+### Examples & Usage
+- **[USAGE_EXAMPLES.md](./USAGE_EXAMPLES.md)** - Practical implementation examples and best practices
+- **[formulations/](./formulations/)** - 8 example formulation files demonstrating schema patterns
+- **[ingredients/](./ingredients/)** - 10 ingredient examples with complete schema data
+- **[products/](./products/)** - 7 product examples showing real-world applications
+- **[suppliers/](./suppliers/)** - 5 supplier examples representing global supply chain
+
+### Analysis Framework
+- **[examples/README.md](./examples/README.md)** - Comprehensive hypergraph network analysis
+- **[examples/ARCHITECTURE.md](./examples/ARCHITECTURE.md)** - Technical implementation details
+- **[examples/NETWORK_ANALYSIS.md](./examples/NETWORK_ANALYSIS.md)** - Advanced topology analysis
+- **[examples/SUMMARY.md](./examples/SUMMARY.md)** - Executive summary and strategic insights
+
+This integrated documentation provides complete technical guidance for developing with the SKIN-TWIN platform's hypergraph architecture.

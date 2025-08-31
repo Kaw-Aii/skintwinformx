@@ -1,0 +1,115 @@
+// BASF Personal Care - Global Chemical Solutions Provider
+// Supplier Code: BASF001
+{
+  "supplier_id": "BASF001",
+  "label": "BASF Personal Care",
+  "company_name": "BASF Personal Care and Nutrition GmbH",
+  "ingredient_portfolio_size": 450,
+  "geographic_focus": ["Europe", "North America", "Asia-Pacific", "Africa"],
+  "specializations": [
+    "Active ingredients",
+    "UV filters",
+    "Emulsifiers",
+    "Functional ingredients",
+    "Sustainable solutions"
+  ],
+  "contact_info": {
+    "address": "Carl-Bosch-Strasse 38, 67056 Ludwigshafen, Germany",
+    "phone": "+49 621 60-0",
+    "email": "personal-care@basf.com",
+    "website": "https://www.personal-care.basf.com",
+    "primary_contact": "Regional Sales Manager",
+    "local_distributor": "BASF South Africa (Pty) Ltd"
+  },
+  "commercial_terms": {
+    "payment_terms": "30 days net",
+    "minimum_order_value": 5000.00,
+    "lead_time_standard": 14,
+    "freight_terms": "EXW",
+    "currency": "EUR"
+  },
+  "certifications": [
+    "ISO 9001:2015",
+    "ISO 14001:2015", 
+    "OHSAS 18001",
+    "RSPO certified",
+    "EcoVadis Gold",
+    "Responsible Care"
+  ],
+  "quality_standards": {
+    "gmp_compliance": true,
+    "halal_certified": true,
+    "kosher_certified": true,
+    "vegan_options": true,
+    "natural_options": true
+  },
+  "key_products": [
+    {
+      "ingredient": "Niacinamide",
+      "brand_name": "Vitamin B3",
+      "purity": "99%+",
+      "unit_price_zar": 125.00,
+      "packaging": "25kg bags",
+      "lead_time_days": 10
+    },
+    {
+      "ingredient": "Salicylic Acid",
+      "brand_name": "BHA",
+      "purity": "99.5%+",
+      "unit_price_zar": 185.00,
+      "packaging": "25kg drums",
+      "lead_time_days": 12
+    },
+    {
+      "ingredient": "Tocopherol",
+      "brand_name": "Vitamin E Natural",
+      "purity": "Mixed tocopherols",
+      "unit_price_zar": 2850.00,
+      "packaging": "1kg bottles",
+      "lead_time_days": 14
+    },
+    {
+      "ingredient": "Octyl Methoxycinnamate",
+      "brand_name": "Uvinul MC80",
+      "purity": "99%+",
+      "unit_price_zar": 890.00,
+      "packaging": "25kg drums",
+      "lead_time_days": 16
+    }
+  ],
+  "sustainability_initiatives": [
+    "Carbon neutral by 2030",
+    "Renewable raw materials",
+    "Biodegradable formulations",
+    "Reduced packaging waste",
+    "Responsible sourcing"
+  ],
+  "technical_support": {
+    "available": true,
+    "formulation_assistance": true,
+    "regulatory_support": true,
+    "analytical_testing": true,
+    "documentation": "Complete technical data sheets"
+  },
+  "innovation_focus": [
+    "Marine-derived actives",
+    "Microbiome-friendly ingredients",
+    "Blue light protection",
+    "Anti-pollution solutions",
+    "Sustainable chemistry"
+  ],
+  "regional_presence": {
+    "south_africa": {
+      "local_office": true,
+      "local_stock": "Selected items",
+      "technical_service": true,
+      "regulatory_support": true
+    }
+  },
+  "performance_metrics": {
+    "quality_rating": 9.6,
+    "delivery_reliability": 94.2,
+    "technical_support_rating": 9.3,
+    "sustainability_score": 8.8
+  }
+}

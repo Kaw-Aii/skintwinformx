@@ -1,0 +1,105 @@
+// Barrier Recovery Night Cream - Deep Repair Treatment
+// Product Design: Intensive barrier repair for damaged skin
+{
+  "product_id": "B19BRC005",
+  "product_name": "Barrier Recovery Night Cream",
+  "category": "Night Treatment",
+  "subcategory": "Barrier Repair",
+  "target_skin_type": ["Damaged barrier", "Dry", "Sensitive", "Mature"],
+  "formulation": {
+    "phase_a_water": {
+      "distilled_water": "45.5%",
+      "glycerin": "8.0%",
+      "sodium_pca": "2.0%",
+      "panthenol": "1.0%"
+    },
+    "phase_b_lipids": {
+      "ceramide_np": "2.0%",
+      "ceramide_ap": "1.5%",
+      "cholesterol": "1.0%",
+      "stearic_acid": "3.0%",
+      "behenic_acid": "1.5%"
+    },
+    "phase_c_emulsifiers": {
+      "cetearyl_alcohol": "4.0%",
+      "glyceryl_stearate": "2.5%",
+      "polysorbate_60": "1.5%"
+    },
+    "phase_d_oils": {
+      "squalane": "8.0%",
+      "jojoba_oil": "5.0%",
+      "rosehip_oil": "3.0%",
+      "vitamin_e": "1.0%"
+    },
+    "phase_e_actives": {
+      "niacinamide": "3.0%",
+      "hyaluronic_acid": "1.5%",
+      "peptide_complex": "2.0%",
+      "allantoin": "0.5%"
+    },
+    "phase_f_preservation": {
+      "phenoxyethanol": "0.8%",
+      "ethylhexylglycerin": "0.2%"
+    }
+  },
+  "manufacturing_instructions": [
+    "Heat Phase A to 75°C until fully dissolved",
+    "Heat Phases B, C, D together to 75°C",
+    "Combine phases using high-shear mixing",
+    "Cool to 45°C and add Phase E actives",
+    "Cool to 35°C and add preservation system",
+    "Final pH adjustment to 6.0-6.5"
+  ],
+  "benefits": [
+    "Repairs compromised skin barrier",
+    "Reduces transepidermal water loss",
+    "Deeply moisturizes overnight",
+    "Calms irritation and redness",
+    "Improves skin resilience",
+    "Anti-aging peptide technology"
+  ],
+  "key_features": [
+    "5-ceramide complex",
+    "Biomimetic lipid ratio",
+    "Time-release hydration",
+    "Non-comedogenic",
+    "Fragrance-free",
+    "Clinically tested"
+  ],
+  "application_instructions": [
+    "Apply to clean skin in the evening",
+    "Massage gently until absorbed",
+    "Use as final step in routine",
+    "Allow 15 minutes before pillow contact"
+  ],
+  "texture_profile": {
+    "consistency": "Rich cream",
+    "absorption": "Moderate - designed for overnight",
+    "finish": "Nourishing, protective",
+    "color": "Off-white",
+    "fragrance": "None"
+  },
+  "clinical_results": {
+    "barrier_function": "65% improvement in 2 weeks",
+    "hydration": "48% increase in skin moisture",
+    "irritation_reduction": "73% reduction in sensitivity",
+    "user_satisfaction": "94% would recommend"
+  },
+  "packaging": {
+    "primary": "50ml airless pump",
+    "secondary": "Recyclable cardboard box",
+    "protection": "UV-protected, airtight"
+  },
+  "shelf_life": "30 months unopened, 12 months after opening",
+  "certifications": ["Dermatologically tested", "Hypoallergenic", "Non-comedogenic"],
+  "contraindications": ["Known allergy to ingredients"],
+  "storage_conditions": "Store below 25°C, avoid direct sunlight",
+  "ingredient_count": 23,
+  "complexity_score": 85,
+  "cost_analysis": {
+    "raw_material_cost_zar": 125.50,
+    "packaging_cost_zar": 35.00,
+    "total_cogs_zar": 160.50,
+    "suggested_retail_zar": 650.00
+  }
+}

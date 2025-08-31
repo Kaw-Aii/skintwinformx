@@ -1,0 +1,131 @@
+// Evonik Personal Care - Advanced Specialty Ingredients
+// Supplier Code: EVO001
+{
+  "supplier_id": "EVO001", 
+  "label": "Evonik Personal Care",
+  "company_name": "Evonik Industries AG - Care Solutions",
+  "ingredient_portfolio_size": 280,
+  "geographic_focus": ["Global", "Europe", "Americas", "Asia"],
+  "specializations": [
+    "Ceramides",
+    "Amino acids",
+    "Silicones",
+    "Rheology modifiers",
+    "Active delivery systems"
+  ],
+  "contact_info": {
+    "address": "Rellinghauser Strasse 1-11, 45128 Essen, Germany",
+    "phone": "+49 201 177-01",
+    "email": "care-solutions@evonik.com",
+    "website": "https://www.evonik.com/care-solutions",
+    "primary_contact": "Technical Sales Manager",
+    "local_distributor": "Chemserv (Pty) Ltd"
+  },
+  "commercial_terms": {
+    "payment_terms": "45 days net",
+    "minimum_order_value": 8000.00,
+    "lead_time_standard": 21,
+    "freight_terms": "CIF",
+    "currency": "USD"
+  },
+  "certifications": [
+    "ISO 9001:2015",
+    "ISO 14001:2015",
+    "ISO 45001:2018",
+    "IECQ HSPM QC 080000",
+    "EcoVadis Platinum",
+    "Together for Sustainability"
+  ],
+  "quality_standards": {
+    "gmp_compliance": true,
+    "halal_certified": true,
+    "kosher_certified": false,
+    "vegan_options": true,
+    "natural_options": false
+  },
+  "key_products": [
+    {
+      "ingredient": "Ceramide NP",
+      "brand_name": "Ceramide III",
+      "purity": "98%+",
+      "unit_price_zar": 28500.00,
+      "packaging": "1kg containers",
+      "lead_time_days": 28
+    },
+    {
+      "ingredient": "Sphingolipids Complex",
+      "brand_name": "Sphingosine Complex",
+      "purity": "95%+",
+      "unit_price_zar": 35000.00,
+      "packaging": "500g containers",
+      "lead_time_days": 35
+    },
+    {
+      "ingredient": "Amino Acid Complex",
+      "brand_name": "Proteol APL",
+      "purity": "Multi-component",
+      "unit_price_zar": 1250.00,
+      "packaging": "5kg containers",
+      "lead_time_days": 18
+    },
+    {
+      "ingredient": "Cyclomethicone",
+      "brand_name": "DC 245",
+      "purity": "99.5%+",
+      "unit_price_zar": 650.00,
+      "packaging": "20kg drums",
+      "lead_time_days": 14
+    }
+  ],
+  "technical_expertise": [
+    "Lipid bilayer technology",
+    "Encapsulation systems",
+    "Biocompatible delivery",
+    "Skin barrier science",
+    "Molecular design"
+  ],
+  "sustainability_initiatives": [
+    "CO2 reduction by 25% by 2025",
+    "Renewable energy transition",
+    "Circular economy principles",
+    "Green chemistry innovation",
+    "Biodiversity protection"
+  ],
+  "technical_support": {
+    "available": true,
+    "formulation_assistance": true,
+    "regulatory_support": true,
+    "analytical_testing": true,
+    "documentation": "Comprehensive technical documentation",
+    "training_programs": true
+  },
+  "innovation_partnerships": [
+    "University collaborations",
+    "Start-up incubation",
+    "Open innovation platforms",
+    "Customer co-development",
+    "Research institutes"
+  ],
+  "regional_presence": {
+    "south_africa": {
+      "local_office": false,
+      "local_stock": "No",
+      "technical_service": "Remote support",
+      "regulatory_support": true
+    }
+  },
+  "research_focus": [
+    "Personalized skincare",
+    "Bioactive delivery",
+    "Sustainable ingredients",
+    "Digital beauty solutions",
+    "Microbiome research"
+  ],
+  "performance_metrics": {
+    "quality_rating": 9.8,
+    "delivery_reliability": 89.5,
+    "technical_support_rating": 9.7,
+    "sustainability_score": 9.2,
+    "innovation_rating": 9.5
+  }
+}

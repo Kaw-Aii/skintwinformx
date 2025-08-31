@@ -1,0 +1,90 @@
+// Peptide Complex - Advanced Anti-aging Active
+// INCI: Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7
+{
+  "inci_name": "Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7",
+  "common_name": "Matrixyl 3000, Peptide Complex",
+  "molecular_weight": "Complex mixture (500-1200 Da)",
+  "concentration_range": {
+    "min": 2.0,
+    "max": 8.0,
+    "optimal": 5.0,
+    "unit": "%",
+    "notes": "Pre-diluted complex"
+  },
+  "ph_range": {
+    "min": 4.0,
+    "max": 7.0,
+    "optimal": 5.5
+  },
+  "solubility": "Water dispersible, glycol soluble",
+  "functions": [
+    "Collagen stimulation",
+    "Anti-aging",
+    "Wrinkle reduction",
+    "Skin firming",
+    "Elasticity improvement"
+  ],
+  "skin_benefits": [
+    "Reduces fine lines and wrinkles",
+    "Improves skin firmness",
+    "Enhances elasticity",
+    "Stimulates collagen synthesis",
+    "Improves skin texture",
+    "Provides lifting effect"
+  ],
+  "mechanism_of_action": [
+    "Stimulates collagen I, III, and IV synthesis",
+    "Promotes hyaluronic acid production",
+    "Enhances fibronectin synthesis",
+    "Improves dermal-epidermal junction",
+    "Activates skin repair processes"
+  ],
+  "compatibility": {
+    "excellent": ["Hyaluronic acid", "Niacinamide", "Ceramides", "Antioxidants"],
+    "good": ["Glycolic acid", "Retinol", "Vitamin C"],
+    "avoid": ["High pH ingredients", "Strong oxidizing agents"],
+    "requires_care": ["AHA/BHA combinations"],
+    "notes": "Best used in serum or cream formulations"
+  },
+  "stability": {
+    "heat": "Stable up to 60°C",
+    "light": "Light sensitive - requires dark packaging",
+    "ph_sensitive": true,
+    "oxidation": "Requires antioxidant protection"
+  },
+  "safety_rating": "COSMETICALLY_SAFE",
+  "regulatory_status": "Approved worldwide for cosmetic use",
+  "usage_frequency": 65,
+  "category": "Anti-aging Active",
+  "supplier_info": {
+    "primary_suppliers": ["Sederma", "Lucas Meyer", "Ashland"],
+    "pricing_zar": {
+      "100g": 12500.00,
+      "500g": 55000.00,
+      "1kg": 98000.00
+    }
+  },
+  "formulation_notes": [
+    "Add to water phase at temperature below 40°C",
+    "Pre-dissolve in glycols for better dispersion",
+    "Requires preservative system compatibility check",
+    "Store in refrigerated conditions before use"
+  ],
+  "clinical_data": {
+    "wrinkle_reduction": "23% reduction in wrinkle depth after 2 months",
+    "firmness_improvement": "20% increase in skin firmness",
+    "collagen_synthesis": "117% increase in collagen I synthesis",
+    "user_satisfaction": "89% reported visible anti-aging benefits"
+  },
+  "storage_requirements": {
+    "temperature": "2-8°C before opening",
+    "light_protection": "Store in dark containers",
+    "stability_period": "24 months unopened, 6 months after opening"
+  },
+  "synergistic_combinations": [
+    "Hyaluronic acid for enhanced hydration",
+    "Vitamin C for antioxidant synergy",
+    "Niacinamide for barrier enhancement",
+    "Ceramides for skin structure support"
+  ]
+}

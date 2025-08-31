@@ -1,0 +1,127 @@
+// Brightening Vitamin C + E Complex - Advanced Antioxidant Treatment
+// Formulation ID: B19BVC004
+// Category: Brightening + Anti-aging
+{
+  "formulation_id": "B19BVC004",
+  "product_name": "Brightening Vitamin C + E Complex",
+  "category": "Brightening Treatment",
+  "vessel_type": "Antioxidant_Stabilization_Reactor",
+  "target_skin_type": ["Dull skin", "Hyperpigmentation", "Photo-damage"],
+  "complexity_score": 72,
+  
+  "formulation_phases": {
+    "phase_a_water": {
+      "R010000": 55.2,    // De Ion Water  
+      "R0101114": 5.0,    // B.P. Glycerine
+      "propylene_glycol": 3.0,
+      "temperature": 70,
+      "mixing_time": 20
+    },
+    "phase_b_vitamin_complex": {
+      "magnesium_ascorbyl_phosphate": 15.0,  // Stable Vitamin C
+      "R0105123": 2.0,    // DL A Tocopherol (Vitamin E)
+      "ascorbyl_tetraisopalmitate": 3.0,     // Oil-soluble Vitamin C
+      "temperature": 40,
+      "antioxidant_synergy": true
+    },
+    "phase_c_brightening": {
+      "kojic_acid": 2.0,
+      "arbutin": 3.0,
+      "licorice_extract": 1.5,
+      "temperature": 35
+    },
+    "phase_d_supporting": {
+      "niacinamide": 5.0,
+      "ferulic_acid": 0.5,
+      "hyaluronic_acid": 1.0,
+      "temperature": 30
+    },
+    "phase_e_preservation": {
+      "R0104015": 0.8,    // Microcare PHG
+      "sodium_benzoate": 0.2
+    }
+  },
+  
+  "manufacturing_sequence": [
+    {
+      "step": 1,
+      "ingredient": "Aqueous Base",
+      "quantity": "63.2g",
+      "vessel_contents_before": "Empty stabilization reactor",
+      "reaction": "Hydrophilic matrix formation with glycol enhancement",
+      "vessel_contents_after": "Clear stabilizing base",
+      "interim_product_name": "Stabilization Matrix",
+      "observable_changes": "Clear, slightly viscous solution"
+    },
+    {
+      "step": 2,
+      "ingredient": "Vitamin Antioxidant Complex",
+      "quantity": "20.0g",
+      "vessel_contents_before": "Stabilizing base (63.2g)",
+      "reaction": "Antioxidant network formation → free radical protection",
+      "vessel_contents_after": "Antioxidant-rich serum",
+      "interim_product_name": "Vitamin Defense Serum",
+      "observable_changes": "Light amber color, enhanced stability"
+    },
+    {
+      "step": 3,
+      "ingredient": "Brightening Actives",
+      "quantity": "6.5g",
+      "vessel_contents_before": "Vitamin serum (83.2g)",
+      "reaction": "Melanin inhibition complex → brightening enhancement",
+      "vessel_contents_after": "Brightening treatment serum",
+      "interim_product_name": "Radiance Booster",
+      "observable_changes": "Slightly increased viscosity, uniform distribution"
+    },
+    {
+      "step": 4,
+      "ingredient": "Supporting Actives",
+      "quantity": "6.5g",
+      "vessel_contents_before": "Brightening serum (89.7g)",
+      "reaction": "Barrier support + additional antioxidant protection",
+      "vessel_contents_after": "Complete brightening complex",
+      "interim_product_name": "Luminous Perfection",
+      "observable_changes": "Smooth, elegant finish with enhanced benefits"
+    }
+  ],
+  
+  "benefits": [
+    "Reduces dark spots and hyperpigmentation",
+    "Brightens overall skin tone",
+    "Powerful antioxidant protection",
+    "Stimulates collagen production",
+    "Protects against environmental damage",
+    "Improves skin radiance and clarity"
+  ],
+  
+  "application_instructions": [
+    "Apply 3-4 drops to clean skin",
+    "Use in evening routine (photosensitive ingredients)",
+    "Follow with moisturizer and SPF in morning",
+    "Start with every other day, build to daily use"
+  ],
+  
+  "safety_assessment": {
+    "safety_status": "COSMETICALLY_SAFE",
+    "patch_test": "Recommended - contains active ingredients",
+    "photosensitivity": "Moderate - evening use recommended",
+    "ph_target": 6.2,
+    "shelf_life": "18 months"
+  },
+  
+  "expected_results": {
+    "immediate": "Brighter, more radiant complexion",
+    "2_weeks": "Visible reduction in dark spots",
+    "6_weeks": "Significant improvement in skin tone evenness",
+    "clinical_studies": "87% showed improved skin brightness in 4 weeks"
+  },
+  
+  "ingredient_count": 18,
+  "total_concentration": 100.0,
+  "stability_testing": {
+    "temperature_range": "5°C to 25°C",
+    "light_stability": "Store in dark container - light sensitive",
+    "freeze_thaw": "Passed 2 cycles",
+    "vitamin_c_retention": "Maintains 90% potency for 12 months"
+  }
+}

@@ -1,0 +1,76 @@
+// Ceramide NP - Essential Barrier Lipid
+// INCI: Ceramide NP
+{
+  "inci_name": "Ceramide NP",
+  "common_name": "Ceramide 3, N-stearoyl phytosphingosine",
+  "molecular_weight": "647.07 g/mol",
+  "concentration_range": {
+    "min": 0.1,
+    "max": 5.0,
+    "optimal": 1.0,
+    "unit": "%"
+  },
+  "ph_range": {
+    "min": 4.0,
+    "max": 8.0,
+    "optimal": 6.5
+  },
+  "solubility": "Oil soluble, requires proper delivery system",
+  "melting_point": "95-100°C",
+  "functions": [
+    "Barrier repair",
+    "Moisture retention",
+    "Anti-aging",
+    "Skin conditioning",
+    "Protective barrier formation"
+  ],
+  "skin_benefits": [
+    "Restores compromised skin barrier",
+    "Reduces transepidermal water loss",
+    "Improves skin hydration",
+    "Reduces signs of aging",
+    "Calms irritated skin",
+    "Enhances skin smoothness"
+  ],
+  "compatibility": {
+    "excellent": ["Cholesterol", "Fatty acids", "Hyaluronic acid", "Niacinamide"],
+    "good": ["Peptides", "Retinol", "Vitamin E"],
+    "requires_care": ["Alpha hydroxy acids", "Beta hydroxy acids"],
+    "notes": "Best used in lamellar delivery systems"
+  },
+  "stability": {
+    "heat": "Stable up to 60°C in formulation",
+    "light": "Moderately photostable",
+    "ph_sensitive": true,
+    "oxidation": "Susceptible - requires antioxidants"
+  },
+  "safety_rating": "COSMETICALLY_SAFE",
+  "regulatory_status": "Approved in cosmetics worldwide",
+  "usage_frequency": 78,
+  "category": "Barrier Repair",
+  "supplier_info": {
+    "primary_suppliers": ["Evonik", "Croda", "Givaudan"],
+    "pricing_zar": {
+      "100g": 3500.00,
+      "500g": 15800.00,
+      "1kg": 28000.00
+    }
+  },
+  "formulation_notes": [
+    "Requires heating to 70-80°C for proper incorporation",
+    "Best results in liposomal or lamellar systems",
+    "Combine with cholesterol and fatty acids for optimal efficacy",
+    "Sensitive to high shear mixing"
+  ],
+  "delivery_systems": [
+    "Liposomes",
+    "Lamellar liquid crystals", 
+    "Nanoparticles",
+    "Emulsion systems"
+  ],
+  "clinical_data": {
+    "barrier_improvement": "40% improvement in barrier function",
+    "hydration": "25% increase in skin hydration after 2 weeks",
+    "irritation_reduction": "Significant calming effect on compromised skin"
+  }
+}

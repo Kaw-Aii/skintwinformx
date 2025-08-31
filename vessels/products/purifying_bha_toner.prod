@@ -1,0 +1,107 @@
+// Purifying BHA Toner - Gentle Exfoliating Treatment
+// Product Design: Daily chemical exfoliant for acne-prone skin
+{
+  "product_id": "B19PBT006",
+  "product_name": "Purifying BHA Toner",
+  "category": "Treatment Toner",
+  "subcategory": "Chemical Exfoliant",
+  "target_skin_type": ["Oily", "Acne-prone", "Combination", "Blackhead-prone"],
+  "formulation": {
+    "phase_a_water": {
+      "distilled_water": "75.0%",
+      "witch_hazel": "10.0%",
+      "glycerin": "3.0%"
+    },
+    "phase_b_active": {
+      "salicylic_acid": "2.0%",
+      "lactic_acid": "1.0%",
+      "niacinamide": "3.0%"
+    },
+    "phase_c_solubilizers": {
+      "propylene_glycol": "2.5%",
+      "polysorbate_20": "1.0%"
+    },
+    "phase_d_soothing": {
+      "allantoin": "0.3%",
+      "panthenol": "0.5%",
+      "green_tea_extract": "1.0%"
+    },
+    "phase_e_preservation": {
+      "phenoxyethanol": "0.5%",
+      "ethylhexylglycerin": "0.1%",
+      "sodium_benzoate": "0.1%"
+    }
+  },
+  "manufacturing_instructions": [
+    "Dissolve salicylic acid in propylene glycol first",
+    "Combine Phase A ingredients at room temperature",
+    "Add dissolved actives from Phase B",
+    "Incorporate Phase C solubilizers",
+    "Add Phase D soothing agents",
+    "Add preservation system last",
+    "Adjust pH to 3.8-4.2 with sodium hydroxide"
+  ],
+  "benefits": [
+    "Unclogs pores and removes blackheads",
+    "Exfoliates dead skin cells",
+    "Reduces acne breakouts",
+    "Minimizes pore appearance",
+    "Controls excess oil",
+    "Improves skin texture"
+  ],
+  "key_features": [
+    "2% salicylic acid for deep pore cleansing",
+    "pH optimized for BHA efficacy",
+    "Alcohol-free formula",
+    "Suitable for daily use",
+    "Non-drying formulation",
+    "Dermatologically tested"
+  ],
+  "application_instructions": [
+    "Use on clean skin in the evening",
+    "Apply with cotton pad or hands",
+    "Start with every other day",
+    "Build up to daily use as tolerated",
+    "Always follow with moisturizer and SPF"
+  ],
+  "texture_profile": {
+    "consistency": "Lightweight liquid",
+    "absorption": "Fast, non-sticky",
+    "finish": "Clean, refreshed",
+    "color": "Clear",
+    "fragrance": "Light, clean scent"
+  },
+  "clinical_results": {
+    "pore_improvement": "35% reduction in pore size after 4 weeks",
+    "acne_reduction": "42% fewer breakouts in 6 weeks",
+    "texture_improvement": "Smoother skin in 2 weeks",
+    "blackhead_reduction": "Significant improvement in 3 weeks"
+  },
+  "packaging": {
+    "primary": "150ml dark glass bottle with pump",
+    "secondary": "Recyclable cardboard box",
+    "protection": "UV-protected glass, airtight seal"
+  },
+  "safety_considerations": [
+    "May increase sun sensitivity - use SPF daily",
+    "Patch test recommended",
+    "Discontinue if excessive irritation occurs",
+    "Not recommended during pregnancy"
+  ],
+  "shelf_life": "24 months unopened, 12 months after opening",
+  "certifications": ["Dermatologically tested", "Non-comedogenic"],
+  "contraindications": [
+    "Aspirin allergy",
+    "Compromised skin barrier",
+    "Active eczema or dermatitis"
+  ],
+  "storage_conditions": "Store in cool, dry place away from sunlight",
+  "ingredient_count": 15,
+  "complexity_score": 68,
+  "cost_analysis": {
+    "raw_material_cost_zar": 45.80,
+    "packaging_cost_zar": 28.00,
+    "total_cogs_zar": 73.80,
+    "suggested_retail_zar": 320.00
+  }
+}

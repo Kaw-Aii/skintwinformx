@@ -1,0 +1,111 @@
+// Gentle Cleansing Oil - Deep Cleansing without Stripping
+// Formulation ID: B19GCO007
+// Category: Cleanser
+{
+  "formulation_id": "B19GCO007",
+  "product_name": "Gentle Cleansing Oil",
+  "category": "Cleanser",
+  "vessel_type": "Oil_Phase_Emulsification_Reactor",
+  "target_skin_type": ["All skin types", "Sensitive", "Dry"],
+  "complexity_score": 38,
+  
+  "formulation_phases": {
+    "phase_a_base_oils": {
+      "jojoba_oil": 35.0,
+      "squalane": 25.0,
+      "sweet_almond_oil": 15.0,
+      "temperature": 45,
+      "mixing_time": 20
+    },
+    "phase_b_emulsifiers": {
+      "peg_20_glyceryl_triisostearate": 8.0,
+      "polysorbate_85": 4.0,
+      "temperature": 45,
+      "emulsification_enhancement": true
+    },
+    "phase_c_conditioning": {
+      "R0105123": 2.0,    // DL A Tocopherol (Vitamin E)
+      "rosemary_extract": 1.0,
+      "chamomile_extract": 1.5,
+      "temperature": 40
+    },
+    "phase_d_preservation": {
+      "tocopherol": 0.5,
+      "rosemary_extract_antioxidant": 0.3
+    }
+  },
+  
+  "manufacturing_sequence": [
+    {
+      "step": 1,
+      "ingredient": "Base Oil Blend",
+      "quantity": "75.0g",
+      "vessel_contents_before": "Empty emulsification reactor",
+      "reaction": "Oil phase homogenization → base matrix formation",
+      "vessel_contents_after": "Homogeneous oil blend",
+      "interim_product_name": "Cleansing Oil Base",
+      "observable_changes": "Golden, clear oil with excellent flow"
+    },
+    {
+      "step": 2,
+      "ingredient": "Emulsification Complex",
+      "quantity": "12.0g",
+      "vessel_contents_before": "Oil base (75.0g)",
+      "reaction": "Surfactant integration → makeup dissolution enhancement",
+      "vessel_contents_after": "Emulsifying cleansing oil",
+      "interim_product_name": "Active Cleansing Oil",
+      "observable_changes": "Slightly increased viscosity, enhanced cleansing power"
+    },
+    {
+      "step": 3,
+      "ingredient": "Conditioning & Protection",
+      "quantity": "4.5g",
+      "vessel_contents_before": "Active cleansing oil (87.0g)",
+      "reaction": "Antioxidant integration → skin protection enhancement",
+      "vessel_contents_after": "Complete cleansing oil",
+      "interim_product_name": "Gentle Cleansing Perfection",
+      "observable_changes": "Rich, nourishing oil with botanical fragrance"
+    }
+  ],
+  
+  "benefits": [
+    "Removes makeup and impurities thoroughly",
+    "Maintains skin barrier integrity",
+    "Non-comedogenic formula",
+    "Suitable for sensitive skin",
+    "Leaves skin soft and nourished",
+    "Emulsifies easily with water"
+  ],
+  
+  "application_instructions": [
+    "Apply to dry skin with dry hands",
+    "Massage gently for 1-2 minutes",
+    "Add small amount of water to emulsify",
+    "Rinse thoroughly with lukewarm water",
+    "Follow with water-based cleanser if desired"
+  ],
+  
+  "safety_assessment": {
+    "safety_status": "GENTLE_FORMULATION",
+    "patch_test": "Optional for most users",
+    "comedogenic_rating": 0,
+    "ph_target": "N/A (oil-based)",
+    "shelf_life": "24 months"
+  },
+  
+  "expected_results": {
+    "immediate": "Clean, soft, nourished skin",
+    "1_week": "Improved skin texture and hydration",
+    "4_weeks": "Balanced, healthy-looking skin",
+    "user_studies": "98% found it gentle and effective"
+  },
+  
+  "ingredient_count": 10,
+  "total_concentration": 100.0,
+  "stability_testing": {
+    "temperature_range": "5°C to 40°C",
+    "oxidation_stability": "Excellent with antioxidant system",
+    "freeze_thaw": "Passed 3 cycles",
+    "emulsification_stability": "Maintains consistency for 24 months"
+  }
+}

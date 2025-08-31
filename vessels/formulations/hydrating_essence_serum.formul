@@ -1,0 +1,111 @@
+// Hydrating Essence Serum - Ultra-Light Moisture Boost
+// Formulation ID: B19HSR003
+// Category: Hydrating Treatment
+{
+  "formulation_id": "B19HSR003",
+  "product_name": "Hydrating Essence Serum",
+  "category": "Hydrating Treatment",
+  "vessel_type": "Aqueous_Infusion_Reactor",
+  "target_skin_type": ["Dehydrated", "Sensitive", "All types"],
+  "complexity_score": 45,
+  
+  "formulation_phases": {
+    "phase_a_water": {
+      "R010000": 82.3,    // De Ion Water
+      "R0101114": 8.0,    // B.P. Glycerine
+      "sodium_pca": 3.0,   // Natural moisturizing factor
+      "temperature": 65,
+      "mixing_time": 15
+    },
+    "phase_b_humectants": {
+      "hyaluronic_acid_low_mw": 2.0,
+      "hyaluronic_acid_high_mw": 1.5,
+      "beta_glucan": 1.0,
+      "temperature": 45,
+      "hydration_enhancement": true
+    },
+    "phase_c_active": {
+      "niacinamide": 2.0,
+      "panthenol": 1.5,
+      "allantoin": 0.5,
+      "temperature": 35
+    },
+    "phase_d_preservation": {
+      "R0104015": 0.7,     // Microcare PHG
+      "potassium_sorbate": 0.3
+    }
+  },
+  
+  "manufacturing_sequence": [
+    {
+      "step": 1,
+      "ingredient": "Base Hydration Matrix",
+      "quantity": "93.3g",
+      "vessel_contents_before": "Empty infusion reactor",
+      "reaction": "Aqueous solution formation with humectant network",
+      "vessel_contents_after": "Clear hydrating base",
+      "interim_product_name": "Hydro-Base Matrix",
+      "observable_changes": "Crystal clear solution, slightly viscous"
+    },
+    {
+      "step": 2,
+      "ingredient": "Multi-Weight Hyaluronic Complex",
+      "quantity": "4.5g",
+      "vessel_contents_before": "Hydrating base (93.3g)",
+      "reaction": "Polymer network formation → enhanced water binding",
+      "vessel_contents_after": "Enhanced hydration serum",
+      "interim_product_name": "Hyaluronic Infusion",
+      "observable_changes": "Increased viscosity, gel-like consistency"
+    },
+    {
+      "step": 3,
+      "ingredient": "Active Wellness Complex",
+      "quantity": "4.0g",
+      "vessel_contents_before": "Hyaluronic infusion (97.8g)",
+      "reaction": "Active integration → skin barrier support",
+      "vessel_contents_after": "Complete hydrating serum",
+      "interim_product_name": "Essence Perfection",
+      "observable_changes": "Smooth, lightweight texture"
+    }
+  ],
+  
+  "benefits": [
+    "Instant hydration boost",
+    "72-hour moisture retention",
+    "Barrier repair and strengthening",
+    "Plumping effect",
+    "Soothes irritation",
+    "Lightweight, fast-absorbing"
+  ],
+  
+  "application_instructions": [
+    "Apply 2-3 drops to clean, damp skin",
+    "Gently pat and press into skin",
+    "Follow with moisturizer",
+    "Use morning and evening"
+  ],
+  
+  "safety_assessment": {
+    "safety_status": "GENTLE_FORMULATION",
+    "patch_test": "Recommended for sensitive skin",
+    "comedogenic_rating": 0,
+    "ph_target": 5.5,
+    "shelf_life": "24 months"
+  },
+  
+  "expected_results": {
+    "immediate": "Plumped, hydrated skin",
+    "1_week": "Improved skin texture and smoothness",
+    "4_weeks": "Enhanced barrier function, reduced sensitivity",
+    "clinical_studies": "98% reported improved hydration in 24 hours"
+  },
+  
+  "ingredient_count": 12,
+  "total_concentration": 100.0,
+  "stability_testing": {
+    "temperature_range": "5°C to 35°C",
+    "ph_stability": "Excellent - maintains pH 5.5±0.2",
+    "freeze_thaw": "Passed 3 cycles",
+    "microbial_stability": "Preservative effective for 24 months"
+  }
+}

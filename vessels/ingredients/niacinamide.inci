@@ -1,0 +1,71 @@
+// Niacinamide - Vitamin B3 Multi-functional Active
+// INCI: Niacinamide
+{
+  "inci_name": "Niacinamide", 
+  "common_name": "Vitamin B3, Nicotinamide",
+  "molecular_weight": "122.12 g/mol",
+  "concentration_range": {
+    "min": 1.0,
+    "max": 10.0,
+    "optimal": 5.0,
+    "unit": "%"
+  },
+  "ph_range": {
+    "min": 5.0,
+    "max": 7.0,
+    "optimal": 6.0
+  },
+  "solubility": "Water soluble (excellent)",
+  "melting_point": "128-131°C",
+  "functions": [
+    "Sebum regulation",
+    "Pore minimizing",
+    "Barrier strengthening", 
+    "Anti-inflammatory",
+    "Brightening",
+    "Anti-aging"
+  ],
+  "skin_benefits": [
+    "Reduces appearance of pores",
+    "Controls oil production",
+    "Improves skin texture",
+    "Reduces redness and irritation",
+    "Brightens skin tone",
+    "Strengthens skin barrier"
+  ],
+  "compatibility": {
+    "excellent": ["Hyaluronic acid", "Peptides", "Ceramides", "Zinc oxide"],
+    "good": ["Salicylic acid", "Glycolic acid", "Retinol"],
+    "avoid": ["Vitamin C (L-Ascorbic acid)", "Benzoyl peroxide"],
+    "notes": "May cause flushing at high concentrations"
+  },
+  "stability": {
+    "heat": "Stable up to 80°C",
+    "light": "Photostable",
+    "ph_sensitive": false,
+    "oxidation": "Resistant"
+  },
+  "safety_rating": "GRAS",
+  "regulatory_status": "Approved worldwide",
+  "usage_frequency": 95,
+  "category": "Multi-functional Active",
+  "supplier_info": {
+    "primary_suppliers": ["DSM", "BASF", "Lonza"],
+    "pricing_zar": {
+      "1kg": 1200.00,
+      "5kg": 5500.00,
+      "25kg": 24000.00
+    }
+  },
+  "formulation_notes": [
+    "Dissolve in water phase at room temperature",
+    "Compatible with most preservative systems",
+    "May cause temporary flushing in sensitive individuals",
+    "Synergistic with zinc for sebum control"
+  ],
+  "clinical_data": {
+    "sebum_reduction": "23% reduction at 2% concentration",
+    "pore_size": "15% reduction in 8 weeks",
+    "skin_texture": "Significant improvement in 4 weeks"
+  }
+}

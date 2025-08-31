@@ -1,0 +1,117 @@
+// Intensive Eye Renewal Cream - Targeted Anti-aging Treatment
+// Product Design: Advanced eye area treatment for mature skin
+{
+  "product_id": "B19IEC008",
+  "product_name": "Intensive Eye Renewal Cream",
+  "category": "Eye Treatment",
+  "subcategory": "Anti-aging",
+  "target_skin_type": ["Mature", "All types with aging concerns", "Fine lines"],
+  "formulation": {
+    "phase_a_water": {
+      "distilled_water": "52.0%",
+      "glycerin": "6.0%",
+      "sodium_pca": "2.0%",
+      "caffeine": "1.0%"
+    },
+    "phase_b_lipids": {
+      "squalane": "8.0%",
+      "jojoba_oil": "5.0%",
+      "shea_butter": "4.0%",
+      "ceramide_complex": "2.0%"
+    },
+    "phase_c_emulsifiers": {
+      "cetearyl_alcohol": "3.0%",
+      "glyceryl_stearate": "2.0%",
+      "polysorbate_60": "1.5%"
+    },
+    "phase_d_actives": {
+      "peptide_complex": "4.0%",
+      "retinyl_palmitate": "1.0%",
+      "hyaluronic_acid": "1.5%",
+      "vitamin_k_oxide": "0.5%",
+      "niacinamide": "2.0%"
+    },
+    "phase_e_specialty": {
+      "mica": "0.3%",
+      "light_reflecting_pearls": "0.2%"
+    },
+    "phase_f_preservation": {
+      "phenoxyethanol": "0.7%",
+      "ethylhexylglycerin": "0.3%"
+    }
+  },
+  "manufacturing_instructions": [
+    "Heat Phase A to 70°C with gentle mixing",
+    "Heat Phases B and C together to 70°C",
+    "Combine phases using gentle emulsification",
+    "Cool to 45°C and add Phase D actives",
+    "At 40°C, add Phase E specialty ingredients",
+    "Cool to 35°C and add preservation system",
+    "Final pH adjustment to 6.2-6.5"
+  ],
+  "benefits": [
+    "Reduces appearance of fine lines and wrinkles",
+    "Diminishes dark circles and puffiness",
+    "Improves skin firmness and elasticity",
+    "Provides immediate brightening effect",
+    "Long-lasting hydration",
+    "Gentle formula for delicate eye area"
+  ],
+  "key_features": [
+    "Advanced peptide technology",
+    "Caffeine for de-puffing",
+    "Light-reflecting particles for instant brightening",
+    "Fragrance-free formulation",
+    "Ophthalmologically tested",
+    "Suitable for contact lens wearers"
+  ],
+  "application_instructions": [
+    "Apply small amount to clean eye area",
+    "Gently pat with ring finger",
+    "Use morning and evening",
+    "Apply from inner to outer corner",
+    "Avoid direct contact with eyes"
+  ],
+  "texture_profile": {
+    "consistency": "Lightweight cream",
+    "absorption": "Fast, non-greasy",
+    "finish": "Smooth, with subtle luminosity",
+    "color": "Light pearlescent",
+    "fragrance": "None"
+  },
+  "clinical_results": {
+    "wrinkle_reduction": "28% reduction in fine lines after 4 weeks",
+    "dark_circle_improvement": "35% improvement in under-eye brightness",
+    "puffiness_reduction": "42% reduction in morning puffiness",
+    "firmness_improvement": "25% increase in skin elasticity",
+    "user_satisfaction": "96% would recommend to others"
+  },
+  "packaging": {
+    "primary": "15ml airless pump with precision applicator",
+    "secondary": "Luxury gift box with instructions",
+    "protection": "UV-protected, airtight system"
+  },
+  "safety_considerations": [
+    "Ophthalmologically tested",
+    "Suitable for sensitive eyes",
+    "Contact lens wearer friendly",
+    "Dermatologically tested"
+  ],
+  "shelf_life": "30 months unopened, 12 months after opening",
+  "certifications": [
+    "Ophthalmologically tested",
+    "Dermatologically tested",
+    "Hypoallergenic",
+    "Non-comedogenic"
+  ],
+  "contraindications": ["Known allergy to ingredients"],
+  "storage_conditions": "Store below 25°C, avoid direct sunlight",
+  "ingredient_count": 19,
+  "complexity_score": 78,
+  "cost_analysis": {
+    "raw_material_cost_zar": 185.50,
+    "packaging_cost_zar": 45.00,
+    "total_cogs_zar": 230.50,
+    "suggested_retail_zar": 950.00
+  }
+}
