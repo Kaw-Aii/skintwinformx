@@ -20,6 +20,7 @@ import { FormulationProofAssistant } from './core';
 import { CognitiveAccountingSystem } from './cognitive-accounting';
 import { TensorOperationsEngine } from './tensor-operations';
 import { RelevanceRealizationSystem } from './relevance-realization';
+import { FormalLogicEngine } from './formal-logic';
 
 /**
  * Main verification engine that coordinates all proof assistant components
@@ -29,6 +30,7 @@ export class FormulationVerificationEngine {
   private cognitiveSystem: CognitiveAccountingSystem;
   private tensorEngine: TensorOperationsEngine;
   private relevanceSystem: RelevanceRealizationSystem;
+  private formalEngine: FormalLogicEngine;
   private defaultSkinModel: SkinModel;
 
   constructor() {
@@ -45,6 +47,7 @@ export class FormulationVerificationEngine {
     this.cognitiveSystem = new CognitiveAccountingSystem();
     this.tensorEngine = new TensorOperationsEngine();
     this.relevanceSystem = new RelevanceRealizationSystem();
+    this.formalEngine = new FormalLogicEngine();
   }
 
   /**
@@ -371,6 +374,7 @@ export class FormulationVerificationEngine {
           source: 'user_hypothesis',
           reliability: 0.8,
           relevance: 1.0,
+          confidence: 0.8,
         },
       ],
     };
@@ -391,6 +395,7 @@ export class FormulationVerificationEngine {
           source: 'safety_database',
           reliability: 0.9,
           relevance: 1.0,
+          confidence: 0.9,
         },
       ],
     };
@@ -411,6 +416,7 @@ export class FormulationVerificationEngine {
           source: 'compatibility_studies',
           reliability: 0.8,
           relevance: 0.9,
+          confidence: 0.8,
         },
       ],
     };
@@ -431,6 +437,7 @@ export class FormulationVerificationEngine {
           source: 'efficacy_studies',
           reliability: 0.8,
           relevance: 0.9,
+          confidence: 0.8,
         },
       ],
     };
@@ -451,6 +458,7 @@ export class FormulationVerificationEngine {
           source: 'constraint_checker',
           reliability: 0.95,
           relevance: 1.0,
+          confidence: 0.95,
         },
       ],
     };
@@ -471,6 +479,7 @@ export class FormulationVerificationEngine {
           source: 'tensor_modeling',
           reliability: 0.8,
           relevance: 0.8,
+          confidence: 0.8,
         },
       ],
     };

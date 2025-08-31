@@ -4,11 +4,12 @@
 
 interface SimpleIngredient {
   id: string;
-  label: string;
+  label?: string;
   inci_name?: string;
   category?: string;
   molecular_weight?: number;
   safety_rating?: string;
+  concentration?: number;
 }
 
 // Core proof assistant types
@@ -78,18 +79,21 @@ export interface ProofStep {
   type: 'assumption' | 'deduction' | 'verification' | 'conclusion';
   statement: string;
   premises: string[];
-  rule: string;
+  rule?: string;
   confidence: number;
   evidence: Evidence[];
+  reasoning?: string;
 }
 
 export interface Evidence {
   id: string;
-  type: 'experimental' | 'theoretical' | 'computational' | 'literature';
+  type: 'experimental' | 'theoretical' | 'computational' | 'literature' | 'formal_logic';
   source: string;
   reliability: number;
   relevance: number;
   citation?: string;
+  confidence: number;
+  data?: any;
 }
 
 export interface Proof {
@@ -100,6 +104,21 @@ export interface Proof {
   validity: number;
   completeness: number;
   cognitiveRelevance: number;
+  formalProof?: {
+    id: string;
+    tactics: string[];
+    qed: boolean;
+    assumptions: string[];
+  };
+}
+
+// Formal verification types (OpenCoq-inspired)
+export interface FormalVerificationResult {
+  isValid: boolean;
+  confidence: number;
+  formalProof?: any;
+  mathematicalRigor: number;
+  axiomsCovered: string[];
 }
 
 // Cognitive accounting types

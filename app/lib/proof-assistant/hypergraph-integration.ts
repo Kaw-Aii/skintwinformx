@@ -340,6 +340,7 @@ export class HypergraphIntegrationEngine {
             source: interaction.mechanism,
             reliability: this.mapEvidenceLevel(interaction.evidenceLevel),
             relevance: interaction.confidence,
+            confidence: this.mapEvidenceLevel(interaction.evidenceLevel),
           },
         ],
       });
@@ -417,6 +418,7 @@ export class HypergraphIntegrationEngine {
               source: 'vessel_compatibility_database',
               reliability: 0.8,
               relevance: 0.9,
+              confidence: 0.8,
             },
           ],
         });
@@ -437,6 +439,7 @@ export class HypergraphIntegrationEngine {
               source: 'vessel_incompatibility_database',
               reliability: 0.9,
               relevance: 1.0,
+              confidence: 0.9,
             },
           ],
         });

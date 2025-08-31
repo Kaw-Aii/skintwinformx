@@ -12,3 +12,4 @@ export * from './tensor-operations';
 export * from './relevance-realization';
 export * from './verification-engine';
 export * from './hypergraph-integration';
+export * from './formal-logic';
