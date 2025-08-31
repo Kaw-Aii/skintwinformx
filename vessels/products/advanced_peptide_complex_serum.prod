@@ -1,0 +1,102 @@
+// Advanced Peptide Complex Serum Product
+// Product Design: Premium anti-aging treatment with peptide technology
+{
+  "id": "B19APC005",
+  "label": "Advanced Peptide Complex Serum",
+  "category": "Treatment Serum",
+  "ingredient_count": 21,
+  "complexity_score": 88,
+  
+  "target_skin_type": ["Aging skin", "Loss of firmness", "Fine lines"],
+  "target_demographics": {
+    "age_groups": ["35-45", "45-55", "55+"],
+    "skin_concerns": ["Anti-aging", "Wrinkle reduction", "Firmness"],
+    "lifestyle": ["Professional", "Health-conscious", "Premium beauty"]
+  },
+  
+  "formulation_phases": {
+    "aqueous_phase": {
+      "ingredient_count": 8,
+      "primary_function": "Hydration and peptide delivery",
+      "complexity_level": "Moderate"
+    },
+    "peptide_complex": {
+      "ingredient_count": 4,
+      "primary_function": "Collagen stimulation",
+      "complexity_level": "Complex"
+    },
+    "active_enhancers": {
+      "ingredient_count": 5,
+      "primary_function": "Antioxidant protection",
+      "complexity_level": "Moderate"
+    },
+    "delivery_system": {
+      "ingredient_count": 3,
+      "primary_function": "Enhanced penetration",
+      "complexity_level": "Complex"
+    },
+    "preservation": {
+      "ingredient_count": 3,
+      "primary_function": "Product stability",
+      "complexity_level": "Simple"
+    }
+  },
+  
+  "benefits": [
+    "Stimulates collagen production",
+    "Reduces fine lines and wrinkles",
+    "Improves skin firmness and elasticity",
+    "Enhanced peptide delivery system",
+    "Comprehensive anti-aging protection"
+  ],
+  
+  "clinical_claims": [
+    "Clinically proven collagen boost",
+    "Visible wrinkle reduction in 4 weeks",
+    "92% showed improved firmness"
+  ],
+  
+  "shelf_life": "24 months",
+  "packaging_type": "Airless pump bottle",
+  "volume_ml": 30,
+  
+  "commercial_info": {
+    "retail_price_zar": 1250.00,
+    "target_market": "Premium",
+    "brand_positioning": "Advanced peptide technology for visible anti-aging results",
+    "distribution_channels": ["Professional", "Premium retail", "Online"],
+    "launch_date": "2024-Q2"
+  },
+  
+  "regulatory_status": {
+    "approval_status": "Approved",
+    "required_testing": ["Stability", "Efficacy", "Safety", "Clinical"],
+    "safety_assessment": "Dermatologically tested, hypoallergenic",
+    "labeling_requirements": ["Full INCI", "Usage instructions", "Clinical claims"]
+  },
+  
+  "clinical_data": {
+    "clinical_studies": [
+      {
+        "study_type": "Randomized controlled trial",
+        "duration_weeks": 12,
+        "participants": 60,
+        "efficacy_result": "92% showed improved skin firmness"
+      }
+    ],
+    "efficacy_data": {
+      "wrinkle_reduction": "34% average reduction",
+      "firmness_improvement": "28% increase",
+      "hydration_boost": "45% improvement"
+    },
+    "satisfaction_score": 94
+  },
+  
+  "market_position_score": 85,
+  "competitive_advantages": [
+    "Multi-peptide complex technology",
+    "Liposomal delivery system",
+    "Clinically proven efficacy",
+    "Premium ingredient sourcing"
+  ]
+}

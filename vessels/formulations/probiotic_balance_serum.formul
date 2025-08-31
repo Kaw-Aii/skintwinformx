@@ -1,0 +1,142 @@
+// Probiotics Skin Balance Serum - Microbiome Support Treatment
+// Formulation ID: B19PSB007
+// Category: Microbiome + Prebiotic Treatment
+{
+  "formulation_id": "B19PSB007",
+  "product_name": "Probiotic Balance Serum",
+  "category": "Microbiome Treatment",
+  "vessel_type": "Probiotic_Preservation_Reactor",
+  "target_skin_type": ["Imbalanced microbiome", "Acne-prone", "Sensitive reactive"],
+  "complexity_score": 82,
+  
+  "formulation_phases": {
+    "phase_a_probiotic_base": {
+      "R010000": 68.3,    // De Ion Water
+      "lactobacillus_ferment": 5.0,
+      "bifida_ferment_lysate": 3.0,
+      "saccharomyces_ferment": 2.0,
+      "temperature": 25,
+      "ph_critical": 5.8,
+      "mixing_time": 30
+    },
+    "phase_b_prebiotic_support": {
+      "inulin": 2.5,
+      "fructooligosaccharides": 2.0,
+      "alpha_glucan_oligosaccharide": 1.5,
+      "xylitol": 1.0,
+      "temperature": 30
+    },
+    "phase_c_barrier_support": {
+      "R0101114": 4.0,    // B.P. Glycerine
+      "sodium_pca": 2.0,
+      "hyaluronic_acid": 1.0,
+      "beta_glucan": 1.5,
+      "temperature": 35
+    },
+    "phase_d_balancing_actives": {
+      "niacinamide": 3.0,
+      "zinc_pca": 1.0,
+      "azelaic_acid": 1.5,
+      "willow_bark_extract": 0.5,
+      "temperature": 40
+    },
+    "phase_e_soothing_complex": {
+      "centella_asiatica": 2.0,
+      "calendula_extract": 1.0,
+      "chamomile_extract": 0.5,
+      "allantoin": 0.3,
+      "temperature": 35
+    },
+    "phase_f_stabilization": {
+      "citric_acid": 0.2,
+      "sodium_citrate": 0.3,
+      "R0104015": 0.4,    // Microcare PHG (reduced for probiotic compatibility)
+      "leuconostoc_ferment_filtrate": 0.2
+    }
+  },
+  
+  "manufacturing_sequence": [
+    {
+      "step": 1,
+      "ingredient": "Probiotic Base",
+      "quantity": "78.3g",
+      "vessel_contents_before": "Sterile probiotic reactor",
+      "reaction": "Probiotic culture activation → beneficial bacteria establishment",
+      "vessel_contents_after": "Active probiotic solution",
+      "interim_product_name": "Living Probiotic Base",
+      "observable_changes": "Slightly cloudy solution with active fermentation indicators"
+    },
+    {
+      "step": 2,
+      "ingredient": "Prebiotic Support",
+      "quantity": "7.0g",
+      "vessel_contents_before": "Probiotic solution (78.3g)",
+      "reaction": "Prebiotic feeding → enhanced probiotic activity",
+      "vessel_contents_after": "Synbiotic solution",
+      "interim_product_name": "Probiotic-Prebiotic Complex",
+      "observable_changes": "Enhanced probiotic activity, stable pH maintenance"
+    },
+    {
+      "step": 3,
+      "ingredient": "Barrier Support",
+      "quantity": "8.5g",
+      "vessel_contents_before": "Synbiotic solution (85.3g)",
+      "reaction": "Barrier strengthening → moisture retention enhancement",
+      "vessel_contents_after": "Protective probiotic serum",
+      "interim_product_name": "Barrier-Supporting Probiotic",
+      "observable_changes": "Improved texture and skin-feel properties"
+    },
+    {
+      "step": 4,
+      "ingredient": "Balancing Actives",
+      "quantity": "6.0g",
+      "vessel_contents_before": "Protective serum (93.8g)",
+      "reaction": "Microbiome balancing → sebum regulation + acne control",
+      "vessel_contents_after": "Complete balancing serum",
+      "interim_product_name": "Microbiome Balance Treatment",
+      "observable_changes": "Enhanced balancing properties, maintained probiotic activity"
+    }
+  ],
+  
+  "benefits": [
+    "Supports healthy skin microbiome",
+    "Reduces harmful bacteria overgrowth",
+    "Balances skin pH naturally",
+    "Strengthens skin's natural defenses",
+    "Reduces acne and breakouts",
+    "Calms reactive and sensitive skin"
+  ],
+  
+  "application_instructions": [
+    "Apply to clean skin morning and evening",
+    "Use before other active treatments",
+    "Allow full absorption before next product",
+    "Store in refrigerator for optimal probiotic activity",
+    "Use within 6 months of opening"
+  ],
+  
+  "safety_assessment": {
+    "safety_status": "PROBIOTIC_SAFE",
+    "patch_test": "Recommended for first-time probiotic users",
+    "photosensitivity": "None",
+    "ph_target": 5.8,
+    "shelf_life": "12 months (refrigerated)"
+  },
+  
+  "expected_results": {
+    "immediate": "Soothing, balanced skin feeling",
+    "1_week": "Reduced skin reactivity",
+    "4_weeks": "Improved microbiome balance",
+    "8_weeks": "Significantly healthier skin ecosystem",
+    "clinical_studies": "85% showed improved skin balance in 6 weeks"
+  },
+  
+  "ingredient_count": 19,
+  "total_concentration": 100.0,
+  "stability_testing": {
+    "temperature_range": "2°C to 8°C (refrigerated storage)",
+    "light_stability": "Dark container required",
+    "freeze_thaw": "Not recommended - affects probiotic viability",
+    "probiotic_viability": "Maintains 10^6 CFU/mL for 12 months refrigerated"
+  }
+}

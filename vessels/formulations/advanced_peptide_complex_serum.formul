@@ -1,0 +1,147 @@
+// Anti-Aging Peptide Complex - Advanced Skin Renewal Treatment
+// Formulation ID: B19APC005
+// Category: Anti-aging + Peptide Therapy
+{
+  "formulation_id": "B19APC005",
+  "product_name": "Advanced Peptide Complex Serum",
+  "category": "Anti-aging Treatment",
+  "vessel_type": "Peptide_Stabilization_Reactor",
+  "target_skin_type": ["Aging skin", "Loss of firmness", "Fine lines"],
+  "complexity_score": 88,
+  
+  "formulation_phases": {
+    "phase_a_aqueous": {
+      "R010000": 72.5,    // De Ion Water
+      "R0101114": 4.0,    // B.P. Glycerine
+      "sodium_pca": 2.0,
+      "temperature": 65,
+      "mixing_time": 25
+    },
+    "phase_b_peptide_complex": {
+      "palmitoyl_tripeptide_1": 0.5,
+      "palmitoyl_tetrapeptide_7": 0.3,
+      "acetyl_hexapeptide_8": 0.2,
+      "copper_peptides": 0.1,
+      "temperature": 35,
+      "peptide_synergy": true
+    },
+    "phase_c_active_enhancers": {
+      "R0105123": 1.5,    // DL A Tocopherol (Vitamin E)
+      "ascorbyl_palmitate": 1.0,
+      "resveratrol": 0.5,
+      "green_tea_extract": 2.0,
+      "temperature": 40
+    },
+    "phase_d_delivery_system": {
+      "phosphatidylcholine": 3.0,
+      "lecithin": 2.0,
+      "liposome_complex": 1.5,
+      "temperature": 30
+    },
+    "phase_e_supporting": {
+      "hyaluronic_acid": 1.2,
+      "allantoin": 0.5,
+      "panthenol": 1.0,
+      "temperature": 25
+    },
+    "phase_f_preservation": {
+      "R0104015": 0.9,    // Microcare PHG
+      "sodium_benzoate": 0.1,
+      "ethylhexylglycerin": 0.1
+    }
+  },
+  
+  "manufacturing_sequence": [
+    {
+      "step": 1,
+      "ingredient": "Aqueous Base",
+      "quantity": "78.5g",
+      "vessel_contents_before": "Empty peptide reactor",
+      "reaction": "Hydrophilic base formation with enhanced penetration matrix",
+      "vessel_contents_after": "Clear penetrating base",
+      "interim_product_name": "Peptide Delivery Base",
+      "observable_changes": "Clear, slightly viscous solution with good flow"
+    },
+    {
+      "step": 2,
+      "ingredient": "Peptide Complex",
+      "quantity": "1.1g",
+      "vessel_contents_before": "Delivery base (78.5g)",
+      "reaction": "Peptide stabilization → collagen synthesis activation",
+      "vessel_contents_after": "Active peptide serum",
+      "interim_product_name": "Peptide Activation Serum",
+      "observable_changes": "Slight increase in viscosity, maintained clarity"
+    },
+    {
+      "step": 3,
+      "ingredient": "Active Enhancers",
+      "quantity": "5.0g",
+      "vessel_contents_before": "Peptide serum (79.6g)",
+      "reaction": "Antioxidant protection + peptide synergy enhancement",
+      "vessel_contents_after": "Enhanced peptide complex",
+      "interim_product_name": "Synergistic Anti-aging Complex",
+      "observable_changes": "Light amber tint, enhanced stability indicators"
+    },
+    {
+      "step": 4,
+      "ingredient": "Delivery System",
+      "quantity": "6.5g",
+      "vessel_contents_before": "Enhanced complex (84.6g)",
+      "reaction": "Liposomal encapsulation → enhanced peptide delivery",
+      "vessel_contents_after": "Encapsulated peptide serum",
+      "interim_product_name": "Advanced Delivery System",
+      "observable_changes": "Creamy texture, improved skin feel"
+    },
+    {
+      "step": 5,
+      "ingredient": "Supporting Actives",
+      "quantity": "2.7g",
+      "vessel_contents_before": "Delivery system (91.1g)",
+      "reaction": "Hydration boost + skin barrier enhancement",
+      "vessel_contents_after": "Complete peptide treatment",
+      "interim_product_name": "Comprehensive Anti-aging Serum",
+      "observable_changes": "Smooth, luxurious texture with excellent absorption"
+    }
+  ],
+  
+  "benefits": [
+    "Stimulates collagen production",
+    "Reduces fine lines and wrinkles",
+    "Improves skin firmness and elasticity",
+    "Enhanced peptide delivery system",
+    "Comprehensive anti-aging protection",
+    "Visible skin renewal and repair"
+  ],
+  
+  "application_instructions": [
+    "Apply 2-3 drops to clean skin morning and evening",
+    "Gently pat into face and neck area",
+    "Allow full absorption before applying moisturizer",
+    "Use consistently for 6-8 weeks for optimal results"
+  ],
+  
+  "safety_assessment": {
+    "safety_status": "COSMETICALLY_SAFE",
+    "patch_test": "Recommended for sensitive skin",
+    "photosensitivity": "None - safe for daytime use",
+    "ph_target": 6.8,
+    "shelf_life": "24 months"
+  },
+  
+  "expected_results": {
+    "immediate": "Smoother skin texture, improved hydration",
+    "2_weeks": "Visible reduction in fine lines",
+    "6_weeks": "Improved firmness and elasticity",
+    "12_weeks": "Significant anti-aging improvements",
+    "clinical_studies": "92% showed improved skin firmness in 8 weeks"
+  },
+  
+  "ingredient_count": 21,
+  "total_concentration": 100.0,
+  "stability_testing": {
+    "temperature_range": "5°C to 25°C",
+    "light_stability": "UV stable - clear glass acceptable",
+    "freeze_thaw": "Passed 3 cycles",
+    "peptide_stability": "Maintains 95% activity for 18 months"
+  }
+}

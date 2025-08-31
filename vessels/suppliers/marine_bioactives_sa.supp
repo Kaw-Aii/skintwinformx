@@ -1,0 +1,128 @@
+// Marine Bioactives SA - Specialized Marine Ingredient Supplier
+// Supplier Code: MARINE001
+{
+  "supplier_id": "MARINE001",
+  "label": "Marine Bioactives SA",
+  "company_name": "Marine Bioactives South Africa (Pty) Ltd",
+  "ingredient_portfolio_size": 85,
+  "geographic_focus": ["Southern Africa", "Coastal regions"],
+  "specializations": [
+    "Marine-derived actives",
+    "Seaweed extracts",
+    "Marine peptides",
+    "Sustainable ocean harvesting",
+    "Blue biotechnology"
+  ],
+  "contact_info": {
+    "address": "Marine Drive 45, Cape Town, 8001, South Africa",
+    "phone": "+27 21 555-0890",
+    "email": "info@marinebioactives.co.za",
+    "website": "https://www.marinebioactives.co.za",
+    "primary_contact": "Marine Sciences Director",
+    "local_distributor": "Direct supply"
+  },
+  "commercial_terms": {
+    "payment_terms": "21 days net",
+    "minimum_order_value": 2500.00,
+    "lead_time_standard": 10,
+    "freight_terms": "CPT",
+    "currency": "ZAR",
+    "volume_discounts": [
+      {"threshold": 10000, "discount": 5},
+      {"threshold": 25000, "discount": 10}
+    ]
+  },
+  "certifications": [
+    "ISO 22000:2018",
+    "Marine Stewardship Council (MSC)",
+    "Organic Marine Certification",
+    "CITES compliance",
+    "Sustainable Harvesting Certificate"
+  ],
+  "quality_standards": {
+    "gmp_compliance": true,
+    "halal_certified": false,
+    "kosher_certified": false,
+    "vegan_options": true,
+    "natural_options": true,
+    "organic_certified": true
+  },
+  "key_products": [
+    {
+      "ingredient": "Spirulina Extract",
+      "brand_name": "Marine Spirulina Complex",
+      "purity": "95%+",
+      "unit_price_zar": 750.00,
+      "packaging": "1kg containers",
+      "lead_time_days": 7
+    },
+    {
+      "ingredient": "Kelp Extract",
+      "brand_name": "Atlantic Kelp Bioactive",
+      "purity": "Standardized extract",
+      "unit_price_zar": 485.00,
+      "packaging": "5kg drums",
+      "lead_time_days": 10
+    },
+    {
+      "ingredient": "Marine Collagen Peptides",
+      "brand_name": "OceanYouth Peptides",
+      "purity": "98%+",
+      "unit_price_zar": 1850.00,
+      "packaging": "500g containers",
+      "lead_time_days": 14
+    },
+    {
+      "ingredient": "Sea Buckthorn Extract",
+      "brand_name": "Coastal Buckthorn Complex",
+      "purity": "80% omega content",
+      "unit_price_zar": 920.00,
+      "packaging": "1kg bottles",
+      "lead_time_days": 12
+    }
+  ],
+  "sustainability_initiatives": [
+    "Zero-waste harvesting methods",
+    "Marine ecosystem restoration projects",
+    "Carbon-negative processing",
+    "Local community partnerships",
+    "Ocean cleanup initiatives"
+  ],
+  "technical_support": {
+    "available": true,
+    "formulation_assistance": true,
+    "regulatory_support": true,
+    "analytical_testing": true,
+    "documentation": "Complete marine sourcing certificates"
+  },
+  "innovation_focus": [
+    "Deep-sea exploration for new actives",
+    "Sustainable cultivation methods",
+    "Marine-inspired biomimetics",
+    "Climate-resilient sourcing",
+    "Blue economy development"
+  ],
+  "regional_presence": {
+    "south_africa": {
+      "local_office": true,
+      "local_stock": "Full range",
+      "technical_service": true,
+      "regulatory_support": true,
+      "harvest_sites": ["Western Cape", "Eastern Cape coastlines"]
+    }
+  },
+  "performance_metrics": {
+    "quality_rating": 9.2,
+    "delivery_reliability": 96.8,
+    "technical_support_rating": 9.5,
+    "sustainability_score": 9.8,
+    "cost_competitiveness": 8.0
+  },
+  "unique_capabilities": [
+    "Direct ocean harvesting",
+    "Marine biotechnology lab",
+    "Seasonal availability management",
+    "Tide-dependent logistics",
+    "Marine sustainability expertise"
+  ]
+}

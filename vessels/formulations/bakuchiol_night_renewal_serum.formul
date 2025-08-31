@@ -1,0 +1,143 @@
+// Bakuchiol Night Renewal - Natural Retinol Alternative
+// Formulation ID: B19BNR009
+// Category: Natural Anti-aging + Plant-based Actives
+{
+  "formulation_id": "B19BNR009",
+  "product_name": "Bakuchiol Night Renewal Serum",
+  "category": "Natural Anti-aging",
+  "vessel_type": "Botanical_Extraction_Reactor",
+  "target_skin_type": ["Sensitive to retinol", "Pregnant/nursing", "Natural preference"],
+  "complexity_score": 74,
+  
+  "formulation_phases": {
+    "phase_a_botanical_base": {
+      "R010000": 65.8,    // De Ion Water
+      "rose_hydrosol": 8.0,
+      "R0101114": 4.5,    // B.P. Glycerine
+      "botanical_glycerin": 2.0,
+      "temperature": 60,
+      "extraction_enhanced": true
+    },
+    "phase_b_bakuchiol_complex": {
+      "bakuchiol": 1.0,
+      "bakuchiol_stabilizers": 0.5,
+      "rosehip_oil": 3.0,
+      "sea_buckthorn_oil": 2.0,
+      "marula_oil": 2.5,
+      "temperature": 35,
+      "lipid_carrier_system": true
+    },
+    "phase_c_plant_actives": {
+      "phyto_retinol_complex": 1.5,
+      "hibiscus_extract": 2.0,
+      "white_tea_extract": 1.5,
+      "gotu_kola_extract": 1.0,
+      "licorice_extract": 1.0,
+      "temperature": 40
+    },
+    "phase_d_peptide_botanicals": {
+      "plant_peptides": 0.8,
+      "rice_peptides": 0.5,
+      "soy_peptides": 0.3,
+      "temperature": 30
+    },
+    "phase_e_hydration_boosters": {
+      "hyaluronic_acid": 1.5,
+      "tremella_mushroom": 1.0,
+      "aloe_vera_gel": 2.5,
+      "cucumber_extract": 1.0,
+      "temperature": 25
+    },
+    "phase_f_natural_preservation": {
+      "leuconostoc_ferment": 0.4,
+      "rosemary_extract": 0.3,
+      "honeysuckle_extract": 0.2,
+      "R0104015": 0.1    // Minimal synthetic preservative
+    }
+  },
+  
+  "manufacturing_sequence": [
+    {
+      "step": 1,
+      "ingredient": "Botanical Base",
+      "quantity": "80.3g",
+      "vessel_contents_before": "Empty botanical reactor",
+      "reaction": "Botanical matrix formation → enhanced plant active delivery",
+      "vessel_contents_after": "Botanical infusion base",
+      "interim_product_name": "Plant Wisdom Base",
+      "observable_changes": "Aromatic, clear solution with natural plant essences"
+    },
+    {
+      "step": 2,
+      "ingredient": "Bakuchiol Complex",
+      "quantity": "9.0g",
+      "vessel_contents_before": "Botanical base (80.3g)",
+      "reaction": "Bakuchiol stabilization → retinol-like activity without irritation",
+      "vessel_contents_after": "Active botanical serum",
+      "interim_product_name": "Gentle Renewal Complex",
+      "observable_changes": "Light golden color, enhanced anti-aging potential"
+    },
+    {
+      "step": 3,
+      "ingredient": "Plant Actives",
+      "quantity": "7.0g",
+      "vessel_contents_before": "Bakuchiol serum (89.3g)",
+      "reaction": "Phytoactive synergy → comprehensive plant-based renewal",
+      "vessel_contents_after": "Potent botanical treatment",
+      "interim_product_name": "Nature's Anti-aging Symphony",
+      "observable_changes": "Rich botanical aroma, enhanced therapeutic properties"
+    },
+    {
+      "step": 4,
+      "ingredient": "Plant Peptides",
+      "quantity": "1.6g",
+      "vessel_contents_before": "Botanical treatment (96.3g)",
+      "reaction": "Plant protein activation → natural collagen support",
+      "vessel_contents_after": "Complete plant renewal serum",
+      "interim_product_name": "Botanical Youth Elixir",
+      "observable_changes": "Smooth, luxurious texture with plant intelligence"
+    }
+  ],
+  
+  "benefits": [
+    "Gentle retinol-alternative action",
+    "Suitable for sensitive skin",
+    "Safe during pregnancy and nursing",
+    "100% natural and plant-based actives",
+    "Improves skin texture and tone",
+    "Reduces fine lines naturally"
+  ],
+  
+  "application_instructions": [
+    "Apply to clean skin in the evening only",
+    "Use 3-4 drops, gently press into skin",
+    "Safe for use around eye area",
+    "No need to build tolerance - gentle from first use",
+    "Follow with natural moisturizer"
+  ],
+  
+  "safety_assessment": {
+    "safety_status": "NATURAL_SAFE",
+    "patch_test": "Recommended for those with plant allergies",
+    "photosensitivity": "None - evening use recommended for optimal results",
+    "ph_target": 5.8,
+    "shelf_life": "18 months"
+  },
+  
+  "expected_results": {
+    "immediate": "Smooth, nourished skin without irritation",
+    "2_weeks": "Improved skin texture and radiance",
+    "6_weeks": "Visible reduction in fine lines",
+    "12_weeks": "Comprehensive anti-aging benefits",
+    "clinical_studies": "88% showed improved skin firmness in 10 weeks"
+  },
+  
+  "ingredient_count": 19,
+  "total_concentration": 100.0,
+  "stability_testing": {
+    "temperature_range": "5°C to 25°C",
+    "light_stability": "Amber glass recommended for bakuchiol protection",
+    "freeze_thaw": "Passed 2 cycles",
+    "botanical_potency": "Maintains 90% active compounds for 15 months"
+  }
+}
