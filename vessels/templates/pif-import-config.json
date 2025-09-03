@@ -1,0 +1,67 @@
+{
+  "importSettings": {
+    "sourceDirectory": "vessels/msdspif",
+    "outputDirectory": "vessels/formulations/imported",
+    "templateDirectory": "vessels/templates/generated",
+    "parseOptions": {
+      "extractSafetyData": true,
+      "extractClaims": true,
+      "extractPhysicalProperties": true,
+      "normalizeIngredientNames": true
+    }
+  },
+  "templateGeneration": {
+    "defaultVariations": ["standard", "sensitive", "enhanced"],
+    "concentrationTolerance": 0.1,
+    "pHAdjustmentRange": 1.0,
+    "viscosityAdjustmentFactor": 0.3
+  },
+  "schemaMapping": {
+    "pifToFormulation": {
+      "productName": "name",
+      "productType": "type",
+      "manufacturerCode": "metadata.manufacturerCode",
+      "pH": "properties.physicochemical.pH",
+      "viscosity": "properties.rheology.viscosity",
+      "specificGravity": "properties.physicochemical.density",
+      "shelfLife": "stability.microbiological.shelfLife"
+    },
+    "ingredientMapping": {
+      "inciName": "ingredientId",
+      "concentration": "concentration",
+      "casNumber": "metadata.casNumber",
+      "sed": "safety.systemicExposure"
+    }
+  },
+  "validationRules": {
+    "totalConcentration": {
+      "target": 100,
+      "tolerance": 0.1
+    },
+    "pHRange": {
+      "min": 3.0,
+      "max": 10.0
+    },
+    "preservativeSystem": {
+      "required": true,
+      "minimumEffectiveness": 28
+    }
+  },
+  "exportFormats": [
+    {
+      "type": "formulation",
+      "extension": ".formul",
+      "schema": "SKIN-TWIN-v1"
+    },
+    {
+      "type": "template",
+      "extension": ".template",
+      "schema": "SKIN-TWIN-TEMPLATE-v1"
+    },
+    {
+      "type": "report",
+      "extension": ".md",
+      "includeMetadata": true
+    }
+  ]
+}
