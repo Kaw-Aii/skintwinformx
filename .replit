@@ -34,23 +34,27 @@ localPort = 5000
 externalPort = 80
 
 [[ports]]
-localPort = 36313
-externalPort = 3001
-exposeLocalhost = true
+localPort = 5555
+externalPort = 4200
 
 [[ports]]
-localPort = 38029
+localPort = 33769
 externalPort = 3000
 exposeLocalhost = true
 
 [[ports]]
-localPort = 42999
+localPort = 35753
+externalPort = 3002
+exposeLocalhost = true
+
+[[ports]]
+localPort = 40043
 externalPort = 3003
 exposeLocalhost = true
 
 [[ports]]
-localPort = 46361
-externalPort = 3002
+localPort = 46137
+externalPort = 3001
 exposeLocalhost = true
 
 [deployment]

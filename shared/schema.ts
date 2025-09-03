@@ -259,6 +259,105 @@ export const formulationTemplates = pgTable('formulation_templates', {
   categoryIdx: index('idx_template_category').on(table.category),
 }));
 
+// ==================== SUPPLIERS ====================
+export const suppliers = pgTable('suppliers', {
+  id: serial('id').primaryKey(),
+  name: varchar('name', { length: 255 }).notNull(),
+  code: varchar('code', { length: 50 }).unique(),
+  type: varchar('type', { length: 50 }), // raw_material, packaging, equipment, service
+  contactName: varchar('contact_name', { length: 255 }),
+  email: varchar('email', { length: 255 }),
+  phone: varchar('phone', { length: 50 }),
+  address: text('address'),
+  country: varchar('country', { length: 100 }),
+  website: varchar('website', { length: 255 }),
+  certifications: jsonb('certifications').default('[]'),
+  rating: integer('rating'), // 1-5 scale
+  notes: text('notes'),
+  isActive: boolean('is_active').default(true),
+  createdAt: timestamp('created_at').defaultNow(),
+  updatedAt: timestamp('updated_at').defaultNow(),
+}, (table) => ({
+  nameIdx: index('idx_supplier_name').on(table.name),
+  codeIdx: index('idx_supplier_code').on(table.code),
+  typeIdx: index('idx_supplier_type').on(table.type),
+}));
+
+// ==================== STABILITY OBSERVATIONS ====================
+export const stabilityObservations = pgTable('stability_observations', {
+  id: serial('id').primaryKey(),
+  testId: integer('test_id').notNull().references(() => stabilityTests.id, { onDelete: 'cascade' }),
+  timePoint: varchar('time_point', { length: 50 }).notNull(), // T0, 1M, 3M, 6M, 12M, etc.
+  observationDate: timestamp('observation_date').notNull(),
+  
+  // Visual observations
+  appearance: varchar('appearance', { length: 255 }),
+  color: varchar('color', { length: 100 }),
+  odor: varchar('odor', { length: 100 }),
+  texture: varchar('texture', { length: 100 }),
+  separation: boolean('separation').default(false),
+  precipitation: boolean('precipitation').default(false),
+  
+  // Measured values
+  ph: decimal('ph', { precision: 4, scale: 2 }),
+  viscosity: decimal('viscosity', { precision: 10, scale: 2 }),
+  density: decimal('density', { precision: 6, scale: 4 }),
+  
+  // Microbiological
+  microbialCount: integer('microbial_count'),
+  yeastMoldCount: integer('yeast_mold_count'),
+  pathogensDetected: boolean('pathogens_detected').default(false),
+  
+  // Overall assessment
+  passStatus: varchar('pass_status', { length: 50 }), // pass, fail, warning
+  notes: text('notes'),
+  
+  createdAt: timestamp('created_at').defaultNow(),
+  updatedAt: timestamp('updated_at').defaultNow(),
+}, (table) => ({
+  testIdx: index('idx_observation_test').on(table.testId),
+  timePointIdx: index('idx_observation_time').on(table.timePoint),
+}));
+
+// ==================== BATCH RECORDS ====================
+export const batchRecords = pgTable('batch_records', {
+  id: serial('id').primaryKey(),
+  formulationId: integer('formulation_id').notNull().references(() => formulations.id, { onDelete: 'cascade' }),
+  batchNumber: varchar('batch_number', { length: 50 }).notNull().unique(),
+  productionDate: timestamp('production_date').notNull(),
+  expiryDate: timestamp('expiry_date'),
+  quantity: decimal('quantity', { precision: 10, scale: 2 }).notNull(),
+  unit: varchar('unit', { length: 20 }).notNull(), // kg, L, units
+  
+  // Production details
+  productionSite: varchar('production_site', { length: 255 }),
+  equipment: jsonb('equipment').default('[]'),
+  operators: jsonb('operators').default('[]'),
+  
+  // Raw materials tracking
+  rawMaterialLots: jsonb('raw_material_lots').default('{}'), // { ingredientId: lotNumber }
+  
+  // Quality control
+  qcStatus: varchar('qc_status', { length: 50 }).notNull().default('pending'), // pending, approved, rejected, quarantine
+  qcDate: timestamp('qc_date'),
+  qcBy: varchar('qc_by', { length: 255 }),
+  deviations: jsonb('deviations').default('[]'),
+  
+  // Cost tracking
+  productionCost: decimal('production_cost', { precision: 10, scale: 2 }),
+  packagingCost: decimal('packaging_cost', { precision: 10, scale: 2 }),
+  totalCost: decimal('total_cost', { precision: 10, scale: 2 }),
+  
+  notes: text('notes'),
+  createdAt: timestamp('created_at').defaultNow(),
+  updatedAt: timestamp('updated_at').defaultNow(),
+}, (table) => ({
+  formulationIdx: index('idx_batch_formulation').on(table.formulationId),
+  batchNumberIdx: index('idx_batch_number').on(table.batchNumber),
+  productionDateIdx: index('idx_batch_production_date').on(table.productionDate),
+  qcStatusIdx: index('idx_batch_qc_status').on(table.qcStatus),
+}));
+
 // ==================== RELATIONS ====================
 export const ingredientsRelations = relations(ingredients, ({ many }) => ({
   usages: many(ingredientUsage),
@@ -274,6 +373,7 @@ export const formulationsRelations = relations(formulations, ({ many }) => ({
   processingInstructions: many(processingInstructions),
   qualityControl: many(qualityControl),
   packagingCompatibility: many(packagingCompatibility),
+  batchRecords: many(batchRecords),
 }));
 
 export const phasesRelations = relations(phases, ({ one, many }) => ({
@@ -306,11 +406,12 @@ export const formulationPropertiesRelations = relations(formulationProperties, (
   }),
 }));
 
-export const stabilityTestsRelations = relations(stabilityTests, ({ one }) => ({
+export const stabilityTestsRelations = relations(stabilityTests, ({ one, many }) => ({
   formulation: one(formulations, {
     fields: [stabilityTests.formulationId],
     references: [formulations.id],
   }),
+  observations: many(stabilityObservations),
 }));
 
 export const regulatoryDataRelations = relations(regulatoryData, ({ one }) => ({
@@ -344,6 +445,25 @@ export const qualityControlRelations = relations(qualityControl, ({ one }) => ({
 export const packagingCompatibilityRelations = relations(packagingCompatibility, ({ one }) => ({
   formulation: one(formulations, {
     fields: [packagingCompatibility.formulationId],
+    references: [formulations.id],
+  }),
+}));
+
+export const suppliersRelations = relations(suppliers, ({ many }) => ({
+  // Add relations here if needed in future
+}));
+
+export const stabilityObservationsRelations = relations(stabilityObservations, ({ one }) => ({
+  test: one(stabilityTests, {
+    fields: [stabilityObservations.testId],
+    references: [stabilityTests.id],
+  }),
+}));
+
+
+export const batchRecordsRelations = relations(batchRecords, ({ one }) => ({
+  formulation: one(formulations, {
+    fields: [batchRecords.formulationId],
     references: [formulations.id],
   }),
 }));
