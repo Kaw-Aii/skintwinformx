@@ -73,6 +73,15 @@ const gitInfo = getGitInfo();
 
 export default defineConfig((config) => {
   return {
+    server: {
+      host: '0.0.0.0',
+      port: 5000,
+      strictPort: true,
+      hmr: {
+        port: 5000,
+        host: '0.0.0.0'
+      }
+    },
     define: {
       __COMMIT_HASH: JSON.stringify(gitInfo.commitHash),
       __GIT_BRANCH: JSON.stringify(gitInfo.branch),
