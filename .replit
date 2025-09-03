@@ -34,22 +34,22 @@ localPort = 5000
 externalPort = 80
 
 [[ports]]
-localPort = 33179
+localPort = 34825
 externalPort = 3001
 exposeLocalhost = true
 
 [[ports]]
-localPort = 34787
-externalPort = 3000
-exposeLocalhost = true
-
-[[ports]]
-localPort = 42531
+localPort = 35539
 externalPort = 3003
 exposeLocalhost = true
 
 [[ports]]
-localPort = 45357
+localPort = 38477
+externalPort = 3000
+exposeLocalhost = true
+
+[[ports]]
+localPort = 45865
 externalPort = 3002
 exposeLocalhost = true
 
