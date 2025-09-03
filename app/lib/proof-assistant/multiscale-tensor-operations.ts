@@ -352,4 +352,3 @@ export class MultiscaleTensorOperations {
   private validateTissueField(field: TensorField): boolean { return true; }
   private validateOrganField(field: TensorField): boolean { return true; }
 }
-</new_str>

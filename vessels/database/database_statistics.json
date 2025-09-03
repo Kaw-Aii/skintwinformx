@@ -1,0 +1,80 @@
+{
+  "summary": {
+    "total_ingredients": 30281,
+    "total_formulations": 21,
+    "total_products": 0,
+    "total_suppliers": 0,
+    "total_relationships": 222
+  },
+  "ingredients": {
+    "cosing_sourced": 30059,
+    "formulation_sourced": 222,
+    "natural": 0,
+    "restricted": 0,
+    "gras": 0,
+    "most_used": [
+      {
+        "name": "ZTQG�UE\u0011`��@L6R6�\u001899��L�;{\u0006�\fQ�\u0011�Q\u0015N:� \u000e8��XZ�팲�\u0013��Y�FC���FZT�\u001aL7(�I\u001a4I��ȤF\u0006\u0006\u0014�\f\u000e\u0007�\u0016:L:~",
+        "usage_count": 12,
+        "function": "Unknown"
+      },
+      {
+        "name": "ҌS��\u001c+��#����.]J�L�\u0007\u001cM\u001aTP�)U����F�%M����\u001a�\u0005����\u0018ƜK)�L�Z،�\u001fR�,�\u0017*\u0015J��V�N�����)��Ќ��I>U\u0007%$�('N\u000f��\u0015�\u0019�C:��]�G;\u0013�\t\fRC-�,��3J�\u001b^M�6�\u0013\r����`��O�`L�Z��\f�WMX0\u0006K�\u000b���TI\u0014Θ��\"2\u0019\"XE(�鑪\u0006IN#-\u001a\u0005�\u0016K�,V�AV��\u0003��\u0014��$G4���@�S\u0006�DT��A\u001c�W��T\u0004H��\u001b \u0010DN��5���'JK�\\ɭF\u001eΊY~\u0019{*NR��O�~�Y�9R��9;#�\\Y�����^��J��ؗ�*RӁ��\u0000Y���1�4�U\u0015�\u001e}I����W�JV��+U�̲�9��H\"����Q5�\u001f*�EYEW��/��;W�%2_��\u0014V�\u0003\u0005��!���O�\u0000&\t�(A�A,FVS$2:��\u0000!9�=��2H�$Ð�Y�6.\b�E\u0019\u0004�\u0004��P��",
+        "usage_count": 5,
+        "function": "Unknown"
+      },
+      {
+        "name": "G��\u001f����Z/�UMG���\b��\u000f\u0010I���<�]K�N�\u0000���5�杋3��Ɯ�>.",
+        "usage_count": 5,
+        "function": "Unknown"
+      },
+      {
+        "name": "/�\u0005��\u0002��~\u0011�Ÿ�\u0012K�V���G��/���\u000f��\u001fIZ��K���,�?�XXKW��-�7A:��Z",
+        "usage_count": 5,
+        "function": "Unknown"
+      },
+      {
+        "name": ">]CM\u000b��Z��RЦ�\r���K�L�����+SM\u001c��HGS��G��[�{Z�\u0000\u0011�UQይ#�\u0016P�����\u001a͇�O���E���^\u001bX�����CX#��N�QP4F�\u0012I\u0012���K?�>5��,</��$����{O\u0012�\u001b",
+        "usage_count": 5,
+        "function": "Unknown"
+      },
+      {
+        "name": ".��7���{WҴ+�\u000b�L>\u001f'���\f����+��_�H�\u0015�\u000f*�PUV\u000e)�+���X�Q����&�����",
+        "usage_count": 5,
+        "function": "Unknown"
+      },
+      {
+        "name": "$�Ư����\u001f\u000e�M�ϤH�$��<O�",
+        "usage_count": 5,
+        "function": "Unknown"
+      },
+      {
+        "name": "U��K� �[�O\u0001J\u001e+�~,��𮓥�B\u001e\u001f��\u0016ͬX{��.�C<��]��U��%�Z����;����.��O*[�������NUS#\u0019A6�(A\u0015�\u0010\u0016\"&�\u0007�X�Y6I����",
+        "usage_count": 5,
+        "function": "Unknown"
+      },
+      {
+        "name": "�ʸ\u0015_'����Ϫ��\u0012�������O�C\u001d��*-NV�)^S�Z�@-��FY\u0011C�E��Y,X�LK�\u0002��\u0013�$B$I�̆K)���BA��\u0019M��0@\u0011<��&1\u0015\u001b�\u0004�V���@.��1�-�׶�����[�1X���̒ �;�R̻�\r��,J$�F#N�U���[D�Ы�,��Zن�F\u001d���.�\b\u0017\u0000N\u0013�I�V����O�۰����UG}U���\u00033�YK;ݏ9��0�\u0004�\u0007�\u0003$�OP��X��\u0000\u000b\bS�<�Cݸ��\\AH\\'ΓI\u0004_BIM�[ڴ3X�\u001aʏ=�?0�.�3\u0019Q\u0017�&\u0003\u001c7\u0011���%�?1-'��\u0013����\u00182�Ԗ\u0016�S�A��Q\u001a���LLS�\\������<���G�\tM���RH���,�6����\u0016����������N��:[�M/����",
+        "usage_count": 5,
+        "function": "Unknown"
+      },
+      {
+        "name": "W}0��'�<K�\u001f\u0003�N4[I�Y\u001d�\u000f\u0011'��4�V\b�M���X\t�M.�=�\u001b�T�����I���譨;^ܩ�Z^�[�_>���\r�W����W��\u0000\u000f�_�S�C��7��K�X/��\u0002���XSC�)�冱�MGL��΃��/�X�L�4\u0001�C�=��׶�����\"�T���\u001dM��𴏆Z\r��\u000f\u0012������ZF��\u0012I��P_\u0013J\t�]6�\u0015��[�{W�}\u000fS��\u001f���Ż��\u0018&��H���\u001d",
+        "usage_count": 5,
+        "function": "Unknown"
+      }
+    ]
+  },
+  "formulations": {
+    "by_source": {
+      "[object Object]": 8,
+      "formul_file": 13
+    },
+    "average_ingredients": 19.761904761904763
+  },
+  "coverage": {
+    "ingredients_with_cosing_data": 30059,
+    "ingredients_with_suppliers": 0,
+    "formulations_validated": 0
+  }
+}
