@@ -87,7 +87,7 @@ export interface ProofStep {
 
 export interface Evidence {
   id: string;
-  type: 'experimental' | 'theoretical' | 'computational' | 'literature' | 'formal_logic';
+  type: 'experimental' | 'theoretical' | 'computational' | 'literature' | 'formal_logic' | 'mathematical';
   source: string;
   reliability: number;
   relevance: number;
@@ -166,7 +166,7 @@ export interface VerificationRequest {
 }
 
 export interface FormulationConstraint {
-  type: 'concentration' | 'ph' | 'temperature' | 'compatibility' | 'regulatory';
+  type: 'concentration' | 'ph' | 'temperature' | 'compatibility' | 'regulatory' | 'stability';
   parameter: string;
   value: number | string;
   operator: 'eq' | 'lt' | 'gt' | 'lte' | 'gte' | 'in' | 'not_in';
