@@ -454,7 +454,38 @@ export class WorkbenchStore {
   }
 
   abortAllActions() {
-    // TODO: what do we wanna do and how do we wanna recover from this?
+    // Abort all running actions and reset the workbench state
+    try {
+      // Get all artifacts and abort their runners
+      const artifacts = this.artifacts.get();
+      for (const artifactId in artifacts) {
+        const artifact = artifacts[artifactId];
+        if (artifact && artifact.runner) {
+          artifact.runner.abortAllActions();
+        }
+      }
+      
+      // Reset the terminal if it's active
+      if (this.boltTerminal) {
+        this.boltTerminal.reset();
+      }
+      
+      // Clear any pending alerts
+      this.actionAlert.set(undefined);
+      this.supabaseAlert.set(undefined);
+      this.deployAlert.set(undefined);
+      
+      // Reset the execution queue
+      this.#globalExecutionQueue = Promise.resolve();
+      
+      console.log('All actions aborted successfully');
+    } catch (error) {
+      console.error('Error aborting actions:', error);
+      // Show error notification to user
+      if (typeof window !== 'undefined' && window.alert) {
+        window.alert('Failed to abort all actions. Please reload the page.');
+      }
+    }
   }
 
   setReloadedMessages(messages: string[]) {
@@ -592,9 +623,14 @@ export class WorkbenchStore {
     }
   }
 
+  // Default sampler delay in milliseconds - can be overridden via environment variable
+  #samplerDelay = typeof window !== 'undefined' && 
+    window.ENV_SAMPLER_DELAY ? 
+    parseInt(window.ENV_SAMPLER_DELAY, 10) : 100;
+    
   actionStreamSampler = createSampler(async (data: ActionCallbackData, isStreaming: boolean = false) => {
     return await this._runAction(data, isStreaming);
-  }, 100); // TODO: remove this magic number to have it configurable
+  }, this.#samplerDelay);
 
   #getArtifact(id: string) {
     const artifacts = this.artifacts.get();

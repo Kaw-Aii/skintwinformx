@@ -399,13 +399,12 @@ ${value.content}
 }
 
 function navigateChat(nextId: string) {
-  /**
-   * FIXME: Using the intended navigate function causes a rerender for <Chat /> that breaks the app.
-   *
-   * `navigate(`/chat/${nextId}`, { replace: true });`
-   */
+  // Use history API directly to avoid React Router rerender issues
+  // This approach prevents the <Chat /> component from breaking due to state resets
   const url = new URL(window.location.href);
   url.pathname = `/chat/${nextId}`;
-
-  window.history.replaceState({}, '', url);
+  window.history.replaceState({ id: nextId }, '', url);
+  
+  // Dispatch a custom event to notify components that might need to update
+  window.dispatchEvent(new CustomEvent('chatNavigated', { detail: { id: nextId } }));
 }
