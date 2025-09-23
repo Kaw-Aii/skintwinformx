@@ -432,7 +432,7 @@ class SkinTwinAPIController {
   ): Promise<PaginatedResponse<FormulationSummary>> {
     
     const filters = this.buildFilters(query, userContext);
-    const results = await this.formulationService.find(filters);
+    const results = await this.formationService.find(filters);
     
     return {
       data: results.items,
@@ -452,7 +452,7 @@ class SkinTwinAPIController {
     @Query('include') include: string[]
   ): Promise<FormulationResponse> {
     
-    const formulation = await this.formulationService.getById(id);
+    const formulation = await this.formationService.getById(id);
     
     // Conditional includes based on query params
     if (include?.includes('ingredients')) {
@@ -558,7 +558,7 @@ const resolvers = {
     
     analysis: async (formulation, args, context) => {
       // Lazy load analysis data
-      return context.loaders.formulationAnalysis.load(formulation.id);
+      return context.loaders.formationAnalysis.load(formulation.id);
     }
   },
   
@@ -772,7 +772,7 @@ class SkinTwinMetrics {
   
   private setupMetrics() {
     // Business metrics
-    this.formulationCreated = new Counter({
+    this.formationCreated = new Counter({
       name: 'skintwin_formulations_created_total',
       help: 'Total number of formulations created',
       labelNames: ['type', 'status']
@@ -799,7 +799,7 @@ class SkinTwinMetrics {
   }
   
   recordFormulationCreated(type: string, status: string) {
-    this.formulationCreated.inc({ type, status });
+    this.formationCreated.inc({ type, status });
   }
   
   recordAnalysisLatency(analysisType: string, duration: number) {

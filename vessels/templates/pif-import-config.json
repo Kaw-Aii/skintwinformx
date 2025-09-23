@@ -50,7 +50,7 @@
   "exportFormats": [
     {
       "type": "formulation",
-      "extension": ".formul",
+      "extension": ".form",
       "schema": "SKIN-TWIN-v1"
     },
     {

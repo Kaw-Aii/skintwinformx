@@ -73,17 +73,17 @@ function loadFormulationFiles() {
   
   if (fs.existsSync(formDir)) {
     const files = fs.readdirSync(formDir)
-      .filter(f => f.endsWith('.formul'));
+      .filter(f => f.endsWith('.form'));
     
     files.forEach(file => {
       const content = fs.readFileSync(path.join(formDir, file), 'utf8');
       // Parse custom formulation format (simplified for this example)
       const lines = content.split('\n');
       const formulation = {
-        id: file.replace('.formul', ''),
+        id: file.replace('.form', ''),
         name: lines.find(l => l.startsWith('# '))?.replace('# ', '').trim() || file,
         ingredients: [],
-        source: 'formul_file'
+        source: 'form_file'
       };
       
       // Extract ingredients from formulation file
@@ -254,7 +254,7 @@ function buildIngredientMaster(cosing, formulations) {
           
           const ingredient = ingredients.get(normalizedName);
           ingredient.usage_count++;
-          ingredient.formulations.push(formulation.id || formulation.name);
+          ingredient.formations.push(formulation.id || formulation.name);
         }
       });
     }
@@ -310,7 +310,7 @@ function generateStatistics(database) {
   const stats = {
     summary: {
       total_ingredients: database.ingredients.size,
-      total_formulations: database.formulations.length,
+      total_formulations: database.formations.length,
       total_products: database.products.length,
       total_suppliers: database.suppliers.length,
       total_relationships: database.relationships.ingredient_to_formulation.size
@@ -337,7 +337,7 @@ function generateStatistics(database) {
   // Calculate ingredient statistics
   database.ingredients.forEach(ing => {
     if (ing.source === 'cosing') stats.ingredients.cosing_sourced++;
-    if (ing.source === 'formulation') stats.ingredients.formulation_sourced++;
+    if (ing.source === 'formulation') stats.ingredients.formation_sourced++;
     if (ing.is_natural) stats.ingredients.natural++;
     if (ing.is_restricted) stats.ingredients.restricted++;
     if (ing.is_gras) stats.ingredients.gras++;
@@ -356,16 +356,16 @@ function generateStatistics(database) {
   
   // Calculate formulation statistics
   let totalIngredientCount = 0;
-  database.formulations.forEach(formulation => {
+  database.formations.forEach(formulation => {
     const source = formulation.source || 'unknown';
-    stats.formulations.by_source[source] = (stats.formulations.by_source[source] || 0) + 1;
+    stats.formations.by_source[source] = (stats.formations.by_source[source] || 0) + 1;
     if (formulation.ingredients) {
       totalIngredientCount += formulation.ingredients.length;
     }
   });
   
-  stats.formulations.average_ingredients = database.formulations.length > 0
-    ? totalIngredientCount / database.formulations.length
+  stats.formations.average_ingredients = database.formations.length > 0
+    ? totalIngredientCount / database.formations.length
     : 0;
   
   // Calculate coverage
@@ -460,7 +460,7 @@ function main() {
   console.log('\n📊 Building comprehensive database...');
   
   // Combine all formulations
-  const allFormulations = [...pifFormulations, ...formulationFiles];
+  const allFormulations = [...pifFormulations, ...formationFiles];
   
   // Build master ingredient list
   const ingredients = buildIngredientMaster(cosing, allFormulations);
@@ -504,7 +504,7 @@ function main() {
   console.log(`  • Total Suppliers: ${stats.summary.total_suppliers}`);
   console.log(`  • Natural Ingredients: ${stats.ingredients.natural}`);
   console.log(`  • Restricted Ingredients: ${stats.ingredients.restricted}`);
-  console.log(`  • Average Ingredients per Formulation: ${stats.formulations.average_ingredients.toFixed(1)}`);
+  console.log(`  • Average Ingredients per Formulation: ${stats.formations.average_ingredients.toFixed(1)}`);
   
   console.log('\n📝 Most Used Ingredients:');
   stats.ingredients.most_used.slice(0, 5).forEach((ing, i) => {

@@ -122,7 +122,7 @@ flowchart TD
 async function assessSupplyChainRisk(productId: string) {
   // Step 1: Get product's ingredient dependencies
   const product = await skinTwinAPI.products.get(productId);
-  const ingredients = product.formulation_edges.map(edge => edge.source_id);
+  const ingredients = product.formation_edges.map(edge => edge.source_id);
   
   // Step 2: Analyze supplier network (per NETWORK_ANALYSIS.md)
   const supplyNetwork = await skinTwinAPI.supplyChain.network({
@@ -300,7 +300,7 @@ async function processBatchData(dataDirectory: string): Promise<ProcessingReport
   const validationResults = await Promise.all([
     processor.validateFiles(categorizedFiles.products, 'product'),
     processor.validateFiles(categorizedFiles.ingredients, 'ingredient'),
-    processor.validateFiles(categorizedFiles.formulations, 'formulation'),
+    processor.validateFiles(categorizedFiles.formations, 'formulation'),
     processor.validateFiles(categorizedFiles.suppliers, 'supplier')
   ]);
   
@@ -318,7 +318,7 @@ async function processBatchData(dataDirectory: string): Promise<ProcessingReport
   }
   
   // Step 4: Add relationships
-  for (const formulationFile of categorizedFiles.formulations) {
+  for (const formulationFile of categorizedFiles.formations) {
     const formulation = await processor.loadAndValidate(formulationFile);
     graphBuilder.addEdges(formulation.manufacturing_sequence, 'formulation');
   }

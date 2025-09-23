@@ -94,7 +94,7 @@ flowchart TD
         A[Product Data<br/>*.prod] --> D[Schema Validation]
         B[Ingredient Data<br/>*.inci] --> D
         C[Supplier Data<br/>*.supp] --> D
-        E[Formulation Data<br/>*.formul] --> D
+        E[Formulation Data<br/>*.form] --> D
     end
     
     subgraph "Validation & Processing"
@@ -405,7 +405,7 @@ flowchart LR
     subgraph "Data Layer"
         D[*.prod files]
         E[*.inci files]
-        F[*.formul files]
+        F[*.form files]
         G[*.supp files]
     end
     

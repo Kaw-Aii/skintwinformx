@@ -564,10 +564,10 @@ class CrossEntityValidator {
     const errors: string[] = [];
     const warnings: string[] = [];
     
-    const formulation = await context.getFormulation(product.formulationId);
+    const formulation = await context.getFormulation(product.formationId);
     
     if (!formulation) {
-      errors.push(`Referenced formulation not found: ${product.formulationId}`);
+      errors.push(`Referenced formulation not found: ${product.formationId}`);
       return { errors };
     }
     

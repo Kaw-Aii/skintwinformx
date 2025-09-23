@@ -86,7 +86,7 @@ mindmap
 |-------------------|------------------|---------------|--------------|
 | `*.prod` files | [Product Schema](./SCHEMA.md#product-schema) | [Entity Diagram](./SCHEMA_VISUALIZATION.md#entity-relationship-architecture) | [Product API](./API_DOCUMENTATION.md#product-schema-operations) |
 | `*.inci` files | [Ingredient Schema](./SCHEMA.md#ingredient-schema) | [Network Layer](./SCHEMA_VISUALIZATION.md#network-layer-architecture) | [Ingredient API](./API_DOCUMENTATION.md#ingredient-schema-operations) |
-| `*.formul` files | [Formulation Schema](./SCHEMA.md#formulation-edge-schema) | [Data Flow](./SCHEMA_VISUALIZATION.md#data-flow-architecture) | [Formulation API](./API_DOCUMENTATION.md#formulation-operations) |
+| `*.form` files | [Formulation Schema](./SCHEMA.md#formulation-edge-schema) | [Data Flow](./SCHEMA_VISUALIZATION.md#data-flow-architecture) | [Formulation API](./API_DOCUMENTATION.md#formulation-operations) |
 | `*.supp` files | [Supplier Schema](./SCHEMA.md#supplier-schema) | [Supply Network](./SCHEMA_VISUALIZATION.md#supply-chain-analysis) | [Supply Chain API](./API_DOCUMENTATION.md#supply-chain-analysis) |
 
 ## Usage Patterns & Examples
@@ -167,7 +167,7 @@ graph LR
     end
     
     subgraph "Output"
-        J[Optimized Formulation<br/>*.formul format]
+        J[Optimized Formulation<br/>*.form format]
         K[Performance Predictions<br/>SUMMARY.md insights]
     end
     
@@ -200,10 +200,10 @@ vessels/
 │   ├── SUMMARY.md                     # Executive summary
 │   └── *.csv                          # Network data files
 ├── formulations/                      # Example formulation data
-│   ├── daily_ultra_def_spf25.formul   # SPF protection formulation
-│   ├── hydrating_essence_serum.formul # Hydration treatment
-│   ├── brightening_vitamin_c_complex.formul # Brightening serum
-│   ├── gentle_cleansing_oil.formul    # Cleansing formulation
+│   ├── daily_ultra_def_spf25.form   # SPF protection formulation
+│   ├── hydrating_essence_serum.form # Hydration treatment
+│   ├── brightening_vitamin_c_complex.form # Brightening serum
+│   ├── gentle_cleansing_oil.form    # Cleansing formulation
 │   └── ...                           # Additional formulations
 ├── ingredients/                       # Ingredient database
 │   ├── hyaluronic_acid.inci          # Hydrating humectant

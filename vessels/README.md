@@ -12,11 +12,11 @@ vessels/
 ├── SCHEMA.md                           # Complete data schema documentation  
 ├── HYPERGRAPH_INTEGRATION.md          # Network analysis integration guide
 ├── formulations/                       # Product formulation examples
-│   ├── retinol_night_cream.formul     # Original example (basic)
-│   ├── spazone_marine_replenish_masque.formul  # Advanced hydrating treatment
-│   ├── pigment_perfector.formul       # Brightening serum (high complexity)
-│   ├── daily_ultra_def_spf25.formul   # Multi-protection sunscreen
-│   └── rejuvoderm_night_maintenance.formul  # Anti-aging night complex
+│   ├── retinol_night_cream.form     # Original example (basic)
+│   ├── spazone_marine_replenish_masque.form  # Advanced hydrating treatment
+│   ├── pigment_perfector.form       # Brightening serum (high complexity)
+│   ├── daily_ultra_def_spf25.form   # Multi-protection sunscreen
+│   └── rejuvoderm_night_maintenance.form  # Anti-aging night complex
 ├── ingredients/                        # Ingredient specifications
 │   ├── hyaluronic_acid.inci          # Original example (basic)
 │   ├── de_ion_water.inci             # Primary formulation base

@@ -262,7 +262,7 @@ const validateProduct = (product: ProductSchema): ValidationResult => {
   }
   
   // Formulation link validation
-  if (!product.formulationId) {
+  if (!product.formationId) {
     errors.push('Product must reference a formulation');
   }
   
@@ -545,7 +545,7 @@ const assessProductQuality = (product: ProductSchema): QualityAssessment => {
     {
       name: 'Formulation Quality',
       weight: 0.25,
-      score: evaluateFormulationQuality(product.formulation)
+      score: evaluateFormulationQuality(product.formation)
     },
     {
       name: 'Manufacturing Quality',

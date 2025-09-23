@@ -370,7 +370,7 @@ const createBasicPIF = (productData: ProductData): PIFSchema => {
       targetConsumer: "adults",
       intendedUse: productData.primaryFunction,
       applicationArea: productData.applicationAreas,
-      formulationReference: productData.formulationId
+      formulationReference: productData.formationId
     },
     
     // Initialize other sections with defaults

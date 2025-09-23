@@ -375,7 +375,7 @@ type ContractStatus =
 ```
 vessels/
 ├── formulations/           # Product formulation examples
-│   ├── *.formul          # Individual formulation files
+│   ├── *.form          # Individual formulation files
 ├── ingredients/           # Ingredient specifications
 │   ├── *.inci            # Individual ingredient files
 ├── products/             # Product definitions
@@ -387,7 +387,7 @@ vessels/
 ```
 
 ### File Naming
-- **Formulations**: `{product_name_snake_case}.formul`
+- **Formulations**: `{product_name_snake_case}.form`
 - **Ingredients**: `{ingredient_name_snake_case}.inci`
 - **Products**: `{product_name_snake_case}.prod`
 - **Suppliers**: `{supplier_name_snake_case}.supp`

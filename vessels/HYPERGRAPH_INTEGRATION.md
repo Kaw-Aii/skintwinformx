@@ -20,7 +20,7 @@ graph TB
     subgraph "Data Layer"
         PD[Product Data<br/>*.prod files]
         ID[Ingredient Data<br/>*.inci files]
-        FD[Formulation Data<br/>*.formul files]
+        FD[Formulation Data<br/>*.form files]
         SD[Supplier Data<br/>*.supp files]
     end
     
