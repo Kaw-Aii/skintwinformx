@@ -1,0 +1,24 @@
+Supplier_ID,Supplier_Name,Ingredients_Count,Availability_Confirmed,Business_Model,Technical_Support,Innovation_Focus,Certifications,Contact_Info,Strategic_Priority,Supply_Chain_Risk,Cost_Tier
+MEG0001,Meganede CC,15,Partial,Distributor,Yes,Natural Actives,Multiple,info@meganede.com,High,Medium,Premium
+NAT0001,Natchem CC,14,Partial,Distributor,Yes,Botanicals,Ecocert/NaTrue,online@natchem.co.za,High,Medium,Mid-Range
+CRO0001,Croda Chemicals S.A (Pty) Ltd,7,Confirmed,Direct Manufacturer,Yes,Biotechnology,ISO/GMP,+27 11 397 2380,High,Low,Premium
+CAR0002,Carst&Walker div of Zenith Ho,8,Confirmed,Distributor,Yes,Synthetic/Natural,Multiple,+27 11 489 3600,High,Low,Mid-Range
+BOT0003,Botanichem,2,Confirmed,Full Service Agency,Yes,Plant-Derived,Organic/COSMOS,info@botanichem.co.za,High,Medium,Premium
+CJP0001,CJP Chemicals (Pty) Ltd,8,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Medium,High,Unknown
+CTE0001,Chemgrit Cosmetics (C-Tec),6,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Medium,High,Unknown
+SAV0001,Savannah Fine Chem (Pty) Ltd,5,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Medium,High,Unknown
+CHE0004,Chempure (Pty) Ltd,3,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Medium,High,Unknown
+MER0001,Merck (Pty) Ltd,3,Unknown,Direct Manufacturer,Likely,Pharmaceuticals,ISO/GMP,Unknown,Medium,Low,Premium
+SIY0002,IMCD South Africa (Pty) Ltd,4,Unknown,Distributor,Likely,Specialty Chemicals,Unknown,Unknown,Medium,Medium,Mid-Range
+ORC0001,Orchem,2,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Medium,High,Unknown
+LIP0001,Vantage Speciality Chemicals,2,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Medium,High,Unknown
+AKU001,AECI,1,Unknown,Direct Manufacturer,Likely,Industrial Chemicals,ISO,Unknown,Medium,Low,Mid-Range
+AEC001,A&E Connock,1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Low,High,Unknown
+CLI0001,Clive Teubes CC / Scatters Oils,1,Unknown,Unknown,Unknown,Essential Oils,Unknown,Unknown,Low,High,Unknown
+COS0007,Cosmetic Ingredients (Pty) Ltd,1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Medium,High,Unknown
+EVO0001,Protea Chemicals,1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Low,High,Unknown
+HEX0001,Orkila,1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Low,High,Unknown
+Maccullum,Exsymol,1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Low,High,Unknown
+MAT0002,Materia Medica,1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Low,High,Unknown
+MIL0001,Millchem,1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Low,High,Unknown
+06A0001,06 Agencies,1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Low,High,Unknown

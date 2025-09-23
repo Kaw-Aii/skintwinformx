@@ -1,0 +1,115 @@
+Id,Label,timeset,modularity_class,Availability_Status,Research_Notes,Contact_Required,Strategic_Priority
+06A0001,06 Agencies,,1,Unknown,Limited information available - requires direct contact,Yes,Low
+AEC001,A&E Connock,,2,Unknown,Limited information available - requires direct contact,Yes,Low
+AKU001,AECI,,3,Unknown,Limited information available - requires direct contact,Yes,Medium
+BOT0003,Botanichem,,4,Available,Full-service agency with BASF Care Creations and multiple international suppliers,No,High
+CAR0002,Carst&Walker div of Zenith Ho,,5,Available,Multinational distributor with comprehensive consumer specialties division,No,High
+CHE0004,Chempure (Pty) Ltd,,6,Unknown,Limited information available - requires direct contact,Yes,Medium
+CJP0001,CJP Chemicals (Pty) Ltd,,7,Unknown,Limited information available - requires direct contact,Yes,Medium
+CLI0001,Clive Teubes CC / Scatters Oils,,8,Unknown,Limited information available - requires direct contact,Yes,Low
+COS0007,Cosmetic Ingredients (Pty) Ltd,,9,Unknown,Limited information available - requires direct contact,Yes,Medium
+CRO0001,Croda Chemicals S.A (Pty) Ltd,,10,Available,Global leader with South African Centre of Excellence and 755+ ingredients,No,High
+CTE0001,Chemgrit Cosmetics (C-Tec),,11,Unknown,Limited information available - requires direct contact,Yes,Medium
+EVO0001,Protea Chemicals,,12,Unknown,Limited information available - requires direct contact,Yes,Low
+HEX0001,Orkila,,13,Unknown,Limited information available - requires direct contact,Yes,Low
+LIP0001,Vantage Speciality Chemicals,,14,Unknown,Limited information available - requires direct contact,Yes,Medium
+Maccullum,Exsymol,,15,Unknown,Limited information available - requires direct contact,Yes,Low
+MAT0002,Materia Medica,,16,Unknown,Limited information available - requires direct contact,Yes,Low
+MEG0001,Meganede CC,,17,Available,Distributor for Silab and 5 other international suppliers,Yes,High
+MER0001,Merck (Pty) Ltd,,18,Unknown,Limited information available - requires direct contact,Yes,Medium
+MIL0001,Millchem,,19,Unknown,Limited information available - requires direct contact,Yes,Low
+NAT0001,Natchem CC,,20,Available,Distributor for Greentech botanicals and Payan Bertrand fragrances,Yes,High
+ORC0001,Orchem,,21,Unknown,Limited information available - requires direct contact,Yes,Medium
+SAV0001,Savannah Fine Chem (Pty) Ltd,,22,Unknown,Limited information available - requires direct contact,Yes,Medium
+SIY0002,IMCD South Africa (Pty) Ltd,,23,Unknown,Limited information available - requires direct contact,Yes,Medium
+R1907000,Perf Citrus Therm 701081,,1,Unknown,Requires verification with 06 Agencies,Yes,Low
+R1908000,Azulene Pure (659833) *GRAM,,2,Unknown,Requires verification with A&E Connock,Yes,Low
+R1902003,Iselux Ultra Mild,,3,Unknown,Requires verification with AECI,Yes,Medium
+R1905039,Epigenist LS10003,,4,Available,BASF Care Creations ingredient via Botanichem,No,High
+R1905042,Eperuline PW LS 9627,,4,Available,BASF Care Creations ingredient via Botanichem,No,High
+R1905011,CM-Glucan Granulate,,5,Available,Advanced peptide ingredient via Carst&Walker,No,High
+R1905012,Perfection Peptide P3,,5,Available,Advanced peptide ingredient via Carst&Walker,No,High
+R1905023,AquaCacteen,,5,Available,Natural active ingredient via Carst&Walker,No,High
+R1905024,Happybelle-PE,,5,Available,Natural active ingredient via Carst&Walker,No,High
+R1905047,Gatuline Derma - Sensitive,,5,Available,Sensitive skin active via Carst&Walker,No,High
+R1911000,Sucragel AOF,,5,Available,Rheology modifier via Carst&Walker,No,Medium
+R1911001,Carbopol Ultrez 30,,5,Available,Rheology modifier via Carst&Walker,No,Medium
+R1911003,Carbopol EDT 2050,,5,Available,Rheology modifier via Carst&Walker,No,Medium
+R1905016,Regu-Stretch,,6,Unknown,Requires verification with Chempure,Yes,Medium
+R1905017,Alpaflor Imperatoria,,6,Unknown,Requires verification with Chempure,Yes,Medium
+R1905021,L-Carnitine,,6,Unknown,Requires verification with Chempure,Yes,Medium
+R1901001,Pomegranate Seed Oil,,7,Unknown,Requires verification with CJP Chemicals,Yes,Medium
+R1901006,Borage Oil Refined GLA 20PCT,,7,Unknown,Requires verification with CJP Chemicals,Yes,Medium
+R1902000,Oronal LCG,,7,Unknown,Requires verification with CJP Chemicals,Yes,Medium
+R1902001,Proteol OAT,,7,Unknown,Requires verification with CJP Chemicals,Yes,Medium
+R1905014,Sepicalm S,,7,Unknown,Requires verification with CJP Chemicals,Yes,Medium
+R1906000,Montanov L,,7,Unknown,Requires verification with CJP Chemicals,Yes,Medium
+R1906001,Montanov S,,7,Unknown,Requires verification with CJP Chemicals,Yes,Medium
+R1911002,Sepimax Zen,,7,Unknown,Requires verification with CJP Chemicals,Yes,Medium
+R1913014,Grapefruit Oil Pink,,8,Unknown,Requires verification with Clive Teubes CC,Yes,Low
+R1905004,Hyaluronic Acid HMW,,9,Unknown,Requires verification with Cosmetic Ingredients,Yes,High
+R1901005,Arlamol LST-LQ-(MH),,10,Available,Croda emollient ingredient,No,High
+R1905002,Chronodyn,,10,Available,Croda anti-aging active,No,High
+R1905003,Biopeptide CL,,10,Available,Croda peptide ingredient,No,High
+R1905025,Skin Tightener-ST(TM) PH,,10,Available,Croda firming active,No,High
+R1905026,Beautifeye,,10,Available,Croda eye care active,No,High
+R1905033,Evermat,,10,Available,Croda mattifying active,No,High
+R1905034,Intenslim,,10,Available,Croda slimming active,No,High
+R1901002,Cetiol Sensoft,,11,Unknown,Requires verification with Chemgrit Cosmetics,Yes,Medium
+R1901003,Cetiol B,,11,Unknown,Requires verification with Chemgrit Cosmetics,Yes,Medium
+R1905019,Exfo-Bio,,11,Unknown,Requires verification with Chemgrit Cosmetics,Yes,Medium
+R1905029,Cosmedia DC,,11,Unknown,Requires verification with Chemgrit Cosmetics,Yes,Medium
+R1905030,Uvinul T150,,11,Unknown,Requires verification with Chemgrit Cosmetics,Yes,Medium
+R1905043,Cetiol SB45,,11,Unknown,Requires verification with Chemgrit Cosmetics,Yes,Medium
+R1905015,Aerosil R972,,12,Unknown,Requires verification with Protea Chemicals,Yes,Low
+R1905022,Drieline 1S,,13,Unknown,Requires verification with Orkila,Yes,Low
+R1905008,Hydranov P,,14,Unknown,Requires verification with Vantage Speciality,Yes,Medium
+R1905055,Ceramidone,,14,Unknown,Requires verification with Vantage Speciality,Yes,Medium
+R1905000,Allistin P5,,15,Unknown,Requires verification with Exsymol,Yes,Low
+R1905020,LPD's Asiatic Centella,,16,Unknown,Requires verification with Materia Medica,Yes,Medium
+R1905018,Glyco Repair,,17,Available,Silab ingredient via Meganede CC,Yes,High
+R1905027,Deglysome,,17,Available,Silab ingredient via Meganede CC,Yes,High
+R1905035,Sebonormine OP,,17,Available,Silab ingredient via Meganede CC,Yes,High
+R1905041,Unflamagyl,,17,Available,Silab ingredient via Meganede CC,Yes,High
+R1905046,Dermapur HP OP,,17,Available,Silab ingredient via Meganede CC,Yes,High
+R1905048,Vitagenyl,,17,Available,Silab ingredient via Meganede CC,Yes,High
+R1905049,Detoxyl OP,,17,Available,Silab ingredient via Meganede CC,Yes,High
+R1905050,Celldetox,,17,Available,Silab ingredient via Meganede CC,Yes,High
+R1905051,Mitokinyl,,17,Available,Silab ingredient via Meganede CC,Yes,High
+R1905052,Fermiskin GR,,17,Available,Silab ingredient via Meganede CC,Yes,High
+R1905053,Retilactyl D,,17,Available,Silab ingredient via Meganede CC,Yes,High
+R1905054,Raffermine 2,,17,Available,Silab ingredient via Meganede CC,Yes,High
+R1905056,Eternaline,,17,Available,Silab ingredient via Meganede CC,Yes,High
+R1905057,Oxygeskin,,17,Available,Silab ingredient via Meganede CC,Yes,High
+R1905058,Aquaphyline EL,,17,Available,Silab ingredient via Meganede CC,Yes,High
+R1905009,Caffeine,,18,Unknown,Requires verification with Merck,Yes,Medium
+R1905010,Malic Acid,,18,Unknown,Requires verification with Merck,Yes,Medium
+R1905032,Ronacare AP,,18,Unknown,Requires verification with Merck,Yes,Medium
+R1905044,Acnacidol BG,,19,Unknown,Requires verification with Millchem,Yes,Low
+R1905001,Rayolys D,,20,Available,Greentech botanical via Natchem CC,Yes,High
+R1905037,ARP 100,,20,Available,Greentech botanical via Natchem CC,Yes,High
+R1905045,Meadowsweet Medulat 220016,,20,Available,Greentech botanical via Natchem CC,Yes,High
+R1913000,Ivy Cosmelene Ext,,20,Available,Greentech botanical via Natchem CC,Yes,High
+R1913001,St John's Wort HG Ext,,20,Available,Greentech botanical via Natchem CC,Yes,High
+R1913002,Soapwort HG (3009) Extr,,20,Available,Greentech botanical via Natchem CC,Yes,High
+R1913003,Horsetail Cosmelene Ext,,20,Available,Greentech botanical via Natchem CC,Yes,High
+R1913004,Centella Asiatica Cosmelene Ex,,20,Available,Greentech botanical via Natchem CC,Yes,High
+R1913005,Yarrow Phytelene EG 472 Ext,,20,Available,Greentech botanical via Natchem CC,Yes,High
+R1913006,Geranium HG Ext,,20,Available,Greentech botanical via Natchem CC,Yes,High
+R1913007,Lavender HG Ext,,20,Available,Greentech botanical via Natchem CC,Yes,High
+R1913008,Rosemary HG Ext,,20,Available,Greentech botanical via Natchem CC,Yes,High
+R1913009,Arnica Phytenele EG 001 Ext,,20,Available,Greentech botanical via Natchem CC,Yes,High
+R1913011,Phytelene EGX 247 (BG) 620012,,20,Available,Greentech botanical via Natchem CC,Yes,High
+R1913012,Phytelene EGX 773 (BG) 620032,,20,Available,Greentech botanical via Natchem CC,Yes,High
+R1913013,Passion Flower Cosmelene,,20,Available,Greentech botanical via Natchem CC,Yes,High
+R1902002,Rewoderm S1333 KM 5,,21,Unknown,Requires verification with Orchem,Yes,Medium
+R1902999,ColaMate RM / replacement Rewoderm S1333 KM 5,,21,Unknown,Requires verification with Orchem,Yes,Medium
+R1901004,Waglinol 3/929,,22,Unknown,Requires verification with Savannah Fine Chem,Yes,Medium
+R1905005,AA2G,,22,Unknown,Requires verification with Savannah Fine Chem,Yes,Medium
+R1905006,Hydromanil,,22,Unknown,Requires verification with Savannah Fine Chem,Yes,Medium
+R1905007,Acquacell,,22,Unknown,Requires verification with Savannah Fine Chem,Yes,Medium
+R1905031,Ten's Up,,22,Unknown,Requires verification with Savannah Fine Chem,Yes,Medium
+R1905028,Celligent,,23,Unknown,Requires verification with IMCD South Africa,Yes,Medium
+R1905040,Defensil Plus,,23,Unknown,Requires verification with IMCD South Africa,Yes,Medium
+R1905013,Genencare OSMS BA,,23,Unknown,Requires verification with IMCD South Africa,Yes,Medium
+R1905038,ProRenew Complex CLR,,23,Unknown,Requires verification with IMCD South Africa,Yes,Medium
