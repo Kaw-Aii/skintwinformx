@@ -1,0 +1,730 @@
+[
+  {
+    "source": "R1907000",
+    "target": "06A0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1908000",
+    "target": "AEC001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1902003",
+    "target": "AKU001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905039",
+    "target": "BOT0003",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905042",
+    "target": "BOT0003",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905011",
+    "target": "CAR0002",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905012",
+    "target": "CAR0002",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905023",
+    "target": "CAR0002",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905024",
+    "target": "CAR0002",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905047",
+    "target": "CAR0002",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1911000",
+    "target": "CAR0002",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1911001",
+    "target": "CAR0002",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1911003",
+    "target": "CAR0002",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905016",
+    "target": "CHE0004",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905017",
+    "target": "CHE0004",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905021",
+    "target": "CHE0004",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1901001",
+    "target": "CJP0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1901006",
+    "target": "CJP0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1902000",
+    "target": "CJP0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1902001",
+    "target": "CJP0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905014",
+    "target": "CJP0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1906000",
+    "target": "CJP0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1906001",
+    "target": "CJP0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1911002",
+    "target": "CJP0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1913014",
+    "target": "CLI0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905004",
+    "target": "COS0007",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1901005",
+    "target": "CRO0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905002",
+    "target": "CRO0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905003",
+    "target": "CRO0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905025",
+    "target": "CRO0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905026",
+    "target": "CRO0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905033",
+    "target": "CRO0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905034",
+    "target": "CRO0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1901002",
+    "target": "CTE0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1901003",
+    "target": "CTE0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905019",
+    "target": "CTE0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905029",
+    "target": "CTE0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905030",
+    "target": "CTE0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905043",
+    "target": "CTE0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905015",
+    "target": "EVO0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905022",
+    "target": "HEX0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905008",
+    "target": "LIP0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905055",
+    "target": "LIP0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905000",
+    "target": "Maccullum",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905020",
+    "target": "MAT0002",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905018",
+    "target": "MEG0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905027",
+    "target": "MEG0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905035",
+    "target": "MEG0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905041",
+    "target": "MEG0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905046",
+    "target": "MEG0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905048",
+    "target": "MEG0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905049",
+    "target": "MEG0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905050",
+    "target": "MEG0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905051",
+    "target": "MEG0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905052",
+    "target": "MEG0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905053",
+    "target": "MEG0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905054",
+    "target": "MEG0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905056",
+    "target": "MEG0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905057",
+    "target": "MEG0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905058",
+    "target": "MEG0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905009",
+    "target": "MER0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905010",
+    "target": "MER0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905032",
+    "target": "MER0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905044",
+    "target": "MIL0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905001",
+    "target": "NAT0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905037",
+    "target": "NAT0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905045",
+    "target": "NAT0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1913000",
+    "target": "NAT0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1913001",
+    "target": "NAT0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1913002",
+    "target": "NAT0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1913003",
+    "target": "NAT0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1913004",
+    "target": "NAT0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1913005",
+    "target": "NAT0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1913006",
+    "target": "NAT0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1913007",
+    "target": "NAT0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1913008",
+    "target": "NAT0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1913009",
+    "target": "NAT0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1913011",
+    "target": "NAT0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1913012",
+    "target": "NAT0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1913013",
+    "target": "NAT0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1902002",
+    "target": "ORC0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1902999",
+    "target": "ORC0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1901004",
+    "target": "SAV0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905005",
+    "target": "SAV0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905006",
+    "target": "SAV0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905007",
+    "target": "SAV0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905031",
+    "target": "SAV0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905028",
+    "target": "SIY0002",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905040",
+    "target": "SIY0002",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905013",
+    "target": "TCC0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  },
+  {
+    "source": "R1905038",
+    "target": "TCC0001",
+    "type": "Directed",
+    "label": null,
+    "timeset": null,
+    "weight": 1
+  }
+]
