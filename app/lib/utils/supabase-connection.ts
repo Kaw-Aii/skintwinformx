@@ -5,7 +5,7 @@
  * It supports both direct connection via the pg client and integration with the Supabase API.
  */
 
-import { Pool, PoolClient } from 'pg';
+import { Pool, type PoolClient } from 'pg';
 import { createScopedLogger } from '~/utils/logger';
 import { supabaseConnection } from '~/lib/stores/supabase';
 
@@ -152,12 +152,12 @@ export async function executeSupabaseApiQuery<T = any>(
     });
     
     if (!response.ok) {
-      const errorData = await response.json();
+      const errorData = await response.json() as { error?: { message?: string } };
       throw new Error(errorData.error?.message || 'Failed to execute Supabase query');
     }
     
-    const result = await response.json();
-    return result.data as T[];
+    const result = await response.json() as { data: T[] };
+    return result.data;
   } catch (error) {
     logger.error('Error executing Supabase API query:', error);
     throw error;

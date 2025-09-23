@@ -5,7 +5,7 @@
  * It supports both direct connection via the pg client and integration with the Neon MCP.
  */
 
-import { Pool, PoolClient } from 'pg';
+import { Pool, type PoolClient } from 'pg';
 import { createScopedLogger } from '~/utils/logger';
 
 const logger = createScopedLogger('neon-connection');
