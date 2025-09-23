@@ -11,6 +11,33 @@ import { executeSupabaseQuery } from './supabase-connection';
 
 const logger = createScopedLogger('hypergraph-integration');
 
+// Type definitions for vessels database entries
+interface VesselsDbEntry {
+  inciName?: string;
+  casNumber?: string;
+  functions?: string[];
+  safetyRating?: string;
+  usageFrequency?: number;
+  name?: string;
+  type?: string;
+  ingredientCount?: number;
+  complexityScore?: number;
+  targetBenefits?: string[];
+  category?: string;
+  targetMarket?: string;
+  benefits?: string[];
+  code?: string;
+  regionsServed?: string[];
+  specialties?: string[];
+}
+
+interface VesselsDb {
+  ingredients: { entries: Record<string, VesselsDbEntry> };
+  formulations: { entries: Record<string, VesselsDbEntry> };
+  products: { entries: Record<string, VesselsDbEntry> };
+  suppliers: { entries: Record<string, VesselsDbEntry> };
+}
+
 /**
  * Types for hypergraph nodes and edges
  */
@@ -34,6 +61,16 @@ export interface Hypergraph {
   edges: HypergraphEdge[];
 }
 
+export interface HypergraphData {
+  nodes: HypergraphNode[];
+  edges: HypergraphEdge[];
+  metadata: {
+    nodeCount: number;
+    edgeCount: number;
+    generatedAt: string;
+  };
+}
+
 /**
  * Builds a hypergraph from the vessels data in memory
  */
@@ -42,375 +79,327 @@ export async function buildHypergraphFromVessels(vesselsDbPath: string): Promise
     logger.debug('Building hypergraph from vessels data');
     
     // Load the vessels database
-    const vesselsDb = await import(vesselsDbPath);
+    const vesselsDb = await import(vesselsDbPath) as VesselsDb;
     
-    const nodes: HypergraphNode[] = [];
-    const edges: HypergraphEdge[] = [];
-    
-    // Add ingredient nodes
-    for (const [id, ingredient] of Object.entries(vesselsDb.ingredients.entries)) {
+    return generateHypergraphFromVessels(vesselsDb);
+  } catch (error) {
+    logger.error('Failed to build hypergraph from vessels:', error);
+    throw error;
+  }
+}
+
+export function generateHypergraphFromVessels(vesselsDb: VesselsDb): HypergraphData {
+  const nodes: HypergraphNode[] = [];
+  const edges: HypergraphEdge[] = [];
+  
+  // Add ingredient nodes
+  for (const [id, ingredient] of Object.entries(vesselsDb.ingredients?.entries || {})) {
+    if (ingredient?.inciName) {
       nodes.push({
         id,
         type: 'ingredient',
         label: ingredient.inciName,
         properties: {
-          casNumber: ingredient.casNumber,
-          functions: ingredient.functions,
-          safetyRating: ingredient.safetyRating,
-          usageFrequency: ingredient.usageFrequency,
+          casNumber: ingredient.casNumber || '',
+          functions: ingredient.functions || [],
+          safetyRating: ingredient.safetyRating || '',
+          usageFrequency: ingredient.usageFrequency || 0,
         },
       });
     }
-    
-    // Add formulation nodes
-    for (const [id, formulation] of Object.entries(vesselsDb.formulations.entries)) {
+  }
+  
+  // Add formulation nodes
+  for (const [id, formulation] of Object.entries(vesselsDb.formulations?.entries || {})) {
+    if (formulation?.name) {
       nodes.push({
         id,
         type: 'formulation',
         label: formulation.name,
         properties: {
-          type: formulation.type,
-          ingredientCount: formulation.ingredientCount,
-          complexityScore: formulation.complexityScore,
+          type: formulation.type || '',
+          ingredientCount: formulation.ingredientCount || 0,
+          complexityScore: formulation.complexityScore || 0,
+          targetBenefits: formulation.targetBenefits || [],
         },
       });
     }
-    
-    // Add product nodes
-    for (const [id, product] of Object.entries(vesselsDb.products.entries)) {
+  }
+  
+  // Add product nodes
+  for (const [id, product] of Object.entries(vesselsDb.products?.entries || {})) {
+    if (product?.name) {
       nodes.push({
         id,
         type: 'product',
         label: product.name,
         properties: {
-          category: product.category,
-          targetMarket: product.targetMarket,
-          benefits: product.benefits,
+          category: product.category || '',
+          targetMarket: product.targetMarket || '',
+          benefits: product.benefits || [],
         },
       });
     }
-    
-    // Add supplier nodes
-    for (const [id, supplier] of Object.entries(vesselsDb.suppliers.entries)) {
+  }
+  
+  // Add supplier nodes
+  for (const [id, supplier] of Object.entries(vesselsDb.suppliers?.entries || {})) {
+    if (supplier?.name) {
       nodes.push({
         id,
         type: 'supplier',
         label: supplier.name,
         properties: {
-          code: supplier.code,
-          regionsServed: supplier.regionsServed,
-          specialties: supplier.specialties,
+          code: supplier.code || '',
+          regionsServed: supplier.regionsServed || [],
+          specialties: supplier.specialties || [],
         },
       });
     }
-    
-    // Add ingredient-to-formulation edges
-    for (const [source, targets] of Object.entries(vesselsDb.relationships.ingredientToFormulation)) {
+  }
+  
+  // Generate edges based on relationships
+  generateHypergraphEdges(vesselsDb, nodes, edges);
+  
+  return {
+    nodes,
+    edges,
+    metadata: {
+      nodeCount: nodes.length,
+      edgeCount: edges.length,
+      generatedAt: new Date().toISOString(),
+    },
+  };
+}
+
+function generateHypergraphEdges(
+  vesselsDb: VesselsDb,
+  nodes: HypergraphNode[],
+  edges: HypergraphEdge[]
+): void {
+  // Add ingredient-to-formulation edges
+  const ingredientTargets = vesselsDb.formulations?.entries || {};
+  for (const [formulationId, targets] of Object.entries(ingredientTargets)) {
+    if (Array.isArray(targets)) {
       for (const target of targets) {
-        edges.push({
-          id: `${source}-${target}`,
-          source,
-          target,
-          type: 'USED_IN',
-          properties: {},
-        });
+        if (typeof target === 'object' && target !== null && 'ingredientId' in target) {
+          edges.push({
+            id: `ingredient-${target.ingredientId}-formulation-${formulationId}`,
+            source: target.ingredientId as string,
+            target: formulationId,
+            type: 'contains',
+            properties: {
+              concentration: target.concentration || 0,
+              function: target.function || '',
+            },
+          });
+        }
       }
     }
-    
-    // Add formulation-to-product edges
-    for (const [source, targets] of Object.entries(vesselsDb.relationships.formulationToProduct)) {
+  }
+  
+  // Add formulation-to-product edges
+  const formulationTargets = vesselsDb.products?.entries || {};
+  for (const [productId, targets] of Object.entries(formulationTargets)) {
+    if (Array.isArray(targets)) {
       for (const target of targets) {
-        edges.push({
-          id: `${source}-${target}`,
-          source,
-          target,
-          type: 'FORMULATES',
-          properties: {},
-        });
+        if (typeof target === 'object' && target !== null && 'formulationId' in target) {
+          edges.push({
+            id: `formulation-${target.formulationId}-product-${productId}`,
+            source: target.formulationId as string,
+            target: productId,
+            type: 'implements',
+            properties: {
+              version: target.version || '1.0',
+            },
+          });
+        }
       }
     }
-    
-    // Add ingredient-to-supplier edges
-    for (const [source, targets] of Object.entries(vesselsDb.relationships.ingredientToSupplier)) {
+  }
+  
+  // Add supplier-to-ingredient edges
+  const supplierTargets = vesselsDb.ingredients?.entries || {};
+  for (const [ingredientId, targets] of Object.entries(supplierTargets)) {
+    if (Array.isArray(targets)) {
       for (const target of targets) {
-        edges.push({
-          id: `${source}-${target}`,
-          source,
-          target,
-          type: 'SUPPLIED_BY',
-          properties: {},
-        });
+        if (typeof target === 'object' && target !== null && 'supplierId' in target) {
+          edges.push({
+            id: `supplier-${target.supplierId}-ingredient-${ingredientId}`,
+            source: target.supplierId as string,
+            target: ingredientId,
+            type: 'supplies',
+            properties: {
+              price: target.price || 0,
+              availability: target.availability || 'unknown',
+            },
+          });
+        }
       }
     }
-    
-    // Add incompatibility edges
-    for (const [source, targets] of Object.entries(vesselsDb.relationships.incompatibilities)) {
+  }
+  
+  // Add product-to-market edges
+  const marketTargets = vesselsDb.products?.entries || {};
+  for (const [productId, targets] of Object.entries(marketTargets)) {
+    if (Array.isArray(targets)) {
       for (const target of targets) {
-        edges.push({
-          id: `${source}-${target}-incompatible`,
-          source,
-          target,
-          type: 'INCOMPATIBLE_WITH',
-          properties: {},
-        });
+        if (typeof target === 'object' && target !== null && 'marketId' in target) {
+          edges.push({
+            id: `product-${productId}-market-${target.marketId}`,
+            source: productId,
+            target: target.marketId as string,
+            type: 'targets',
+            properties: {
+              segment: target.segment || '',
+              priority: target.priority || 'medium',
+            },
+          });
+        }
       }
     }
-    
-    // Add substitution edges
-    for (const [source, targets] of Object.entries(vesselsDb.relationships.substitutions)) {
+  }
+  
+  // Add regulatory compliance edges
+  const regulatoryTargets = vesselsDb.formulations?.entries || {};
+  for (const [formulationId, targets] of Object.entries(regulatoryTargets)) {
+    if (Array.isArray(targets)) {
       for (const target of targets) {
-        edges.push({
-          id: `${source}-${target}-substitute`,
-          source,
-          target,
-          type: 'SUBSTITUTES',
-          properties: {},
-        });
+        if (typeof target === 'object' && target !== null && 'regulatoryId' in target) {
+          edges.push({
+            id: `formulation-${formulationId}-regulatory-${target.regulatoryId}`,
+            source: formulationId,
+            target: target.regulatoryId as string,
+            type: 'complies_with',
+            properties: {
+              status: target.status || 'pending',
+              region: target.region || 'global',
+            },
+          });
+        }
       }
     }
+  }
+}
+
+/**
+ * Synchronizes hypergraph data with Neon database
+ */
+export async function syncHypergraphToNeon(hypergraph: HypergraphData): Promise<void> {
+  try {
+    logger.debug('Syncing hypergraph to Neon database');
     
-    logger.debug(`Built hypergraph with ${nodes.length} nodes and ${edges.length} edges`);
+    // Clear existing hypergraph data
+    await executeNeonQuery({}, 'DELETE FROM hypergraph_nodes');
+    await executeNeonQuery({}, 'DELETE FROM hypergraph_edges');
     
-    return { nodes, edges };
+    // Insert nodes
+    for (const node of hypergraph.nodes) {
+      await executeNeonQuery(
+        {},
+        'INSERT INTO hypergraph_nodes (id, type, label, properties) VALUES ($1, $2, $3, $4)',
+        [node.id, node.type, node.label, JSON.stringify(node.properties)]
+      );
+    }
+    
+    // Insert edges
+    for (const edge of hypergraph.edges) {
+      await executeNeonQuery(
+        {},
+        'INSERT INTO hypergraph_edges (id, source, target, type, properties) VALUES ($1, $2, $3, $4, $5)',
+        [edge.id, edge.source, edge.target, edge.type, JSON.stringify(edge.properties)]
+      );
+    }
+    
+    logger.info(`Synced ${hypergraph.nodes.length} nodes and ${hypergraph.edges.length} edges to Neon`);
   } catch (error) {
-    logger.error('Error building hypergraph from vessels data:', error);
+    logger.error('Failed to sync hypergraph to Neon:', error);
     throw error;
   }
 }
 
 /**
- * Builds a hypergraph from the database
+ * Synchronizes hypergraph data with Supabase database
  */
-export async function buildHypergraphFromDatabase(
-  databaseType: 'neon' | 'supabase',
-  options: any = {}
-): Promise<Hypergraph> {
+export async function syncHypergraphToSupabase(hypergraph: HypergraphData): Promise<void> {
   try {
-    logger.debug(`Building hypergraph from ${databaseType} database`);
+    logger.debug('Syncing hypergraph to Supabase database');
     
-    const nodes: HypergraphNode[] = [];
-    const edges: HypergraphEdge[] = [];
+    // Clear existing hypergraph data
+    await executeSupabaseQuery({}, 'DELETE FROM hypergraph_nodes');
+    await executeSupabaseQuery({}, 'DELETE FROM hypergraph_edges');
     
-    // Query function based on database type
-    const executeQuery = databaseType === 'neon' 
-      ? (query: string, params: any[] = []) => executeNeonQuery(options, query, params)
-      : (query: string, params: any[] = []) => executeSupabaseQuery(options, query, params);
-    
-    // Get ingredients
-    const ingredients = await executeQuery(`
-      SELECT id, inci_name, cas_number, functions, safety_rating, usage_frequency
-      FROM ingredients
-    `);
-    
-    for (const ingredient of ingredients) {
-      nodes.push({
-        id: ingredient.id,
-        type: 'ingredient',
-        label: ingredient.inci_name,
-        properties: {
-          casNumber: ingredient.cas_number,
-          functions: ingredient.functions,
-          safetyRating: ingredient.safety_rating,
-          usageFrequency: ingredient.usage_frequency,
-        },
-      });
+    // Insert nodes
+    for (const node of hypergraph.nodes) {
+      await executeSupabaseQuery(
+        {},
+        'INSERT INTO hypergraph_nodes (id, type, label, properties) VALUES ($1, $2, $3, $4)',
+        [node.id, node.type, node.label, JSON.stringify(node.properties)]
+      );
     }
     
-    // Get formulations
-    const formulations = await executeQuery(`
-      SELECT id, name, type, ingredient_count, complexity_score
-      FROM formulations
-    `);
-    
-    for (const formulation of formulations) {
-      nodes.push({
-        id: formulation.id,
-        type: 'formulation',
-        label: formulation.name,
-        properties: {
-          type: formulation.type,
-          ingredientCount: formulation.ingredient_count,
-          complexityScore: formulation.complexity_score,
-        },
-      });
+    // Insert edges
+    for (const edge of hypergraph.edges) {
+      await executeSupabaseQuery(
+        {},
+        'INSERT INTO hypergraph_edges (id, source, target, type, properties) VALUES ($1, $2, $3, $4, $5)',
+        [edge.id, edge.source, edge.target, edge.type, JSON.stringify(edge.properties)]
+      );
     }
     
-    // Get products
-    const products = await executeQuery(`
-      SELECT id, name, category, target_market, benefits
-      FROM products
-    `);
-    
-    for (const product of products) {
-      nodes.push({
-        id: product.id,
-        type: 'product',
-        label: product.name,
-        properties: {
-          category: product.category,
-          targetMarket: product.target_market,
-          benefits: product.benefits,
-        },
-      });
-    }
-    
-    // Get suppliers
-    const suppliers = await executeQuery(`
-      SELECT id, name, code, regions_served, specialties
-      FROM suppliers
-    `);
-    
-    for (const supplier of suppliers) {
-      nodes.push({
-        id: supplier.id,
-        type: 'supplier',
-        label: supplier.name,
-        properties: {
-          code: supplier.code,
-          regionsServed: supplier.regions_served,
-          specialties: supplier.specialties,
-        },
-      });
-    }
-    
-    // Get ingredient usage edges
-    const ingredientUsage = await executeQuery(`
-      SELECT ingredient_id, formulation_id, concentration
-      FROM ingredient_usage
-    `);
-    
-    for (const usage of ingredientUsage) {
-      edges.push({
-        id: `${usage.ingredient_id}-${usage.formulation_id}`,
-        source: usage.ingredient_id,
-        target: usage.formulation_id,
-        type: 'USED_IN',
-        properties: {
-          concentration: usage.concentration,
-        },
-      });
-    }
-    
-    logger.debug(`Built hypergraph with ${nodes.length} nodes and ${edges.length} edges`);
-    
-    return { nodes, edges };
+    logger.info(`Synced ${hypergraph.nodes.length} nodes and ${hypergraph.edges.length} edges to Supabase`);
   } catch (error) {
-    logger.error(`Error building hypergraph from ${databaseType} database:`, error);
+    logger.error('Failed to sync hypergraph to Supabase:', error);
     throw error;
   }
 }
 
 /**
- * Calculates network metrics for a hypergraph
+ * Analyzes hypergraph structure and returns insights
  */
-export function calculateNetworkMetrics(graph: Hypergraph): Record<string, any> {
-  try {
-    logger.debug('Calculating network metrics');
-    
-    // Node counts by type
-    const nodeCounts = {
-      ingredient: 0,
-      formulation: 0,
-      product: 0,
-      supplier: 0,
-    };
-    
-    for (const node of graph.nodes) {
-      nodeCounts[node.type]++;
-    }
-    
-    // Edge counts by type
-    const edgeCounts: Record<string, number> = {};
-    
-    for (const edge of graph.edges) {
-      edgeCounts[edge.type] = (edgeCounts[edge.type] || 0) + 1;
-    }
-    
-    // Calculate degree for each node
-    const degrees: Record<string, { in: number; out: number; total: number }> = {};
-    
-    for (const node of graph.nodes) {
-      degrees[node.id] = { in: 0, out: 0, total: 0 };
-    }
-    
-    for (const edge of graph.edges) {
-      if (degrees[edge.source]) {
-        degrees[edge.source].out++;
-        degrees[edge.source].total++;
-      }
-      
-      if (degrees[edge.target]) {
-        degrees[edge.target].in++;
-        degrees[edge.target].total++;
-      }
-    }
-    
-    // Find nodes with highest degree
-    const highestDegreeNodes = Object.entries(degrees)
-      .sort((a, b) => b[1].total - a[1].total)
-      .slice(0, 10)
-      .map(([id, degree]) => {
-        const node = graph.nodes.find(n => n.id === id);
-        return {
-          id,
-          label: node?.label || id,
-          type: node?.type || 'unknown',
-          degree: degree.total,
-          inDegree: degree.in,
-          outDegree: degree.out,
-        };
-      });
-    
-    // Calculate basic network statistics
-    const networkStats = {
-      nodeCount: graph.nodes.length,
-      edgeCount: graph.edges.length,
-      density: graph.edges.length / (graph.nodes.length * (graph.nodes.length - 1)),
-      averageDegree: Object.values(degrees).reduce((sum, d) => sum + d.total, 0) / graph.nodes.length,
-    };
-    
-    return {
-      nodeCounts,
-      edgeCounts,
-      highestDegreeNodes,
-      networkStats,
-    };
-  } catch (error) {
-    logger.error('Error calculating network metrics:', error);
-    throw error;
+export function analyzeHypergraph(hypergraph: HypergraphData): Record<string, any> {
+  const analysis = {
+    nodeTypes: {} as Record<string, number>,
+    edgeTypes: {} as Record<string, number>,
+    connectivity: {
+      averageDegree: 0,
+      maxDegree: 0,
+      minDegree: Infinity,
+    },
+    clusters: [] as string[][],
+    centralNodes: [] as { id: string; degree: number }[],
+  };
+  
+  // Count node types
+  for (const node of hypergraph.nodes) {
+    analysis.nodeTypes[node.type] = (analysis.nodeTypes[node.type] || 0) + 1;
   }
-}
-
-/**
- * Identifies critical nodes in the hypergraph
- */
-export function identifyCriticalNodes(graph: Hypergraph): HypergraphNode[] {
-  try {
-    logger.debug('Identifying critical nodes');
-    
-    // Calculate degree for each node
-    const degrees: Record<string, number> = {};
-    
-    for (const edge of graph.edges) {
-      degrees[edge.source] = (degrees[edge.source] || 0) + 1;
-      degrees[edge.target] = (degrees[edge.target] || 0) + 1;
-    }
-    
-    // Find nodes with highest degree (top 5%)
-    const threshold = Math.floor(graph.nodes.length * 0.05);
-    const criticalNodeIds = Object.entries(degrees)
-      .sort((a, b) => b[1] - a[1])
-      .slice(0, Math.max(threshold, 5))
-      .map(([id]) => id);
-    
-    // Get the actual node objects
-    const criticalNodes = graph.nodes.filter(node => criticalNodeIds.includes(node.id));
-    
-    logger.debug(`Identified ${criticalNodes.length} critical nodes`);
-    
-    return criticalNodes;
-  } catch (error) {
-    logger.error('Error identifying critical nodes:', error);
-    throw error;
+  
+  // Count edge types
+  for (const edge of hypergraph.edges) {
+    analysis.edgeTypes[edge.type] = (analysis.edgeTypes[edge.type] || 0) + 1;
   }
+  
+  // Calculate node degrees
+  const nodeDegrees = new Map<string, number>();
+  for (const edge of hypergraph.edges) {
+    nodeDegrees.set(edge.source, (nodeDegrees.get(edge.source) || 0) + 1);
+    nodeDegrees.set(edge.target, (nodeDegrees.get(edge.target) || 0) + 1);
+  }
+  
+  // Calculate connectivity metrics
+  const degrees = Array.from(nodeDegrees.values());
+  if (degrees.length > 0) {
+    analysis.connectivity.averageDegree = degrees.reduce((a, b) => a + b, 0) / degrees.length;
+    analysis.connectivity.maxDegree = Math.max(...degrees);
+    analysis.connectivity.minDegree = Math.min(...degrees);
+  }
+  
+  // Find central nodes (top 10 by degree)
+  analysis.centralNodes = Array.from(nodeDegrees.entries())
+    .map(([id, degree]) => ({ id, degree }))
+    .sort((a, b) => b.degree - a.degree)
+    .slice(0, 10);
+  
+  return analysis;
 }
