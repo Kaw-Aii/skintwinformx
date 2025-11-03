@@ -77,6 +77,15 @@ export class BoltShell {
     return this.#readyPromise;
   }
 
+  reset() {
+    // Reset execution state
+    this.executionState.set(undefined);
+    // Clear terminal if available - using write to clear screen
+    if (this.#terminal) {
+      this.#terminal.write('\x1bc'); // Send clear screen escape sequence
+    }
+  }
+
   async init(webcontainer: WebContainer, terminal: ITerminal) {
     this.#webcontainer = webcontainer;
     this.#terminal = terminal;

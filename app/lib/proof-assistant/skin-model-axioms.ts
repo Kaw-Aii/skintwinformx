@@ -31,7 +31,7 @@ export class SkinModelAxiomSystem {
   /**
    * Get specific axiom by name
    */
-  public getAxiom(name: keyof SkinModelAxioms): FormalProposition | FormalProposition[] {
+  public getAxiom(name: keyof SkinModelAxioms): FormalProposition | FormalProposition[] | undefined {
     return this._axioms[name];
   }
 

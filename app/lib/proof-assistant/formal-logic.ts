@@ -49,6 +49,8 @@ export interface SkinModelAxioms {
   barrierFunction: FormalProposition;
   safetyConstraints: FormalProposition[];
   compatibilityRules: FormalProposition[];
+  molecularInteractions?: FormalProposition; // Optional molecular binding kinetics axiom
+  cellularProcesses?: FormalProposition; // Optional cellular differentiation axiom
 }
 
 /**

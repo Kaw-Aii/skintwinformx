@@ -1,0 +1,81 @@
+
+> skin.twin@1.0.0 typecheck /home/ubuntu/skintwinformx
+> tsc
+
+app/components/documents/MSDSGenerator.client.tsx(164,21): error TS2345: Argument of type 'undefined' is not assignable to parameter of type 'string'.
+app/components/documents/MSDSGenerator.client.tsx(173,21): error TS2345: Argument of type 'undefined' is not assignable to parameter of type 'string'.
+app/components/documents/MSDSGenerator.client.tsx(196,38): error TS2339: Property 'getNumberOfPages' does not exist on type '{ events: PubSub; scaleFactor: number; pageSize: { width: number; getWidth: () => number; height: number; getHeight: () => number; }; pages: number[]; getEncryptor(objectId: number): (data: string) => string; }'.
+app/components/documents/PIFGenerator.client.tsx(177,38): error TS2339: Property 'getNumberOfPages' does not exist on type '{ events: PubSub; scaleFactor: number; pageSize: { width: number; getWidth: () => number; height: number; getHeight: () => number; }; pages: number[]; getEncryptor(objectId: number): (data: string) => string; }'.
+app/components/multiscale-skin-viewer/MultiscaleSkinViewer.tsx(9,32): error TS2459: Module '"~/lib/proof-assistant/multiscale-coordinator"' declares 'ScaleType' locally, but it is not exported.
+app/components/multiscale-skin-viewer/MultiscaleSkinViewer.tsx(70,23): error TS7053: Element implicitly has an 'any' type because expression of type 'ScaleType' can't be used to index type 'MultiscaleState'.
+app/components/multiscale-skin-viewer/MultiscaleSkinViewer.tsx(148,33): error TS7053: Element implicitly has an 'any' type because expression of type 'ScaleType' can't be used to index type 'MultiscaleState'.
+app/components/multiscale-skin-viewer/MultiscaleSkinViewer.tsx(149,32): error TS7053: Element implicitly has an 'any' type because expression of type 'ScaleType' can't be used to index type 'MultiscaleState'.
+app/components/multiscale-skin-viewer/MultiscaleSkinViewer.tsx(150,28): error TS7053: Element implicitly has an 'any' type because expression of type 'ScaleType' can't be used to index type 'MultiscaleState'.
+app/components/multiscale-skin-viewer/MultiscaleSkinViewer.tsx(151,34): error TS7053: Element implicitly has an 'any' type because expression of type 'ScaleType' can't be used to index type 'MultiscaleState'.
+app/components/multiscale-skin-viewer/MultiscaleSkinViewer.tsx(160,39): error TS7053: Element implicitly has an 'any' type because expression of type 'ScaleType' can't be used to index type 'MultiscaleState'.
+app/components/proof-assistant/EnhancedProofAssistant.tsx(19,3): error TS2305: Module '"@heroicons/react/24/outline"' has no exported member 'BrainIcon'.
+app/components/proof-assistant/EnhancedProofAssistant.tsx(33,15): error TS2459: Module '"~/lib/proof-assistant/multiscale-coordinator"' declares 'ScaleType' locally, but it is not exported.
+app/components/proof-assistant/ProofAssistant.tsx(24,15): error TS2459: Module '"~/lib/proof-assistant/multiscale-coordinator"' declares 'ScaleType' locally, but it is not exported.
+app/components/proof-assistant/ProofAssistant.tsx(185,57): error TS2339: Property 'data' does not exist on type 'MultiscaleField'.
+app/components/proof-assistant/ProofAssistant.tsx(186,54): error TS2339: Property 'data' does not exist on type 'MultiscaleField'.
+app/components/proof-assistant/ProofAssistant.tsx(186,67): error TS7006: Parameter 'a' implicitly has an 'any' type.
+app/components/proof-assistant/ProofAssistant.tsx(186,70): error TS7006: Parameter 'b' implicitly has an 'any' type.
+app/components/proof-assistant/ProofAssistant.tsx(187,52): error TS2339: Property 'data' does not exist on type 'MultiscaleField'.
+app/components/proof-assistant/ProofAssistant.tsx(187,65): error TS7006: Parameter 'a' implicitly has an 'any' type.
+app/components/proof-assistant/ProofAssistant.tsx(187,68): error TS7006: Parameter 'b' implicitly has an 'any' type.
+app/components/proof-assistant/ProofAssistant.tsx(188,49): error TS2339: Property 'data' does not exist on type 'MultiscaleField'.
+app/components/proof-assistant/ProofAssistant.tsx(188,62): error TS7006: Parameter 'a' implicitly has an 'any' type.
+app/components/proof-assistant/ProofAssistant.tsx(188,65): error TS7006: Parameter 'b' implicitly has an 'any' type.
+app/components/proof-assistant/ProofAssistant.tsx(342,92): error TS2322: Type 'unknown' is not assignable to type 'ReactNode'.
+app/components/proof-assistant/ProofAssistant.tsx(363,100): error TS2322: Type 'unknown' is not assignable to type 'ReactNode'.
+app/lib/proof-assistant/ceo-subsystem.ts(380,37): error TS2345: Argument of type 'string | number' is not assignable to parameter of type 'number'.
+  Type 'string' is not assignable to type 'number'.
+app/lib/proof-assistant/ceo-subsystem.ts(383,37): error TS2345: Argument of type 'string | number' is not assignable to parameter of type 'number'.
+  Type 'string' is not assignable to type 'number'.
+app/lib/proof-assistant/ceo-subsystem.ts(387,13): error TS2322: Type 'string | number' is not assignable to type 'number'.
+  Type 'string' is not assignable to type 'number'.
+app/lib/proof-assistant/enhanced-formal-logic.ts(250,11): error TS2322: Type '{ name: string; }' is not assignable to type 'DependentType | PrimitiveType'.
+  Type '{ name: string; }' is missing the following properties from type 'DependentType': parameters, constraints, universe
+app/lib/proof-assistant/enhanced-formal-logic.ts(264,11): error TS2322: Type '{ name: string; }' is not assignable to type 'DependentType | PrimitiveType'.
+  Type '{ name: string; }' is missing the following properties from type 'DependentType': parameters, constraints, universe
+app/lib/proof-assistant/enhanced-formal-logic.ts(657,26): error TS2322: Type '{ type: string; name: string; args: (LogicalExpression | { type: string; name: string; })[]; }' is not assignable to type 'LogicalExpression'.
+  Types of property 'type' are incompatible.
+    Type 'string' is not assignable to type '"match" | "application" | "variable" | "lambda" | "pi" | "sigma" | "inductive"'.
+app/lib/proof-assistant/enhanced-proof-assistant.test.ts(8,56): error TS2307: Cannot find module '@jest/globals' or its corresponding type declarations.
+app/lib/proof-assistant/multiscale-coordinator.ts(7,38): error TS1484: 'MultiscaleField' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+app/lib/proof-assistant/multiscale-coordinator.ts(7,55): error TS1484: 'ScaleType' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+app/lib/proof-assistant/multiscale-tensor-operations.ts(7,15): error TS2459: Module '"./tensor-operations"' declares 'TensorField' locally, but it is not exported.
+app/lib/proof-assistant/multiscale-tensor-operations.ts(7,28): error TS2459: Module '"./tensor-operations"' declares 'TensorOperation' locally, but it is not exported.
+app/lib/proof-assistant/multiscale-tensor-operations.ts(40,7): error TS2353: Object literal may only specify known properties, and 'dimensions' does not exist in type 'MultiscaleField'.
+app/lib/proof-assistant/multiscale-tensor-operations.ts(72,7): error TS2353: Object literal may only specify known properties, and 'dimensions' does not exist in type 'MultiscaleField'.
+app/lib/proof-assistant/multiscale-tensor-operations.ts(108,7): error TS2353: Object literal may only specify known properties, and 'dimensions' does not exist in type 'MultiscaleField'.
+app/lib/proof-assistant/multiscale-tensor-operations.ts(145,7): error TS2353: Object literal may only specify known properties, and 'dimensions' does not exist in type 'MultiscaleField'.
+app/lib/proof-assistant/multiscale-tensor-operations.ts(176,7): error TS2353: Object literal may only specify known properties, and 'dimensions' does not exist in type 'MultiscaleField'.
+app/lib/proof-assistant/multiscale-tensor-operations.ts(176,31): error TS2339: Property 'dimensions' does not exist on type 'MultiscaleField'.
+app/lib/proof-assistant/multiscale-tensor-operations.ts(181,24): error TS2339: Property 'metadata' does not exist on type 'MultiscaleField'.
+app/lib/proof-assistant/multiscale-tensor-operations.ts(196,19): error TS2339: Property 'data' does not exist on type 'MultiscaleField'.
+app/lib/proof-assistant/multiscale-tensor-operations.ts(196,29): error TS7006: Parameter 'val' implicitly has an 'any' type.
+app/lib/proof-assistant/multiscale-tensor-operations.ts(196,34): error TS7006: Parameter 'idx' implicitly has an 'any' type.
+app/lib/proof-assistant/multiscale-tensor-operations.ts(197,21): error TS2339: Property 'data' does not exist on type 'MultiscaleField'.
+app/lib/proof-assistant/multiscale-tensor-operations.ts(197,39): error TS2339: Property 'data' does not exist on type 'MultiscaleField'.
+app/lib/proof-assistant/scales/cellular-scale.ts(180,45): error TS2339: Property 'data' does not exist on type 'MultiscaleField'.
+app/lib/proof-assistant/scales/cellular-scale.ts(180,118): error TS2339: Property 'data' does not exist on type 'MultiscaleField'.
+app/lib/proof-assistant/scales/cellular-scale.ts(453,7): error TS2353: Object literal may only specify known properties, and 'dimensions' does not exist in type 'MultiscaleField'.
+app/lib/proof-assistant/scales/cellular-scale.ts(486,54): error TS2339: Property 'data' does not exist on type 'MultiscaleField'.
+app/lib/proof-assistant/scales/cellular-scale.ts(486,127): error TS2339: Property 'data' does not exist on type 'MultiscaleField'.
+app/lib/proof-assistant/scales/molecular-scale.ts(263,7): error TS2353: Object literal may only specify known properties, and 'dimensions' does not exist in type 'MultiscaleField'.
+app/lib/proof-assistant/skin-functions/specialized-functions.ts(192,45): error TS2339: Property 'data' does not exist on type 'MultiscaleField'.
+app/lib/proof-assistant/skin-functions/specialized-functions.ts(192,118): error TS2339: Property 'data' does not exist on type 'MultiscaleField'.
+app/lib/proof-assistant/skin-functions/specialized-functions.ts(197,39): error TS2339: Property 'data' does not exist on type 'MultiscaleField'.
+app/lib/proof-assistant/skin-functions/specialized-functions.ts(197,111): error TS2339: Property 'data' does not exist on type 'MultiscaleField'.
+app/lib/proof-assistant/skin-functions/specialized-functions.ts(202,41): error TS2339: Property 'data' does not exist on type 'MultiscaleField'.
+app/lib/proof-assistant/skin-functions/specialized-functions.ts(202,111): error TS2339: Property 'data' does not exist on type 'MultiscaleField'.
+app/lib/proof-assistant/skin-functions/specialized-functions.ts(267,40): error TS2339: Property 'data' does not exist on type 'MultiscaleField'.
+app/lib/proof-assistant/skin-functions/specialized-functions.ts(267,112): error TS2339: Property 'data' does not exist on type 'MultiscaleField'.
+app/lib/proof-assistant/skin-functions/specialized-functions.ts(272,41): error TS2339: Property 'data' does not exist on type 'MultiscaleField'.
+app/lib/proof-assistant/skin-functions/specialized-functions.ts(272,111): error TS2339: Property 'data' does not exist on type 'MultiscaleField'.
+app/lib/proof-assistant/skin-model-axioms.ts(35,5): error TS2322: Type 'FormalProposition | FormalProposition[] | undefined' is not assignable to type 'FormalProposition | FormalProposition[]'.
+  Type 'undefined' is not assignable to type 'FormalProposition | FormalProposition[]'.
+app/lib/proof-assistant/skin-model-axioms.ts(86,7): error TS2353: Object literal may only specify known properties, and 'cellularProcesses' does not exist in type 'SkinModelAxioms'.
+app/utils/shell.ts(85,22): error TS2339: Property 'clear' does not exist on type 'ITerminal'.
+ ELIFECYCLE  Command failed with exit code 2.

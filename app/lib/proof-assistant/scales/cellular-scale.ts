@@ -177,7 +177,7 @@ export class CellularScaleModel {
 
   private processMolecularSignals(molecularField: MultiscaleField): void {
     // Extract growth factor concentrations from molecular field
-    const avgConcentration = molecularField.data.reduce((a, b) => a + b, 0) / molecularField.data.length;
+    const avgConcentration = molecularField.data.reduce((a: number, b: number): number => a + b, 0) / molecularField.data.length;
     
     // Update growth factor levels based on molecular input
     this.growthFactors.forEach((currentLevel, factorName) => {
@@ -216,14 +216,15 @@ export class CellularScaleModel {
 
   private updateCellDifferentiation(): void {
     this.cells.forEach(cell => {
-      if (cell.type !== 'corneocyte') {
+      const isTerminallyDifferentiated = cell.type === 'corneocyte' || cell.type === 'melanocyte' || cell.type === 'langerhans' || cell.type === 'fibroblast';
+      if (!isTerminallyDifferentiated) {
         const differentiationSignal = this.calculateDifferentiationSignal(cell);
         
         if (differentiationSignal > 0.5) {
           cell.differentiationStage += 0.01 * this.timeStep;
           
           // Update cell type based on differentiation stage
-          if (cell.differentiationStage > 0.8 && cell.type !== 'corneocyte') {
+          if (cell.differentiationStage > 0.8 && !isTerminallyDifferentiated) {
             cell.type = this.getNextDifferentiationStage(cell.type);
           }
         }
@@ -482,7 +483,7 @@ export class CellularScaleModel {
    */
   public applyMolecularInfluence(molecularField: MultiscaleField): void {
     // Process molecular signals affecting cellular behavior
-    const avgMolecularConcentration = molecularField.data.reduce((a, b) => a + b, 0) / molecularField.data.length;
+    const avgMolecularConcentration = molecularField.data.reduce((a: number, b: number): number => a + b, 0) / molecularField.data.length;
     
     // Adjust growth factors based on molecular signals
     this.growthFactors.forEach((currentLevel, factorName) => {

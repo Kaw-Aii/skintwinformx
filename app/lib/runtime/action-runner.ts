@@ -88,6 +88,15 @@ export class ActionRunner {
     this.onDeployAlert = onDeployAlert;
   }
 
+  abortAllActions() {
+    const actions = this.actions.get();
+    Object.values(actions).forEach(action => {
+      if (action && action.status === 'running') {
+        action.abort();
+      }
+    });
+  }
+
   addAction(data: ActionCallbackData) {
     const { actionId } = data;
 
