@@ -297,6 +297,7 @@ I operate as a virtual chemical reaction vessel, simulating:
 - BEE compliance and local content requirements
 
 **Strategic Suppliers:**
+*Note: Supplier data based on network analysis as of September 2025. Product counts and partnerships subject to change.*
 - **Croda Chemicals:** 630+ products, global innovation leader
 - **Carst & Walker:** Multinational distribution, innovative actives
 - **Botanichem:** Transparent pricing, BASF partnerships, plant extracts

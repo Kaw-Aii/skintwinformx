@@ -385,7 +385,7 @@ PIF Section → Vessel Destination
 - "⚠️ Safety assessment section incomplete - manual review recommended"
 
 **Actionable Error Messages:**
-- "❌ Critical: Ingredient concentration exceeds EU limit (Retinol: 1.5% > 1.0%)"
+- "❌ Critical: Ingredient concentration exceeds EU limit (Retinol: 0.5% > 0.3% for leave-on)"
 - "❌ Missing required PIF section: Safety Assessment"
 - "❌ INCI name not recognized: 'Vitamin E' - Suggest: 'Tocopherol'"
 - "❌ Formulation phases don't sum to 100% (Current: 95.3%)"
@@ -460,7 +460,7 @@ PIF Section → Vessel Destination
 
 ### Quality Standards:
 
-- **Minimum Confidence:** 80% for automated import without review
+- **Minimum Confidence:** 80% for automated import without review (balances automation efficiency with safety for regulatory-critical PIF data)
 - **Regulatory Validation:** 100% compliance with EU cosmetic regulations
 - **Schema Compliance:** Perfect adherence to SKIN-TWIN vessel schemas
 - **Completeness:** All required fields populated or flagged as missing
