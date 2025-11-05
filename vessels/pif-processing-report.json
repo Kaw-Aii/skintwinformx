@@ -1,0 +1,140 @@
+{
+  "generated": "2025-11-05T13:15:38.371Z",
+  "summary": {
+    "total": 13,
+    "successful": 13,
+    "failed": 0
+  },
+  "results": [
+    {
+      "fileName": "PIF - Zone - 'Acne Attack' Pro-Masque - 2021_08.doc",
+      "success": true,
+      "productName": "Zone - 'Acne Attack' Pro-Masque",
+      "vesselsGenerated": {
+        "product": "B19PRDZONEACNEATTACKP",
+        "formulation": "B19FRMZONEACNEATTACKP",
+        "pif": "B19PIFZONEACNEATTACKP"
+      }
+    },
+    {
+      "fileName": "PIF - Zone - 'Acne Attack' Rescue Serum - 2021_08.doc",
+      "success": true,
+      "productName": "Zone - 'Acne Attack' Rescue Serum",
+      "vesselsGenerated": {
+        "product": "B19PRDZONEACNEATTACKR",
+        "formulation": "B19FRMZONEACNEATTACKR",
+        "pif": "B19PIFZONEACNEATTACKR"
+      }
+    },
+    {
+      "fileName": "PIF - Zone - 30 Power Peel NE Gel (Final) - 2021_08.doc",
+      "success": true,
+      "productName": "Masque",
+      "vesselsGenerated": {
+        "product": "B19PRDMASQUE",
+        "formulation": "B19FRMMASQUE",
+        "pif": "B19PIFMASQUE"
+      }
+    },
+    {
+      "fileName": "PIF - Zone - 50 Power Peel NE Gel (Final) - 2021_08.doc",
+      "success": true,
+      "productName": "Zone - 50 Power Peel NE Gel (Final)",
+      "vesselsGenerated": {
+        "product": "B19PRDZONE50POWERPEEL",
+        "formulation": "B19FRMZONE50POWERPEEL",
+        "pif": "B19PIFZONE50POWERPEEL"
+      }
+    },
+    {
+      "fileName": "PIF - Zone - Age Reversal - 2021_08.doc",
+      "success": true,
+      "productName": "Zone - Age Reversal",
+      "vesselsGenerated": {
+        "product": "B19PRDZONEAGEREVERSAL",
+        "formulation": "B19FRMZONEAGEREVERSAL",
+        "pif": "B19PIFZONEAGEREVERSAL"
+      }
+    },
+    {
+      "fileName": "PIF - SpaZone - Instant Facial Lifting Wonder Serum - 2021_08.pdf",
+      "success": true,
+      "productName": "Enhancing Serum",
+      "vesselsGenerated": {
+        "product": "B19PRDENHANCINGSERUM",
+        "formulation": "B19FRMENHANCINGSERUM",
+        "pif": "B19PIFENHANCINGSERUM"
+      }
+    },
+    {
+      "fileName": "PIF - SpaZone - Marine Replenishing Peptide Masque - 2021_08.pdf",
+      "success": true,
+      "productName": "Product type Face Mask",
+      "vesselsGenerated": {
+        "product": "B19PRDPRODUCTTYPEFACE",
+        "formulation": "B19FRMPRODUCTTYPEFACE",
+        "pif": "B19PIFPRODUCTTYPEFACE"
+      }
+    },
+    {
+      "fileName": "PIF - SpaZone - Neck and Breast Refining Complex - 2021_08.pdf",
+      "success": true,
+      "productName": "Product type Neck",
+      "vesselsGenerated": {
+        "product": "B19PRDPRODUCTTYPENECK",
+        "formulation": "B19FRMPRODUCTTYPENECK",
+        "pif": "B19PIFPRODUCTTYPENECK"
+      }
+    },
+    {
+      "fileName": "PIF - SpaZone - O2 Purifyer Face + Body Enhancing Serum - 2021_08.pdf",
+      "success": true,
+      "productName": "Enhancing Serum",
+      "vesselsGenerated": {
+        "product": "B19PRDENHANCINGSERUM",
+        "formulation": "B19FRMENHANCINGSERUM",
+        "pif": "B19PIFENHANCINGSERUM"
+      }
+    },
+    {
+      "fileName": "PIF - SpaZone - O2 Radiance Luminosity Masque - 2021_08.pdf",
+      "success": true,
+      "productName": "2",
+      "vesselsGenerated": {
+        "product": "B19PRD2",
+        "formulation": "B19FRM2",
+        "pif": "B19PIF2"
+      }
+    },
+    {
+      "fileName": "PIF - SpaZone - Slimming Sculpting Solution Lift Firm Tone Sculpt - 2021_08.pdf",
+      "success": true,
+      "productName": "Product type Body Cream",
+      "vesselsGenerated": {
+        "product": "B19PRDPRODUCTTYPEBODY",
+        "formulation": "B19FRMPRODUCTTYPEBODY",
+        "pif": "B19PIFPRODUCTTYPEBODY"
+      }
+    },
+    {
+      "fileName": "PIF - SpaZone - Target Cellulite Silhoutte Contouring Complex - 2021_08.pdf",
+      "success": true,
+      "productName": "Product type Cream",
+      "vesselsGenerated": {
+        "product": "B19PRDPRODUCTTYPECREA",
+        "formulation": "B19FRMPRODUCTTYPECREA",
+        "pif": "B19PIFPRODUCTTYPECREA"
+      }
+    },
+    {
+      "fileName": "PIF - SpaZone - Urban Stress Protect + Detox Clarifying Masque - 2021_08.pdf",
+      "success": true,
+      "productName": "Product type Face Clarifying Masque",
+      "vesselsGenerated": {
+        "product": "B19PRDPRODUCTTYPEFACE",
+        "formulation": "B19FRMPRODUCTTYPEFACE",
+        "pif": "B19PIFPRODUCTTYPEFACE"
+      }
+    }
+  ]
+}

@@ -42,7 +42,8 @@
     "db:push": "drizzle-kit push",
     "db:generate": "drizzle-kit generate",
     "db:studio": "drizzle-kit studio",
-    "db:migrate": "drizzle-kit migrate"
+    "db:migrate": "drizzle-kit migrate",
+    "process-pif": "node scripts/process-pif-documents.cjs"
   },
   "engines": {
     "node": ">=18.18.0"
@@ -130,6 +131,7 @@
     "jspdf": "^3.0.1",
     "jszip": "^3.10.1",
     "lucide-react": "^0.485.0",
+    "mammoth": "^1.11.0",
     "mime": "^4.0.4",
     "nanostores": "^0.10.3",
     "ollama-ai-provider": "^0.15.2",
@@ -180,6 +182,7 @@
     "@types/file-saver": "^2.0.7",
     "@types/jest": "^30.0.0",
     "@types/js-cookie": "^3.0.6",
+    "@types/node": "^24.10.0",
     "@types/path-browserify": "^1.0.3",
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
@@ -204,6 +207,7 @@
     "sass-embedded": "^1.81.0",
     "stream-browserify": "^3.0.0",
     "ts-jest": "^29.4.4",
+    "ts-node": "^10.9.2",
     "typescript": "^5.7.2",
     "unified": "^11.0.5",
     "unocss": "^0.61.9",

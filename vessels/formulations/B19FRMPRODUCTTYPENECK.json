@@ -1,0 +1,12 @@
+{
+  "id": "B19FRMPRODUCTTYPENECK",
+  "product_reference": "B19PRDPRODUCTTYPENECK",
+  "name": "Product type Neck",
+  "ingredients": [],
+  "total_concentration": 0,
+  "extraction_metadata": {
+    "source_document": "PIF - SpaZone - Neck and Breast Refining Complex - 2021_08.pdf",
+    "extraction_date": "2025-11-05T13:15:37.655Z",
+    "quality_score": 50
+  }
+}

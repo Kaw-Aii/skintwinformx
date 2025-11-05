@@ -1,0 +1,17 @@
+{
+  "id": "B19PRDPRODUCTTYPECREA",
+  "label": "Product type Cream",
+  "type": "Form Emulsion",
+  "form": "maintained electronically with the PIF by the Responsible Person. They are available on",
+  "category": "treatment",
+  "ingredient_count": 0,
+  "source": {
+    "pif_document": "PIF - SpaZone - Target Cellulite Silhoutte Contouring Complex - 2021_08.pdf",
+    "extraction_date": "2025-11-05T13:15:38.233Z",
+    "extraction_quality": 50
+  },
+  "metadata": {
+    "manufacturer": "Unknown",
+    "code": ""
+  }
+}

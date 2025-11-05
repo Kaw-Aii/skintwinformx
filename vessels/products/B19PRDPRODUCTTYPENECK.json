@@ -1,0 +1,17 @@
+{
+  "id": "B19PRDPRODUCTTYPENECK",
+  "label": "Product type Neck",
+  "type": "Form Cream",
+  "form": "maintained electronically with the PIF by the Responsible Person. They are available on",
+  "category": "cream",
+  "ingredient_count": 0,
+  "source": {
+    "pif_document": "PIF - SpaZone - Neck and Breast Refining Complex - 2021_08.pdf",
+    "extraction_date": "2025-11-05T13:15:37.655Z",
+    "extraction_quality": 50
+  },
+  "metadata": {
+    "manufacturer": "Unknown",
+    "code": ""
+  }
+}
