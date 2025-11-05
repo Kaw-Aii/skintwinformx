@@ -1,7 +1,7 @@
 {
-  "id": "B19PIFPRODUCTTYPECREA",
-  "product_reference": "B19PRDPRODUCTTYPECREA",
-  "formulation_reference": "B19FRMPRODUCTTYPECREA",
+  "id": "B19PIFSPAZONETARGETCE",
+  "product_reference": "B19PRDSPAZONETARGETCE",
+  "formulation_reference": "B19FRMSPAZONETARGETCE",
   "document_metadata": {
     "filename": "PIF - SpaZone - Target Cellulite Silhoutte Contouring Complex - 2021_08.pdf",
     "format": "pdf",
@@ -9,14 +9,14 @@
     "path": "/home/runner/work/skintwinformx/skintwinformx/vessels/msdspif/PIF - SpaZone - Target Cellulite Silhoutte Contouring Complex - 2021_08.pdf"
   },
   "extraction": {
-    "date": "2025-11-05T13:15:38.233Z",
+    "date": "2025-11-05T13:24:03.379Z",
     "quality": 50,
     "raw_text_length": 37669
   },
   "product_info": {
-    "name": "Product type Cream",
+    "name": "SpaZone - Target Cellulite Silhoutte Contouring Complex",
     "type": "Form Emulsion",
-    "form": "maintained electronically with the PIF by the Responsible Person. They are available on",
+    "form": "Appendix 4.",
     "manufacturer": "Unknown",
     "code": ""
   },

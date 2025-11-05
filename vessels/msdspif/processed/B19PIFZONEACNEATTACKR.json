@@ -9,14 +9,14 @@
     "path": "/home/runner/work/skintwinformx/skintwinformx/PIF - Zone - 'Acne Attack' Rescue Serum - 2021_08.doc"
   },
   "extraction": {
-    "date": "2025-11-05T13:15:36.876Z",
+    "date": "2025-11-05T13:24:01.977Z",
     "quality": 50,
     "raw_text_length": 40053
   },
   "product_info": {
     "name": "Zone - 'Acne Attack' Rescue Serum",
-    "type": "|Form                 |Cream gel                                     |",
-    "form": "insert are maintained electronically with the PIF by the Responsible",
+    "type": "Post-peel gel",
+    "form": "Cream gel",
     "manufacturer": "Unknown",
     "code": ""
   },

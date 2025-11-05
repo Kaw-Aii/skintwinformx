@@ -1,7 +1,7 @@
 {
-  "id": "B19PIFPRODUCTTYPEBODY",
-  "product_reference": "B19PRDPRODUCTTYPEBODY",
-  "formulation_reference": "B19FRMPRODUCTTYPEBODY",
+  "id": "B19PIFSPAZONESLIMMING",
+  "product_reference": "B19PRDSPAZONESLIMMING",
+  "formulation_reference": "B19FRMSPAZONESLIMMING",
   "document_metadata": {
     "filename": "PIF - SpaZone - Slimming Sculpting Solution Lift Firm Tone Sculpt - 2021_08.pdf",
     "format": "pdf",
@@ -9,14 +9,14 @@
     "path": "/home/runner/work/skintwinformx/skintwinformx/vessels/msdspif/PIF - SpaZone - Slimming Sculpting Solution Lift Firm Tone Sculpt - 2021_08.pdf"
   },
   "extraction": {
-    "date": "2025-11-05T13:15:38.076Z",
+    "date": "2025-11-05T13:24:03.223Z",
     "quality": 50,
     "raw_text_length": 37510
   },
   "product_info": {
-    "name": "Product type Body Cream",
-    "type": "SCCS Notes of Guidance for the testing of Cosmetic Ingredients and their Safety evaluation, 9",
-    "form": "maintained electronically with the PIF by the Responsible Person. They are available on",
+    "name": "SpaZone - Slimming Sculpting Solution Lift Firm Tone Sculpt",
+    "type": "Form Cream",
+    "form": "ANIMAL TESTING STATEMENT",
     "manufacturer": "Unknown",
     "code": ""
   },

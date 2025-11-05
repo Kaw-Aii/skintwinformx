@@ -1,7 +1,7 @@
 {
-  "id": "B19PIFPRODUCTTYPEFACE",
-  "product_reference": "B19PRDPRODUCTTYPEFACE",
-  "formulation_reference": "B19FRMPRODUCTTYPEFACE",
+  "id": "B19PIFSPAZONEURBANSTR",
+  "product_reference": "B19PRDSPAZONEURBANSTR",
+  "formulation_reference": "B19FRMSPAZONEURBANSTR",
   "document_metadata": {
     "filename": "PIF - SpaZone - Urban Stress Protect + Detox Clarifying Masque - 2021_08.pdf",
     "format": "pdf",
@@ -9,14 +9,14 @@
     "path": "/home/runner/work/skintwinformx/skintwinformx/vessels/msdspif/PIF - SpaZone - Urban Stress Protect + Detox Clarifying Masque - 2021_08.pdf"
   },
   "extraction": {
-    "date": "2025-11-05T13:15:38.370Z",
+    "date": "2025-11-05T13:24:03.511Z",
     "quality": 50,
     "raw_text_length": 31653
   },
   "product_info": {
-    "name": "Product type Face Clarifying Masque",
+    "name": "SpaZone - Urban Stress Protect + Detox Clarifying Masque",
     "type": "Form Light cream",
-    "form": "maintained electronically with the PIF by the Responsible Person. They are available on",
+    "form": "22",
     "manufacturer": "Unknown",
     "code": ""
   },

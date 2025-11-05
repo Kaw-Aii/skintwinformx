@@ -1,13 +1,13 @@
 {
-  "id": "B19PRD2",
-  "label": "2",
+  "id": "B19PRDSPAZONEO2RADIAN",
+  "label": "SpaZone - O2 Radiance Luminosity Masque",
   "type": "Form Cream",
-  "form": "maintained electronically with the PIF by the Responsible Person. They are available on",
+  "form": "O",
   "category": "cream",
   "ingredient_count": 0,
   "source": {
     "pif_document": "PIF - SpaZone - O2 Radiance Luminosity Masque - 2021_08.pdf",
-    "extraction_date": "2025-11-05T13:15:37.927Z",
+    "extraction_date": "2025-11-05T13:24:03.052Z",
     "extraction_quality": 50
   },
   "metadata": {

@@ -1,0 +1,24 @@
+{
+  "id": "B19PIFSPAZONEMARINERE",
+  "product_reference": "B19PRDSPAZONEMARINERE",
+  "formulation_reference": "B19FRMSPAZONEMARINERE",
+  "document_metadata": {
+    "filename": "PIF - SpaZone - Marine Replenishing Peptide Masque - 2021_08.pdf",
+    "format": "pdf",
+    "size": 1855968,
+    "path": "/home/runner/work/skintwinformx/skintwinformx/vessels/msdspif/PIF - SpaZone - Marine Replenishing Peptide Masque - 2021_08.pdf"
+  },
+  "extraction": {
+    "date": "2025-11-05T13:24:02.536Z",
+    "quality": 50,
+    "raw_text_length": 33621
+  },
+  "product_info": {
+    "name": "SpaZone - Marine Replenishing Peptide Masque",
+    "type": "Form Gel",
+    "form": "20",
+    "manufacturer": "Unknown",
+    "code": ""
+  },
+  "ingredients_count": 0
+}

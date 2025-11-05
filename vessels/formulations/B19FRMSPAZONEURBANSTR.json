@@ -1,12 +1,12 @@
 {
-  "id": "B19FRMPRODUCTTYPEFACE",
-  "product_reference": "B19PRDPRODUCTTYPEFACE",
-  "name": "Product type Face Clarifying Masque",
+  "id": "B19FRMSPAZONEURBANSTR",
+  "product_reference": "B19PRDSPAZONEURBANSTR",
+  "name": "SpaZone - Urban Stress Protect + Detox Clarifying Masque",
   "ingredients": [],
   "total_concentration": 0,
   "extraction_metadata": {
     "source_document": "PIF - SpaZone - Urban Stress Protect + Detox Clarifying Masque - 2021_08.pdf",
-    "extraction_date": "2025-11-05T13:15:38.370Z",
+    "extraction_date": "2025-11-05T13:24:03.511Z",
     "quality_score": 50
   }
 }

@@ -1,13 +1,13 @@
 {
   "id": "B19PRDZONEACNEATTACKP",
   "label": "Zone - 'Acne Attack' Pro-Masque",
-  "type": "|Form                 |Cream                                         |",
-  "form": "insert are maintained electronically with the PIF by the Responsible",
-  "category": "cream",
+  "type": "Masque to help congested skins",
+  "form": "Fragrances:",
+  "category": "mask",
   "ingredient_count": 0,
   "source": {
     "pif_document": "PIF - Zone - 'Acne Attack' Pro-Masque - 2021_08.doc",
-    "extraction_date": "2025-11-05T13:15:36.869Z",
+    "extraction_date": "2025-11-05T13:24:01.970Z",
     "extraction_quality": 50
   },
   "metadata": {

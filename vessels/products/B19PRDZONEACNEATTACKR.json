@@ -1,13 +1,13 @@
 {
   "id": "B19PRDZONEACNEATTACKR",
   "label": "Zone - 'Acne Attack' Rescue Serum",
-  "type": "|Form                 |Cream gel                                     |",
-  "form": "insert are maintained electronically with the PIF by the Responsible",
-  "category": "cream",
+  "type": "Post-peel gel",
+  "form": "Cream gel",
+  "category": "gel",
   "ingredient_count": 0,
   "source": {
     "pif_document": "PIF - Zone - 'Acne Attack' Rescue Serum - 2021_08.doc",
-    "extraction_date": "2025-11-05T13:15:36.876Z",
+    "extraction_date": "2025-11-05T13:24:01.976Z",
     "extraction_quality": 50
   },
   "metadata": {

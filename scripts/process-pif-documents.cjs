@@ -176,11 +176,18 @@ class PIFDocumentProcessor {
   async extractFromWord(filePath) {
     // Check if it's an old .doc file by trying to detect the format
     const { execSync } = require('child_process');
+    const { execFile } = require('child_process');
+    const { promisify } = require('util');
+    const execFileAsync = promisify(execFile);
     
     try {
       // Try using antiword for .doc files (older format)
-      const text = execSync(`antiword "${filePath}"`, { encoding: 'utf8', maxBuffer: 10 * 1024 * 1024 });
-      return text;
+      // Using execFile instead of execSync for better security (no shell injection)
+      const { stdout } = await execFileAsync('antiword', [filePath], { 
+        encoding: 'utf8', 
+        maxBuffer: 10 * 1024 * 1024 
+      });
+      return stdout;
     } catch (error) {
       // If antiword fails, try mammoth for .docx
       try {
@@ -220,30 +227,58 @@ class PIFDocumentProcessor {
     // Try to extract more specific product info from text
     for (let i = 0; i < lines.length; i++) {
       const line = lines[i];
+      const nextLine = lines[i + 1] || '';
 
-      // Product name patterns
-      if (line.toLowerCase().includes('product name') && lines[i + 1]) {
-        const nameMatch = lines[i + 1].match(/^[\w\s\-']+/);
-        if (nameMatch) {
+      // Product name patterns - look for exact "Product Name:" label
+      if (line.toLowerCase().trim() === 'product name:' && nextLine) {
+        const nameMatch = nextLine.match(/^[A-Za-z\s\-']+/);
+        if (nameMatch && nameMatch[0].length > 3) {
           productInfo.name = nameMatch[0].trim();
         }
       }
 
-      // Product type
+      // Product type - look for "Product type" followed by value
       if (line.toLowerCase().includes('product type')) {
-        if (lines[i].includes(':')) {
-          productInfo.type = lines[i].split(':')[1].trim();
-        } else if (lines[i + 1]) {
-          productInfo.type = lines[i + 1];
+        // Check if it's in table format with | separators
+        if (line.includes('|')) {
+          const parts = line.split('|').map(p => p.trim()).filter(p => p);
+          // Look for the value after "Product type"
+          const typeIndex = parts.findIndex(p => p.toLowerCase().includes('product type'));
+          if (typeIndex >= 0 && parts[typeIndex + 1]) {
+            const typeValue = parts[typeIndex + 1].trim();
+            // Only use if it looks like a valid product type (not table formatting)
+            if (typeValue.length > 0 && typeValue.length < 50 && !typeValue.includes('|')) {
+              productInfo.type = typeValue;
+            }
+          }
+        } else if (line.includes(':')) {
+          const typeValue = line.split(':')[1].trim();
+          if (typeValue.length > 0 && typeValue.length < 50) {
+            productInfo.type = typeValue;
+          }
+        } else if (nextLine && nextLine.length > 0 && nextLine.length < 50) {
+          productInfo.type = nextLine;
         }
       }
 
-      // Form
-      if (line.toLowerCase().includes('form') && !line.toLowerCase().includes('formulation')) {
-        if (lines[i].includes(':')) {
-          productInfo.form = lines[i].split(':')[1].trim();
-        } else if (lines[i + 1]) {
-          productInfo.form = lines[i + 1];
+      // Form - look for "Form" label (not "Formulation")
+      if (line.toLowerCase() === 'form' || (line.toLowerCase().includes('form') && !line.toLowerCase().includes('formulation'))) {
+        if (line.includes('|')) {
+          const parts = line.split('|').map(p => p.trim()).filter(p => p);
+          const formIndex = parts.findIndex(p => p.toLowerCase() === 'form');
+          if (formIndex >= 0 && parts[formIndex + 1]) {
+            const formValue = parts[formIndex + 1].trim();
+            if (formValue.length > 0 && formValue.length < 30) {
+              productInfo.form = formValue;
+            }
+          }
+        } else if (line.includes(':')) {
+          const formValue = line.split(':')[1].trim();
+          if (formValue.length > 0 && formValue.length < 30) {
+            productInfo.form = formValue;
+          }
+        } else if (nextLine && nextLine.length > 0 && nextLine.length < 30) {
+          productInfo.form = nextLine;
         }
       }
     }
@@ -298,12 +333,12 @@ class PIFDocumentProcessor {
 
       // Parse ingredient lines
       if (inIngredientsSection && line.trim()) {
-        // Pattern: Ingredient name followed by percentage or CAS number
-        const percentMatch = line.match(/(\d+\.?\d*)\s*%/);
+        // Pattern: Ingredient name followed by percentage - improved regex to match valid decimals
+        const percentMatch = line.match(/(\d+(?:\.\d+)?)\s*%/);
         if (percentMatch) {
           // Extract ingredient name (everything before the percentage or number)
           const ingredientName = line
-            .split(/\d+\.?\d*\s*%/)[0]
+            .split(/\d+(?:\.\d+)?\s*%/)[0]
             .replace(/^[\d\s\-\.\|]+/, '')
             .trim();
 
@@ -388,7 +423,7 @@ class PIFDocumentProcessor {
         cas_number: ing.casNumber,
         function: ing.function || 'active'
       })),
-      total_concentration: data.ingredients.reduce((sum, ing) => sum + ing.concentration, 0),
+      total_concentration: data.ingredients.reduce((sum, ing) => sum + (ing.concentration || 0), 0),
       extraction_metadata: {
         source_document: doc.fileName,
         extraction_date: new Date().toISOString(),
