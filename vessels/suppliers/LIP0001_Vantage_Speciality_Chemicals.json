@@ -1,0 +1,26 @@
+{
+  "id": "LIP0001",
+  "name": "Vantage Speciality Chemicals",
+  "label": "Vantage Speciality Chemicals",
+  "category": "Unknown",
+  "location": "South Africa",
+  "hypergraph_metadata": {
+    "node_id": "LIP0001",
+    "modularity_class": 14,
+    "timeset": ""
+  },
+  "portfolio": {
+    "ingredient_count": 2,
+    "ingredient_ids": [
+      "R1905008",
+      "R1905055"
+    ],
+    "specialization_index": 0.011111111111111112,
+    "market_coverage": 1.1111111111111112
+  },
+  "network_properties": {
+    "centrality_score": 0.011111111111111112,
+    "portfolio_size_tier": "specialized",
+    "supply_chain_importance": 0.011111111111111112
+  }
+}

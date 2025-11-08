@@ -1,0 +1,32 @@
+{
+  "id": "CAR0002",
+  "name": "Carst&Walker,div of Zenith Ho",
+  "label": "Carst&Walker,div of Zenith Ho",
+  "category": "Unknown",
+  "location": "South Africa",
+  "hypergraph_metadata": {
+    "node_id": "CAR0002",
+    "modularity_class": 5,
+    "timeset": ""
+  },
+  "portfolio": {
+    "ingredient_count": 8,
+    "ingredient_ids": [
+      "R1905011",
+      "R1905012",
+      "R1905023",
+      "R1905024",
+      "R1905047",
+      "R1911000",
+      "R1911001",
+      "R1911003"
+    ],
+    "specialization_index": 0.044444444444444446,
+    "market_coverage": 4.444444444444445
+  },
+  "network_properties": {
+    "centrality_score": 0.044444444444444446,
+    "portfolio_size_tier": "focused",
+    "supply_chain_importance": 0.044444444444444446
+  }
+}

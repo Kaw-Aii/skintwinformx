@@ -1,0 +1,68 @@
+{
+  "id": "B19EPGX001",
+  "label": "Epi-GenesXpress",
+  "type": "Unknown",
+  "form": "Unknown",
+  "category": "treatment",
+  "ingredient_count": 19,
+  "source": {
+    "hypergraph_generated": true,
+    "extraction_date": "2025-11-08T05:36:14.443Z"
+  },
+  "hypergraph_metadata": {
+    "node_id": "B19EPGX001",
+    "timeset": ""
+  },
+  "formulation_metadata": {
+    "ingredient_count": 19,
+    "total_concentration": 100.00000000000001,
+    "complexity_score": 19,
+    "ingredient_ids": [
+      "R010000",
+      "R0101063",
+      "R0101114",
+      "R0102031",
+      "R0104015",
+      "R0105123",
+      "R0105170",
+      "R0105177",
+      "R0105179",
+      "R0105527",
+      "R0106001",
+      "R0106038",
+      "R0112003",
+      "R0113091",
+      "R1901004",
+      "R1901005",
+      "R1905038",
+      "R1905039"
+    ],
+    "top_ingredients": [
+      {
+        "ingredient_id": "R010000",
+        "concentration": 52.99
+      },
+      {
+        "ingredient_id": "R1901004",
+        "concentration": 7
+      },
+      {
+        "ingredient_id": "R010000",
+        "concentration": 5
+      },
+      {
+        "ingredient_id": "R0106001",
+        "concentration": 5
+      },
+      {
+        "ingredient_id": "R0113091",
+        "concentration": 5
+      }
+    ]
+  },
+  "network_properties": {
+    "centrality_score": 0.10555555555555556,
+    "complexity_tier": "moderate",
+    "formulation_density": 1.0000000000000002
+  }
+}

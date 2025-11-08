@@ -1,0 +1,64 @@
+{
+  "id": "B19AARS001",
+  "label": "Acne Attack Rescue Serum",
+  "type": "Unknown",
+  "form": "Unknown",
+  "category": "treatment",
+  "ingredient_count": 14,
+  "source": {
+    "hypergraph_generated": true,
+    "extraction_date": "2025-11-08T05:36:14.446Z"
+  },
+  "hypergraph_metadata": {
+    "node_id": "B19AARS001",
+    "timeset": ""
+  },
+  "formulation_metadata": {
+    "ingredient_count": 14,
+    "total_concentration": 100,
+    "complexity_score": 14,
+    "ingredient_ids": [
+      "R010000",
+      "R0101077",
+      "R0101114",
+      "R0102031",
+      "R0104015",
+      "R0105527",
+      "R0105587",
+      "R0106020",
+      "R0111063",
+      "R0113091",
+      "R0113094",
+      "R1905046",
+      "R1905047",
+      "R1913013"
+    ],
+    "top_ingredients": [
+      {
+        "ingredient_id": "R010000",
+        "concentration": 61
+      },
+      {
+        "ingredient_id": "R0106020",
+        "concentration": 6
+      },
+      {
+        "ingredient_id": "R1913013",
+        "concentration": 5
+      },
+      {
+        "ingredient_id": "R0105587",
+        "concentration": 4
+      },
+      {
+        "ingredient_id": "R1905046",
+        "concentration": 4
+      }
+    ]
+  },
+  "network_properties": {
+    "centrality_score": 0.07777777777777778,
+    "complexity_tier": "simple",
+    "formulation_density": 1
+  }
+}

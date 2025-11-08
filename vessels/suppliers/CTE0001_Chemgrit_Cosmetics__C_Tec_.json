@@ -1,0 +1,30 @@
+{
+  "id": "CTE0001",
+  "name": "Chemgrit Cosmetics (C-Tec)",
+  "label": "Chemgrit Cosmetics (C-Tec)",
+  "category": "Unknown",
+  "location": "South Africa",
+  "hypergraph_metadata": {
+    "node_id": "CTE0001",
+    "modularity_class": 11,
+    "timeset": ""
+  },
+  "portfolio": {
+    "ingredient_count": 6,
+    "ingredient_ids": [
+      "R1901002",
+      "R1901003",
+      "R1905019",
+      "R1905029",
+      "R1905030",
+      "R1905043"
+    ],
+    "specialization_index": 0.03333333333333333,
+    "market_coverage": 3.3333333333333335
+  },
+  "network_properties": {
+    "centrality_score": 0.03333333333333333,
+    "portfolio_size_tier": "focused",
+    "supply_chain_importance": 0.03333333333333333
+  }
+}

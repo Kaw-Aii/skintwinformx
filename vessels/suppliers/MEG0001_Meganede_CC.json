@@ -1,0 +1,39 @@
+{
+  "id": "MEG0001",
+  "name": "Meganede CC",
+  "label": "Meganede CC",
+  "category": "Unknown",
+  "location": "South Africa",
+  "hypergraph_metadata": {
+    "node_id": "MEG0001",
+    "modularity_class": 17,
+    "timeset": ""
+  },
+  "portfolio": {
+    "ingredient_count": 15,
+    "ingredient_ids": [
+      "R1905018",
+      "R1905027",
+      "R1905035",
+      "R1905041",
+      "R1905046",
+      "R1905048",
+      "R1905049",
+      "R1905050",
+      "R1905051",
+      "R1905052",
+      "R1905053",
+      "R1905054",
+      "R1905056",
+      "R1905057",
+      "R1905058"
+    ],
+    "specialization_index": 0.08333333333333333,
+    "market_coverage": 8.333333333333332
+  },
+  "network_properties": {
+    "centrality_score": 0.08333333333333333,
+    "portfolio_size_tier": "diversified",
+    "supply_chain_importance": 0.08333333333333333
+  }
+}

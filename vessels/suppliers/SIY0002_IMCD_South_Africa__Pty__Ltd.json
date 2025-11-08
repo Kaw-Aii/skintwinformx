@@ -1,0 +1,26 @@
+{
+  "id": "SIY0002",
+  "name": "IMCD South Africa (Pty) Ltd",
+  "label": "IMCD South Africa (Pty) Ltd",
+  "category": "Unknown",
+  "location": "South Africa",
+  "hypergraph_metadata": {
+    "node_id": "SIY0002",
+    "modularity_class": 23,
+    "timeset": ""
+  },
+  "portfolio": {
+    "ingredient_count": 2,
+    "ingredient_ids": [
+      "R1905028",
+      "R1905040"
+    ],
+    "specialization_index": 0.011111111111111112,
+    "market_coverage": 1.1111111111111112
+  },
+  "network_properties": {
+    "centrality_score": 0.011111111111111112,
+    "portfolio_size_tier": "specialized",
+    "supply_chain_importance": 0.011111111111111112
+  }
+}

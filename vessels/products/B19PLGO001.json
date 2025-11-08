@@ -1,0 +1,62 @@
+{
+  "id": "B19PLGO001",
+  "label": "Laser Gel Azu-Repair",
+  "type": "Unknown",
+  "form": "Unknown",
+  "category": "treatment",
+  "ingredient_count": 12,
+  "source": {
+    "hypergraph_generated": true,
+    "extraction_date": "2025-11-08T05:36:14.446Z"
+  },
+  "hypergraph_metadata": {
+    "node_id": "B19PLGO001",
+    "timeset": ""
+  },
+  "formulation_metadata": {
+    "ingredient_count": 12,
+    "total_concentration": 299.8,
+    "complexity_score": 12,
+    "ingredient_ids": [
+      "R0101057",
+      "R0105122",
+      "R0105123",
+      "R0105141",
+      "R0105179",
+      "R0105201",
+      "R0105258",
+      "R1901001",
+      "R1901006",
+      "R1905043",
+      "R1908000",
+      "R1911000"
+    ],
+    "top_ingredients": [
+      {
+        "ingredient_id": "R1908000",
+        "concentration": 200
+      },
+      {
+        "ingredient_id": "R1905043",
+        "concentration": 26.5
+      },
+      {
+        "ingredient_id": "R0105141",
+        "concentration": 20
+      },
+      {
+        "ingredient_id": "R1911000",
+        "concentration": 20
+      },
+      {
+        "ingredient_id": "R0101057",
+        "concentration": 8
+      }
+    ]
+  },
+  "network_properties": {
+    "centrality_score": 0.06666666666666667,
+    "complexity_tier": "simple",
+    "formulation_density": 2.998
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "B19RVE003",
+  "label": "Eye Opener Serum",
+  "type": "Unknown",
+  "form": "Unknown",
+  "category": "treatment",
+  "ingredient_count": 17,
+  "source": {
+    "hypergraph_generated": true,
+    "extraction_date": "2025-11-08T05:36:14.445Z"
+  },
+  "hypergraph_metadata": {
+    "node_id": "B19RVE003",
+    "timeset": ""
+  },
+  "formulation_metadata": {
+    "ingredient_count": 17,
+    "total_concentration": 99.99999999999999,
+    "complexity_score": 17,
+    "ingredient_ids": [
+      "R010000",
+      "R0101059",
+      "R0101077",
+      "R0101114",
+      "R0102031",
+      "R0104015",
+      "R0105123",
+      "R0105334",
+      "R0106004",
+      "R0106020",
+      "R0111012",
+      "R0112004",
+      "R1905023",
+      "R1905025",
+      "R1911003"
+    ],
+    "top_ingredients": [
+      {
+        "ingredient_id": "R010000",
+        "concentration": 28.6
+      },
+      {
+        "ingredient_id": "R010000",
+        "concentration": 20
+      },
+      {
+        "ingredient_id": "R1905025",
+        "concentration": 10
+      },
+      {
+        "ingredient_id": "R0101077",
+        "concentration": 8
+      },
+      {
+        "ingredient_id": "R0101059",
+        "concentration": 7
+      }
+    ]
+  },
+  "network_properties": {
+    "centrality_score": 0.09444444444444444,
+    "complexity_tier": "moderate",
+    "formulation_density": 0.9999999999999999
+  }
+}

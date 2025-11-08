@@ -1,0 +1,62 @@
+{
+  "id": "B19PRDSPAAFO000",
+  "label": "SpaZone Active Facial Oil",
+  "type": "Unknown",
+  "form": "Unknown",
+  "category": "treatment",
+  "ingredient_count": 12,
+  "source": {
+    "hypergraph_generated": true,
+    "extraction_date": "2025-11-08T05:36:14.447Z"
+  },
+  "hypergraph_metadata": {
+    "node_id": "B19PRDSPAAFO000",
+    "timeset": ""
+  },
+  "formulation_metadata": {
+    "ingredient_count": 12,
+    "total_concentration": 100,
+    "complexity_score": 12,
+    "ingredient_ids": [
+      "R0101100",
+      "R0101102",
+      "R0101121",
+      "R0105123",
+      "R0105258",
+      "R0105489",
+      "R0113090",
+      "R0113091",
+      "R0113094",
+      "R0113117",
+      "R1905055",
+      "R1913014"
+    ],
+    "top_ingredients": [
+      {
+        "ingredient_id": "R0105258",
+        "concentration": 40.9
+      },
+      {
+        "ingredient_id": "R0101100",
+        "concentration": 10
+      },
+      {
+        "ingredient_id": "R0101102",
+        "concentration": 10
+      },
+      {
+        "ingredient_id": "R0101121",
+        "concentration": 10
+      },
+      {
+        "ingredient_id": "R0113090",
+        "concentration": 10
+      }
+    ]
+  },
+  "network_properties": {
+    "centrality_score": 0.06666666666666667,
+    "complexity_tier": "simple",
+    "formulation_density": 1
+  }
+}

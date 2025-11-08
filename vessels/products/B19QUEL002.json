@@ -1,0 +1,70 @@
+{
+  "id": "B19QUEL002",
+  "label": "Quantum Elastin - Collagen Revival",
+  "type": "Unknown",
+  "form": "Unknown",
+  "category": "treatment",
+  "ingredient_count": 21,
+  "source": {
+    "hypergraph_generated": true,
+    "extraction_date": "2025-11-08T05:36:14.444Z"
+  },
+  "hypergraph_metadata": {
+    "node_id": "B19QUEL002",
+    "timeset": ""
+  },
+  "formulation_metadata": {
+    "ingredient_count": 21,
+    "total_concentration": 100,
+    "complexity_score": 21,
+    "ingredient_ids": [
+      "R010000",
+      "R0102008",
+      "R0102031",
+      "R0104015",
+      "R0105060",
+      "R0105123",
+      "R0105177",
+      "R0105179",
+      "R0105203",
+      "R0105227",
+      "R0105433",
+      "R0106001",
+      "R0106038",
+      "R0113091",
+      "R1905000",
+      "R1905015",
+      "R1905020",
+      "R1905027",
+      "R1913003",
+      "R1913004"
+    ],
+    "top_ingredients": [
+      {
+        "ingredient_id": "R010000",
+        "concentration": 38.4
+      },
+      {
+        "ingredient_id": "R0105203",
+        "concentration": 7
+      },
+      {
+        "ingredient_id": "R010000",
+        "concentration": 5
+      },
+      {
+        "ingredient_id": "R0105060",
+        "concentration": 5
+      },
+      {
+        "ingredient_id": "R0106001",
+        "concentration": 5
+      }
+    ]
+  },
+  "network_properties": {
+    "centrality_score": 0.11666666666666667,
+    "complexity_tier": "moderate",
+    "formulation_density": 1
+  }
+}

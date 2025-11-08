@@ -1,0 +1,26 @@
+{
+  "id": "ORC0001",
+  "name": "Orchem",
+  "label": "Orchem",
+  "category": "Unknown",
+  "location": "South Africa",
+  "hypergraph_metadata": {
+    "node_id": "ORC0001",
+    "modularity_class": 21,
+    "timeset": ""
+  },
+  "portfolio": {
+    "ingredient_count": 2,
+    "ingredient_ids": [
+      "R1902002",
+      "R1902999"
+    ],
+    "specialization_index": 0.011111111111111112,
+    "market_coverage": 1.1111111111111112
+  },
+  "network_properties": {
+    "centrality_score": 0.011111111111111112,
+    "portfolio_size_tier": "specialized",
+    "supply_chain_importance": 0.011111111111111112
+  }
+}

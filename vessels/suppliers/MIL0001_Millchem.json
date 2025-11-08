@@ -1,0 +1,25 @@
+{
+  "id": "MIL0001",
+  "name": "Millchem",
+  "label": "Millchem",
+  "category": "Unknown",
+  "location": "South Africa",
+  "hypergraph_metadata": {
+    "node_id": "MIL0001",
+    "modularity_class": 19,
+    "timeset": ""
+  },
+  "portfolio": {
+    "ingredient_count": 1,
+    "ingredient_ids": [
+      "R1905044"
+    ],
+    "specialization_index": 0.005555555555555556,
+    "market_coverage": 0.5555555555555556
+  },
+  "network_properties": {
+    "centrality_score": 0.005555555555555556,
+    "portfolio_size_tier": "specialized",
+    "supply_chain_importance": 0.005555555555555556
+  }
+}

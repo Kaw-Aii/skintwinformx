@@ -1,0 +1,31 @@
+{
+  "id": "CRO0001",
+  "name": "Croda Chemicals S.A (Pty) Ltd",
+  "label": "Croda Chemicals S.A (Pty) Ltd",
+  "category": "Unknown",
+  "location": "South Africa",
+  "hypergraph_metadata": {
+    "node_id": "CRO0001",
+    "modularity_class": 10,
+    "timeset": ""
+  },
+  "portfolio": {
+    "ingredient_count": 7,
+    "ingredient_ids": [
+      "R1901005",
+      "R1905002",
+      "R1905003",
+      "R1905025",
+      "R1905026",
+      "R1905033",
+      "R1905034"
+    ],
+    "specialization_index": 0.03888888888888889,
+    "market_coverage": 3.888888888888889
+  },
+  "network_properties": {
+    "centrality_score": 0.03888888888888889,
+    "portfolio_size_tier": "focused",
+    "supply_chain_importance": 0.03888888888888889
+  }
+}

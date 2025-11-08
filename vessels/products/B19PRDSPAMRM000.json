@@ -1,0 +1,61 @@
+{
+  "id": "B19PRDSPAMRM000",
+  "label": "SpaZone Marine Replenish Masque",
+  "type": "Unknown",
+  "form": "Unknown",
+  "category": "treatment",
+  "ingredient_count": 13,
+  "source": {
+    "hypergraph_generated": true,
+    "extraction_date": "2025-11-08T05:36:14.441Z"
+  },
+  "hypergraph_metadata": {
+    "node_id": "B19PRDSPAMRM000",
+    "timeset": ""
+  },
+  "formulation_metadata": {
+    "ingredient_count": 13,
+    "total_concentration": 100,
+    "complexity_score": 13,
+    "ingredient_ids": [
+      "R010000",
+      "R0101114",
+      "R0104056",
+      "R0105566",
+      "R0105640",
+      "R0109005",
+      "R0111062",
+      "R0112004",
+      "R0113117",
+      "R1905006",
+      "R1905058"
+    ],
+    "top_ingredients": [
+      {
+        "ingredient_id": "R010000",
+        "concentration": 65.6
+      },
+      {
+        "ingredient_id": "R1905006",
+        "concentration": 10
+      },
+      {
+        "ingredient_id": "R010000",
+        "concentration": 5
+      },
+      {
+        "ingredient_id": "R0109005",
+        "concentration": 5
+      },
+      {
+        "ingredient_id": "R0101114",
+        "concentration": 4
+      }
+    ]
+  },
+  "network_properties": {
+    "centrality_score": 0.07222222222222222,
+    "complexity_tier": "simple",
+    "formulation_density": 1
+  }
+}

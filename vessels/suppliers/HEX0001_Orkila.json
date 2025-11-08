@@ -1,0 +1,25 @@
+{
+  "id": "HEX0001",
+  "name": "Orkila",
+  "label": "Orkila",
+  "category": "Unknown",
+  "location": "South Africa",
+  "hypergraph_metadata": {
+    "node_id": "HEX0001",
+    "modularity_class": 13,
+    "timeset": ""
+  },
+  "portfolio": {
+    "ingredient_count": 1,
+    "ingredient_ids": [
+      "R1905022"
+    ],
+    "specialization_index": 0.005555555555555556,
+    "market_coverage": 0.5555555555555556
+  },
+  "network_properties": {
+    "centrality_score": 0.005555555555555556,
+    "portfolio_size_tier": "specialized",
+    "supply_chain_importance": 0.005555555555555556
+  }
+}
