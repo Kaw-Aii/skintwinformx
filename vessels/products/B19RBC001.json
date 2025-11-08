@@ -1,0 +1,73 @@
+{
+  "id": "B19RBC001",
+  "label": "Daily Radiant SPF25",
+  "type": "Unknown",
+  "form": "Unknown",
+  "category": "treatment",
+  "ingredient_count": 24,
+  "source": {
+    "hypergraph_generated": true,
+    "extraction_date": "2025-11-08T05:36:14.444Z"
+  },
+  "hypergraph_metadata": {
+    "node_id": "B19RBC001",
+    "timeset": ""
+  },
+  "formulation_metadata": {
+    "ingredient_count": 24,
+    "total_concentration": 100.00000000000001,
+    "complexity_score": 24,
+    "ingredient_ids": [
+      "R010000",
+      "R0101103",
+      "R0102002",
+      "R0102008",
+      "R0102018",
+      "R0102031",
+      "R0104015",
+      "R0105020",
+      "R0105152",
+      "R0105159",
+      "R0105179",
+      "R0105240",
+      "R0105304",
+      "R0105535",
+      "R0106006",
+      "R0112004",
+      "R1901002",
+      "R1901003",
+      "R1905024",
+      "R1905029",
+      "R1905030",
+      "R1906000",
+      "R1913011"
+    ],
+    "top_ingredients": [
+      {
+        "ingredient_id": "R010000",
+        "concentration": 22.55
+      },
+      {
+        "ingredient_id": "R0102018",
+        "concentration": 8
+      },
+      {
+        "ingredient_id": "R0105535",
+        "concentration": 8
+      },
+      {
+        "ingredient_id": "R1901002",
+        "concentration": 8
+      },
+      {
+        "ingredient_id": "R1913011",
+        "concentration": 7
+      }
+    ]
+  },
+  "network_properties": {
+    "centrality_score": 0.13333333333333333,
+    "complexity_tier": "moderate",
+    "formulation_density": 1.0000000000000002
+  }
+}

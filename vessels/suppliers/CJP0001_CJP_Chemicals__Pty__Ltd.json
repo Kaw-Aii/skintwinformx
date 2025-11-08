@@ -1,0 +1,32 @@
+{
+  "id": "CJP0001",
+  "name": "CJP Chemicals (Pty) Ltd",
+  "label": "CJP Chemicals (Pty) Ltd",
+  "category": "Unknown",
+  "location": "South Africa",
+  "hypergraph_metadata": {
+    "node_id": "CJP0001",
+    "modularity_class": 7,
+    "timeset": ""
+  },
+  "portfolio": {
+    "ingredient_count": 8,
+    "ingredient_ids": [
+      "R1901001",
+      "R1901006",
+      "R1902000",
+      "R1902001",
+      "R1905014",
+      "R1906000",
+      "R1906001",
+      "R1911002"
+    ],
+    "specialization_index": 0.044444444444444446,
+    "market_coverage": 4.444444444444445
+  },
+  "network_properties": {
+    "centrality_score": 0.044444444444444446,
+    "portfolio_size_tier": "focused",
+    "supply_chain_importance": 0.044444444444444446
+  }
+}

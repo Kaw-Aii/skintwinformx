@@ -1,0 +1,24 @@
+{
+  "id": "R1911003",
+  "inci_name": "Carbopol EDT 2050",
+  "label": "Carbopol EDT 2050",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 1
+  },
+  "network_properties": {
+    "usage_frequency": 2,
+    "max_concentration": 1,
+    "centrality_score": 0.011111111111111112,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [
+    "CAR0002"
+  ],
+  "hypergraph_metadata": {
+    "node_id": "R1911003",
+    "timeset": ""
+  }
+}

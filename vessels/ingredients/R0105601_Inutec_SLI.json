@@ -1,0 +1,22 @@
+{
+  "id": "R0105601",
+  "inci_name": "Inutec SLI",
+  "label": "Inutec SLI",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 0.75
+  },
+  "network_properties": {
+    "usage_frequency": 2,
+    "max_concentration": 0.75,
+    "centrality_score": 0.011111111111111112,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0105601",
+    "timeset": ""
+  }
+}

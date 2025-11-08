@@ -1,0 +1,22 @@
+{
+  "id": "R0102018",
+  "inci_name": "Tegosoft TN [Finsolve TN]",
+  "label": "Tegosoft TN [Finsolve TN]",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 8
+  },
+  "network_properties": {
+    "usage_frequency": 4,
+    "max_concentration": 8,
+    "centrality_score": 0.022222222222222223,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0102018",
+    "timeset": ""
+  }
+}

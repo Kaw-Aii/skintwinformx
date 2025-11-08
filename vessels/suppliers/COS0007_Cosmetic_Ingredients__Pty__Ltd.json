@@ -1,0 +1,25 @@
+{
+  "id": "COS0007",
+  "name": "Cosmetic Ingredients (Pty) Ltd",
+  "label": "Cosmetic Ingredients (Pty) Ltd",
+  "category": "Unknown",
+  "location": "South Africa",
+  "hypergraph_metadata": {
+    "node_id": "COS0007",
+    "modularity_class": 9,
+    "timeset": ""
+  },
+  "portfolio": {
+    "ingredient_count": 1,
+    "ingredient_ids": [
+      "R1905004"
+    ],
+    "specialization_index": 0.005555555555555556,
+    "market_coverage": 0.5555555555555556
+  },
+  "network_properties": {
+    "centrality_score": 0.005555555555555556,
+    "portfolio_size_tier": "specialized",
+    "supply_chain_importance": 0.005555555555555556
+  }
+}

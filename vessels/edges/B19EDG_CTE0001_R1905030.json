@@ -1,0 +1,12 @@
+{
+  "id": "B19EDG_CTE0001_R1905030",
+  "type": "SUPPLIER_PROVIDES_INGREDIENT",
+  "source_id": "CTE0001",
+  "source_type": "supplier",
+  "target_id": "R1905030",
+  "target_type": "ingredient",
+  "properties": {
+    "weight": 1,
+    "created_at": "2025-11-08T05:31:53.092Z"
+  }
+}

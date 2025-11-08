@@ -1,0 +1,22 @@
+{
+  "id": "R0101102",
+  "inci_name": "Refined Soya Bean Oil",
+  "label": "Refined Soya Bean Oil",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 10
+  },
+  "network_properties": {
+    "usage_frequency": 3,
+    "max_concentration": 10,
+    "centrality_score": 0.016666666666666666,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0101102",
+    "timeset": ""
+  }
+}

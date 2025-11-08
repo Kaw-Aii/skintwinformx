@@ -1,0 +1,78 @@
+{
+  "id": "B19RSR005",
+  "label": "Scar Repair Forte",
+  "type": "Unknown",
+  "form": "Unknown",
+  "category": "treatment",
+  "ingredient_count": 29,
+  "source": {
+    "hypergraph_generated": true,
+    "extraction_date": "2025-11-08T05:36:14.445Z"
+  },
+  "hypergraph_metadata": {
+    "node_id": "B19RSR005",
+    "timeset": ""
+  },
+  "formulation_metadata": {
+    "ingredient_count": 29,
+    "total_concentration": 100,
+    "complexity_score": 29,
+    "ingredient_ids": [
+      "R010000",
+      "R0102008",
+      "R0102031",
+      "R0104056",
+      "R0105179",
+      "R0105203",
+      "R0105270",
+      "R0105336",
+      "R0105601",
+      "R0106004",
+      "R0106006",
+      "R0106024",
+      "R0113124",
+      "R1901000",
+      "R1905000",
+      "R1905009",
+      "R1905015",
+      "R1905016",
+      "R1905017",
+      "R1905018",
+      "R1905020",
+      "R1905021",
+      "R1905022",
+      "R1913000",
+      "R1913002",
+      "R1913003",
+      "R1913004",
+      "R1913009"
+    ],
+    "top_ingredients": [
+      {
+        "ingredient_id": "R010000",
+        "concentration": 23.25
+      },
+      {
+        "ingredient_id": "R010000",
+        "concentration": 5
+      },
+      {
+        "ingredient_id": "R0105203",
+        "concentration": 5
+      },
+      {
+        "ingredient_id": "R0105270",
+        "concentration": 5
+      },
+      {
+        "ingredient_id": "R1913000",
+        "concentration": 5
+      }
+    ]
+  },
+  "network_properties": {
+    "centrality_score": 0.16111111111111112,
+    "complexity_tier": "complex",
+    "formulation_density": 1
+  }
+}

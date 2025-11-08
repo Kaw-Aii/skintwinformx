@@ -1,0 +1,119 @@
+{
+  "id": "B19FRMSPAORM000",
+  "product_reference": "B19PRDSPAORM000",
+  "name": "SPAORM000",
+  "ingredients": [
+    {
+      "order": 1,
+      "inci_name": "De Ion Water",
+      "ingredient_id": "R010000",
+      "concentration": 64.2,
+      "function": "Unknown"
+    },
+    {
+      "order": 2,
+      "inci_name": "De Ion Water",
+      "ingredient_id": "R010000",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 3,
+      "inci_name": "Olivem 1000",
+      "ingredient_id": "R0106015",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 4,
+      "inci_name": "Cetiol SB45",
+      "ingredient_id": "R1905043",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 5,
+      "inci_name": "Coheliss GR",
+      "ingredient_id": "R0105639",
+      "concentration": 4,
+      "function": "Unknown"
+    },
+    {
+      "order": 6,
+      "inci_name": "Olive Oil Extra Virgin",
+      "ingredient_id": "R0113028",
+      "concentration": 4,
+      "function": "Unknown"
+    },
+    {
+      "order": 7,
+      "inci_name": "Oliwax",
+      "ingredient_id": "R0111012",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 8,
+      "inci_name": "Eternaline",
+      "ingredient_id": "R1905056",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 9,
+      "inci_name": "B.P. Glycerine",
+      "ingredient_id": "R0101114",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 10,
+      "inci_name": "Lipovol A [Avocado oil]",
+      "ingredient_id": "R0105258",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 11,
+      "inci_name": "Verstatil PC",
+      "ingredient_id": "R0104056",
+      "concentration": 1,
+      "function": "Unknown"
+    },
+    {
+      "order": 12,
+      "inci_name": "Filmexel",
+      "ingredient_id": "R0105640",
+      "concentration": 1,
+      "function": "Unknown"
+    },
+    {
+      "order": 13,
+      "inci_name": "Bergamot Oil",
+      "ingredient_id": "R0113117",
+      "concentration": 0.4,
+      "function": "Unknown"
+    },
+    {
+      "order": 14,
+      "inci_name": "Xanthan Gum FF Food Grade",
+      "ingredient_id": "R0102031",
+      "concentration": 0.3,
+      "function": "Unknown"
+    },
+    {
+      "order": 15,
+      "inci_name": "DL A Tocopherol",
+      "ingredient_id": "R0105123",
+      "concentration": 0.1,
+      "function": "Unknown"
+    }
+  ],
+  "total_concentration": 100,
+  "complexity_score": 15,
+  "hypergraph_metadata": {
+    "ingredient_count": 15,
+    "centrality_score": 0.08333333333333333,
+    "network_density": 1
+  }
+}

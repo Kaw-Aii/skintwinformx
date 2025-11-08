@@ -1,0 +1,73 @@
+{
+  "id": "B19RDS001",
+  "label": "Daily Ultra Def SPF25",
+  "type": "Unknown",
+  "form": "Unknown",
+  "category": "treatment",
+  "ingredient_count": 26,
+  "source": {
+    "hypergraph_generated": true,
+    "extraction_date": "2025-11-08T05:36:14.444Z"
+  },
+  "hypergraph_metadata": {
+    "node_id": "B19RDS001",
+    "timeset": ""
+  },
+  "formulation_metadata": {
+    "ingredient_count": 26,
+    "total_concentration": 100.00000000000001,
+    "complexity_score": 26,
+    "ingredient_ids": [
+      "R010000",
+      "R0101063",
+      "R0102002",
+      "R0102008",
+      "R0102018",
+      "R0102031",
+      "R0104015",
+      "R0105020",
+      "R0105159",
+      "R0105179",
+      "R0105535",
+      "R0106006",
+      "R0106063",
+      "R0111063",
+      "R0112004",
+      "R1901002",
+      "R1901003",
+      "R1905004",
+      "R1905024",
+      "R1905029",
+      "R1905030",
+      "R1905032",
+      "R1913012"
+    ],
+    "top_ingredients": [
+      {
+        "ingredient_id": "R010000",
+        "concentration": 24.75
+      },
+      {
+        "ingredient_id": "R0102018",
+        "concentration": 8
+      },
+      {
+        "ingredient_id": "R0105535",
+        "concentration": 8
+      },
+      {
+        "ingredient_id": "R1913012",
+        "concentration": 8
+      },
+      {
+        "ingredient_id": "R0105159",
+        "concentration": 6
+      }
+    ]
+  },
+  "network_properties": {
+    "centrality_score": 0.14444444444444443,
+    "complexity_tier": "complex",
+    "formulation_density": 1.0000000000000002
+  }
+}

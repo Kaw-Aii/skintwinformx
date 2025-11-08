@@ -1,0 +1,98 @@
+{
+  "id": "B19RMS001",
+  "product_reference": "B19RMS001",
+  "name": "B19RMS001",
+  "ingredients": [
+    {
+      "order": 1,
+      "inci_name": "De Ion Water",
+      "ingredient_id": "R010000",
+      "concentration": 49.7,
+      "function": "Unknown"
+    },
+    {
+      "order": 2,
+      "inci_name": "De Ion Water",
+      "ingredient_id": "R010000",
+      "concentration": 30,
+      "function": "Unknown"
+    },
+    {
+      "order": 3,
+      "inci_name": "Hydromanil",
+      "ingredient_id": "R1905006",
+      "concentration": 10,
+      "function": "Unknown"
+    },
+    {
+      "order": 4,
+      "inci_name": "Acquacell",
+      "ingredient_id": "R1905007",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 5,
+      "inci_name": "B.P. Glycerine",
+      "ingredient_id": "R0101114",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 6,
+      "inci_name": "Microcare PHG",
+      "ingredient_id": "R0104015",
+      "concentration": 1.5,
+      "function": "Unknown"
+    },
+    {
+      "order": 7,
+      "inci_name": "Hydranov P",
+      "ingredient_id": "R1905008",
+      "concentration": 1.5,
+      "function": "Unknown"
+    },
+    {
+      "order": 8,
+      "inci_name": "De Ion Water",
+      "ingredient_id": "R010000",
+      "concentration": 0.88,
+      "function": "Unknown"
+    },
+    {
+      "order": 9,
+      "inci_name": "Carbopol Ultrez 30",
+      "ingredient_id": "R1911001",
+      "concentration": 0.8,
+      "function": "Unknown"
+    },
+    {
+      "order": 10,
+      "inci_name": "Caustic Soda Flakes [Pearl]",
+      "ingredient_id": "R0112004",
+      "concentration": 0.22,
+      "function": "Unknown"
+    },
+    {
+      "order": 11,
+      "inci_name": "Hysilk Powder [LMW]",
+      "ingredient_id": "R0105227",
+      "concentration": 0.2,
+      "function": "Unknown"
+    },
+    {
+      "order": 12,
+      "inci_name": "Hyaluronic Acid HMW",
+      "ingredient_id": "R1905004",
+      "concentration": 0.2,
+      "function": "Unknown"
+    }
+  ],
+  "total_concentration": 100,
+  "complexity_score": 12,
+  "hypergraph_metadata": {
+    "ingredient_count": 12,
+    "centrality_score": 0.06666666666666667,
+    "network_density": 1
+  }
+}

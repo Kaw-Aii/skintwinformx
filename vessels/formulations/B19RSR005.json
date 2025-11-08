@@ -1,0 +1,217 @@
+{
+  "id": "B19RSR005",
+  "product_reference": "B19RSR005",
+  "name": "B19RSR005",
+  "ingredients": [
+    {
+      "order": 1,
+      "inci_name": "De Ion Water",
+      "ingredient_id": "R010000",
+      "concentration": 23.25,
+      "function": "Unknown"
+    },
+    {
+      "order": 2,
+      "inci_name": "De Ion Water",
+      "ingredient_id": "R010000",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 3,
+      "inci_name": "Evoil Wheat Germ",
+      "ingredient_id": "R0105203",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 4,
+      "inci_name": "Pentavitin Code: 50 33152",
+      "ingredient_id": "R0105270",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 5,
+      "inci_name": "Ivy Cosmelene Ext",
+      "ingredient_id": "R1913000",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 6,
+      "inci_name": "Horsetail Cosmelene Ext",
+      "ingredient_id": "R1913003",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 7,
+      "inci_name": "Centella Asiatica Cosmelene Ex",
+      "ingredient_id": "R1913004",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 8,
+      "inci_name": "Arnica Phytenele EG 001 Ext",
+      "ingredient_id": "R1913009",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 9,
+      "inci_name": "Lipolan 31 20",
+      "ingredient_id": "R1901000",
+      "concentration": 4,
+      "function": "Unknown"
+    },
+    {
+      "order": 10,
+      "inci_name": "1,3 Butylene Glycol [Cosmetic Quality]",
+      "ingredient_id": "R0102008",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 11,
+      "inci_name": "Alistin P5",
+      "ingredient_id": "R1905000",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 12,
+      "inci_name": "Regu Stretch",
+      "ingredient_id": "R1905016",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 13,
+      "inci_name": "Alpaflor Imperatoria",
+      "ingredient_id": "R1905017",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 14,
+      "inci_name": "Glyco Repair",
+      "ingredient_id": "R1905018",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 15,
+      "inci_name": "LPDs Asiatic Centella",
+      "ingredient_id": "R1905020",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 16,
+      "inci_name": "Drieline 1S",
+      "ingredient_id": "R1905022",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 17,
+      "inci_name": "DL Alpha Tocopheryl Acetate",
+      "ingredient_id": "R0105179",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 18,
+      "inci_name": "Methyl Sulfonyl Methane [MSM]",
+      "ingredient_id": "R0105336",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 19,
+      "inci_name": "Cetyl Stearyl Alcohol [AJ]",
+      "ingredient_id": "R0106006",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 20,
+      "inci_name": "Stearic Acid [POFAC 1655L]",
+      "ingredient_id": "R0106024",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 21,
+      "inci_name": "Lemon EG 240",
+      "ingredient_id": "R0113124",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 22,
+      "inci_name": "Soapwort HG [3009] Extr",
+      "ingredient_id": "R1913002",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 23,
+      "inci_name": "Verstatil PC",
+      "ingredient_id": "R0104056",
+      "concentration": 1,
+      "function": "Unknown"
+    },
+    {
+      "order": 24,
+      "inci_name": "Cetyl Alcohol [Nacol 1695]",
+      "ingredient_id": "R0106004",
+      "concentration": 1,
+      "function": "Unknown"
+    },
+    {
+      "order": 25,
+      "inci_name": "Aerosil R972",
+      "ingredient_id": "R1905015",
+      "concentration": 1,
+      "function": "Unknown"
+    },
+    {
+      "order": 26,
+      "inci_name": "Inutec SLI",
+      "ingredient_id": "R0105601",
+      "concentration": 0.75,
+      "function": "Unknown"
+    },
+    {
+      "order": 27,
+      "inci_name": "L Carnitine",
+      "ingredient_id": "R1905021",
+      "concentration": 0.5,
+      "function": "Unknown"
+    },
+    {
+      "order": 28,
+      "inci_name": "Xanthan Gum FF Food Grade",
+      "ingredient_id": "R0102031",
+      "concentration": 0.3,
+      "function": "Unknown"
+    },
+    {
+      "order": 29,
+      "inci_name": "Caffeine",
+      "ingredient_id": "R1905009",
+      "concentration": 0.2,
+      "function": "Unknown"
+    }
+  ],
+  "total_concentration": 100,
+  "complexity_score": 29,
+  "hypergraph_metadata": {
+    "ingredient_count": 29,
+    "centrality_score": 0.16111111111111112,
+    "network_density": 1
+  }
+}

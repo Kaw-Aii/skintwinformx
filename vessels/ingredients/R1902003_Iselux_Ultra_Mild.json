@@ -1,0 +1,24 @@
+{
+  "id": "R1902003",
+  "inci_name": "Iselux Ultra Mild",
+  "label": "Iselux Ultra Mild",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 20
+  },
+  "network_properties": {
+    "usage_frequency": 1,
+    "max_concentration": 20,
+    "centrality_score": 0.005555555555555556,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [
+    "AKU001"
+  ],
+  "hypergraph_metadata": {
+    "node_id": "R1902003",
+    "timeset": ""
+  }
+}

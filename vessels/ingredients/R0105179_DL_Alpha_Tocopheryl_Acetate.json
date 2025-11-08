@@ -1,0 +1,22 @@
+{
+  "id": "R0105179",
+  "inci_name": "DL Alpha Tocopheryl Acetate",
+  "label": "DL Alpha Tocopheryl Acetate",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 5
+  },
+  "network_properties": {
+    "usage_frequency": 14,
+    "max_concentration": 5,
+    "centrality_score": 0.07777777777777778,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0105179",
+    "timeset": ""
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "id": "B19RUM002",
+  "product_reference": "B19RUM002",
+  "name": "B19RUM002",
+  "ingredients": [
+    {
+      "order": 1,
+      "inci_name": "De Ion Water",
+      "ingredient_id": "R010000",
+      "concentration": 23.6,
+      "function": "Unknown"
+    },
+    {
+      "order": 2,
+      "inci_name": "Tegosoft TN [Finsolve TN]",
+      "ingredient_id": "R0102018",
+      "concentration": 8,
+      "function": "Unknown"
+    },
+    {
+      "order": 3,
+      "inci_name": "Uvinul A Plus Granular",
+      "ingredient_id": "R0105535",
+      "concentration": 8,
+      "function": "Unknown"
+    },
+    {
+      "order": 4,
+      "inci_name": "Phytelene EGX 247 [BG] 620012",
+      "ingredient_id": "R1913011",
+      "concentration": 7,
+      "function": "Unknown"
+    },
+    {
+      "order": 5,
+      "inci_name": "Tinosorb S",
+      "ingredient_id": "R0105159",
+      "concentration": 6,
+      "function": "Unknown"
+    },
+    {
+      "order": 6,
+      "inci_name": "Niacinamide PC [AJ]",
+      "ingredient_id": "R0105304",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 7,
+      "inci_name": "Cetiol B",
+      "ingredient_id": "R1901003",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 8,
+      "inci_name": "Uvinul T150",
+      "ingredient_id": "R1905030",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 9,
+      "inci_name": "Sebonormine OP",
+      "ingredient_id": "R1905035",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 10,
+      "inci_name": "Amphisol K",
+      "ingredient_id": "R0102002",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 11,
+      "inci_name": "Dry Flo PC [AJ]",
+      "ingredient_id": "R0105359",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 12,
+      "inci_name": "Cetiol Sensoft",
+      "ingredient_id": "R1901002",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 13,
+      "inci_name": "Evermat",
+      "ingredient_id": "R1905033",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 14,
+      "inci_name": "Montanov S",
+      "ingredient_id": "R1906001",
+      "concentration": 2.5,
+      "function": "Unknown"
+    },
+    {
+      "order": 15,
+      "inci_name": "1,3 Butylene Glycol [Cosmetic Quality]",
+      "ingredient_id": "R0102008",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 16,
+      "inci_name": "DL Alpha Tocopheryl Acetate",
+      "ingredient_id": "R0105179",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 17,
+      "inci_name": "Cetyl Stearyl Alcohol [AJ]",
+      "ingredient_id": "R0106006",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 18,
+      "inci_name": "Happybelle PE",
+      "ingredient_id": "R1905024",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 19,
+      "inci_name": "Cosmedia DC",
+      "ingredient_id": "R1905029",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 20,
+      "inci_name": "Microcare PHG",
+      "ingredient_id": "R0104015",
+      "concentration": 1.2,
+      "function": "Unknown"
+    },
+    {
+      "order": 21,
+      "inci_name": "De Ion Water",
+      "ingredient_id": "R010000",
+      "concentration": 0.8,
+      "function": "Unknown"
+    },
+    {
+      "order": 22,
+      "inci_name": "Xanthan Gum FF Food Grade",
+      "ingredient_id": "R0102031",
+      "concentration": 0.5,
+      "function": "Unknown"
+    },
+    {
+      "order": 23,
+      "inci_name": "Trilon BD [EDTA NA2]",
+      "ingredient_id": "R0105020",
+      "concentration": 0.2,
+      "function": "Unknown"
+    },
+    {
+      "order": 24,
+      "inci_name": "Caustic Soda Flakes [Pearl]",
+      "ingredient_id": "R0112004",
+      "concentration": 0.2,
+      "function": "Unknown"
+    }
+  ],
+  "total_concentration": 100,
+  "complexity_score": 24,
+  "hypergraph_metadata": {
+    "ingredient_count": 24,
+    "centrality_score": 0.13333333333333333,
+    "network_density": 1
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "B19RBP002",
+  "label": "Techno-5 Resurfacer",
+  "type": "Unknown",
+  "form": "Unknown",
+  "category": "treatment",
+  "ingredient_count": 18,
+  "source": {
+    "hypergraph_generated": true,
+    "extraction_date": "2025-11-08T05:36:14.444Z"
+  },
+  "hypergraph_metadata": {
+    "node_id": "B19RBP002",
+    "timeset": ""
+  },
+  "formulation_metadata": {
+    "ingredient_count": 18,
+    "total_concentration": 100,
+    "complexity_score": 18,
+    "ingredient_ids": [
+      "R010000",
+      "R0101102",
+      "R0101114",
+      "R0102031",
+      "R0104015",
+      "R0105123",
+      "R0105240",
+      "R0105486",
+      "R0105601",
+      "R0106015",
+      "R0111012",
+      "R0112003",
+      "R0113062",
+      "R0113091",
+      "R0113094",
+      "R0113156",
+      "R1905012",
+      "R1905019"
+    ],
+    "top_ingredients": [
+      {
+        "ingredient_id": "R010000",
+        "concentration": 41.45
+      },
+      {
+        "ingredient_id": "R0113062",
+        "concentration": 10
+      },
+      {
+        "ingredient_id": "R0113156",
+        "concentration": 10
+      },
+      {
+        "ingredient_id": "R0101102",
+        "concentration": 5
+      },
+      {
+        "ingredient_id": "R0105486",
+        "concentration": 5
+      }
+    ]
+  },
+  "network_properties": {
+    "centrality_score": 0.1,
+    "complexity_tier": "moderate",
+    "formulation_density": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "R1905037",
+  "inci_name": "ARP 100",
+  "label": "ARP 100",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 0
+  },
+  "network_properties": {
+    "usage_frequency": 0,
+    "max_concentration": 0,
+    "centrality_score": 0,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [
+    "NAT0001"
+  ],
+  "hypergraph_metadata": {
+    "node_id": "R1905037",
+    "modularity_class": 20,
+    "timeset": ""
+  }
+}

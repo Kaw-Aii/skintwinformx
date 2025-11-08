@@ -1,0 +1,22 @@
+{
+  "id": "R0101094",
+  "inci_name": "Silkflo 366",
+  "label": "Silkflo 366",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 10
+  },
+  "network_properties": {
+    "usage_frequency": 4,
+    "max_concentration": 10,
+    "centrality_score": 0.022222222222222223,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0101094",
+    "timeset": ""
+  }
+}

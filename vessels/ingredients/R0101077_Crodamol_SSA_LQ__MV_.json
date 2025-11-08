@@ -1,0 +1,22 @@
+{
+  "id": "R0101077",
+  "inci_name": "Crodamol SSA LQ [MV]",
+  "label": "Crodamol SSA LQ [MV]",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 8
+  },
+  "network_properties": {
+    "usage_frequency": 2,
+    "max_concentration": 8,
+    "centrality_score": 0.011111111111111112,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0101077",
+    "timeset": ""
+  }
+}

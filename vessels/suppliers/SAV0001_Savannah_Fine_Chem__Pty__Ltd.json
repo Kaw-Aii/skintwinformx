@@ -1,0 +1,29 @@
+{
+  "id": "SAV0001",
+  "name": "Savannah Fine Chem (Pty) Ltd",
+  "label": "Savannah Fine Chem (Pty) Ltd",
+  "category": "Unknown",
+  "location": "South Africa",
+  "hypergraph_metadata": {
+    "node_id": "SAV0001",
+    "modularity_class": 22,
+    "timeset": ""
+  },
+  "portfolio": {
+    "ingredient_count": 5,
+    "ingredient_ids": [
+      "R1901004",
+      "R1905005",
+      "R1905006",
+      "R1905007",
+      "R1905031"
+    ],
+    "specialization_index": 0.027777777777777776,
+    "market_coverage": 2.7777777777777777
+  },
+  "network_properties": {
+    "centrality_score": 0.027777777777777776,
+    "portfolio_size_tier": "focused",
+    "supply_chain_importance": 0.027777777777777776
+  }
+}

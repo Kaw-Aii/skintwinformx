@@ -1,0 +1,22 @@
+{
+  "id": "R0102031",
+  "inci_name": "Xanthan Gum FF Food Grade",
+  "label": "Xanthan Gum FF Food Grade",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 0.5
+  },
+  "network_properties": {
+    "usage_frequency": 23,
+    "max_concentration": 0.5,
+    "centrality_score": 0.12777777777777777,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0102031",
+    "timeset": ""
+  }
+}

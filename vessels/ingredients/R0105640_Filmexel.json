@@ -1,0 +1,22 @@
+{
+  "id": "R0105640",
+  "inci_name": "Filmexel",
+  "label": "Filmexel",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 1
+  },
+  "network_properties": {
+    "usage_frequency": 4,
+    "max_concentration": 1,
+    "centrality_score": 0.022222222222222223,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0105640",
+    "timeset": ""
+  }
+}

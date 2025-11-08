@@ -1,0 +1,22 @@
+{
+  "id": "R0112004",
+  "inci_name": "Caustic Soda Flakes [Pearl]",
+  "label": "Caustic Soda Flakes [Pearl]",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 0.22
+  },
+  "network_properties": {
+    "usage_frequency": 9,
+    "max_concentration": 0.22,
+    "centrality_score": 0.05,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0112004",
+    "timeset": ""
+  }
+}

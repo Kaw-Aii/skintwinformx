@@ -1,0 +1,62 @@
+{
+  "id": "B19PRDSPAIFL000",
+  "label": "SpaZone Instant Facial Lift Wonder Serum",
+  "type": "Unknown",
+  "form": "Unknown",
+  "category": "treatment",
+  "ingredient_count": 14,
+  "source": {
+    "hypergraph_generated": true,
+    "extraction_date": "2025-11-08T05:36:14.442Z"
+  },
+  "hypergraph_metadata": {
+    "node_id": "B19PRDSPAIFL000",
+    "timeset": ""
+  },
+  "formulation_metadata": {
+    "ingredient_count": 14,
+    "total_concentration": 100,
+    "complexity_score": 14,
+    "ingredient_ids": [
+      "R010000",
+      "R0101114",
+      "R0102031",
+      "R0104056",
+      "R0105621",
+      "R0105640",
+      "R0109005",
+      "R0112004",
+      "R0113117",
+      "R1905049",
+      "R1905050",
+      "R1911001"
+    ],
+    "top_ingredients": [
+      {
+        "ingredient_id": "R010000",
+        "concentration": 71.15
+      },
+      {
+        "ingredient_id": "R010000",
+        "concentration": 5
+      },
+      {
+        "ingredient_id": "R0105621",
+        "concentration": 5
+      },
+      {
+        "ingredient_id": "R0109005",
+        "concentration": 5
+      },
+      {
+        "ingredient_id": "R1905049",
+        "concentration": 4
+      }
+    ]
+  },
+  "network_properties": {
+    "centrality_score": 0.07777777777777778,
+    "complexity_tier": "simple",
+    "formulation_density": 1
+  }
+}

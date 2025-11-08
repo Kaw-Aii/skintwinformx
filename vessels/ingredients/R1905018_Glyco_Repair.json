@@ -1,0 +1,24 @@
+{
+  "id": "R1905018",
+  "inci_name": "Glyco Repair",
+  "label": "Glyco Repair",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 3
+  },
+  "network_properties": {
+    "usage_frequency": 1,
+    "max_concentration": 3,
+    "centrality_score": 0.005555555555555556,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [
+    "MEG0001"
+  ],
+  "hypergraph_metadata": {
+    "node_id": "R1905018",
+    "timeset": ""
+  }
+}

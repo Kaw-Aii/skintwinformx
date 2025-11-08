@@ -1,0 +1,22 @@
+{
+  "id": "R0113028",
+  "inci_name": "Olive Oil Extra Virgin",
+  "label": "Olive Oil Extra Virgin",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 4
+  },
+  "network_properties": {
+    "usage_frequency": 5,
+    "max_concentration": 4,
+    "centrality_score": 0.027777777777777776,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0113028",
+    "timeset": ""
+  }
+}

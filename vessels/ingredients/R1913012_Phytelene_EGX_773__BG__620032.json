@@ -1,0 +1,24 @@
+{
+  "id": "R1913012",
+  "inci_name": "Phytelene EGX 773 [BG] 620032",
+  "label": "Phytelene EGX 773 [BG] 620032",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 8
+  },
+  "network_properties": {
+    "usage_frequency": 1,
+    "max_concentration": 8,
+    "centrality_score": 0.005555555555555556,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [
+    "NAT0001"
+  ],
+  "hypergraph_metadata": {
+    "node_id": "R1913012",
+    "timeset": ""
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "B19EDG_MEG0001_R1905035",
+  "type": "SUPPLIER_PROVIDES_INGREDIENT",
+  "source_id": "MEG0001",
+  "source_type": "supplier",
+  "target_id": "R1905035",
+  "target_type": "ingredient",
+  "properties": {
+    "weight": 1,
+    "created_at": "2025-11-08T05:31:53.093Z"
+  }
+}

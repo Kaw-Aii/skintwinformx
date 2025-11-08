@@ -1,0 +1,70 @@
+{
+  "id": "B19PRODZNEDZ000",
+  "label": "Derma Zest Cleaning & Toning Gel",
+  "type": "Unknown",
+  "form": "Unknown",
+  "category": "treatment",
+  "ingredient_count": 20,
+  "source": {
+    "hypergraph_generated": true,
+    "extraction_date": "2025-11-08T05:36:14.444Z"
+  },
+  "hypergraph_metadata": {
+    "node_id": "B19PRODZNEDZ000",
+    "timeset": ""
+  },
+  "formulation_metadata": {
+    "ingredient_count": 20,
+    "total_concentration": 100,
+    "complexity_score": 20,
+    "ingredient_ids": [
+      "R010000",
+      "R0101072",
+      "R0101114",
+      "R0102026",
+      "R0104056",
+      "R0105122",
+      "R0105170",
+      "R0105176",
+      "R0110029",
+      "R0113026",
+      "R1902000",
+      "R1902001",
+      "R1902002",
+      "R1905013",
+      "R1907000",
+      "R1913005",
+      "R1913006",
+      "R1913007",
+      "R1913008",
+      "R1913014"
+    ],
+    "top_ingredients": [
+      {
+        "ingredient_id": "R1902000",
+        "concentration": 25
+      },
+      {
+        "ingredient_id": "R010000",
+        "concentration": 23.65
+      },
+      {
+        "ingredient_id": "R0110029",
+        "concentration": 10
+      },
+      {
+        "ingredient_id": "R0105176",
+        "concentration": 8
+      },
+      {
+        "ingredient_id": "R1902001",
+        "concentration": 5
+      }
+    ]
+  },
+  "network_properties": {
+    "centrality_score": 0.1111111111111111,
+    "complexity_tier": "moderate",
+    "formulation_density": 1
+  }
+}

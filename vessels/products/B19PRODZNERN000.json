@@ -1,0 +1,74 @@
+{
+  "id": "B19PRODZNERN000",
+  "label": "Rejuvoderm Night Maintenance",
+  "type": "Unknown",
+  "form": "Unknown",
+  "category": "treatment",
+  "ingredient_count": 24,
+  "source": {
+    "hypergraph_generated": true,
+    "extraction_date": "2025-11-08T05:36:14.442Z"
+  },
+  "hypergraph_metadata": {
+    "node_id": "B19PRODZNERN000",
+    "timeset": ""
+  },
+  "formulation_metadata": {
+    "ingredient_count": 24,
+    "total_concentration": 100,
+    "complexity_score": 24,
+    "ingredient_ids": [
+      "R010000",
+      "R0102008",
+      "R0102031",
+      "R0104056",
+      "R0105039",
+      "R0105041",
+      "R0105123",
+      "R0105170",
+      "R0105177",
+      "R0105179",
+      "R0105182",
+      "R0105270",
+      "R0106001",
+      "R0106012",
+      "R0106038",
+      "R0111063",
+      "R0113028",
+      "R0113091",
+      "R0113094",
+      "R1905010",
+      "R1905015",
+      "R1905043",
+      "R1905048",
+      "R1913004"
+    ],
+    "top_ingredients": [
+      {
+        "ingredient_id": "R010000",
+        "concentration": 39.725
+      },
+      {
+        "ingredient_id": "R0102008",
+        "concentration": 5
+      },
+      {
+        "ingredient_id": "R0105270",
+        "concentration": 5
+      },
+      {
+        "ingredient_id": "R0106001",
+        "concentration": 5
+      },
+      {
+        "ingredient_id": "R0106012",
+        "concentration": 5
+      }
+    ]
+  },
+  "network_properties": {
+    "centrality_score": 0.13333333333333333,
+    "complexity_tier": "moderate",
+    "formulation_density": 1
+  }
+}

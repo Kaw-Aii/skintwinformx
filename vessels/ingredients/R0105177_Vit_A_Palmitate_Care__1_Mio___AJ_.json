@@ -1,0 +1,22 @@
+{
+  "id": "R0105177",
+  "inci_name": "Vit A Palmitate Care [1 Mio] [AJ]",
+  "label": "Vit A Palmitate Care [1 Mio] [AJ]",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 0.5
+  },
+  "network_properties": {
+    "usage_frequency": 8,
+    "max_concentration": 0.5,
+    "centrality_score": 0.044444444444444446,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0105177",
+    "timeset": ""
+  }
+}

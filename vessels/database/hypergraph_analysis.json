@@ -1,0 +1,80 @@
+{
+  "timestamp": "2025-11-08T05:37:52.305Z",
+  "validation": "passed",
+  "metrics": {
+    "nodes": {
+      "products": 28,
+      "ingredients": 171,
+      "suppliers": 24,
+      "total": 223
+    },
+    "edges": {
+      "formulation": 521,
+      "supply": 91,
+      "total": 612
+    },
+    "density": {
+      "formulation_layer": 0.10881370091896407,
+      "supply_layer": 0.022173489278752435
+    },
+    "complexity": {
+      "avg_product_ingredients": 18.607142857142858,
+      "min_product_ingredients": 12,
+      "max_product_ingredients": 29,
+      "avg_supplier_portfolio": 3.7916666666666665
+    },
+    "centrality": {
+      "most_used_ingredients": [
+        {
+          "id": "R010000",
+          "product_count": 50
+        },
+        {
+          "id": "R0102031",
+          "product_count": 23
+        },
+        {
+          "id": "R0104015",
+          "product_count": 19
+        },
+        {
+          "id": "R0101114",
+          "product_count": 14
+        },
+        {
+          "id": "R0105123",
+          "product_count": 14
+        }
+      ],
+      "top_suppliers": [
+        {
+          "id": "NAT0001",
+          "ingredient_count": 16
+        },
+        {
+          "id": "MEG0001",
+          "ingredient_count": 15
+        },
+        {
+          "id": "CAR0002",
+          "ingredient_count": 8
+        },
+        {
+          "id": "CJP0001",
+          "ingredient_count": 8
+        },
+        {
+          "id": "CRO0001",
+          "ingredient_count": 7
+        }
+      ]
+    }
+  },
+  "summary": {
+    "hypergraph_complete": true,
+    "traversal_tested": true,
+    "network_density": "sparse",
+    "supply_risk": "high_single_sourcing",
+    "data_quality": "good"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "CHE0004",
+  "name": "Chempure (Pty) Ltd",
+  "label": "Chempure (Pty) Ltd",
+  "category": "Unknown",
+  "location": "South Africa",
+  "hypergraph_metadata": {
+    "node_id": "CHE0004",
+    "modularity_class": 6,
+    "timeset": ""
+  },
+  "portfolio": {
+    "ingredient_count": 3,
+    "ingredient_ids": [
+      "R1905016",
+      "R1905017",
+      "R1905021"
+    ],
+    "specialization_index": 0.016666666666666666,
+    "market_coverage": 1.6666666666666667
+  },
+  "network_properties": {
+    "centrality_score": 0.016666666666666666,
+    "portfolio_size_tier": "focused",
+    "supply_chain_importance": 0.016666666666666666
+  }
+}

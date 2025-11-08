@@ -1,0 +1,24 @@
+{
+  "id": "R1913011",
+  "inci_name": "Phytelene EGX 247 [BG] 620012",
+  "label": "Phytelene EGX 247 [BG] 620012",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 7
+  },
+  "network_properties": {
+    "usage_frequency": 3,
+    "max_concentration": 7,
+    "centrality_score": 0.016666666666666666,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [
+    "NAT0001"
+  ],
+  "hypergraph_metadata": {
+    "node_id": "R1913011",
+    "timeset": ""
+  }
+}

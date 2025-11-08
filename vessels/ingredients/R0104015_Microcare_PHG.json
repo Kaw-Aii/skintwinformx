@@ -1,0 +1,22 @@
+{
+  "id": "R0104015",
+  "inci_name": "Microcare PHG",
+  "label": "Microcare PHG",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 1.5
+  },
+  "network_properties": {
+    "usage_frequency": 19,
+    "max_concentration": 1.5,
+    "centrality_score": 0.10555555555555556,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0104015",
+    "timeset": ""
+  }
+}

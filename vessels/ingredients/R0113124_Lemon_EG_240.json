@@ -1,0 +1,22 @@
+{
+  "id": "R0113124",
+  "inci_name": "Lemon EG 240",
+  "label": "Lemon EG 240",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 2
+  },
+  "network_properties": {
+    "usage_frequency": 1,
+    "max_concentration": 2,
+    "centrality_score": 0.005555555555555556,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0113124",
+    "timeset": ""
+  }
+}

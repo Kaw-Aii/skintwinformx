@@ -1,0 +1,133 @@
+{
+  "id": "B19RVE003",
+  "product_reference": "B19RVE003",
+  "name": "B19RVE003",
+  "ingredients": [
+    {
+      "order": 1,
+      "inci_name": "De Ion Water",
+      "ingredient_id": "R010000",
+      "concentration": 28.6,
+      "function": "Unknown"
+    },
+    {
+      "order": 2,
+      "inci_name": "De Ion Water",
+      "ingredient_id": "R010000",
+      "concentration": 20,
+      "function": "Unknown"
+    },
+    {
+      "order": 3,
+      "inci_name": "Skin Tightener ST[TM] PH",
+      "ingredient_id": "R1905025",
+      "concentration": 10,
+      "function": "Unknown"
+    },
+    {
+      "order": 4,
+      "inci_name": "Crodamol SSA LQ [MV]",
+      "ingredient_id": "R0101077",
+      "concentration": 8,
+      "function": "Unknown"
+    },
+    {
+      "order": 5,
+      "inci_name": "Crodamol ISIS LQ [MV]",
+      "ingredient_id": "R0101059",
+      "concentration": 7,
+      "function": "Unknown"
+    },
+    {
+      "order": 6,
+      "inci_name": "Emulfree CBG [AJ]",
+      "ingredient_id": "R0106020",
+      "concentration": 6,
+      "function": "Unknown"
+    },
+    {
+      "order": 7,
+      "inci_name": "Bioskinup Contour [Airfreight]",
+      "ingredient_id": "R0105334",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 8,
+      "inci_name": "Oliwax",
+      "ingredient_id": "R0111012",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 9,
+      "inci_name": "Cetyl Alcohol [Nacol 1695]",
+      "ingredient_id": "R0106004",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 10,
+      "inci_name": "B.P. Glycerine",
+      "ingredient_id": "R0101114",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 11,
+      "inci_name": "AquaCacteen",
+      "ingredient_id": "R1905023",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 12,
+      "inci_name": "Microcare PHG",
+      "ingredient_id": "R0104015",
+      "concentration": 1.5,
+      "function": "Unknown"
+    },
+    {
+      "order": 13,
+      "inci_name": "Carbopol EDT 2050",
+      "ingredient_id": "R1911003",
+      "concentration": 1,
+      "function": "Unknown"
+    },
+    {
+      "order": 14,
+      "inci_name": "De Ion Water",
+      "ingredient_id": "R010000",
+      "concentration": 0.4,
+      "function": "Unknown"
+    },
+    {
+      "order": 15,
+      "inci_name": "Xanthan Gum FF Food Grade",
+      "ingredient_id": "R0102031",
+      "concentration": 0.3,
+      "function": "Unknown"
+    },
+    {
+      "order": 16,
+      "inci_name": "DL A Tocopherol",
+      "ingredient_id": "R0105123",
+      "concentration": 0.1,
+      "function": "Unknown"
+    },
+    {
+      "order": 17,
+      "inci_name": "Caustic Soda Flakes [Pearl]",
+      "ingredient_id": "R0112004",
+      "concentration": 0.1,
+      "function": "Unknown"
+    }
+  ],
+  "total_concentration": 99.99999999999999,
+  "complexity_score": 17,
+  "hypergraph_metadata": {
+    "ingredient_count": 17,
+    "centrality_score": 0.09444444444444444,
+    "network_density": 0.9999999999999999
+  }
+}

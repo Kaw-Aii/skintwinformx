@@ -1,0 +1,60 @@
+{
+  "id": "B19RMS001",
+  "label": "Super Smoother",
+  "type": "Unknown",
+  "form": "Unknown",
+  "category": "treatment",
+  "ingredient_count": 12,
+  "source": {
+    "hypergraph_generated": true,
+    "extraction_date": "2025-11-08T05:36:14.445Z"
+  },
+  "hypergraph_metadata": {
+    "node_id": "B19RMS001",
+    "timeset": ""
+  },
+  "formulation_metadata": {
+    "ingredient_count": 12,
+    "total_concentration": 100,
+    "complexity_score": 12,
+    "ingredient_ids": [
+      "R010000",
+      "R0101114",
+      "R0104015",
+      "R0105227",
+      "R0112004",
+      "R1905004",
+      "R1905006",
+      "R1905007",
+      "R1905008",
+      "R1911001"
+    ],
+    "top_ingredients": [
+      {
+        "ingredient_id": "R010000",
+        "concentration": 49.7
+      },
+      {
+        "ingredient_id": "R010000",
+        "concentration": 30
+      },
+      {
+        "ingredient_id": "R1905006",
+        "concentration": 10
+      },
+      {
+        "ingredient_id": "R1905007",
+        "concentration": 3
+      },
+      {
+        "ingredient_id": "R0101114",
+        "concentration": 2
+      }
+    ]
+  },
+  "network_properties": {
+    "centrality_score": 0.06666666666666667,
+    "complexity_tier": "simple",
+    "formulation_density": 1
+  }
+}

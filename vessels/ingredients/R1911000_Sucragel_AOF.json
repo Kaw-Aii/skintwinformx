@@ -1,0 +1,24 @@
+{
+  "id": "R1911000",
+  "inci_name": "Sucragel AOF",
+  "label": "Sucragel AOF",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 20
+  },
+  "network_properties": {
+    "usage_frequency": 1,
+    "max_concentration": 20,
+    "centrality_score": 0.005555555555555556,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [
+    "CAR0002"
+  ],
+  "hypergraph_metadata": {
+    "node_id": "R1911000",
+    "timeset": ""
+  }
+}

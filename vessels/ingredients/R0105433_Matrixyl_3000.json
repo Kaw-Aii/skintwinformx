@@ -1,0 +1,22 @@
+{
+  "id": "R0105433",
+  "inci_name": "Matrixyl 3000",
+  "label": "Matrixyl 3000",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 3
+  },
+  "network_properties": {
+    "usage_frequency": 2,
+    "max_concentration": 3,
+    "centrality_score": 0.011111111111111112,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0105433",
+    "timeset": ""
+  }
+}

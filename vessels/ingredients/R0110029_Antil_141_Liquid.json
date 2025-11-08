@@ -1,0 +1,22 @@
+{
+  "id": "R0110029",
+  "inci_name": "Antil 141 Liquid",
+  "label": "Antil 141 Liquid",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 10
+  },
+  "network_properties": {
+    "usage_frequency": 1,
+    "max_concentration": 10,
+    "centrality_score": 0.005555555555555556,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0110029",
+    "timeset": ""
+  }
+}

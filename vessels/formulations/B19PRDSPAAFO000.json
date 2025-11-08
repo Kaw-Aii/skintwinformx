@@ -1,0 +1,98 @@
+{
+  "id": "B19FRMSPAAFO000",
+  "product_reference": "B19PRDSPAAFO000",
+  "name": "SPAAFO000",
+  "ingredients": [
+    {
+      "order": 1,
+      "inci_name": "Lipovol A [Avocado oil]",
+      "ingredient_id": "R0105258",
+      "concentration": 40.9,
+      "function": "Unknown"
+    },
+    {
+      "order": 2,
+      "inci_name": "Evoil Apricot Kernel",
+      "ingredient_id": "R0101100",
+      "concentration": 10,
+      "function": "Unknown"
+    },
+    {
+      "order": 3,
+      "inci_name": "Refined Soya Bean Oil",
+      "ingredient_id": "R0101102",
+      "concentration": 10,
+      "function": "Unknown"
+    },
+    {
+      "order": 4,
+      "inci_name": "Evoil Hazelnut",
+      "ingredient_id": "R0101121",
+      "concentration": 10,
+      "function": "Unknown"
+    },
+    {
+      "order": 5,
+      "inci_name": "Camellia Oil",
+      "ingredient_id": "R0113090",
+      "concentration": 10,
+      "function": "Unknown"
+    },
+    {
+      "order": 6,
+      "inci_name": "Argan Oil",
+      "ingredient_id": "R0105489",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 7,
+      "inci_name": "Biochemica Rosehip Oil Refined",
+      "ingredient_id": "R0113091",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 8,
+      "inci_name": "Blackcurrant Oil RBD # 266593",
+      "ingredient_id": "R0113094",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 9,
+      "inci_name": "Ceramidone",
+      "ingredient_id": "R1905055",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 10,
+      "inci_name": "Bergamot Oil",
+      "ingredient_id": "R0113117",
+      "concentration": 0.5,
+      "function": "Unknown"
+    },
+    {
+      "order": 11,
+      "inci_name": "Grapefruit Oil Pink",
+      "ingredient_id": "R1913014",
+      "concentration": 0.5,
+      "function": "Unknown"
+    },
+    {
+      "order": 12,
+      "inci_name": "DL A Tocopherol",
+      "ingredient_id": "R0105123",
+      "concentration": 0.1,
+      "function": "Unknown"
+    }
+  ],
+  "total_concentration": 100,
+  "complexity_score": 12,
+  "hypergraph_metadata": {
+    "ingredient_count": 12,
+    "centrality_score": 0.06666666666666667,
+    "network_density": 1
+  }
+}

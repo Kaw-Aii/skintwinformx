@@ -1,0 +1,189 @@
+{
+  "id": "B19CIPP001",
+  "product_reference": "B19CIPP001",
+  "name": "B19CIPP001",
+  "ingredients": [
+    {
+      "order": 1,
+      "inci_name": "De Ion Water",
+      "ingredient_id": "R010000",
+      "concentration": 42.305,
+      "function": "Unknown"
+    },
+    {
+      "order": 2,
+      "inci_name": "De Ion Water",
+      "ingredient_id": "R010000",
+      "concentration": 10,
+      "function": "Unknown"
+    },
+    {
+      "order": 3,
+      "inci_name": "Isohexadecane",
+      "ingredient_id": "R0101084",
+      "concentration": 7,
+      "function": "Unknown"
+    },
+    {
+      "order": 4,
+      "inci_name": "Synerlight 2",
+      "ingredient_id": "R0105308",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 5,
+      "inci_name": "SP Cosmowax D MBAL PA [SG]",
+      "ingredient_id": "R0106001",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 6,
+      "inci_name": "Biochemica Rosehip Oil Refined",
+      "ingredient_id": "R0113091",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 7,
+      "inci_name": "Lumiskin TM MBAL [SE28217] [AJ]",
+      "ingredient_id": "R0105358",
+      "concentration": 4,
+      "function": "Unknown"
+    },
+    {
+      "order": 8,
+      "inci_name": "SP Arlacel 165 FP MBAL PA [RB] [Simusol 165]",
+      "ingredient_id": "R0106038",
+      "concentration": 4,
+      "function": "Unknown"
+    },
+    {
+      "order": 9,
+      "inci_name": "DL Alpha Tocopheryl Acetate",
+      "ingredient_id": "R0105179",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 10,
+      "inci_name": "Kombuchka",
+      "ingredient_id": "R0105240",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 11,
+      "inci_name": "B.P. Glycerine",
+      "ingredient_id": "R0101114",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 12,
+      "inci_name": "Silsoft 034",
+      "ingredient_id": "R0105527",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 13,
+      "inci_name": "AA2G",
+      "ingredient_id": "R1905005",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 14,
+      "inci_name": "De Ion Water",
+      "ingredient_id": "R010000",
+      "concentration": 1.5,
+      "function": "Unknown"
+    },
+    {
+      "order": 15,
+      "inci_name": "Microcare PHG",
+      "ingredient_id": "R0104015",
+      "concentration": 1.5,
+      "function": "Unknown"
+    },
+    {
+      "order": 16,
+      "inci_name": "D Panthenol",
+      "ingredient_id": "R0105170",
+      "concentration": 0.5,
+      "function": "Unknown"
+    },
+    {
+      "order": 17,
+      "inci_name": "Vit A Palmitate Care [1 Mio] [AJ]",
+      "ingredient_id": "R0105177",
+      "concentration": 0.5,
+      "function": "Unknown"
+    },
+    {
+      "order": 18,
+      "inci_name": "De Ion Water",
+      "ingredient_id": "R010000",
+      "concentration": 0.4,
+      "function": "Unknown"
+    },
+    {
+      "order": 19,
+      "inci_name": "Potassium Hydroxide",
+      "ingredient_id": "R0112001",
+      "concentration": 0.375,
+      "function": "Unknown"
+    },
+    {
+      "order": 20,
+      "inci_name": "Tri Sodium Citrate",
+      "ingredient_id": "R0105035",
+      "concentration": 0.3,
+      "function": "Unknown"
+    },
+    {
+      "order": 21,
+      "inci_name": "Xanthan Gum FF Food Grade",
+      "ingredient_id": "R0102031",
+      "concentration": 0.2,
+      "function": "Unknown"
+    },
+    {
+      "order": 22,
+      "inci_name": "Trilon BD [EDTA NA2]",
+      "ingredient_id": "R0105020",
+      "concentration": 0.2,
+      "function": "Unknown"
+    },
+    {
+      "order": 23,
+      "inci_name": "DL A Tocopherol",
+      "ingredient_id": "R0105123",
+      "concentration": 0.1,
+      "function": "Unknown"
+    },
+    {
+      "order": 24,
+      "inci_name": "Potassium Hydroxide",
+      "ingredient_id": "R0112001",
+      "concentration": 0.1,
+      "function": "Unknown"
+    },
+    {
+      "order": 25,
+      "inci_name": "Citric Acid Anhydrous",
+      "ingredient_id": "R0105039",
+      "concentration": 0.02,
+      "function": "Unknown"
+    }
+  ],
+  "total_concentration": 100,
+  "complexity_score": 25,
+  "hypergraph_metadata": {
+    "ingredient_count": 25,
+    "centrality_score": 0.1388888888888889,
+    "network_density": 1
+  }
+}

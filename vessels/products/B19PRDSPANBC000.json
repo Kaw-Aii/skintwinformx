@@ -1,0 +1,67 @@
+{
+  "id": "B19PRDSPANBC000",
+  "label": "SpaZone Bust Refining Rejuvenator",
+  "type": "Unknown",
+  "form": "Unknown",
+  "category": "treatment",
+  "ingredient_count": 18,
+  "source": {
+    "hypergraph_generated": true,
+    "extraction_date": "2025-11-08T05:36:14.446Z"
+  },
+  "hypergraph_metadata": {
+    "node_id": "B19PRDSPANBC000",
+    "timeset": ""
+  },
+  "formulation_metadata": {
+    "ingredient_count": 18,
+    "total_concentration": 100,
+    "complexity_score": 18,
+    "ingredient_ids": [
+      "R010000",
+      "R0101114",
+      "R0102031",
+      "R0104056",
+      "R0105123",
+      "R0105258",
+      "R0105640",
+      "R0106015",
+      "R0111012",
+      "R0111063",
+      "R0113028",
+      "R0113091",
+      "R0113094",
+      "R0113117",
+      "R1905052",
+      "R1905053",
+      "R1905054"
+    ],
+    "top_ingredients": [
+      {
+        "ingredient_id": "R010000",
+        "concentration": 54.65
+      },
+      {
+        "ingredient_id": "R010000",
+        "concentration": 5
+      },
+      {
+        "ingredient_id": "R0106015",
+        "concentration": 5
+      },
+      {
+        "ingredient_id": "R1905052",
+        "concentration": 5
+      },
+      {
+        "ingredient_id": "R1905054",
+        "concentration": 5
+      }
+    ]
+  },
+  "network_properties": {
+    "centrality_score": 0.1,
+    "complexity_tier": "moderate",
+    "formulation_density": 1
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "NAT0001",
+  "name": "Natchem CC",
+  "label": "Natchem CC",
+  "category": "Unknown",
+  "location": "South Africa",
+  "hypergraph_metadata": {
+    "node_id": "NAT0001",
+    "modularity_class": 20,
+    "timeset": ""
+  },
+  "portfolio": {
+    "ingredient_count": 16,
+    "ingredient_ids": [
+      "R1905001",
+      "R1905037",
+      "R1905045",
+      "R1913000",
+      "R1913001",
+      "R1913002",
+      "R1913003",
+      "R1913004",
+      "R1913005",
+      "R1913006",
+      "R1913007",
+      "R1913008",
+      "R1913009",
+      "R1913011",
+      "R1913012",
+      "R1913013"
+    ],
+    "specialization_index": 0.08888888888888889,
+    "market_coverage": 8.88888888888889
+  },
+  "network_properties": {
+    "centrality_score": 0.08888888888888889,
+    "portfolio_size_tier": "diversified",
+    "supply_chain_importance": 0.08888888888888889
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "R0102008",
+  "inci_name": "1,3 Butylene Glycol [Cosmetic Quality]",
+  "label": "1,3 Butylene Glycol [Cosmetic Quality]",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 5
+  },
+  "network_properties": {
+    "usage_frequency": 13,
+    "max_concentration": 5,
+    "centrality_score": 0.07222222222222222,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0102008",
+    "timeset": ""
+  }
+}

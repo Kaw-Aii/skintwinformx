@@ -1,0 +1,24 @@
+{
+  "id": "R1905021",
+  "inci_name": "L Carnitine",
+  "label": "L Carnitine",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 0.5
+  },
+  "network_properties": {
+    "usage_frequency": 1,
+    "max_concentration": 0.5,
+    "centrality_score": 0.005555555555555556,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [
+    "CHE0004"
+  ],
+  "hypergraph_metadata": {
+    "node_id": "R1905021",
+    "timeset": ""
+  }
+}
