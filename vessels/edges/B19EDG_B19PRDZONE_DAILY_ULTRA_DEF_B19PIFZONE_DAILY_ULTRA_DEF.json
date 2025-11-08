@@ -1,0 +1,13 @@
+{
+  "id": "B19EDG_B19PRDZONE_DAILY_ULTRA_DEF_B19PIFZONE_DAILY_ULTRA_DEF",
+  "type": "PRODUCT_HAS_PIF",
+  "source_id": "B19PRDZONE_DAILY_ULTRA_DEF",
+  "source_type": "product",
+  "target_id": "B19PIFZONE_DAILY_ULTRA_DEF",
+  "target_type": "pif",
+  "properties": {
+    "document_source": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf",
+    "extraction_date": "2025-11-08T03:04:20.086Z",
+    "created_at": "2025-11-08T03:07:19.151Z"
+  }
+}

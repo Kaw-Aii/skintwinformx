@@ -1,0 +1,13 @@
+{
+  "id": "B19EDG_B19PRDZONE_50_POWER_PEEL_N_B19PIFZONE_50_POWER_PEEL_N",
+  "type": "PRODUCT_HAS_PIF",
+  "source_id": "B19PRDZONE_50_POWER_PEEL_N",
+  "source_type": "product",
+  "target_id": "B19PIFZONE_50_POWER_PEEL_N",
+  "target_type": "pif",
+  "properties": {
+    "document_source": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf",
+    "extraction_date": "2025-11-08T03:04:20.080Z",
+    "created_at": "2025-11-08T03:07:19.151Z"
+  }
+}

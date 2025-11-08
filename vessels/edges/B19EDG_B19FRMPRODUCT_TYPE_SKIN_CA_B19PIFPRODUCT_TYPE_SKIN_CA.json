@@ -1,0 +1,12 @@
+{
+  "id": "B19EDG_B19FRMPRODUCT_TYPE_SKIN_CA_B19PIFPRODUCT_TYPE_SKIN_CA",
+  "type": "FORMULATION_DOCUMENTED_IN_PIF",
+  "source_id": "B19FRMPRODUCT_TYPE_SKIN_CA",
+  "source_type": "formulation",
+  "target_id": "B19PIFPRODUCT_TYPE_SKIN_CA",
+  "target_type": "pif",
+  "properties": {
+    "document_source": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf",
+    "created_at": "2025-11-08T03:07:19.151Z"
+  }
+}

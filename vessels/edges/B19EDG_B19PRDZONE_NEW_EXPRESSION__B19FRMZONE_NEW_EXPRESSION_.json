@@ -1,0 +1,13 @@
+{
+  "id": "B19EDG_B19PRDZONE_NEW_EXPRESSION__B19FRMZONE_NEW_EXPRESSION_",
+  "type": "PRODUCT_HAS_FORMULATION",
+  "source_id": "B19PRDZONE_NEW_EXPRESSION_",
+  "source_type": "product",
+  "target_id": "B19FRMZONE_NEW_EXPRESSION_",
+  "target_type": "formulation",
+  "properties": {
+    "ingredient_count": 1,
+    "total_concentration": 0.001,
+    "created_at": "2025-11-08T03:07:19.150Z"
+  }
+}
