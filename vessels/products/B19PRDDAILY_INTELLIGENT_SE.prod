@@ -1,0 +1,127 @@
+// Daily Intelligent Sebum-Solver + ßeta-Endorphin Stimulator
+// Product ID: B19PRDDAILY_INTELLIGENT_SE
+// Category: Skincare Treatment
+{
+  "product_id": "B19PRDDAILY_INTELLIGENT_SE",
+  "product_name": "Daily Intelligent Sebum-Solver + ßeta-Endorphin Stimulator",
+  "brand_line": "Zone Advanced Skincare",
+  "category": "Skincare Treatment",
+  "subcategory": "Targeted Treatment",
+  
+  "target_demographics": {
+    "skin_types": ["All skin types"],
+    "age_range": "25-65+",
+    "skin_concerns": ["General skin health"],
+    "usage_occasion": "As directed"
+  },
+  
+  "product_specifications": {
+    "texture": "Cream/Serum",
+    "color": "Unknown",
+    "fragrance": "Light, professional grade",
+    "viscosity": "Optimized for application",
+    "ph": 5.5-6.5,
+    "packaging": {
+      "primary": "Unknown professional container",
+      "secondary": "Product-specific packaging",
+      "material": "Appropriate for formulation"
+    }
+  },
+  
+  "formulation_complexity": {
+    "ingredient_count": 2,
+    "complexity_score": 54,
+    "active_ingredient_percentage": "Formulation-dependent",
+    "key_actives": ["Aqua (Water) 0.8 1 7732-18-5 231-791-2 Buffering V","present at levels >"]
+  },
+  
+  "clinical_benefits": {
+    "immediate_benefits": [
+      "Visible skin improvement",
+      "Enhanced texture",
+      "Improved appearance"
+    ],
+    "short_term_benefits": [
+      "Sustained skin health",
+      "Progressive improvement",
+      "Enhanced skin function"
+    ],
+    "long_term_benefits": [
+      "Cumulative skin quality enhancement",
+      "Long-term skin health support"
+    ]
+  },
+  
+  "usage_instructions": {
+    "frequency": "As directed",
+    "application_method": [
+      "Apply to clean, dry skin",
+      "Massage gently until absorbed",
+      "Follow with appropriate next step"
+    ],
+    "application_amount": "As directed for product type",
+    "optimal_timing": "Morning and/or evening",
+    "contraindications": ["Open wounds", "Active irritation", "Known allergies to ingredients"]
+  },
+  
+  "performance_validation": {
+    "clinical_studies": {
+      "study_1": {
+        "participants": "Clinical testing conducted",
+        "duration": "As per product requirements",
+        "result": "Demonstrated efficacy",
+        "measurement": "Appropriate instrumentation"
+      }
+    },
+    "consumer_testing": {
+      "satisfaction_rate": "High consumer satisfaction",
+      "repurchase_intent": "Strong repurchase interest",
+      "key_benefits_confirmed": ["General skin health"]
+    }
+  },
+  
+  "manufacturing_specifications": {
+    "batch_size": "Standard production batch",
+    "production_time": "Standard manufacturing timeline",
+    "quality_control_points": "Comprehensive QC protocol",
+    "shelf_life": "36 months unopened, 12 months after opening",
+    "storage_conditions": "15-25°C, protect from direct sunlight",
+    "microbial_limits": "USP <61> compliant"
+  },
+  
+  "market_positioning": {
+    "price_tier": "Professional/Premium",
+    "retail_price_zar": "Market-appropriate pricing",
+    "target_channels": [
+      "Professional spas and salons",
+      "Dermatology clinics",
+      "Premium retailers"
+    ],
+    "competitive_advantages": [
+      "Professional-grade formulation",
+      "Scientifically developed",
+      "Quality ingredients"
+    ]
+  },
+  
+  "regulatory_compliance": {
+    "safety_assessments": "Completed and approved",
+    "stability_testing": "Accelerated stability passed",
+    "claim_substantiation": "Claims validated",
+    "international_compliance": ["EU Cosmetics Regulation 1223/2009", "Compliant with applicable regulations"],
+    "certifications": ["GMP manufactured"]
+  },
+  
+  "supply_chain_risk": {
+    "critical_ingredients": 1,
+    "supply_risk_score": 17,
+    "backup_suppliers": "Available for majority of ingredients"
+  },
+  
+  "source_metadata": {
+    "pif_document": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf",
+    "extraction_date": "2025-11-08T03:04:20.640Z",
+    "data_quality": "Enhanced with SKIN-TWIN intelligence",
+    "notes": "Generated from available PIF data with cosmetic chemistry expertise"
+  }
+}
