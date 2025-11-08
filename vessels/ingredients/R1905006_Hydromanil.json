@@ -1,0 +1,24 @@
+{
+  "id": "R1905006",
+  "inci_name": "Hydromanil",
+  "label": "Hydromanil",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 10
+  },
+  "network_properties": {
+    "usage_frequency": 2,
+    "max_concentration": 10,
+    "centrality_score": 0.011111111111111112,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [
+    "SAV0001"
+  ],
+  "hypergraph_metadata": {
+    "node_id": "R1905006",
+    "timeset": ""
+  }
+}

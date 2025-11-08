@@ -1,0 +1,154 @@
+{
+  "id": "B19PRODZNEDZ000",
+  "product_reference": "B19PRODZNEDZ000",
+  "name": "B19PRODZNEDZ000",
+  "ingredients": [
+    {
+      "order": 1,
+      "inci_name": "Oronal LCG",
+      "ingredient_id": "R1902000",
+      "concentration": 25,
+      "function": "Unknown"
+    },
+    {
+      "order": 2,
+      "inci_name": "De Ion Water",
+      "ingredient_id": "R010000",
+      "concentration": 23.65,
+      "function": "Unknown"
+    },
+    {
+      "order": 3,
+      "inci_name": "Antil 141 Liquid",
+      "ingredient_id": "R0110029",
+      "concentration": 10,
+      "function": "Unknown"
+    },
+    {
+      "order": 4,
+      "inci_name": "Empigen BS FA [AF]",
+      "ingredient_id": "R0105176",
+      "concentration": 8,
+      "function": "Unknown"
+    },
+    {
+      "order": 5,
+      "inci_name": "Proteol OAT",
+      "ingredient_id": "R1902001",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 6,
+      "inci_name": "Rewoderm S1333 KM 5",
+      "ingredient_id": "R1902002",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 7,
+      "inci_name": "Lamesoft PO 65",
+      "ingredient_id": "R0101072",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 8,
+      "inci_name": "B.P. Glycerine",
+      "ingredient_id": "R0101114",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 9,
+      "inci_name": "Eumulgin CO 40",
+      "ingredient_id": "R0102026",
+      "concentration": 2.5,
+      "function": "Unknown"
+    },
+    {
+      "order": 10,
+      "inci_name": "D Panthenol",
+      "ingredient_id": "R0105170",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 11,
+      "inci_name": "Centella Asiatica Phytelene EG 356 [320050]",
+      "ingredient_id": "R0113026",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 12,
+      "inci_name": "Genencare OSMS BA",
+      "ingredient_id": "R1905013",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 13,
+      "inci_name": "Geranium HG Ext",
+      "ingredient_id": "R1913006",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 14,
+      "inci_name": "Lavender HG Ext",
+      "ingredient_id": "R1913007",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 15,
+      "inci_name": "Verstatil PC",
+      "ingredient_id": "R0104056",
+      "concentration": 1.5,
+      "function": "Unknown"
+    },
+    {
+      "order": 16,
+      "inci_name": "Perf Citrus Therm 701081",
+      "ingredient_id": "R1907000",
+      "concentration": 1,
+      "function": "Unknown"
+    },
+    {
+      "order": 17,
+      "inci_name": "Yarrow Phytelene EG 472 Ext",
+      "ingredient_id": "R1913005",
+      "concentration": 1,
+      "function": "Unknown"
+    },
+    {
+      "order": 18,
+      "inci_name": "Rosemary HG Ext",
+      "ingredient_id": "R1913008",
+      "concentration": 1,
+      "function": "Unknown"
+    },
+    {
+      "order": 19,
+      "inci_name": "Grapefruit Oil Pink",
+      "ingredient_id": "R1913014",
+      "concentration": 0.25,
+      "function": "Unknown"
+    },
+    {
+      "order": 20,
+      "inci_name": "Dragosantol 172585",
+      "ingredient_id": "R0105122",
+      "concentration": 0.1,
+      "function": "Unknown"
+    }
+  ],
+  "total_concentration": 100,
+  "complexity_score": 20,
+  "hypergraph_metadata": {
+    "ingredient_count": 20,
+    "centrality_score": 0.1111111111111111,
+    "network_density": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "R0105122",
+  "inci_name": "Dragosantol 172585",
+  "label": "Dragosantol 172585",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 0.2
+  },
+  "network_properties": {
+    "usage_frequency": 2,
+    "max_concentration": 0.2,
+    "centrality_score": 0.011111111111111112,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0105122",
+    "timeset": ""
+  }
+}

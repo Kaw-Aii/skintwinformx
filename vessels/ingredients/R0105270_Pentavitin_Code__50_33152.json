@@ -1,0 +1,22 @@
+{
+  "id": "R0105270",
+  "inci_name": "Pentavitin Code: 50 33152",
+  "label": "Pentavitin Code: 50 33152",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 5
+  },
+  "network_properties": {
+    "usage_frequency": 4,
+    "max_concentration": 5,
+    "centrality_score": 0.022222222222222223,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0105270",
+    "timeset": ""
+  }
+}

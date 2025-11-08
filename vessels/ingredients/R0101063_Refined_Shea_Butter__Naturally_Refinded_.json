@@ -1,0 +1,22 @@
+{
+  "id": "R0101063",
+  "inci_name": "Refined Shea Butter [Naturally Refinded]",
+  "label": "Refined Shea Butter [Naturally Refinded]",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 5
+  },
+  "network_properties": {
+    "usage_frequency": 4,
+    "max_concentration": 5,
+    "centrality_score": 0.022222222222222223,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0101063",
+    "timeset": ""
+  }
+}

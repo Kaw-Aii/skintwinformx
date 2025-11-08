@@ -1,0 +1,13 @@
+{
+  "id": "B19EDG_R0106004_B19NE31003",
+  "type": "INGREDIENT_IN_FORMULATION",
+  "source_id": "R0106004",
+  "source_type": "ingredient",
+  "target_id": "B19NE31003",
+  "target_type": "product",
+  "properties": {
+    "concentration": 2,
+    "weight": 2,
+    "created_at": "2025-11-08T05:31:53.077Z"
+  }
+}

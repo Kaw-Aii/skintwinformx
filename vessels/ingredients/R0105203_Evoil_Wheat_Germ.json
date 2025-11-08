@@ -1,0 +1,22 @@
+{
+  "id": "R0105203",
+  "inci_name": "Evoil Wheat Germ",
+  "label": "Evoil Wheat Germ",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 7
+  },
+  "network_properties": {
+    "usage_frequency": 2,
+    "max_concentration": 7,
+    "centrality_score": 0.011111111111111112,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0105203",
+    "timeset": ""
+  }
+}

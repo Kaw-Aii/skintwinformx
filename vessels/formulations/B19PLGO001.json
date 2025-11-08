@@ -1,0 +1,98 @@
+{
+  "id": "B19PLGO001",
+  "product_reference": "B19PLGO001",
+  "name": "B19PLGO001",
+  "ingredients": [
+    {
+      "order": 1,
+      "inci_name": "Guaiazulene 100% Pure [G]",
+      "ingredient_id": "R1908000",
+      "concentration": 200,
+      "function": "Unknown"
+    },
+    {
+      "order": 2,
+      "inci_name": "Cetiol SB45",
+      "ingredient_id": "R1905043",
+      "concentration": 26.5,
+      "function": "Unknown"
+    },
+    {
+      "order": 3,
+      "inci_name": "Lipovol C 76",
+      "ingredient_id": "R0105141",
+      "concentration": 20,
+      "function": "Unknown"
+    },
+    {
+      "order": 4,
+      "inci_name": "Sucragel AOF",
+      "ingredient_id": "R1911000",
+      "concentration": 20,
+      "function": "Unknown"
+    },
+    {
+      "order": 5,
+      "inci_name": "Kahlwax 8108 Beeswax White",
+      "ingredient_id": "R0101057",
+      "concentration": 8,
+      "function": "Unknown"
+    },
+    {
+      "order": 6,
+      "inci_name": "DL Alpha Tocopheryl Acetate",
+      "ingredient_id": "R0105179",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 7,
+      "inci_name": "Lipovol Mac [Macadamia Nut Oil]",
+      "ingredient_id": "R0105201",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 8,
+      "inci_name": "Lipovol A [Avocado oil]",
+      "ingredient_id": "R0105258",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 9,
+      "inci_name": "Pomegranate Seed Oil",
+      "ingredient_id": "R1901001",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 10,
+      "inci_name": "Borage Oil Refined GLA 20PCT",
+      "ingredient_id": "R1901006",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 11,
+      "inci_name": "Dragosantol 172585",
+      "ingredient_id": "R0105122",
+      "concentration": 0.2,
+      "function": "Unknown"
+    },
+    {
+      "order": 12,
+      "inci_name": "DL A Tocopherol",
+      "ingredient_id": "R0105123",
+      "concentration": 0.1,
+      "function": "Unknown"
+    }
+  ],
+  "total_concentration": 299.8,
+  "complexity_score": 12,
+  "hypergraph_metadata": {
+    "ingredient_count": 12,
+    "centrality_score": 0.06666666666666667,
+    "network_density": 2.998
+  }
+}

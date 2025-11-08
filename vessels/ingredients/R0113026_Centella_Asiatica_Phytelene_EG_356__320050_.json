@@ -1,0 +1,22 @@
+{
+  "id": "R0113026",
+  "inci_name": "Centella Asiatica Phytelene EG 356 [320050]",
+  "label": "Centella Asiatica Phytelene EG 356 [320050]",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 2
+  },
+  "network_properties": {
+    "usage_frequency": 3,
+    "max_concentration": 2,
+    "centrality_score": 0.016666666666666666,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0113026",
+    "timeset": ""
+  }
+}

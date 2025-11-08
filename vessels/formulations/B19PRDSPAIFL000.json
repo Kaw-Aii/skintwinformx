@@ -1,0 +1,112 @@
+{
+  "id": "B19FRMSPAIFL000",
+  "product_reference": "B19PRDSPAIFL000",
+  "name": "SPAIFL000",
+  "ingredients": [
+    {
+      "order": 1,
+      "inci_name": "De Ion Water",
+      "ingredient_id": "R010000",
+      "concentration": 71.15,
+      "function": "Unknown"
+    },
+    {
+      "order": 2,
+      "inci_name": "De Ion Water",
+      "ingredient_id": "R010000",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 3,
+      "inci_name": "Galaflow SL Cosmetic 60",
+      "ingredient_id": "R0105621",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 4,
+      "inci_name": "Crovol A70 LQ [RB]",
+      "ingredient_id": "R0109005",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 5,
+      "inci_name": "Detoxyl OP",
+      "ingredient_id": "R1905049",
+      "concentration": 4,
+      "function": "Unknown"
+    },
+    {
+      "order": 6,
+      "inci_name": "Celldetox",
+      "ingredient_id": "R1905050",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 7,
+      "inci_name": "B.P. Glycerine",
+      "ingredient_id": "R0101114",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 8,
+      "inci_name": "Verstatil PC",
+      "ingredient_id": "R0104056",
+      "concentration": 1,
+      "function": "Unknown"
+    },
+    {
+      "order": 9,
+      "inci_name": "Bergamot Oil",
+      "ingredient_id": "R0113117",
+      "concentration": 1,
+      "function": "Unknown"
+    },
+    {
+      "order": 10,
+      "inci_name": "Carbopol Ultrez 30",
+      "ingredient_id": "R1911001",
+      "concentration": 1,
+      "function": "Unknown"
+    },
+    {
+      "order": 11,
+      "inci_name": "De Ion Water",
+      "ingredient_id": "R010000",
+      "concentration": 0.8,
+      "function": "Unknown"
+    },
+    {
+      "order": 12,
+      "inci_name": "Filmexel",
+      "ingredient_id": "R0105640",
+      "concentration": 0.5,
+      "function": "Unknown"
+    },
+    {
+      "order": 13,
+      "inci_name": "Xanthan Gum FF Food Grade",
+      "ingredient_id": "R0102031",
+      "concentration": 0.35,
+      "function": "Unknown"
+    },
+    {
+      "order": 14,
+      "inci_name": "Caustic Soda Flakes [Pearl]",
+      "ingredient_id": "R0112004",
+      "concentration": 0.2,
+      "function": "Unknown"
+    }
+  ],
+  "total_concentration": 100,
+  "complexity_score": 14,
+  "hypergraph_metadata": {
+    "ingredient_count": 14,
+    "centrality_score": 0.07777777777777778,
+    "network_density": 1
+  }
+}

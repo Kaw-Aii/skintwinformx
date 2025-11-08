@@ -1,0 +1,22 @@
+{
+  "id": "R0106063",
+  "inci_name": "Montanov 68 MB [AJ]",
+  "label": "Montanov 68 MB [AJ]",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 3
+  },
+  "network_properties": {
+    "usage_frequency": 1,
+    "max_concentration": 3,
+    "centrality_score": 0.005555555555555556,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0106063",
+    "timeset": ""
+  }
+}

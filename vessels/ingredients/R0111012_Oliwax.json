@@ -1,0 +1,22 @@
+{
+  "id": "R0111012",
+  "inci_name": "Oliwax",
+  "label": "Oliwax",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 5
+  },
+  "network_properties": {
+    "usage_frequency": 6,
+    "max_concentration": 5,
+    "centrality_score": 0.03333333333333333,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0111012",
+    "timeset": ""
+  }
+}

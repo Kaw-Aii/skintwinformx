@@ -1,0 +1,22 @@
+{
+  "id": "R0106020",
+  "inci_name": "Emulfree CBG [AJ]",
+  "label": "Emulfree CBG [AJ]",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 6
+  },
+  "network_properties": {
+    "usage_frequency": 3,
+    "max_concentration": 6,
+    "centrality_score": 0.016666666666666666,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0106020",
+    "timeset": ""
+  }
+}

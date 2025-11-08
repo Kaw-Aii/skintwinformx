@@ -1,0 +1,22 @@
+{
+  "id": "R0104056",
+  "inci_name": "Verstatil PC",
+  "label": "Verstatil PC",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 1.5
+  },
+  "network_properties": {
+    "usage_frequency": 7,
+    "max_concentration": 1.5,
+    "centrality_score": 0.03888888888888889,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0104056",
+    "timeset": ""
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "R1905017",
+  "inci_name": "Alpaflor Imperatoria",
+  "label": "Alpaflor Imperatoria",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 3
+  },
+  "network_properties": {
+    "usage_frequency": 1,
+    "max_concentration": 3,
+    "centrality_score": 0.005555555555555556,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [
+    "CHE0004"
+  ],
+  "hypergraph_metadata": {
+    "node_id": "R1905017",
+    "timeset": ""
+  }
+}

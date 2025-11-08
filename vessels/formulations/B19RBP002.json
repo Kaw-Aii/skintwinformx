@@ -1,0 +1,140 @@
+{
+  "id": "B19RBP002",
+  "product_reference": "B19RBP002",
+  "name": "B19RBP002",
+  "ingredients": [
+    {
+      "order": 1,
+      "inci_name": "De Ion Water",
+      "ingredient_id": "R010000",
+      "concentration": 41.45,
+      "function": "Unknown"
+    },
+    {
+      "order": 2,
+      "inci_name": "Pineapple Phytelene Eg 401",
+      "ingredient_id": "R0113062",
+      "concentration": 10,
+      "function": "Unknown"
+    },
+    {
+      "order": 3,
+      "inci_name": "Papaya Phytelene EG402",
+      "ingredient_id": "R0113156",
+      "concentration": 10,
+      "function": "Unknown"
+    },
+    {
+      "order": 4,
+      "inci_name": "Refined Soya Bean Oil",
+      "ingredient_id": "R0101102",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 5,
+      "inci_name": "Lipolight OAP PVA",
+      "ingredient_id": "R0105486",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 6,
+      "inci_name": "Olivem 1000",
+      "ingredient_id": "R0106015",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 7,
+      "inci_name": "Exfo Bio",
+      "ingredient_id": "R1905019",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 8,
+      "inci_name": "Kombuchka",
+      "ingredient_id": "R0105240",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 9,
+      "inci_name": "Oliwax",
+      "ingredient_id": "R0111012",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 10,
+      "inci_name": "Biochemica Rosehip Oil Refined",
+      "ingredient_id": "R0113091",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 11,
+      "inci_name": "Perfection Peptide P3",
+      "ingredient_id": "R1905012",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 12,
+      "inci_name": "B.P. Glycerine",
+      "ingredient_id": "R0101114",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 13,
+      "inci_name": "Blackcurrant Oil RBD # 266593",
+      "ingredient_id": "R0113094",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 14,
+      "inci_name": "Microcare PHG",
+      "ingredient_id": "R0104015",
+      "concentration": 1.5,
+      "function": "Unknown"
+    },
+    {
+      "order": 15,
+      "inci_name": "Inutec SLI",
+      "ingredient_id": "R0105601",
+      "concentration": 0.75,
+      "function": "Unknown"
+    },
+    {
+      "order": 16,
+      "inci_name": "Xanthan Gum FF Food Grade",
+      "ingredient_id": "R0102031",
+      "concentration": 0.2,
+      "function": "Unknown"
+    },
+    {
+      "order": 17,
+      "inci_name": "DL A Tocopherol",
+      "ingredient_id": "R0105123",
+      "concentration": 0.1,
+      "function": "Unknown"
+    },
+    {
+      "order": 18,
+      "inci_name": "T.E.A 99% [AJ]",
+      "ingredient_id": "R0112003",
+      "concentration": 0,
+      "function": "Unknown"
+    }
+  ],
+  "total_concentration": 100,
+  "complexity_score": 18,
+  "hypergraph_metadata": {
+    "ingredient_count": 18,
+    "centrality_score": 0.1,
+    "network_density": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "B19EDG_R0104015_B19CIPP001",
+  "type": "INGREDIENT_IN_FORMULATION",
+  "source_id": "R0104015",
+  "source_type": "ingredient",
+  "target_id": "B19CIPP001",
+  "target_type": "product",
+  "properties": {
+    "concentration": 1.5,
+    "weight": 1.5,
+    "created_at": "2025-11-08T05:31:53.073Z"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "R0106012",
+  "inci_name": "Lanol 99",
+  "label": "Lanol 99",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 5
+  },
+  "network_properties": {
+    "usage_frequency": 1,
+    "max_concentration": 5,
+    "centrality_score": 0.005555555555555556,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0106012",
+    "timeset": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "R0105240",
+  "inci_name": "Kombuchka",
+  "label": "Kombuchka",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 3
+  },
+  "network_properties": {
+    "usage_frequency": 3,
+    "max_concentration": 3,
+    "centrality_score": 0.016666666666666666,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0105240",
+    "timeset": ""
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "R1911002",
+  "inci_name": "Sepimax Zen",
+  "label": "Sepimax Zen",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 0
+  },
+  "network_properties": {
+    "usage_frequency": 0,
+    "max_concentration": 0,
+    "centrality_score": 0,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [
+    "CJP0001"
+  ],
+  "hypergraph_metadata": {
+    "node_id": "R1911002",
+    "modularity_class": 7,
+    "timeset": ""
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": "B19PRODZNEDDC000",
+  "product_reference": "B19PRODZNEDDC000",
+  "name": "B19PRODZNEDDC000",
+  "ingredients": [
+    {
+      "order": 1,
+      "inci_name": "De Ion Water",
+      "ingredient_id": "R010000",
+      "concentration": 55.3,
+      "function": "Unknown"
+    },
+    {
+      "order": 2,
+      "inci_name": "Iselux Ultra Mild",
+      "ingredient_id": "R1902003",
+      "concentration": 20,
+      "function": "Unknown"
+    },
+    {
+      "order": 3,
+      "inci_name": "Refined Soya Bean Oil",
+      "ingredient_id": "R0101102",
+      "concentration": 8,
+      "function": "Unknown"
+    },
+    {
+      "order": 4,
+      "inci_name": "B.P. Glycerine",
+      "ingredient_id": "R0101114",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 5,
+      "inci_name": "SP Arlacel 165 FP MBAL PA [RB] [Simusol 165]",
+      "ingredient_id": "R0106038",
+      "concentration": 4,
+      "function": "Unknown"
+    },
+    {
+      "order": 6,
+      "inci_name": "Microcare PHG",
+      "ingredient_id": "R0104015",
+      "concentration": 1.5,
+      "function": "Unknown"
+    },
+    {
+      "order": 7,
+      "inci_name": "DL Alpha Tocopheryl Acetate",
+      "ingredient_id": "R0105179",
+      "concentration": 1,
+      "function": "Unknown"
+    },
+    {
+      "order": 8,
+      "inci_name": "Biochemica Rosehip Oil Refined",
+      "ingredient_id": "R0113091",
+      "concentration": 1,
+      "function": "Unknown"
+    },
+    {
+      "order": 9,
+      "inci_name": "Blackcurrant Oil RBD # 266593",
+      "ingredient_id": "R0113094",
+      "concentration": 1,
+      "function": "Unknown"
+    },
+    {
+      "order": 10,
+      "inci_name": "Cetiol SB45",
+      "ingredient_id": "R1905043",
+      "concentration": 1,
+      "function": "Unknown"
+    },
+    {
+      "order": 11,
+      "inci_name": "Xanthan Gum FF Food Grade",
+      "ingredient_id": "R0102031",
+      "concentration": 0.5,
+      "function": "Unknown"
+    },
+    {
+      "order": 12,
+      "inci_name": "Vit A Palmitate Care [1 Mio] [AJ]",
+      "ingredient_id": "R0105177",
+      "concentration": 0.5,
+      "function": "Unknown"
+    },
+    {
+      "order": 13,
+      "inci_name": "Sepimax Zen",
+      "ingredient_id": "R0111063",
+      "concentration": 0.5,
+      "function": "Unknown"
+    },
+    {
+      "order": 14,
+      "inci_name": "Grapefruit Oil Pink",
+      "ingredient_id": "R1913014",
+      "concentration": 0.5,
+      "function": "Unknown"
+    },
+    {
+      "order": 15,
+      "inci_name": "DL A Tocopherol",
+      "ingredient_id": "R0105123",
+      "concentration": 0.2,
+      "function": "Unknown"
+    }
+  ],
+  "total_concentration": 100,
+  "complexity_score": 15,
+  "hypergraph_metadata": {
+    "ingredient_count": 15,
+    "centrality_score": 0.08333333333333333,
+    "network_density": 1
+  }
+}

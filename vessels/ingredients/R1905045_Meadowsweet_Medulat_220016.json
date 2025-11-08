@@ -1,0 +1,24 @@
+{
+  "id": "R1905045",
+  "inci_name": "Meadowsweet Medulat 220016",
+  "label": "Meadowsweet Medulat 220016",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 5
+  },
+  "network_properties": {
+    "usage_frequency": 1,
+    "max_concentration": 5,
+    "centrality_score": 0.005555555555555556,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [
+    "NAT0001"
+  ],
+  "hypergraph_metadata": {
+    "node_id": "R1905045",
+    "timeset": ""
+  }
+}

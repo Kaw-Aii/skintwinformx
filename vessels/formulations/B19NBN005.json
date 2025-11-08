@@ -1,0 +1,168 @@
+{
+  "id": "B19NBN005",
+  "product_reference": "B19NBN005",
+  "name": "B19NBN005",
+  "ingredients": [
+    {
+      "order": 1,
+      "inci_name": "De Ion Water",
+      "ingredient_id": "R010000",
+      "concentration": 48.25,
+      "function": "Unknown"
+    },
+    {
+      "order": 2,
+      "inci_name": "Olivem 1000",
+      "ingredient_id": "R0106015",
+      "concentration": 6,
+      "function": "Unknown"
+    },
+    {
+      "order": 3,
+      "inci_name": "Refined Shea Butter [Naturally Refinded]",
+      "ingredient_id": "R0101063",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 4,
+      "inci_name": "Pentavitin Code: 50 33152",
+      "ingredient_id": "R0105270",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 5,
+      "inci_name": "Biopeptide CL",
+      "ingredient_id": "R1905003",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 6,
+      "inci_name": "Centella Asiatica Cosmelene Ex",
+      "ingredient_id": "R1913004",
+      "concentration": 5,
+      "function": "Unknown"
+    },
+    {
+      "order": 7,
+      "inci_name": "DL Alpha Tocopheryl Acetate",
+      "ingredient_id": "R0105179",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 8,
+      "inci_name": "Oliwax",
+      "ingredient_id": "R0111012",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 9,
+      "inci_name": "Olive Oil Extra Virgin",
+      "ingredient_id": "R0113028",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 10,
+      "inci_name": "Chronodyn",
+      "ingredient_id": "R1905002",
+      "concentration": 3,
+      "function": "Unknown"
+    },
+    {
+      "order": 11,
+      "inci_name": "B.P. Glycerine",
+      "ingredient_id": "R0101114",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 12,
+      "inci_name": "D Panthenol",
+      "ingredient_id": "R0105170",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 13,
+      "inci_name": "Dermaxyl",
+      "ingredient_id": "R0105238",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 14,
+      "inci_name": "Biochemica Rosehip Oil Refined",
+      "ingredient_id": "R0113091",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 15,
+      "inci_name": "Blackcurrant Oil RBD # 266593",
+      "ingredient_id": "R0113094",
+      "concentration": 2,
+      "function": "Unknown"
+    },
+    {
+      "order": 16,
+      "inci_name": "Microcare PHG",
+      "ingredient_id": "R0104015",
+      "concentration": 1.5,
+      "function": "Unknown"
+    },
+    {
+      "order": 17,
+      "inci_name": "Bergamot Oil",
+      "ingredient_id": "R0113117",
+      "concentration": 0.6,
+      "function": "Unknown"
+    },
+    {
+      "order": 18,
+      "inci_name": "Vit A Palmitate Care [1 Mio] [AJ]",
+      "ingredient_id": "R0105177",
+      "concentration": 0.5,
+      "function": "Unknown"
+    },
+    {
+      "order": 19,
+      "inci_name": "T.E.A 99% [AJ]",
+      "ingredient_id": "R0112003",
+      "concentration": 0.5,
+      "function": "Unknown"
+    },
+    {
+      "order": 20,
+      "inci_name": "Carbopol Ultrez 30",
+      "ingredient_id": "R1911001",
+      "concentration": 0.25,
+      "function": "Unknown"
+    },
+    {
+      "order": 21,
+      "inci_name": "Xanthan Gum FF Food Grade",
+      "ingredient_id": "R0102031",
+      "concentration": 0.2,
+      "function": "Unknown"
+    },
+    {
+      "order": 22,
+      "inci_name": "Ascorbyl Palmitate",
+      "ingredient_id": "R0105182",
+      "concentration": 0.2,
+      "function": "Unknown"
+    }
+  ],
+  "total_concentration": 100,
+  "complexity_score": 22,
+  "hypergraph_metadata": {
+    "ingredient_count": 22,
+    "centrality_score": 0.12222222222222222,
+    "network_density": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "R0105041",
+  "inci_name": "Galacid Heat Stable 90",
+  "label": "Galacid Heat Stable 90",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 25
+  },
+  "network_properties": {
+    "usage_frequency": 5,
+    "max_concentration": 25,
+    "centrality_score": 0.027777777777777776,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0105041",
+    "timeset": ""
+  }
+}

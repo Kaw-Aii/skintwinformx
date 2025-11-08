@@ -1,0 +1,25 @@
+{
+  "id": "R1902999",
+  "inci_name": "ColaMate RM / replacement Rewoderm S1333 KM 5",
+  "label": "ColaMate RM / replacement Rewoderm S1333 KM 5",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 0
+  },
+  "network_properties": {
+    "usage_frequency": 0,
+    "max_concentration": 0,
+    "centrality_score": 0,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [
+    "ORC0001"
+  ],
+  "hypergraph_metadata": {
+    "node_id": "R1902999",
+    "modularity_class": 21,
+    "timeset": ""
+  }
+}

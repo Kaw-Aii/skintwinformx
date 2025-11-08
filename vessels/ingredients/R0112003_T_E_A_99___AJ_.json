@@ -1,0 +1,22 @@
+{
+  "id": "R0112003",
+  "inci_name": "T.E.A 99% [AJ]",
+  "label": "T.E.A 99% [AJ]",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 0.5
+  },
+  "network_properties": {
+    "usage_frequency": 3,
+    "max_concentration": 0.5,
+    "centrality_score": 0.016666666666666666,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0112003",
+    "timeset": ""
+  }
+}

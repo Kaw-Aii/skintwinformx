@@ -1,0 +1,22 @@
+{
+  "id": "R0113090",
+  "inci_name": "Camellia Oil",
+  "label": "Camellia Oil",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 10
+  },
+  "network_properties": {
+    "usage_frequency": 1,
+    "max_concentration": 10,
+    "centrality_score": 0.005555555555555556,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0113090",
+    "timeset": ""
+  }
+}

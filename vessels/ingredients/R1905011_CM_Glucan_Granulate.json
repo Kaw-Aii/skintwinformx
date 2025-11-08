@@ -1,0 +1,25 @@
+{
+  "id": "R1905011",
+  "inci_name": "CM-Glucan Granulate",
+  "label": "CM-Glucan Granulate",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 0
+  },
+  "network_properties": {
+    "usage_frequency": 0,
+    "max_concentration": 0,
+    "centrality_score": 0,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [
+    "CAR0002"
+  ],
+  "hypergraph_metadata": {
+    "node_id": "R1905011",
+    "modularity_class": 5,
+    "timeset": ""
+  }
+}

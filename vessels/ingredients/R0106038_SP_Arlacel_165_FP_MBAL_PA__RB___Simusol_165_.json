@@ -1,0 +1,22 @@
+{
+  "id": "R0106038",
+  "inci_name": "SP Arlacel 165 FP MBAL PA [RB] [Simusol 165]",
+  "label": "SP Arlacel 165 FP MBAL PA [RB] [Simusol 165]",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 4
+  },
+  "network_properties": {
+    "usage_frequency": 7,
+    "max_concentration": 4,
+    "centrality_score": 0.03888888888888889,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0106038",
+    "timeset": ""
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "R1905030",
+  "inci_name": "Uvinul T150",
+  "label": "Uvinul T150",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 5
+  },
+  "network_properties": {
+    "usage_frequency": 4,
+    "max_concentration": 5,
+    "centrality_score": 0.022222222222222223,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [
+    "CTE0001"
+  ],
+  "hypergraph_metadata": {
+    "node_id": "R1905030",
+    "timeset": ""
+  }
+}

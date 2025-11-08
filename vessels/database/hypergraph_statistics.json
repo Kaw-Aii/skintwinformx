@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-11-08T05:31:53.096Z",
+  "nodes": {
+    "products": 28,
+    "ingredients": 180,
+    "suppliers": 23,
+    "total": 231
+  },
+  "edges": {
+    "formulation": 521,
+    "supply_chain": 91
+  },
+  "network_metrics": {
+    "average_product_complexity": 18.607142857142858,
+    "average_supplier_portfolio": 3.7916666666666665,
+    "ingredients_with_suppliers": 91,
+    "single_sourced_ingredients": 91
+  }
+}

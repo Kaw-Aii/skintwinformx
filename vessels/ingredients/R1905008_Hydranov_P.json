@@ -1,0 +1,24 @@
+{
+  "id": "R1905008",
+  "inci_name": "Hydranov P",
+  "label": "Hydranov P",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 1.5
+  },
+  "network_properties": {
+    "usage_frequency": 1,
+    "max_concentration": 1.5,
+    "centrality_score": 0.005555555555555556,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [
+    "LIP0001"
+  ],
+  "hypergraph_metadata": {
+    "node_id": "R1905008",
+    "timeset": ""
+  }
+}

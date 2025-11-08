@@ -1,0 +1,22 @@
+{
+  "id": "R0105035",
+  "inci_name": "Tri Sodium Citrate",
+  "label": "Tri Sodium Citrate",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 0.3
+  },
+  "network_properties": {
+    "usage_frequency": 1,
+    "max_concentration": 0.3,
+    "centrality_score": 0.005555555555555556,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0105035",
+    "timeset": ""
+  }
+}

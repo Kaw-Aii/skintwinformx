@@ -1,0 +1,22 @@
+{
+  "id": "R010000",
+  "inci_name": "De Ion Water",
+  "label": "De Ion Water",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 71.15
+  },
+  "network_properties": {
+    "usage_frequency": 50,
+    "max_concentration": 71.15,
+    "centrality_score": 0.2777777777777778,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R010000",
+    "timeset": ""
+  }
+}

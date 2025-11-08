@@ -1,0 +1,24 @@
+{
+  "id": "R1902000",
+  "inci_name": "Oronal LCG",
+  "label": "Oronal LCG",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 25
+  },
+  "network_properties": {
+    "usage_frequency": 1,
+    "max_concentration": 25,
+    "centrality_score": 0.005555555555555556,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [
+    "CJP0001"
+  ],
+  "hypergraph_metadata": {
+    "node_id": "R1902000",
+    "timeset": ""
+  }
+}

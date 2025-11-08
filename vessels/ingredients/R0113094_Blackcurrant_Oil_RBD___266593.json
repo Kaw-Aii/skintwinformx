@@ -1,0 +1,22 @@
+{
+  "id": "R0113094",
+  "inci_name": "Blackcurrant Oil RBD # 266593",
+  "label": "Blackcurrant Oil RBD # 266593",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 5
+  },
+  "network_properties": {
+    "usage_frequency": 10,
+    "max_concentration": 5,
+    "centrality_score": 0.05555555555555555,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [],
+  "hypergraph_metadata": {
+    "node_id": "R0113094",
+    "timeset": ""
+  }
+}

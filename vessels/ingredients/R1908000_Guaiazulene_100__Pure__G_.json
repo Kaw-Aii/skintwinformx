@@ -1,0 +1,24 @@
+{
+  "id": "R1908000",
+  "inci_name": "Guaiazulene 100% Pure [G]",
+  "label": "Guaiazulene 100% Pure [G]",
+  "category": "Unknown",
+  "functions": [],
+  "concentration_range": {
+    "min": 0,
+    "max": 200
+  },
+  "network_properties": {
+    "usage_frequency": 1,
+    "max_concentration": 200,
+    "centrality_score": 0.005555555555555556,
+    "clustering_coefficient": 0
+  },
+  "suppliers": [
+    "AEC001"
+  ],
+  "hypergraph_metadata": {
+    "node_id": "R1908000",
+    "timeset": ""
+  }
+}
