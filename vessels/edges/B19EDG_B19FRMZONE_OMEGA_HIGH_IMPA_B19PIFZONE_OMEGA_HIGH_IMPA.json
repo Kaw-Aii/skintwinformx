@@ -1,0 +1,12 @@
+{
+  "id": "B19EDG_B19FRMZONE_OMEGA_HIGH_IMPA_B19PIFZONE_OMEGA_HIGH_IMPA",
+  "type": "FORMULATION_DOCUMENTED_IN_PIF",
+  "source_id": "B19FRMZONE_OMEGA_HIGH_IMPA",
+  "source_type": "formulation",
+  "target_id": "B19PIFZONE_OMEGA_HIGH_IMPA",
+  "target_type": "pif",
+  "properties": {
+    "document_source": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf",
+    "created_at": "2025-11-08T03:07:19.151Z"
+  }
+}

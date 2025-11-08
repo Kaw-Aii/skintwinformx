@@ -1,0 +1,13 @@
+{
+  "id": "B19EDG_B19PRDPRODUCT_TYPE_SKIN_CA_B19FRMPRODUCT_TYPE_SKIN_CA",
+  "type": "PRODUCT_HAS_FORMULATION",
+  "source_id": "B19PRDPRODUCT_TYPE_SKIN_CA",
+  "source_type": "product",
+  "target_id": "B19FRMPRODUCT_TYPE_SKIN_CA",
+  "target_type": "formulation",
+  "properties": {
+    "ingredient_count": 1,
+    "total_concentration": 0.001,
+    "created_at": "2025-11-08T03:07:19.150Z"
+  }
+}

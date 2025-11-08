@@ -1,0 +1,914 @@
+[
+  {
+    "id": "B19EDG_B19PRDANTI_INFLAMM_AGEING_B19FRMANTI_INFLAMM_AGEING",
+    "type": "PRODUCT_HAS_FORMULATION",
+    "source_id": "B19PRDANTI_INFLAMM_AGEING",
+    "source_type": "product",
+    "target_id": "B19FRMANTI_INFLAMM_AGEING",
+    "target_type": "formulation",
+    "properties": {
+      "ingredient_count": 1,
+      "total_concentration": 0.001,
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDDAILY_INTELLIGENT_SE_B19FRMDAILY_INTELLIGENT_SE",
+    "type": "PRODUCT_HAS_FORMULATION",
+    "source_id": "B19PRDDAILY_INTELLIGENT_SE",
+    "source_type": "product",
+    "target_id": "B19FRMDAILY_INTELLIGENT_SE",
+    "target_type": "formulation",
+    "properties": {
+      "ingredient_count": 2,
+      "total_concentration": 20.001,
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDPRODUCT_TYPE_FACE_WA_B19FRMPRODUCT_TYPE_FACE_WA",
+    "type": "PRODUCT_HAS_FORMULATION",
+    "source_id": "B19PRDPRODUCT_TYPE_FACE_WA",
+    "source_type": "product",
+    "target_id": "B19FRMPRODUCT_TYPE_FACE_WA",
+    "target_type": "formulation",
+    "properties": {
+      "ingredient_count": 2,
+      "total_concentration": 0.02,
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDPRODUCT_TYPE_MOISTUR_B19FRMPRODUCT_TYPE_MOISTUR",
+    "type": "PRODUCT_HAS_FORMULATION",
+    "source_id": "B19PRDPRODUCT_TYPE_MOISTUR",
+    "source_type": "product",
+    "target_id": "B19FRMPRODUCT_TYPE_MOISTUR",
+    "target_type": "formulation",
+    "properties": {
+      "ingredient_count": 1,
+      "total_concentration": 0.001,
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDPRODUCT_TYPE_SKIN_CA_B19FRMPRODUCT_TYPE_SKIN_CA",
+    "type": "PRODUCT_HAS_FORMULATION",
+    "source_id": "B19PRDPRODUCT_TYPE_SKIN_CA",
+    "source_type": "product",
+    "target_id": "B19FRMPRODUCT_TYPE_SKIN_CA",
+    "target_type": "formulation",
+    "properties": {
+      "ingredient_count": 1,
+      "total_concentration": 0.001,
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDREJUVODERM_NIGHT_MAI_B19FRMREJUVODERM_NIGHT_MAI",
+    "type": "PRODUCT_HAS_FORMULATION",
+    "source_id": "B19PRDREJUVODERM_NIGHT_MAI",
+    "source_type": "product",
+    "target_id": "B19FRMREJUVODERM_NIGHT_MAI",
+    "target_type": "formulation",
+    "properties": {
+      "ingredient_count": 1,
+      "total_concentration": 0.001,
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_30_POWER_PEEL_N_B19FRMZONE_30_POWER_PEEL_N",
+    "type": "PRODUCT_HAS_FORMULATION",
+    "source_id": "B19PRDZONE_30_POWER_PEEL_N",
+    "source_type": "product",
+    "target_id": "B19FRMZONE_30_POWER_PEEL_N",
+    "target_type": "formulation",
+    "properties": {
+      "ingredient_count": 1,
+      "total_concentration": 0.001,
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_50_POWER_PEEL_N_B19FRMZONE_50_POWER_PEEL_N",
+    "type": "PRODUCT_HAS_FORMULATION",
+    "source_id": "B19PRDZONE_50_POWER_PEEL_N",
+    "source_type": "product",
+    "target_id": "B19FRMZONE_50_POWER_PEEL_N",
+    "target_type": "formulation",
+    "properties": {
+      "ingredient_count": 1,
+      "total_concentration": 0.001,
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_ACNE_ATTACK_PRO_B19FRMZONE_ACNE_ATTACK_PRO",
+    "type": "PRODUCT_HAS_FORMULATION",
+    "source_id": "B19PRDZONE_ACNE_ATTACK_PRO",
+    "source_type": "product",
+    "target_id": "B19FRMZONE_ACNE_ATTACK_PRO",
+    "target_type": "formulation",
+    "properties": {
+      "ingredient_count": 1,
+      "total_concentration": 0.001,
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_ACNE_ATTACK_RES_B19FRMZONE_ACNE_ATTACK_RES",
+    "type": "PRODUCT_HAS_FORMULATION",
+    "source_id": "B19PRDZONE_ACNE_ATTACK_RES",
+    "source_type": "product",
+    "target_id": "B19FRMZONE_ACNE_ATTACK_RES",
+    "target_type": "formulation",
+    "properties": {
+      "ingredient_count": 1,
+      "total_concentration": 0.001,
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_AGE_REVERSAL_NI_B19FRMZONE_AGE_REVERSAL_NI",
+    "type": "PRODUCT_HAS_FORMULATION",
+    "source_id": "B19PRDZONE_AGE_REVERSAL_NI",
+    "source_type": "product",
+    "target_id": "B19FRMZONE_AGE_REVERSAL_NI",
+    "target_type": "formulation",
+    "properties": {
+      "ingredient_count": 2,
+      "total_concentration": 99.001,
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_DAILY_RADIANT_B_B19FRMZONE_DAILY_RADIANT_B",
+    "type": "PRODUCT_HAS_FORMULATION",
+    "source_id": "B19PRDZONE_DAILY_RADIANT_B",
+    "source_type": "product",
+    "target_id": "B19FRMZONE_DAILY_RADIANT_B",
+    "target_type": "formulation",
+    "properties": {
+      "ingredient_count": 1,
+      "total_concentration": 0.001,
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_DAILY_ULTRA_DEF_B19FRMZONE_DAILY_ULTRA_DEF",
+    "type": "PRODUCT_HAS_FORMULATION",
+    "source_id": "B19PRDZONE_DAILY_ULTRA_DEF",
+    "source_type": "product",
+    "target_id": "B19FRMZONE_DAILY_ULTRA_DEF",
+    "target_type": "formulation",
+    "properties": {
+      "ingredient_count": 1,
+      "total_concentration": 0.001,
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_DERMA_DEEP_RICH_B19FRMZONE_DERMA_DEEP_RICH",
+    "type": "PRODUCT_HAS_FORMULATION",
+    "source_id": "B19PRDZONE_DERMA_DEEP_RICH",
+    "source_type": "product",
+    "target_id": "B19FRMZONE_DERMA_DEEP_RICH",
+    "target_type": "formulation",
+    "properties": {
+      "ingredient_count": 2,
+      "total_concentration": 0.02,
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_EPI_GENES_XPRES_B19FRMZONE_EPI_GENES_XPRES",
+    "type": "PRODUCT_HAS_FORMULATION",
+    "source_id": "B19PRDZONE_EPI_GENES_XPRES",
+    "source_type": "product",
+    "target_id": "B19FRMZONE_EPI_GENES_XPRES",
+    "target_type": "formulation",
+    "properties": {
+      "ingredient_count": 2,
+      "total_concentration": 99.001,
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_EYE_OPENER_SERU_B19FRMZONE_EYE_OPENER_SERU",
+    "type": "PRODUCT_HAS_FORMULATION",
+    "source_id": "B19PRDZONE_EYE_OPENER_SERU",
+    "source_type": "product",
+    "target_id": "B19FRMZONE_EYE_OPENER_SERU",
+    "target_type": "formulation",
+    "properties": {
+      "ingredient_count": 1,
+      "total_concentration": 0.001,
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_NEW_EXPRESSION__B19FRMZONE_NEW_EXPRESSION_",
+    "type": "PRODUCT_HAS_FORMULATION",
+    "source_id": "B19PRDZONE_NEW_EXPRESSION_",
+    "source_type": "product",
+    "target_id": "B19FRMZONE_NEW_EXPRESSION_",
+    "target_type": "formulation",
+    "properties": {
+      "ingredient_count": 1,
+      "total_concentration": 0.001,
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_OMEGA_HIGH_IMPA_B19FRMZONE_OMEGA_HIGH_IMPA",
+    "type": "PRODUCT_HAS_FORMULATION",
+    "source_id": "B19PRDZONE_OMEGA_HIGH_IMPA",
+    "source_type": "product",
+    "target_id": "B19FRMZONE_OMEGA_HIGH_IMPA",
+    "target_type": "formulation",
+    "properties": {
+      "ingredient_count": 1,
+      "total_concentration": 0.001,
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_PIGMENT_PERFECT_B19FRMZONE_PIGMENT_PERFECT",
+    "type": "PRODUCT_HAS_FORMULATION",
+    "source_id": "B19PRDZONE_PIGMENT_PERFECT",
+    "source_type": "product",
+    "target_id": "B19FRMZONE_PIGMENT_PERFECT",
+    "target_type": "formulation",
+    "properties": {
+      "ingredient_count": 1,
+      "total_concentration": 0.001,
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_QUANTUM_ELASTIN_B19FRMZONE_QUANTUM_ELASTIN",
+    "type": "PRODUCT_HAS_FORMULATION",
+    "source_id": "B19PRDZONE_QUANTUM_ELASTIN",
+    "source_type": "product",
+    "target_id": "B19FRMZONE_QUANTUM_ELASTIN",
+    "target_type": "formulation",
+    "properties": {
+      "ingredient_count": 1,
+      "total_concentration": 0.001,
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_RAPID_REJUVO_MA_B19FRMZONE_RAPID_REJUVO_MA",
+    "type": "PRODUCT_HAS_FORMULATION",
+    "source_id": "B19PRDZONE_RAPID_REJUVO_MA",
+    "source_type": "product",
+    "target_id": "B19FRMZONE_RAPID_REJUVO_MA",
+    "target_type": "formulation",
+    "properties": {
+      "ingredient_count": 2,
+      "total_concentration": 99.001,
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_SENSORIAL_DAILY_B19FRMZONE_SENSORIAL_DAILY",
+    "type": "PRODUCT_HAS_FORMULATION",
+    "source_id": "B19PRDZONE_SENSORIAL_DAILY",
+    "source_type": "product",
+    "target_id": "B19FRMZONE_SENSORIAL_DAILY",
+    "target_type": "formulation",
+    "properties": {
+      "ingredient_count": 2,
+      "total_concentration": 20.001,
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_SUPER_SMOOTHER_B19FRMZONE_SUPER_SMOOTHER",
+    "type": "PRODUCT_HAS_FORMULATION",
+    "source_id": "B19PRDZONE_SUPER_SMOOTHER",
+    "source_type": "product",
+    "target_id": "B19FRMZONE_SUPER_SMOOTHER",
+    "target_type": "formulation",
+    "properties": {
+      "ingredient_count": 1,
+      "total_concentration": 0.001,
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_TECHNO_5_B19FRMZONE_TECHNO_5",
+    "type": "PRODUCT_HAS_FORMULATION",
+    "source_id": "B19PRDZONE_TECHNO_5",
+    "source_type": "product",
+    "target_id": "B19FRMZONE_TECHNO_5",
+    "target_type": "formulation",
+    "properties": {
+      "ingredient_count": 2,
+      "total_concentration": 99.001,
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDANTI_INFLAMM_AGEING_B19PIFANTI_INFLAMM_AGEING",
+    "type": "PRODUCT_HAS_PIF",
+    "source_id": "B19PRDANTI_INFLAMM_AGEING",
+    "source_type": "product",
+    "target_id": "B19PIFANTI_INFLAMM_AGEING",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf",
+      "extraction_date": "2025-11-08T03:04:20.084Z",
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDDAILY_INTELLIGENT_SE_B19PIFDAILY_INTELLIGENT_SE",
+    "type": "PRODUCT_HAS_PIF",
+    "source_id": "B19PRDDAILY_INTELLIGENT_SE",
+    "source_type": "product",
+    "target_id": "B19PIFDAILY_INTELLIGENT_SE",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf",
+      "extraction_date": "2025-11-08T03:04:20.640Z",
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDPRODUCT_TYPE_FACE_WA_B19PIFPRODUCT_TYPE_FACE_WA",
+    "type": "PRODUCT_HAS_PIF",
+    "source_id": "B19PRDPRODUCT_TYPE_FACE_WA",
+    "source_type": "product",
+    "target_id": "B19PIFPRODUCT_TYPE_FACE_WA",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf",
+      "extraction_date": "2025-11-08T03:04:20.637Z",
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDPRODUCT_TYPE_MOISTUR_B19PIFPRODUCT_TYPE_MOISTUR",
+    "type": "PRODUCT_HAS_PIF",
+    "source_id": "B19PRDPRODUCT_TYPE_MOISTUR",
+    "source_type": "product",
+    "target_id": "B19PIFPRODUCT_TYPE_MOISTUR",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf",
+      "extraction_date": "2025-11-08T03:04:20.640Z",
+      "created_at": "2025-11-08T03:07:19.150Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDPRODUCT_TYPE_SKIN_CA_B19PIFPRODUCT_TYPE_SKIN_CA",
+    "type": "PRODUCT_HAS_PIF",
+    "source_id": "B19PRDPRODUCT_TYPE_SKIN_CA",
+    "source_type": "product",
+    "target_id": "B19PIFPRODUCT_TYPE_SKIN_CA",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf",
+      "extraction_date": "2025-11-08T03:04:21.189Z",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDREJUVODERM_NIGHT_MAI_B19PIFREJUVODERM_NIGHT_MAI",
+    "type": "PRODUCT_HAS_PIF",
+    "source_id": "B19PRDREJUVODERM_NIGHT_MAI",
+    "source_type": "product",
+    "target_id": "B19PIFREJUVODERM_NIGHT_MAI",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf",
+      "extraction_date": "2025-11-08T03:04:21.188Z",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_30_POWER_PEEL_N_B19PIFZONE_30_POWER_PEEL_N",
+    "type": "PRODUCT_HAS_PIF",
+    "source_id": "B19PRDZONE_30_POWER_PEEL_N",
+    "source_type": "product",
+    "target_id": "B19PIFZONE_30_POWER_PEEL_N",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf",
+      "extraction_date": "2025-11-08T03:04:20.079Z",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_50_POWER_PEEL_N_B19PIFZONE_50_POWER_PEEL_N",
+    "type": "PRODUCT_HAS_PIF",
+    "source_id": "B19PRDZONE_50_POWER_PEEL_N",
+    "source_type": "product",
+    "target_id": "B19PIFZONE_50_POWER_PEEL_N",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf",
+      "extraction_date": "2025-11-08T03:04:20.080Z",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_ACNE_ATTACK_PRO_B19PIFZONE_ACNE_ATTACK_PRO",
+    "type": "PRODUCT_HAS_PIF",
+    "source_id": "B19PRDZONE_ACNE_ATTACK_PRO",
+    "source_type": "product",
+    "target_id": "B19PIFZONE_ACNE_ATTACK_PRO",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf",
+      "extraction_date": "2025-11-08T03:04:20.081Z",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_ACNE_ATTACK_RES_B19PIFZONE_ACNE_ATTACK_RES",
+    "type": "PRODUCT_HAS_PIF",
+    "source_id": "B19PRDZONE_ACNE_ATTACK_RES",
+    "source_type": "product",
+    "target_id": "B19PIFZONE_ACNE_ATTACK_RES",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf",
+      "extraction_date": "2025-11-08T03:04:20.082Z",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_AGE_REVERSAL_NI_B19PIFZONE_AGE_REVERSAL_NI",
+    "type": "PRODUCT_HAS_PIF",
+    "source_id": "B19PRDZONE_AGE_REVERSAL_NI",
+    "source_type": "product",
+    "target_id": "B19PIFZONE_AGE_REVERSAL_NI",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf",
+      "extraction_date": "2025-11-08T03:04:20.083Z",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_DAILY_RADIANT_B_B19PIFZONE_DAILY_RADIANT_B",
+    "type": "PRODUCT_HAS_PIF",
+    "source_id": "B19PRDZONE_DAILY_RADIANT_B",
+    "source_type": "product",
+    "target_id": "B19PIFZONE_DAILY_RADIANT_B",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf",
+      "extraction_date": "2025-11-08T03:04:20.085Z",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_DAILY_ULTRA_DEF_B19PIFZONE_DAILY_ULTRA_DEF",
+    "type": "PRODUCT_HAS_PIF",
+    "source_id": "B19PRDZONE_DAILY_ULTRA_DEF",
+    "source_type": "product",
+    "target_id": "B19PIFZONE_DAILY_ULTRA_DEF",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf",
+      "extraction_date": "2025-11-08T03:04:20.086Z",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_DERMA_DEEP_RICH_B19PIFZONE_DERMA_DEEP_RICH",
+    "type": "PRODUCT_HAS_PIF",
+    "source_id": "B19PRDZONE_DERMA_DEEP_RICH",
+    "source_type": "product",
+    "target_id": "B19PIFZONE_DERMA_DEEP_RICH",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf",
+      "extraction_date": "2025-11-08T03:04:20.636Z",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_EPI_GENES_XPRES_B19PIFZONE_EPI_GENES_XPRES",
+    "type": "PRODUCT_HAS_PIF",
+    "source_id": "B19PRDZONE_EPI_GENES_XPRES",
+    "source_type": "product",
+    "target_id": "B19PIFZONE_EPI_GENES_XPRES",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf",
+      "extraction_date": "2025-11-08T03:04:20.638Z",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_EYE_OPENER_SERU_B19PIFZONE_EYE_OPENER_SERU",
+    "type": "PRODUCT_HAS_PIF",
+    "source_id": "B19PRDZONE_EYE_OPENER_SERU",
+    "source_type": "product",
+    "target_id": "B19PIFZONE_EYE_OPENER_SERU",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf",
+      "extraction_date": "2025-11-08T03:04:20.639Z",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_NEW_EXPRESSION__B19PIFZONE_NEW_EXPRESSION_",
+    "type": "PRODUCT_HAS_PIF",
+    "source_id": "B19PRDZONE_NEW_EXPRESSION_",
+    "source_type": "product",
+    "target_id": "B19PIFZONE_NEW_EXPRESSION_",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf",
+      "extraction_date": "2025-11-08T03:04:20.642Z",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_OMEGA_HIGH_IMPA_B19PIFZONE_OMEGA_HIGH_IMPA",
+    "type": "PRODUCT_HAS_PIF",
+    "source_id": "B19PRDZONE_OMEGA_HIGH_IMPA",
+    "source_type": "product",
+    "target_id": "B19PIFZONE_OMEGA_HIGH_IMPA",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf",
+      "extraction_date": "2025-11-08T03:04:20.643Z",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_PIGMENT_PERFECT_B19PIFZONE_PIGMENT_PERFECT",
+    "type": "PRODUCT_HAS_PIF",
+    "source_id": "B19PRDZONE_PIGMENT_PERFECT",
+    "source_type": "product",
+    "target_id": "B19PIFZONE_PIGMENT_PERFECT",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf",
+      "extraction_date": "2025-11-08T03:04:21.185Z",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_QUANTUM_ELASTIN_B19PIFZONE_QUANTUM_ELASTIN",
+    "type": "PRODUCT_HAS_PIF",
+    "source_id": "B19PRDZONE_QUANTUM_ELASTIN",
+    "source_type": "product",
+    "target_id": "B19PIFZONE_QUANTUM_ELASTIN",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf",
+      "extraction_date": "2025-11-08T03:04:21.186Z",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_RAPID_REJUVO_MA_B19PIFZONE_RAPID_REJUVO_MA",
+    "type": "PRODUCT_HAS_PIF",
+    "source_id": "B19PRDZONE_RAPID_REJUVO_MA",
+    "source_type": "product",
+    "target_id": "B19PIFZONE_RAPID_REJUVO_MA",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf",
+      "extraction_date": "2025-11-08T03:04:21.187Z",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_SENSORIAL_DAILY_B19PIFZONE_SENSORIAL_DAILY",
+    "type": "PRODUCT_HAS_PIF",
+    "source_id": "B19PRDZONE_SENSORIAL_DAILY",
+    "source_type": "product",
+    "target_id": "B19PIFZONE_SENSORIAL_DAILY",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf",
+      "extraction_date": "2025-11-08T03:04:21.190Z",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_SUPER_SMOOTHER_B19PIFZONE_SUPER_SMOOTHER",
+    "type": "PRODUCT_HAS_PIF",
+    "source_id": "B19PRDZONE_SUPER_SMOOTHER",
+    "source_type": "product",
+    "target_id": "B19PIFZONE_SUPER_SMOOTHER",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf",
+      "extraction_date": "2025-11-08T03:04:21.190Z",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19PRDZONE_TECHNO_5_B19PIFZONE_TECHNO_5",
+    "type": "PRODUCT_HAS_PIF",
+    "source_id": "B19PRDZONE_TECHNO_5",
+    "source_type": "product",
+    "target_id": "B19PIFZONE_TECHNO_5",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf",
+      "extraction_date": "2025-11-08T03:04:21.191Z",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19FRMANTI_INFLAMM_AGEING_B19PIFANTI_INFLAMM_AGEING",
+    "type": "FORMULATION_DOCUMENTED_IN_PIF",
+    "source_id": "B19FRMANTI_INFLAMM_AGEING",
+    "source_type": "formulation",
+    "target_id": "B19PIFANTI_INFLAMM_AGEING",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19FRMDAILY_INTELLIGENT_SE_B19PIFDAILY_INTELLIGENT_SE",
+    "type": "FORMULATION_DOCUMENTED_IN_PIF",
+    "source_id": "B19FRMDAILY_INTELLIGENT_SE",
+    "source_type": "formulation",
+    "target_id": "B19PIFDAILY_INTELLIGENT_SE",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19FRMPRODUCT_TYPE_FACE_WA_B19PIFPRODUCT_TYPE_FACE_WA",
+    "type": "FORMULATION_DOCUMENTED_IN_PIF",
+    "source_id": "B19FRMPRODUCT_TYPE_FACE_WA",
+    "source_type": "formulation",
+    "target_id": "B19PIFPRODUCT_TYPE_FACE_WA",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19FRMPRODUCT_TYPE_MOISTUR_B19PIFPRODUCT_TYPE_MOISTUR",
+    "type": "FORMULATION_DOCUMENTED_IN_PIF",
+    "source_id": "B19FRMPRODUCT_TYPE_MOISTUR",
+    "source_type": "formulation",
+    "target_id": "B19PIFPRODUCT_TYPE_MOISTUR",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19FRMPRODUCT_TYPE_SKIN_CA_B19PIFPRODUCT_TYPE_SKIN_CA",
+    "type": "FORMULATION_DOCUMENTED_IN_PIF",
+    "source_id": "B19FRMPRODUCT_TYPE_SKIN_CA",
+    "source_type": "formulation",
+    "target_id": "B19PIFPRODUCT_TYPE_SKIN_CA",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19FRMREJUVODERM_NIGHT_MAI_B19PIFREJUVODERM_NIGHT_MAI",
+    "type": "FORMULATION_DOCUMENTED_IN_PIF",
+    "source_id": "B19FRMREJUVODERM_NIGHT_MAI",
+    "source_type": "formulation",
+    "target_id": "B19PIFREJUVODERM_NIGHT_MAI",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19FRMZONE_30_POWER_PEEL_N_B19PIFZONE_30_POWER_PEEL_N",
+    "type": "FORMULATION_DOCUMENTED_IN_PIF",
+    "source_id": "B19FRMZONE_30_POWER_PEEL_N",
+    "source_type": "formulation",
+    "target_id": "B19PIFZONE_30_POWER_PEEL_N",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19FRMZONE_50_POWER_PEEL_N_B19PIFZONE_50_POWER_PEEL_N",
+    "type": "FORMULATION_DOCUMENTED_IN_PIF",
+    "source_id": "B19FRMZONE_50_POWER_PEEL_N",
+    "source_type": "formulation",
+    "target_id": "B19PIFZONE_50_POWER_PEEL_N",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19FRMZONE_ACNE_ATTACK_PRO_B19PIFZONE_ACNE_ATTACK_PRO",
+    "type": "FORMULATION_DOCUMENTED_IN_PIF",
+    "source_id": "B19FRMZONE_ACNE_ATTACK_PRO",
+    "source_type": "formulation",
+    "target_id": "B19PIFZONE_ACNE_ATTACK_PRO",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19FRMZONE_ACNE_ATTACK_RES_B19PIFZONE_ACNE_ATTACK_RES",
+    "type": "FORMULATION_DOCUMENTED_IN_PIF",
+    "source_id": "B19FRMZONE_ACNE_ATTACK_RES",
+    "source_type": "formulation",
+    "target_id": "B19PIFZONE_ACNE_ATTACK_RES",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19FRMZONE_AGE_REVERSAL_NI_B19PIFZONE_AGE_REVERSAL_NI",
+    "type": "FORMULATION_DOCUMENTED_IN_PIF",
+    "source_id": "B19FRMZONE_AGE_REVERSAL_NI",
+    "source_type": "formulation",
+    "target_id": "B19PIFZONE_AGE_REVERSAL_NI",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19FRMZONE_DAILY_RADIANT_B_B19PIFZONE_DAILY_RADIANT_B",
+    "type": "FORMULATION_DOCUMENTED_IN_PIF",
+    "source_id": "B19FRMZONE_DAILY_RADIANT_B",
+    "source_type": "formulation",
+    "target_id": "B19PIFZONE_DAILY_RADIANT_B",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19FRMZONE_DAILY_ULTRA_DEF_B19PIFZONE_DAILY_ULTRA_DEF",
+    "type": "FORMULATION_DOCUMENTED_IN_PIF",
+    "source_id": "B19FRMZONE_DAILY_ULTRA_DEF",
+    "source_type": "formulation",
+    "target_id": "B19PIFZONE_DAILY_ULTRA_DEF",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19FRMZONE_DERMA_DEEP_RICH_B19PIFZONE_DERMA_DEEP_RICH",
+    "type": "FORMULATION_DOCUMENTED_IN_PIF",
+    "source_id": "B19FRMZONE_DERMA_DEEP_RICH",
+    "source_type": "formulation",
+    "target_id": "B19PIFZONE_DERMA_DEEP_RICH",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19FRMZONE_EPI_GENES_XPRES_B19PIFZONE_EPI_GENES_XPRES",
+    "type": "FORMULATION_DOCUMENTED_IN_PIF",
+    "source_id": "B19FRMZONE_EPI_GENES_XPRES",
+    "source_type": "formulation",
+    "target_id": "B19PIFZONE_EPI_GENES_XPRES",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19FRMZONE_EYE_OPENER_SERU_B19PIFZONE_EYE_OPENER_SERU",
+    "type": "FORMULATION_DOCUMENTED_IN_PIF",
+    "source_id": "B19FRMZONE_EYE_OPENER_SERU",
+    "source_type": "formulation",
+    "target_id": "B19PIFZONE_EYE_OPENER_SERU",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19FRMZONE_NEW_EXPRESSION__B19PIFZONE_NEW_EXPRESSION_",
+    "type": "FORMULATION_DOCUMENTED_IN_PIF",
+    "source_id": "B19FRMZONE_NEW_EXPRESSION_",
+    "source_type": "formulation",
+    "target_id": "B19PIFZONE_NEW_EXPRESSION_",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19FRMZONE_OMEGA_HIGH_IMPA_B19PIFZONE_OMEGA_HIGH_IMPA",
+    "type": "FORMULATION_DOCUMENTED_IN_PIF",
+    "source_id": "B19FRMZONE_OMEGA_HIGH_IMPA",
+    "source_type": "formulation",
+    "target_id": "B19PIFZONE_OMEGA_HIGH_IMPA",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19FRMZONE_PIGMENT_PERFECT_B19PIFZONE_PIGMENT_PERFECT",
+    "type": "FORMULATION_DOCUMENTED_IN_PIF",
+    "source_id": "B19FRMZONE_PIGMENT_PERFECT",
+    "source_type": "formulation",
+    "target_id": "B19PIFZONE_PIGMENT_PERFECT",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19FRMZONE_QUANTUM_ELASTIN_B19PIFZONE_QUANTUM_ELASTIN",
+    "type": "FORMULATION_DOCUMENTED_IN_PIF",
+    "source_id": "B19FRMZONE_QUANTUM_ELASTIN",
+    "source_type": "formulation",
+    "target_id": "B19PIFZONE_QUANTUM_ELASTIN",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19FRMZONE_RAPID_REJUVO_MA_B19PIFZONE_RAPID_REJUVO_MA",
+    "type": "FORMULATION_DOCUMENTED_IN_PIF",
+    "source_id": "B19FRMZONE_RAPID_REJUVO_MA",
+    "source_type": "formulation",
+    "target_id": "B19PIFZONE_RAPID_REJUVO_MA",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19FRMZONE_SENSORIAL_DAILY_B19PIFZONE_SENSORIAL_DAILY",
+    "type": "FORMULATION_DOCUMENTED_IN_PIF",
+    "source_id": "B19FRMZONE_SENSORIAL_DAILY",
+    "source_type": "formulation",
+    "target_id": "B19PIFZONE_SENSORIAL_DAILY",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19FRMZONE_SUPER_SMOOTHER_B19PIFZONE_SUPER_SMOOTHER",
+    "type": "FORMULATION_DOCUMENTED_IN_PIF",
+    "source_id": "B19FRMZONE_SUPER_SMOOTHER",
+    "source_type": "formulation",
+    "target_id": "B19PIFZONE_SUPER_SMOOTHER",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  },
+  {
+    "id": "B19EDG_B19FRMZONE_TECHNO_5_B19PIFZONE_TECHNO_5",
+    "type": "FORMULATION_DOCUMENTED_IN_PIF",
+    "source_id": "B19FRMZONE_TECHNO_5",
+    "source_type": "formulation",
+    "target_id": "B19PIFZONE_TECHNO_5",
+    "target_type": "pif",
+    "properties": {
+      "document_source": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf",
+      "created_at": "2025-11-08T03:07:19.151Z"
+    }
+  }
+]

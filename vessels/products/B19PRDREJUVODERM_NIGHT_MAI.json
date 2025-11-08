@@ -1,0 +1,19 @@
+{
+  "id": "B19PRDREJUVODERM_NIGHT_MAI",
+  "label": "Rejuvoderm Night Maintenance",
+  "type": "Unknown",
+  "form": "Unknown",
+  "category": "treatment",
+  "ingredient_count": 1,
+  "source": {
+    "pif_document": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf",
+    "extraction_date": "2025-11-08T03:04:21.188Z",
+    "extraction_quality": 50
+  },
+  "metadata": {
+    "manufacturer_code": "Unknown",
+    "color": "Unknown",
+    "pack_size": "Unknown",
+    "normal_use": "PM: Cleanse with RegimA"
+  }
+}

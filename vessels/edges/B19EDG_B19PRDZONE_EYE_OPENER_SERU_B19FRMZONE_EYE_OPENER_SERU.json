@@ -1,0 +1,13 @@
+{
+  "id": "B19EDG_B19PRDZONE_EYE_OPENER_SERU_B19FRMZONE_EYE_OPENER_SERU",
+  "type": "PRODUCT_HAS_FORMULATION",
+  "source_id": "B19PRDZONE_EYE_OPENER_SERU",
+  "source_type": "product",
+  "target_id": "B19FRMZONE_EYE_OPENER_SERU",
+  "target_type": "formulation",
+  "properties": {
+    "ingredient_count": 1,
+    "total_concentration": 0.001,
+    "created_at": "2025-11-08T03:07:19.150Z"
+  }
+}

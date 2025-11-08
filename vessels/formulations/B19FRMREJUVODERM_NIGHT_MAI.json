@@ -1,0 +1,19 @@
+{
+  "id": "B19FRMREJUVODERM_NIGHT_MAI",
+  "product_reference": "B19PRDREJUVODERM_NIGHT_MAI",
+  "name": "Rejuvoderm Night Maintenance",
+  "ingredients": [
+    {
+      "order": 1,
+      "inci_name": "present at levels >",
+      "concentration": 0.001,
+      "function": "active"
+    }
+  ],
+  "total_concentration": 0.001,
+  "extraction_metadata": {
+    "source_document": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf",
+    "extraction_date": "2025-11-08T03:04:21.188Z",
+    "quality_score": 50
+  }
+}

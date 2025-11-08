@@ -1,0 +1,25 @@
+{
+  "id": "B19FRMDAILY_INTELLIGENT_SE",
+  "product_reference": "B19PRDDAILY_INTELLIGENT_SE",
+  "name": "Daily Intelligent Sebum-Solver + ßeta-Endorphin Stimulator",
+  "ingredients": [
+    {
+      "order": 1,
+      "inci_name": "Aqua (Water) 0.8 1 7732-18-5 231-791-2 Buffering Various",
+      "concentration": 20,
+      "function": "active"
+    },
+    {
+      "order": 2,
+      "inci_name": "present at levels >",
+      "concentration": 0.001,
+      "function": "active"
+    }
+  ],
+  "total_concentration": 20.001,
+  "extraction_metadata": {
+    "source_document": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf",
+    "extraction_date": "2025-11-08T03:04:20.640Z",
+    "quality_score": 50
+  }
+}

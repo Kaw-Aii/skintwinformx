@@ -1,0 +1,13 @@
+{
+  "id": "B19EDG_B19PRDZONE_PIGMENT_PERFECT_B19FRMZONE_PIGMENT_PERFECT",
+  "type": "PRODUCT_HAS_FORMULATION",
+  "source_id": "B19PRDZONE_PIGMENT_PERFECT",
+  "source_type": "product",
+  "target_id": "B19FRMZONE_PIGMENT_PERFECT",
+  "target_type": "formulation",
+  "properties": {
+    "ingredient_count": 1,
+    "total_concentration": 0.001,
+    "created_at": "2025-11-08T03:07:19.150Z"
+  }
+}
