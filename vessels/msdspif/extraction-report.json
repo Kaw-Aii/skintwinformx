@@ -1,0 +1,220 @@
+{
+  "generated": "2025-11-08T03:04:21.192Z",
+  "summary": {
+    "pdfs_processed": 3,
+    "successful": 3,
+    "failed": 0,
+    "total_products": 24
+  },
+  "products": [
+    {
+      "name": "Zone 30 Power Peel Natural Exfoliating Gel - Maintenance Masque",
+      "productId": "B19PRDZONE_30_POWER_PEEL_N",
+      "formulationId": "B19FRMZONE_30_POWER_PEEL_N",
+      "pifId": "B19PIFZONE_30_POWER_PEEL_N",
+      "ingredientCount": 1,
+      "sourceFile": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf"
+    },
+    {
+      "name": "Zone 50 Power Peel Natural Exfoliating Gel - Advanced Masque",
+      "productId": "B19PRDZONE_50_POWER_PEEL_N",
+      "formulationId": "B19FRMZONE_50_POWER_PEEL_N",
+      "pifId": "B19PIFZONE_50_POWER_PEEL_N",
+      "ingredientCount": 1,
+      "sourceFile": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf"
+    },
+    {
+      "name": "Zone ‘Acne Attack’ Pro-Masque",
+      "productId": "B19PRDZONE_ACNE_ATTACK_PRO",
+      "formulationId": "B19FRMZONE_ACNE_ATTACK_PRO",
+      "pifId": "B19PIFZONE_ACNE_ATTACK_PRO",
+      "ingredientCount": 1,
+      "sourceFile": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf"
+    },
+    {
+      "name": "Zone ‘Acne Attack’ Rescue Serum",
+      "productId": "B19PRDZONE_ACNE_ATTACK_RES",
+      "formulationId": "B19FRMZONE_ACNE_ATTACK_RES",
+      "pifId": "B19PIFZONE_ACNE_ATTACK_RES",
+      "ingredientCount": 1,
+      "sourceFile": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf"
+    },
+    {
+      "name": "Zone Age Reversal Night Complex",
+      "productId": "B19PRDZONE_AGE_REVERSAL_NI",
+      "formulationId": "B19FRMZONE_AGE_REVERSAL_NI",
+      "pifId": "B19PIFZONE_AGE_REVERSAL_NI",
+      "ingredientCount": 2,
+      "sourceFile": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf"
+    },
+    {
+      "name": "Anti-inflamm-Ageing",
+      "productId": "B19PRDANTI_INFLAMM_AGEING",
+      "formulationId": "B19FRMANTI_INFLAMM_AGEING",
+      "pifId": "B19PIFANTI_INFLAMM_AGEING",
+      "ingredientCount": 1,
+      "sourceFile": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf"
+    },
+    {
+      "name": "Zone Daily Radiant Boost + βeta-Endorphin Stimulator",
+      "productId": "B19PRDZONE_DAILY_RADIANT_B",
+      "formulationId": "B19FRMZONE_DAILY_RADIANT_B",
+      "pifId": "B19PIFZONE_DAILY_RADIANT_B",
+      "ingredientCount": 1,
+      "sourceFile": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf"
+    },
+    {
+      "name": "Zone Daily Ultra Defence + ßeta-Endorphin Stimulator",
+      "productId": "B19PRDZONE_DAILY_ULTRA_DEF",
+      "formulationId": "B19FRMZONE_DAILY_ULTRA_DEF",
+      "pifId": "B19PIFZONE_DAILY_ULTRA_DEF",
+      "ingredientCount": 1,
+      "sourceFile": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf"
+    },
+    {
+      "name": "Zone Derma Deep Rich Creamy Cleanser",
+      "productId": "B19PRDZONE_DERMA_DEEP_RICH",
+      "formulationId": "B19FRMZONE_DERMA_DEEP_RICH",
+      "pifId": "B19PIFZONE_DERMA_DEEP_RICH",
+      "ingredientCount": 2,
+      "sourceFile": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf"
+    },
+    {
+      "name": "Product type Face wash and toner",
+      "productId": "B19PRDPRODUCT_TYPE_FACE_WA",
+      "formulationId": "B19FRMPRODUCT_TYPE_FACE_WA",
+      "pifId": "B19PIFPRODUCT_TYPE_FACE_WA",
+      "ingredientCount": 2,
+      "sourceFile": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf"
+    },
+    {
+      "name": "Zone Epi-Genes Xpress",
+      "productId": "B19PRDZONE_EPI_GENES_XPRES",
+      "formulationId": "B19FRMZONE_EPI_GENES_XPRES",
+      "pifId": "B19PIFZONE_EPI_GENES_XPRES",
+      "ingredientCount": 2,
+      "sourceFile": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf"
+    },
+    {
+      "name": "Zone Eye Opener Serum",
+      "productId": "B19PRDZONE_EYE_OPENER_SERU",
+      "formulationId": "B19FRMZONE_EYE_OPENER_SERU",
+      "pifId": "B19PIFZONE_EYE_OPENER_SERU",
+      "ingredientCount": 1,
+      "sourceFile": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf"
+    },
+    {
+      "name": "Daily Intelligent Sebum-Solver + ßeta-Endorphin Stimulator",
+      "productId": "B19PRDDAILY_INTELLIGENT_SE",
+      "formulationId": "B19FRMDAILY_INTELLIGENT_SE",
+      "pifId": "B19PIFDAILY_INTELLIGENT_SE",
+      "ingredientCount": 2,
+      "sourceFile": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf"
+    },
+    {
+      "name": "Product type Moisturising Post-Laser Gel",
+      "productId": "B19PRDPRODUCT_TYPE_MOISTUR",
+      "formulationId": "B19FRMPRODUCT_TYPE_MOISTUR",
+      "pifId": "B19PIFPRODUCT_TYPE_MOISTUR",
+      "ingredientCount": 1,
+      "sourceFile": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf"
+    },
+    {
+      "name": "Zone New Expression-365",
+      "productId": "B19PRDZONE_NEW_EXPRESSION_",
+      "formulationId": "B19FRMZONE_NEW_EXPRESSION_",
+      "pifId": "B19PIFZONE_NEW_EXPRESSION_",
+      "ingredientCount": 1,
+      "sourceFile": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf"
+    },
+    {
+      "name": "Zone Omega High impact Night Complex",
+      "productId": "B19PRDZONE_OMEGA_HIGH_IMPA",
+      "formulationId": "B19FRMZONE_OMEGA_HIGH_IMPA",
+      "pifId": "B19PIFZONE_OMEGA_HIGH_IMPA",
+      "ingredientCount": 1,
+      "sourceFile": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf"
+    },
+    {
+      "name": "Zone Pigment Perfector",
+      "productId": "B19PRDZONE_PIGMENT_PERFECT",
+      "formulationId": "B19FRMZONE_PIGMENT_PERFECT",
+      "pifId": "B19PIFZONE_PIGMENT_PERFECT",
+      "ingredientCount": 1,
+      "sourceFile": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf"
+    },
+    {
+      "name": "Zone Quantum Elastin-Collagen Revival",
+      "productId": "B19PRDZONE_QUANTUM_ELASTIN",
+      "formulationId": "B19FRMZONE_QUANTUM_ELASTIN",
+      "pifId": "B19PIFZONE_QUANTUM_ELASTIN",
+      "ingredientCount": 1,
+      "sourceFile": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf"
+    },
+    {
+      "name": "Zone Rapid-Rejuvo Masque",
+      "productId": "B19PRDZONE_RAPID_REJUVO_MA",
+      "formulationId": "B19FRMZONE_RAPID_REJUVO_MA",
+      "pifId": "B19PIFZONE_RAPID_REJUVO_MA",
+      "ingredientCount": 2,
+      "sourceFile": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf"
+    },
+    {
+      "name": "Rejuvoderm Night Maintenance",
+      "productId": "B19PRDREJUVODERM_NIGHT_MAI",
+      "formulationId": "B19FRMREJUVODERM_NIGHT_MAI",
+      "pifId": "B19PIFREJUVODERM_NIGHT_MAI",
+      "ingredientCount": 1,
+      "sourceFile": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf"
+    },
+    {
+      "name": "Product type Skin care",
+      "productId": "B19PRDPRODUCT_TYPE_SKIN_CA",
+      "formulationId": "B19FRMPRODUCT_TYPE_SKIN_CA",
+      "pifId": "B19PIFPRODUCT_TYPE_SKIN_CA",
+      "ingredientCount": 1,
+      "sourceFile": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf"
+    },
+    {
+      "name": "Zone Sensorial Daily Protector+ ßeta-Endorphin Stimulator Daily",
+      "productId": "B19PRDZONE_SENSORIAL_DAILY",
+      "formulationId": "B19FRMZONE_SENSORIAL_DAILY",
+      "pifId": "B19PIFZONE_SENSORIAL_DAILY",
+      "ingredientCount": 2,
+      "sourceFile": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf"
+    },
+    {
+      "name": "Zone Super Smoother",
+      "productId": "B19PRDZONE_SUPER_SMOOTHER",
+      "formulationId": "B19FRMZONE_SUPER_SMOOTHER",
+      "pifId": "B19PIFZONE_SUPER_SMOOTHER",
+      "ingredientCount": 1,
+      "sourceFile": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf"
+    },
+    {
+      "name": "Zone Techno 5",
+      "productId": "B19PRDZONE_TECHNO_5",
+      "formulationId": "B19FRMZONE_TECHNO_5",
+      "pifId": "B19PIFZONE_TECHNO_5",
+      "ingredientCount": 2,
+      "sourceFile": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf"
+    }
+  ],
+  "results": [
+    {
+      "pdfFile": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf",
+      "success": true,
+      "productsExtracted": 8
+    },
+    {
+      "pdfFile": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf",
+      "success": true,
+      "productsExtracted": 8
+    },
+    {
+      "pdfFile": "PIF - Zone - (8 Products) - 3 of 3 - 2021_08.pdf",
+      "success": true,
+      "productsExtracted": 8
+    }
+  ]
+}

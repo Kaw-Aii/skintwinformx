@@ -1,0 +1,19 @@
+{
+  "id": "B19FRMZONE_50_POWER_PEEL_N",
+  "product_reference": "B19PRDZONE_50_POWER_PEEL_N",
+  "name": "Zone 50 Power Peel Natural Exfoliating Gel - Advanced Masque",
+  "ingredients": [
+    {
+      "order": 1,
+      "inci_name": "present at levels >",
+      "concentration": 0.001,
+      "function": "active"
+    }
+  ],
+  "total_concentration": 0.001,
+  "extraction_metadata": {
+    "source_document": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf",
+    "extraction_date": "2025-11-08T03:04:20.080Z",
+    "quality_score": 50
+  }
+}

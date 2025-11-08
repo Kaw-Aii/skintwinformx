@@ -1,0 +1,19 @@
+{
+  "id": "B19PRDANTI_INFLAMM_AGEING",
+  "label": "Anti-inflamm-Ageing",
+  "type": "Unknown",
+  "form": "Unknown",
+  "category": "treatment",
+  "ingredient_count": 1,
+  "source": {
+    "pif_document": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf",
+    "extraction_date": "2025-11-08T03:04:20.084Z",
+    "extraction_quality": 50
+  },
+  "metadata": {
+    "manufacturer_code": "Unknown",
+    "color": "Unknown",
+    "pack_size": "The pump is polypropylene.",
+    "normal_use": "AM and/or PM: cleanse with RégimA. Apply"
+  }
+}

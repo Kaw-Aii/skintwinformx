@@ -43,7 +43,8 @@
     "db:generate": "drizzle-kit generate",
     "db:studio": "drizzle-kit studio",
     "db:migrate": "drizzle-kit migrate",
-    "process-pif": "node scripts/process-pif-documents.cjs"
+    "process-pif": "node scripts/process-pif-documents.cjs",
+    "extract-multi-pif": "node scripts/extract-multi-product-pifs.cjs"
   },
   "engines": {
     "node": ">=18.18.0"

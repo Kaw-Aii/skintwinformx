@@ -1,0 +1,19 @@
+{
+  "id": "B19PRDZONE_DAILY_ULTRA_DEF",
+  "label": "Zone Daily Ultra Defence + ßeta-Endorphin Stimulator",
+  "type": "Unknown",
+  "form": "Unknown",
+  "category": "treatment",
+  "ingredient_count": 1,
+  "source": {
+    "pif_document": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf",
+    "extraction_date": "2025-11-08T03:04:20.086Z",
+    "extraction_quality": 50
+  },
+  "metadata": {
+    "manufacturer_code": "Unknown",
+    "color": "Unknown",
+    "pack_size": "Unknown",
+    "normal_use": "Unknown"
+  }
+}
