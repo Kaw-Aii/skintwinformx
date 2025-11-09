@@ -1,0 +1,2246 @@
+{
+  "errors": {
+    "formulation_concentration": [
+      {
+        "file": "B19FRMANTI_INFLAMM_AGEING.json",
+        "total": 0.001,
+        "difference": 99.999
+      },
+      {
+        "file": "B19FRMDAILY_INTELLIGENT_SE.json",
+        "total": 20.001,
+        "difference": 79.999
+      },
+      {
+        "file": "B19FRMPRODUCT_TYPE_FACE_WA.json",
+        "total": 0.02,
+        "difference": 99.98
+      },
+      {
+        "file": "B19FRMPRODUCT_TYPE_MOISTUR.json",
+        "total": 0.001,
+        "difference": 99.999
+      },
+      {
+        "file": "B19FRMPRODUCT_TYPE_SKIN_CA.json",
+        "total": 0.001,
+        "difference": 99.999
+      },
+      {
+        "file": "B19FRMREJUVODERM_NIGHT_MAI.json",
+        "total": 0.001,
+        "difference": 99.999
+      },
+      {
+        "file": "B19FRMZONE_30_POWER_PEEL_N.json",
+        "total": 0.001,
+        "difference": 99.999
+      },
+      {
+        "file": "B19FRMZONE_50_POWER_PEEL_N.json",
+        "total": 0.001,
+        "difference": 99.999
+      },
+      {
+        "file": "B19FRMZONE_ACNE_ATTACK_PRO.json",
+        "total": 0.001,
+        "difference": 99.999
+      },
+      {
+        "file": "B19FRMZONE_ACNE_ATTACK_RES.json",
+        "total": 0.001,
+        "difference": 99.999
+      },
+      {
+        "file": "B19FRMZONE_AGE_REVERSAL_NI.json",
+        "total": 99.001,
+        "difference": 0.9989999999999952
+      },
+      {
+        "file": "B19FRMZONE_DAILY_RADIANT_B.json",
+        "total": 0.001,
+        "difference": 99.999
+      },
+      {
+        "file": "B19FRMZONE_DAILY_ULTRA_DEF.json",
+        "total": 0.001,
+        "difference": 99.999
+      },
+      {
+        "file": "B19FRMZONE_DERMA_DEEP_RICH.json",
+        "total": 0.02,
+        "difference": 99.98
+      },
+      {
+        "file": "B19FRMZONE_EPI_GENES_XPRES.json",
+        "total": 99.001,
+        "difference": 0.9989999999999952
+      },
+      {
+        "file": "B19FRMZONE_EYE_OPENER_SERU.json",
+        "total": 0.001,
+        "difference": 99.999
+      },
+      {
+        "file": "B19FRMZONE_NEW_EXPRESSION_.json",
+        "total": 0.001,
+        "difference": 99.999
+      },
+      {
+        "file": "B19FRMZONE_OMEGA_HIGH_IMPA.json",
+        "total": 0.001,
+        "difference": 99.999
+      },
+      {
+        "file": "B19FRMZONE_PIGMENT_PERFECT.json",
+        "total": 0.001,
+        "difference": 99.999
+      },
+      {
+        "file": "B19FRMZONE_QUANTUM_ELASTIN.json",
+        "total": 0.001,
+        "difference": 99.999
+      },
+      {
+        "file": "B19FRMZONE_RAPID_REJUVO_MA.json",
+        "total": 99.001,
+        "difference": 0.9989999999999952
+      },
+      {
+        "file": "B19FRMZONE_SENSORIAL_DAILY.json",
+        "total": 20.001,
+        "difference": 79.999
+      },
+      {
+        "file": "B19FRMZONE_SUPER_SMOOTHER.json",
+        "total": 0.001,
+        "difference": 99.999
+      },
+      {
+        "file": "B19FRMZONE_TECHNO_5.json",
+        "total": 99.001,
+        "difference": 0.9989999999999952
+      },
+      {
+        "file": "B19PLGO001.json",
+        "total": 299.8,
+        "difference": -199.8
+      }
+    ],
+    "edge_parse": [
+      {
+        "file": "all_edges.json",
+        "error": "'list' object has no attribute 'get'"
+      }
+    ]
+  },
+  "warnings": {
+    "unknown_ingredient_function": [
+      {
+        "formulation": "B1930P002.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B1930P002.json",
+        "ingredient": "Galacid Heat Stable 90"
+      },
+      {
+        "formulation": "B1930P002.json",
+        "ingredient": "Malic Acid"
+      },
+      {
+        "formulation": "B1930P002.json",
+        "ingredient": "Silkflo 366"
+      },
+      {
+        "formulation": "B1930P002.json",
+        "ingredient": "Rayolys D"
+      },
+      {
+        "formulation": "B1930P002.json",
+        "ingredient": "1,3 Butylene Glycol [Cosmetic Quality]"
+      },
+      {
+        "formulation": "B1930P002.json",
+        "ingredient": "Citric Acid Anhydrous"
+      },
+      {
+        "formulation": "B1930P002.json",
+        "ingredient": "D Panthenol"
+      },
+      {
+        "formulation": "B1930P002.json",
+        "ingredient": "Sepimax Zen"
+      },
+      {
+        "formulation": "B1930P002.json",
+        "ingredient": "Centella Asiatica Phytelene EG 356 [320050]"
+      },
+      {
+        "formulation": "B1930P002.json",
+        "ingredient": "Alistin P5"
+      },
+      {
+        "formulation": "B1930P002.json",
+        "ingredient": "St Johns Wort HG Ext"
+      },
+      {
+        "formulation": "B1930P002.json",
+        "ingredient": "Microcare PHG"
+      },
+      {
+        "formulation": "B1930P002.json",
+        "ingredient": "Aerosil R972"
+      },
+      {
+        "formulation": "B1930P002.json",
+        "ingredient": "Xanthan Gum FF Food Grade"
+      },
+      {
+        "formulation": "B1950P002.json",
+        "ingredient": "Galacid Heat Stable 90"
+      },
+      {
+        "formulation": "B1950P002.json",
+        "ingredient": "Malic Acid"
+      },
+      {
+        "formulation": "B1950P002.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B1950P002.json",
+        "ingredient": "Silkflo 366"
+      },
+      {
+        "formulation": "B1950P002.json",
+        "ingredient": "Citric Acid Anhydrous"
+      },
+      {
+        "formulation": "B1950P002.json",
+        "ingredient": "Rayolys D"
+      },
+      {
+        "formulation": "B1950P002.json",
+        "ingredient": "1,3 Butylene Glycol [Cosmetic Quality]"
+      },
+      {
+        "formulation": "B1950P002.json",
+        "ingredient": "D Panthenol"
+      },
+      {
+        "formulation": "B1950P002.json",
+        "ingredient": "Sepimax Zen"
+      },
+      {
+        "formulation": "B1950P002.json",
+        "ingredient": "Centella Asiatica Phytelene EG 356 [320050]"
+      },
+      {
+        "formulation": "B1950P002.json",
+        "ingredient": "Alistin P5"
+      },
+      {
+        "formulation": "B1950P002.json",
+        "ingredient": "St Johns Wort HG Ext"
+      },
+      {
+        "formulation": "B1950P002.json",
+        "ingredient": "Microcare PHG"
+      },
+      {
+        "formulation": "B1950P002.json",
+        "ingredient": "Aerosil R972"
+      },
+      {
+        "formulation": "B1950P002.json",
+        "ingredient": "Xanthan Gum FF Food Grade"
+      },
+      {
+        "formulation": "B19AAP003.json",
+        "ingredient": "Medical Salicylic Acid"
+      },
+      {
+        "formulation": "B19AAP003.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19AAP003.json",
+        "ingredient": "Galacid Heat Stable 90"
+      },
+      {
+        "formulation": "B19AAP003.json",
+        "ingredient": "Silkflo 366"
+      },
+      {
+        "formulation": "B19AAP003.json",
+        "ingredient": "1,3 Butylene Glycol [Cosmetic Quality]"
+      },
+      {
+        "formulation": "B19AAP003.json",
+        "ingredient": "Meadowsweet Medulat 220016"
+      },
+      {
+        "formulation": "B19AAP003.json",
+        "ingredient": "Phytelene EGX 247 [BG] 620012"
+      },
+      {
+        "formulation": "B19AAP003.json",
+        "ingredient": "Montanov L"
+      },
+      {
+        "formulation": "B19AAP003.json",
+        "ingredient": "D Panthenol"
+      },
+      {
+        "formulation": "B19AAP003.json",
+        "ingredient": "Sepimax Zen"
+      },
+      {
+        "formulation": "B19AAP003.json",
+        "ingredient": "Microcare PHG"
+      },
+      {
+        "formulation": "B19AAP003.json",
+        "ingredient": "Stearic Acid [POFAC 1655L]"
+      },
+      {
+        "formulation": "B19AAP003.json",
+        "ingredient": "Xanthan Gum FF Food Grade"
+      },
+      {
+        "formulation": "B19AARS001.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19AARS001.json",
+        "ingredient": "Emulfree CBG [AJ]"
+      },
+      {
+        "formulation": "B19AARS001.json",
+        "ingredient": "Passion Flower Cosmelene"
+      },
+      {
+        "formulation": "B19AARS001.json",
+        "ingredient": "Sepicontrol A5 [AJ]"
+      },
+      {
+        "formulation": "B19AARS001.json",
+        "ingredient": "Dermapur HP OP"
+      },
+      {
+        "formulation": "B19AARS001.json",
+        "ingredient": "Crodamol SSA LQ [MV]"
+      },
+      {
+        "formulation": "B19AARS001.json",
+        "ingredient": "Silsoft 034"
+      },
+      {
+        "formulation": "B19AARS001.json",
+        "ingredient": "Biochemica Rosehip Oil Refined"
+      },
+      {
+        "formulation": "B19AARS001.json",
+        "ingredient": "Blackcurrant Oil RBD # 266593"
+      },
+      {
+        "formulation": "B19AARS001.json",
+        "ingredient": "B.P. Glycerine"
+      },
+      {
+        "formulation": "B19AARS001.json",
+        "ingredient": "Sepimax Zen"
+      },
+      {
+        "formulation": "B19AARS001.json",
+        "ingredient": "Gatuline Derma [Sensitive]"
+      },
+      {
+        "formulation": "B19AARS001.json",
+        "ingredient": "Microcare PHG"
+      },
+      {
+        "formulation": "B19AARS001.json",
+        "ingredient": "Xanthan Gum FF Food Grade"
+      },
+      {
+        "formulation": "B19CIPP001.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19CIPP001.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19CIPP001.json",
+        "ingredient": "Isohexadecane"
+      },
+      {
+        "formulation": "B19CIPP001.json",
+        "ingredient": "Synerlight 2"
+      },
+      {
+        "formulation": "B19CIPP001.json",
+        "ingredient": "SP Cosmowax D MBAL PA [SG]"
+      },
+      {
+        "formulation": "B19CIPP001.json",
+        "ingredient": "Biochemica Rosehip Oil Refined"
+      },
+      {
+        "formulation": "B19CIPP001.json",
+        "ingredient": "Lumiskin TM MBAL [SE28217] [AJ]"
+      },
+      {
+        "formulation": "B19CIPP001.json",
+        "ingredient": "SP Arlacel 165 FP MBAL PA [RB] [Simusol 165]"
+      },
+      {
+        "formulation": "B19CIPP001.json",
+        "ingredient": "DL Alpha Tocopheryl Acetate"
+      },
+      {
+        "formulation": "B19CIPP001.json",
+        "ingredient": "Kombuchka"
+      },
+      {
+        "formulation": "B19CIPP001.json",
+        "ingredient": "B.P. Glycerine"
+      },
+      {
+        "formulation": "B19CIPP001.json",
+        "ingredient": "Silsoft 034"
+      },
+      {
+        "formulation": "B19CIPP001.json",
+        "ingredient": "AA2G"
+      },
+      {
+        "formulation": "B19CIPP001.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19CIPP001.json",
+        "ingredient": "Microcare PHG"
+      },
+      {
+        "formulation": "B19CIPP001.json",
+        "ingredient": "D Panthenol"
+      },
+      {
+        "formulation": "B19CIPP001.json",
+        "ingredient": "Vit A Palmitate Care [1 Mio] [AJ]"
+      },
+      {
+        "formulation": "B19CIPP001.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19CIPP001.json",
+        "ingredient": "Potassium Hydroxide"
+      },
+      {
+        "formulation": "B19CIPP001.json",
+        "ingredient": "Tri Sodium Citrate"
+      },
+      {
+        "formulation": "B19CIPP001.json",
+        "ingredient": "Xanthan Gum FF Food Grade"
+      },
+      {
+        "formulation": "B19CIPP001.json",
+        "ingredient": "Trilon BD [EDTA NA2]"
+      },
+      {
+        "formulation": "B19CIPP001.json",
+        "ingredient": "DL A Tocopherol"
+      },
+      {
+        "formulation": "B19CIPP001.json",
+        "ingredient": "Potassium Hydroxide"
+      },
+      {
+        "formulation": "B19CIPP001.json",
+        "ingredient": "Citric Acid Anhydrous"
+      },
+      {
+        "formulation": "B19EPGX001.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19EPGX001.json",
+        "ingredient": "Waglinol 3 929"
+      },
+      {
+        "formulation": "B19EPGX001.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19EPGX001.json",
+        "ingredient": "SP Cosmowax D MBAL PA [SG]"
+      },
+      {
+        "formulation": "B19EPGX001.json",
+        "ingredient": "Biochemica Rosehip Oil Refined"
+      },
+      {
+        "formulation": "B19EPGX001.json",
+        "ingredient": "SP Arlacel 165 FP MBAL PA [RB] [Simusol 165]"
+      },
+      {
+        "formulation": "B19EPGX001.json",
+        "ingredient": "Arlamol LST LQ [MH]"
+      },
+      {
+        "formulation": "B19EPGX001.json",
+        "ingredient": "DL Alpha Tocopheryl Acetate"
+      },
+      {
+        "formulation": "B19EPGX001.json",
+        "ingredient": "Silsoft 034"
+      },
+      {
+        "formulation": "B19EPGX001.json",
+        "ingredient": "ProRenew Complex CLR"
+      },
+      {
+        "formulation": "B19EPGX001.json",
+        "ingredient": "Refined Shea Butter [Naturally Refinded]"
+      },
+      {
+        "formulation": "B19EPGX001.json",
+        "ingredient": "B.P. Glycerine"
+      },
+      {
+        "formulation": "B19EPGX001.json",
+        "ingredient": "Microcare PHG"
+      },
+      {
+        "formulation": "B19EPGX001.json",
+        "ingredient": "D Panthenol"
+      },
+      {
+        "formulation": "B19EPGX001.json",
+        "ingredient": "Vit A Palmitate Care [1 Mio] [AJ]"
+      },
+      {
+        "formulation": "B19EPGX001.json",
+        "ingredient": "Epigenist LS10003"
+      },
+      {
+        "formulation": "B19EPGX001.json",
+        "ingredient": "Xanthan Gum FF Food Grade"
+      },
+      {
+        "formulation": "B19EPGX001.json",
+        "ingredient": "DL A Tocopherol"
+      },
+      {
+        "formulation": "B19EPGX001.json",
+        "ingredient": "T.E.A 99% [AJ]"
+      },
+      {
+        "formulation": "B19NBN005.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19NBN005.json",
+        "ingredient": "Olivem 1000"
+      },
+      {
+        "formulation": "B19NBN005.json",
+        "ingredient": "Refined Shea Butter [Naturally Refinded]"
+      },
+      {
+        "formulation": "B19NBN005.json",
+        "ingredient": "Pentavitin Code: 50 33152"
+      },
+      {
+        "formulation": "B19NBN005.json",
+        "ingredient": "Biopeptide CL"
+      },
+      {
+        "formulation": "B19NBN005.json",
+        "ingredient": "Centella Asiatica Cosmelene Ex"
+      },
+      {
+        "formulation": "B19NBN005.json",
+        "ingredient": "DL Alpha Tocopheryl Acetate"
+      },
+      {
+        "formulation": "B19NBN005.json",
+        "ingredient": "Oliwax"
+      },
+      {
+        "formulation": "B19NBN005.json",
+        "ingredient": "Olive Oil Extra Virgin"
+      },
+      {
+        "formulation": "B19NBN005.json",
+        "ingredient": "Chronodyn"
+      },
+      {
+        "formulation": "B19NBN005.json",
+        "ingredient": "B.P. Glycerine"
+      },
+      {
+        "formulation": "B19NBN005.json",
+        "ingredient": "D Panthenol"
+      },
+      {
+        "formulation": "B19NBN005.json",
+        "ingredient": "Dermaxyl"
+      },
+      {
+        "formulation": "B19NBN005.json",
+        "ingredient": "Biochemica Rosehip Oil Refined"
+      },
+      {
+        "formulation": "B19NBN005.json",
+        "ingredient": "Blackcurrant Oil RBD # 266593"
+      },
+      {
+        "formulation": "B19NBN005.json",
+        "ingredient": "Microcare PHG"
+      },
+      {
+        "formulation": "B19NBN005.json",
+        "ingredient": "Bergamot Oil"
+      },
+      {
+        "formulation": "B19NBN005.json",
+        "ingredient": "Vit A Palmitate Care [1 Mio] [AJ]"
+      },
+      {
+        "formulation": "B19NBN005.json",
+        "ingredient": "T.E.A 99% [AJ]"
+      },
+      {
+        "formulation": "B19NBN005.json",
+        "ingredient": "Carbopol Ultrez 30"
+      },
+      {
+        "formulation": "B19NBN005.json",
+        "ingredient": "Xanthan Gum FF Food Grade"
+      },
+      {
+        "formulation": "B19NBN005.json",
+        "ingredient": "Ascorbyl Palmitate"
+      },
+      {
+        "formulation": "B19NBO003.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19NBO003.json",
+        "ingredient": "Galacid Heat Stable 90"
+      },
+      {
+        "formulation": "B19NBO003.json",
+        "ingredient": "Malic Acid"
+      },
+      {
+        "formulation": "B19NBO003.json",
+        "ingredient": "Silkflo 366"
+      },
+      {
+        "formulation": "B19NBO003.json",
+        "ingredient": "Pentavitin Code: 50 33152"
+      },
+      {
+        "formulation": "B19NBO003.json",
+        "ingredient": "SP Cosmowax D MBAL PA [SG]"
+      },
+      {
+        "formulation": "B19NBO003.json",
+        "ingredient": "Centella Asiatica Cosmelene Ex"
+      },
+      {
+        "formulation": "B19NBO003.json",
+        "ingredient": "SP Arlacel 165 FP MBAL PA [RB] [Simusol 165]"
+      },
+      {
+        "formulation": "B19NBO003.json",
+        "ingredient": "Refined Shea Butter [Naturally Refinded]"
+      },
+      {
+        "formulation": "B19NBO003.json",
+        "ingredient": "1,3 Butylene Glycol [Cosmetic Quality]"
+      },
+      {
+        "formulation": "B19NBO003.json",
+        "ingredient": "DL Alpha Tocopheryl Acetate"
+      },
+      {
+        "formulation": "B19NBO003.json",
+        "ingredient": "Olive Oil Extra Virgin"
+      },
+      {
+        "formulation": "B19NBO003.json",
+        "ingredient": "D Panthenol"
+      },
+      {
+        "formulation": "B19NBO003.json",
+        "ingredient": "Biochemica Rosehip Oil Refined"
+      },
+      {
+        "formulation": "B19NBO003.json",
+        "ingredient": "Blackcurrant Oil RBD # 266593"
+      },
+      {
+        "formulation": "B19NBO003.json",
+        "ingredient": "Alistin P5"
+      },
+      {
+        "formulation": "B19NBO003.json",
+        "ingredient": "Microcare PHG"
+      },
+      {
+        "formulation": "B19NBO003.json",
+        "ingredient": "Citric Acid Anhydrous"
+      },
+      {
+        "formulation": "B19NBO003.json",
+        "ingredient": "Sepimax Zen"
+      },
+      {
+        "formulation": "B19NBO003.json",
+        "ingredient": "Aerosil R972"
+      },
+      {
+        "formulation": "B19NBO003.json",
+        "ingredient": "Vit A Palmitate Care [1 Mio] [AJ]"
+      },
+      {
+        "formulation": "B19NBO003.json",
+        "ingredient": "Xanthan Gum FF Food Grade"
+      },
+      {
+        "formulation": "B19NBO003.json",
+        "ingredient": "DL A Tocopherol"
+      },
+      {
+        "formulation": "B19NBO003.json",
+        "ingredient": "Ascorbyl Palmitate"
+      },
+      {
+        "formulation": "B19NE31003.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19NE31003.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19NE31003.json",
+        "ingredient": "Tens Up"
+      },
+      {
+        "formulation": "B19NE31003.json",
+        "ingredient": "Emulfree CBG [AJ]"
+      },
+      {
+        "formulation": "B19NE31003.json",
+        "ingredient": "Oliwax"
+      },
+      {
+        "formulation": "B19NE31003.json",
+        "ingredient": "Eyeliss"
+      },
+      {
+        "formulation": "B19NE31003.json",
+        "ingredient": "Matrixyl 3000"
+      },
+      {
+        "formulation": "B19NE31003.json",
+        "ingredient": "Biochemica Rosehip Oil Refined"
+      },
+      {
+        "formulation": "B19NE31003.json",
+        "ingredient": "Blackcurrant Oil RBD # 266593"
+      },
+      {
+        "formulation": "B19NE31003.json",
+        "ingredient": "Beautifeye"
+      },
+      {
+        "formulation": "B19NE31003.json",
+        "ingredient": "B.P. Glycerine"
+      },
+      {
+        "formulation": "B19NE31003.json",
+        "ingredient": "Haloxyl TM MBAL [SE28218]"
+      },
+      {
+        "formulation": "B19NE31003.json",
+        "ingredient": "Cetyl Alcohol [Nacol 1695]"
+      },
+      {
+        "formulation": "B19NE31003.json",
+        "ingredient": "Microcare PHG"
+      },
+      {
+        "formulation": "B19NE31003.json",
+        "ingredient": "Carbopol EDT 2050"
+      },
+      {
+        "formulation": "B19NE31003.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19NE31003.json",
+        "ingredient": "Xanthan Gum FF Food Grade"
+      },
+      {
+        "formulation": "B19NE31003.json",
+        "ingredient": "Caustic Soda Flakes [Pearl]"
+      },
+      {
+        "formulation": "B19NE31003.json",
+        "ingredient": "DL A Tocopherol"
+      },
+      {
+        "formulation": "B19PLGO001.json",
+        "ingredient": "Guaiazulene 100% Pure [G]"
+      },
+      {
+        "formulation": "B19PLGO001.json",
+        "ingredient": "Cetiol SB45"
+      },
+      {
+        "formulation": "B19PLGO001.json",
+        "ingredient": "Lipovol C 76"
+      },
+      {
+        "formulation": "B19PLGO001.json",
+        "ingredient": "Sucragel AOF"
+      },
+      {
+        "formulation": "B19PLGO001.json",
+        "ingredient": "Kahlwax 8108 Beeswax White"
+      },
+      {
+        "formulation": "B19PLGO001.json",
+        "ingredient": "DL Alpha Tocopheryl Acetate"
+      },
+      {
+        "formulation": "B19PLGO001.json",
+        "ingredient": "Lipovol Mac [Macadamia Nut Oil]"
+      },
+      {
+        "formulation": "B19PLGO001.json",
+        "ingredient": "Lipovol A [Avocado oil]"
+      },
+      {
+        "formulation": "B19PLGO001.json",
+        "ingredient": "Pomegranate Seed Oil"
+      },
+      {
+        "formulation": "B19PLGO001.json",
+        "ingredient": "Borage Oil Refined GLA 20PCT"
+      },
+      {
+        "formulation": "B19PLGO001.json",
+        "ingredient": "Dragosantol 172585"
+      },
+      {
+        "formulation": "B19PLGO001.json",
+        "ingredient": "DL A Tocopherol"
+      },
+      {
+        "formulation": "B19PRDSPAAFO000.json",
+        "ingredient": "Lipovol A [Avocado oil]"
+      },
+      {
+        "formulation": "B19PRDSPAAFO000.json",
+        "ingredient": "Evoil Apricot Kernel"
+      },
+      {
+        "formulation": "B19PRDSPAAFO000.json",
+        "ingredient": "Refined Soya Bean Oil"
+      },
+      {
+        "formulation": "B19PRDSPAAFO000.json",
+        "ingredient": "Evoil Hazelnut"
+      },
+      {
+        "formulation": "B19PRDSPAAFO000.json",
+        "ingredient": "Camellia Oil"
+      },
+      {
+        "formulation": "B19PRDSPAAFO000.json",
+        "ingredient": "Argan Oil"
+      },
+      {
+        "formulation": "B19PRDSPAAFO000.json",
+        "ingredient": "Biochemica Rosehip Oil Refined"
+      },
+      {
+        "formulation": "B19PRDSPAAFO000.json",
+        "ingredient": "Blackcurrant Oil RBD # 266593"
+      },
+      {
+        "formulation": "B19PRDSPAAFO000.json",
+        "ingredient": "Ceramidone"
+      },
+      {
+        "formulation": "B19PRDSPAAFO000.json",
+        "ingredient": "Bergamot Oil"
+      },
+      {
+        "formulation": "B19PRDSPAAFO000.json",
+        "ingredient": "Grapefruit Oil Pink"
+      },
+      {
+        "formulation": "B19PRDSPAAFO000.json",
+        "ingredient": "DL A Tocopherol"
+      },
+      {
+        "formulation": "B19PRDSPAIFL000.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19PRDSPAIFL000.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19PRDSPAIFL000.json",
+        "ingredient": "Galaflow SL Cosmetic 60"
+      },
+      {
+        "formulation": "B19PRDSPAIFL000.json",
+        "ingredient": "Crovol A70 LQ [RB]"
+      },
+      {
+        "formulation": "B19PRDSPAIFL000.json",
+        "ingredient": "Detoxyl OP"
+      },
+      {
+        "formulation": "B19PRDSPAIFL000.json",
+        "ingredient": "Celldetox"
+      },
+      {
+        "formulation": "B19PRDSPAIFL000.json",
+        "ingredient": "B.P. Glycerine"
+      },
+      {
+        "formulation": "B19PRDSPAIFL000.json",
+        "ingredient": "Verstatil PC"
+      },
+      {
+        "formulation": "B19PRDSPAIFL000.json",
+        "ingredient": "Bergamot Oil"
+      },
+      {
+        "formulation": "B19PRDSPAIFL000.json",
+        "ingredient": "Carbopol Ultrez 30"
+      },
+      {
+        "formulation": "B19PRDSPAIFL000.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19PRDSPAIFL000.json",
+        "ingredient": "Filmexel"
+      },
+      {
+        "formulation": "B19PRDSPAIFL000.json",
+        "ingredient": "Xanthan Gum FF Food Grade"
+      },
+      {
+        "formulation": "B19PRDSPAIFL000.json",
+        "ingredient": "Caustic Soda Flakes [Pearl]"
+      },
+      {
+        "formulation": "B19PRDSPAMRM000.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19PRDSPAMRM000.json",
+        "ingredient": "Hydromanil"
+      },
+      {
+        "formulation": "B19PRDSPAMRM000.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19PRDSPAMRM000.json",
+        "ingredient": "Crovol A70 LQ [RB]"
+      },
+      {
+        "formulation": "B19PRDSPAMRM000.json",
+        "ingredient": "B.P. Glycerine"
+      },
+      {
+        "formulation": "B19PRDSPAMRM000.json",
+        "ingredient": "Aquaphyline"
+      },
+      {
+        "formulation": "B19PRDSPAMRM000.json",
+        "ingredient": "Cohesium"
+      },
+      {
+        "formulation": "B19PRDSPAMRM000.json",
+        "ingredient": "Verstatil PC"
+      },
+      {
+        "formulation": "B19PRDSPAMRM000.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19PRDSPAMRM000.json",
+        "ingredient": "Carbopol Ultrez 30"
+      },
+      {
+        "formulation": "B19PRDSPAMRM000.json",
+        "ingredient": "Bergamot Oil"
+      },
+      {
+        "formulation": "B19PRDSPAMRM000.json",
+        "ingredient": "Filmexel"
+      },
+      {
+        "formulation": "B19PRDSPAMRM000.json",
+        "ingredient": "Caustic Soda Flakes [Pearl]"
+      },
+      {
+        "formulation": "B19PRDSPANBC000.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19PRDSPANBC000.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19PRDSPANBC000.json",
+        "ingredient": "Olivem 1000"
+      },
+      {
+        "formulation": "B19PRDSPANBC000.json",
+        "ingredient": "Fermiskin GR"
+      },
+      {
+        "formulation": "B19PRDSPANBC000.json",
+        "ingredient": "Raffermine 2"
+      },
+      {
+        "formulation": "B19PRDSPANBC000.json",
+        "ingredient": "Olive Oil Extra Virgin"
+      },
+      {
+        "formulation": "B19PRDSPANBC000.json",
+        "ingredient": "B.P. Glycerine"
+      },
+      {
+        "formulation": "B19PRDSPANBC000.json",
+        "ingredient": "Oliwax"
+      },
+      {
+        "formulation": "B19PRDSPANBC000.json",
+        "ingredient": "Biochemica Rosehip Oil Refined"
+      },
+      {
+        "formulation": "B19PRDSPANBC000.json",
+        "ingredient": "Blackcurrant Oil RBD # 266593"
+      },
+      {
+        "formulation": "B19PRDSPANBC000.json",
+        "ingredient": "Retilactyl D"
+      },
+      {
+        "formulation": "B19PRDSPANBC000.json",
+        "ingredient": "Lipovol A [Avocado oil]"
+      },
+      {
+        "formulation": "B19PRDSPANBC000.json",
+        "ingredient": "Verstatil PC"
+      },
+      {
+        "formulation": "B19PRDSPANBC000.json",
+        "ingredient": "Filmexel"
+      },
+      {
+        "formulation": "B19PRDSPANBC000.json",
+        "ingredient": "Sepimax Zen"
+      },
+      {
+        "formulation": "B19PRDSPANBC000.json",
+        "ingredient": "Bergamot Oil"
+      },
+      {
+        "formulation": "B19PRDSPANBC000.json",
+        "ingredient": "Xanthan Gum FF Food Grade"
+      },
+      {
+        "formulation": "B19PRDSPANBC000.json",
+        "ingredient": "DL A Tocopherol"
+      },
+      {
+        "formulation": "B19PRDSPAORM000.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19PRDSPAORM000.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19PRDSPAORM000.json",
+        "ingredient": "Olivem 1000"
+      },
+      {
+        "formulation": "B19PRDSPAORM000.json",
+        "ingredient": "Cetiol SB45"
+      },
+      {
+        "formulation": "B19PRDSPAORM000.json",
+        "ingredient": "Coheliss GR"
+      },
+      {
+        "formulation": "B19PRDSPAORM000.json",
+        "ingredient": "Olive Oil Extra Virgin"
+      },
+      {
+        "formulation": "B19PRDSPAORM000.json",
+        "ingredient": "Oliwax"
+      },
+      {
+        "formulation": "B19PRDSPAORM000.json",
+        "ingredient": "Eternaline"
+      },
+      {
+        "formulation": "B19PRDSPAORM000.json",
+        "ingredient": "B.P. Glycerine"
+      },
+      {
+        "formulation": "B19PRDSPAORM000.json",
+        "ingredient": "Lipovol A [Avocado oil]"
+      },
+      {
+        "formulation": "B19PRDSPAORM000.json",
+        "ingredient": "Verstatil PC"
+      },
+      {
+        "formulation": "B19PRDSPAORM000.json",
+        "ingredient": "Filmexel"
+      },
+      {
+        "formulation": "B19PRDSPAORM000.json",
+        "ingredient": "Bergamot Oil"
+      },
+      {
+        "formulation": "B19PRDSPAORM000.json",
+        "ingredient": "Xanthan Gum FF Food Grade"
+      },
+      {
+        "formulation": "B19PRDSPAORM000.json",
+        "ingredient": "DL A Tocopherol"
+      },
+      {
+        "formulation": "B19PRODZNEAIF000.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19PRODZNEAIF000.json",
+        "ingredient": "Waglinol 3 929"
+      },
+      {
+        "formulation": "B19PRODZNEAIF000.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19PRODZNEAIF000.json",
+        "ingredient": "SP Cosmowax D MBAL PA [SG]"
+      },
+      {
+        "formulation": "B19PRODZNEAIF000.json",
+        "ingredient": "Biochemica Rosehip Oil Refined"
+      },
+      {
+        "formulation": "B19PRODZNEAIF000.json",
+        "ingredient": "Defensil Plus"
+      },
+      {
+        "formulation": "B19PRODZNEAIF000.json",
+        "ingredient": "SP Arlacel 165 FP MBAL PA [RB] [Simusol 165]"
+      },
+      {
+        "formulation": "B19PRODZNEAIF000.json",
+        "ingredient": "Arlamol LST LQ [MH]"
+      },
+      {
+        "formulation": "B19PRODZNEAIF000.json",
+        "ingredient": "DL Alpha Tocopheryl Acetate"
+      },
+      {
+        "formulation": "B19PRODZNEAIF000.json",
+        "ingredient": "Silsoft 034"
+      },
+      {
+        "formulation": "B19PRODZNEAIF000.json",
+        "ingredient": "Blackcurrant Oil RBD # 266593"
+      },
+      {
+        "formulation": "B19PRODZNEAIF000.json",
+        "ingredient": "Unflamagyl"
+      },
+      {
+        "formulation": "B19PRODZNEAIF000.json",
+        "ingredient": "1,3 Butylene Glycol [Cosmetic Quality]"
+      },
+      {
+        "formulation": "B19PRODZNEAIF000.json",
+        "ingredient": "Cetiol SB45"
+      },
+      {
+        "formulation": "B19PRODZNEAIF000.json",
+        "ingredient": "Microcare PHG"
+      },
+      {
+        "formulation": "B19PRODZNEAIF000.json",
+        "ingredient": "Eperuline PW LS 9627"
+      },
+      {
+        "formulation": "B19PRODZNEAIF000.json",
+        "ingredient": "Vit A Palmitate Care [1 Mio] [AJ]"
+      },
+      {
+        "formulation": "B19PRODZNEAIF000.json",
+        "ingredient": "Xanthan Gum FF Food Grade"
+      },
+      {
+        "formulation": "B19PRODZNEAIF000.json",
+        "ingredient": "DL A Tocopherol"
+      },
+      {
+        "formulation": "B19PRODZNEDDC000.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19PRODZNEDDC000.json",
+        "ingredient": "Iselux Ultra Mild"
+      },
+      {
+        "formulation": "B19PRODZNEDDC000.json",
+        "ingredient": "Refined Soya Bean Oil"
+      },
+      {
+        "formulation": "B19PRODZNEDDC000.json",
+        "ingredient": "B.P. Glycerine"
+      },
+      {
+        "formulation": "B19PRODZNEDDC000.json",
+        "ingredient": "SP Arlacel 165 FP MBAL PA [RB] [Simusol 165]"
+      },
+      {
+        "formulation": "B19PRODZNEDDC000.json",
+        "ingredient": "Microcare PHG"
+      },
+      {
+        "formulation": "B19PRODZNEDDC000.json",
+        "ingredient": "DL Alpha Tocopheryl Acetate"
+      },
+      {
+        "formulation": "B19PRODZNEDDC000.json",
+        "ingredient": "Biochemica Rosehip Oil Refined"
+      },
+      {
+        "formulation": "B19PRODZNEDDC000.json",
+        "ingredient": "Blackcurrant Oil RBD # 266593"
+      },
+      {
+        "formulation": "B19PRODZNEDDC000.json",
+        "ingredient": "Cetiol SB45"
+      },
+      {
+        "formulation": "B19PRODZNEDDC000.json",
+        "ingredient": "Xanthan Gum FF Food Grade"
+      },
+      {
+        "formulation": "B19PRODZNEDDC000.json",
+        "ingredient": "Vit A Palmitate Care [1 Mio] [AJ]"
+      },
+      {
+        "formulation": "B19PRODZNEDDC000.json",
+        "ingredient": "Sepimax Zen"
+      },
+      {
+        "formulation": "B19PRODZNEDDC000.json",
+        "ingredient": "Grapefruit Oil Pink"
+      },
+      {
+        "formulation": "B19PRODZNEDDC000.json",
+        "ingredient": "DL A Tocopherol"
+      },
+      {
+        "formulation": "B19PRODZNEDZ000.json",
+        "ingredient": "Oronal LCG"
+      },
+      {
+        "formulation": "B19PRODZNEDZ000.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19PRODZNEDZ000.json",
+        "ingredient": "Antil 141 Liquid"
+      },
+      {
+        "formulation": "B19PRODZNEDZ000.json",
+        "ingredient": "Empigen BS FA [AF]"
+      },
+      {
+        "formulation": "B19PRODZNEDZ000.json",
+        "ingredient": "Proteol OAT"
+      },
+      {
+        "formulation": "B19PRODZNEDZ000.json",
+        "ingredient": "Rewoderm S1333 KM 5"
+      },
+      {
+        "formulation": "B19PRODZNEDZ000.json",
+        "ingredient": "Lamesoft PO 65"
+      },
+      {
+        "formulation": "B19PRODZNEDZ000.json",
+        "ingredient": "B.P. Glycerine"
+      },
+      {
+        "formulation": "B19PRODZNEDZ000.json",
+        "ingredient": "Eumulgin CO 40"
+      },
+      {
+        "formulation": "B19PRODZNEDZ000.json",
+        "ingredient": "D Panthenol"
+      },
+      {
+        "formulation": "B19PRODZNEDZ000.json",
+        "ingredient": "Centella Asiatica Phytelene EG 356 [320050]"
+      },
+      {
+        "formulation": "B19PRODZNEDZ000.json",
+        "ingredient": "Genencare OSMS BA"
+      },
+      {
+        "formulation": "B19PRODZNEDZ000.json",
+        "ingredient": "Geranium HG Ext"
+      },
+      {
+        "formulation": "B19PRODZNEDZ000.json",
+        "ingredient": "Lavender HG Ext"
+      },
+      {
+        "formulation": "B19PRODZNEDZ000.json",
+        "ingredient": "Verstatil PC"
+      },
+      {
+        "formulation": "B19PRODZNEDZ000.json",
+        "ingredient": "Perf Citrus Therm 701081"
+      },
+      {
+        "formulation": "B19PRODZNEDZ000.json",
+        "ingredient": "Yarrow Phytelene EG 472 Ext"
+      },
+      {
+        "formulation": "B19PRODZNEDZ000.json",
+        "ingredient": "Rosemary HG Ext"
+      },
+      {
+        "formulation": "B19PRODZNEDZ000.json",
+        "ingredient": "Grapefruit Oil Pink"
+      },
+      {
+        "formulation": "B19PRODZNEDZ000.json",
+        "ingredient": "Dragosantol 172585"
+      },
+      {
+        "formulation": "B19PRODZNERN000.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19PRODZNERN000.json",
+        "ingredient": "1,3 Butylene Glycol [Cosmetic Quality]"
+      },
+      {
+        "formulation": "B19PRODZNERN000.json",
+        "ingredient": "Pentavitin Code: 50 33152"
+      },
+      {
+        "formulation": "B19PRODZNERN000.json",
+        "ingredient": "SP Cosmowax D MBAL PA [SG]"
+      },
+      {
+        "formulation": "B19PRODZNERN000.json",
+        "ingredient": "Lanol 99"
+      },
+      {
+        "formulation": "B19PRODZNERN000.json",
+        "ingredient": "Centella Asiatica Cosmelene Ex"
+      },
+      {
+        "formulation": "B19PRODZNERN000.json",
+        "ingredient": "Galacid Heat Stable 90"
+      },
+      {
+        "formulation": "B19PRODZNERN000.json",
+        "ingredient": "Malic Acid"
+      },
+      {
+        "formulation": "B19PRODZNERN000.json",
+        "ingredient": "DL Alpha Tocopheryl Acetate"
+      },
+      {
+        "formulation": "B19PRODZNERN000.json",
+        "ingredient": "SP Arlacel 165 FP MBAL PA [RB] [Simusol 165]"
+      },
+      {
+        "formulation": "B19PRODZNERN000.json",
+        "ingredient": "Olive Oil Extra Virgin"
+      },
+      {
+        "formulation": "B19PRODZNERN000.json",
+        "ingredient": "Biochemica Rosehip Oil Refined"
+      },
+      {
+        "formulation": "B19PRODZNERN000.json",
+        "ingredient": "Blackcurrant Oil RBD # 266593"
+      },
+      {
+        "formulation": "B19PRODZNERN000.json",
+        "ingredient": "Cetiol SB45"
+      },
+      {
+        "formulation": "B19PRODZNERN000.json",
+        "ingredient": "Vitagenyl"
+      },
+      {
+        "formulation": "B19PRODZNERN000.json",
+        "ingredient": "D Panthenol"
+      },
+      {
+        "formulation": "B19PRODZNERN000.json",
+        "ingredient": "Verstatil PC"
+      },
+      {
+        "formulation": "B19PRODZNERN000.json",
+        "ingredient": "Sepimax Zen"
+      },
+      {
+        "formulation": "B19PRODZNERN000.json",
+        "ingredient": "Aerosil R972"
+      },
+      {
+        "formulation": "B19PRODZNERN000.json",
+        "ingredient": "Citric Acid Anhydrous"
+      },
+      {
+        "formulation": "B19PRODZNERN000.json",
+        "ingredient": "Xanthan Gum FF Food Grade"
+      },
+      {
+        "formulation": "B19PRODZNERN000.json",
+        "ingredient": "Vit A Palmitate Care [1 Mio] [AJ]"
+      },
+      {
+        "formulation": "B19PRODZNERN000.json",
+        "ingredient": "DL A Tocopherol"
+      },
+      {
+        "formulation": "B19PRODZNERN000.json",
+        "ingredient": "Ascorbyl Palmitate"
+      },
+      {
+        "formulation": "B19QUEL002.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19QUEL002.json",
+        "ingredient": "Evoil Wheat Germ"
+      },
+      {
+        "formulation": "B19QUEL002.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19QUEL002.json",
+        "ingredient": "ASC 3"
+      },
+      {
+        "formulation": "B19QUEL002.json",
+        "ingredient": "SP Cosmowax D MBAL PA [SG]"
+      },
+      {
+        "formulation": "B19QUEL002.json",
+        "ingredient": "Biochemica Rosehip Oil Refined"
+      },
+      {
+        "formulation": "B19QUEL002.json",
+        "ingredient": "Horsetail Cosmelene Ext"
+      },
+      {
+        "formulation": "B19QUEL002.json",
+        "ingredient": "Centella Asiatica Cosmelene Ex"
+      },
+      {
+        "formulation": "B19QUEL002.json",
+        "ingredient": "SP Arlacel 165 FP MBAL PA [RB] [Simusol 165]"
+      },
+      {
+        "formulation": "B19QUEL002.json",
+        "ingredient": "DL Alpha Tocopheryl Acetate"
+      },
+      {
+        "formulation": "B19QUEL002.json",
+        "ingredient": "Matrixyl 3000"
+      },
+      {
+        "formulation": "B19QUEL002.json",
+        "ingredient": "Alistin P5"
+      },
+      {
+        "formulation": "B19QUEL002.json",
+        "ingredient": "LPDs Asiatic Centella"
+      },
+      {
+        "formulation": "B19QUEL002.json",
+        "ingredient": "Deglysome"
+      },
+      {
+        "formulation": "B19QUEL002.json",
+        "ingredient": "1,3 Butylene Glycol [Cosmetic Quality]"
+      },
+      {
+        "formulation": "B19QUEL002.json",
+        "ingredient": "Microcare PHG"
+      },
+      {
+        "formulation": "B19QUEL002.json",
+        "ingredient": "Aerosil R972"
+      },
+      {
+        "formulation": "B19QUEL002.json",
+        "ingredient": "Vit A Palmitate Care [1 Mio] [AJ]"
+      },
+      {
+        "formulation": "B19QUEL002.json",
+        "ingredient": "Xanthan Gum FF Food Grade"
+      },
+      {
+        "formulation": "B19QUEL002.json",
+        "ingredient": "Hysilk Powder [LMW]"
+      },
+      {
+        "formulation": "B19QUEL002.json",
+        "ingredient": "DL A Tocopherol"
+      },
+      {
+        "formulation": "B19RBC001.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19RBC001.json",
+        "ingredient": "Tegosoft TN [Finsolve TN]"
+      },
+      {
+        "formulation": "B19RBC001.json",
+        "ingredient": "Uvinul A Plus Granular"
+      },
+      {
+        "formulation": "B19RBC001.json",
+        "ingredient": "Cetiol Sensoft"
+      },
+      {
+        "formulation": "B19RBC001.json",
+        "ingredient": "Phytelene EGX 247 [BG] 620012"
+      },
+      {
+        "formulation": "B19RBC001.json",
+        "ingredient": "Tinosorb S"
+      },
+      {
+        "formulation": "B19RBC001.json",
+        "ingredient": "Niacinamide PC [AJ]"
+      },
+      {
+        "formulation": "B19RBC001.json",
+        "ingredient": "Cetiol B"
+      },
+      {
+        "formulation": "B19RBC001.json",
+        "ingredient": "Uvinul T150"
+      },
+      {
+        "formulation": "B19RBC001.json",
+        "ingredient": "Normaseb PH"
+      },
+      {
+        "formulation": "B19RBC001.json",
+        "ingredient": "Kombuchka"
+      },
+      {
+        "formulation": "B19RBC001.json",
+        "ingredient": "Cetyl Stearyl Alcohol [AJ]"
+      },
+      {
+        "formulation": "B19RBC001.json",
+        "ingredient": "Montanov L"
+      },
+      {
+        "formulation": "B19RBC001.json",
+        "ingredient": "Amphisol K"
+      },
+      {
+        "formulation": "B19RBC001.json",
+        "ingredient": "1,3 Butylene Glycol [Cosmetic Quality]"
+      },
+      {
+        "formulation": "B19RBC001.json",
+        "ingredient": "DL Alpha Tocopheryl Acetate"
+      },
+      {
+        "formulation": "B19RBC001.json",
+        "ingredient": "Happybelle PE"
+      },
+      {
+        "formulation": "B19RBC001.json",
+        "ingredient": "Cosmedia DC"
+      },
+      {
+        "formulation": "B19RBC001.json",
+        "ingredient": "Microcare PHG"
+      },
+      {
+        "formulation": "B19RBC001.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19RBC001.json",
+        "ingredient": "Melissa Oil"
+      },
+      {
+        "formulation": "B19RBC001.json",
+        "ingredient": "Xanthan Gum FF Food Grade"
+      },
+      {
+        "formulation": "B19RBC001.json",
+        "ingredient": "Trilon BD [EDTA NA2]"
+      },
+      {
+        "formulation": "B19RBC001.json",
+        "ingredient": "Caustic Soda Flakes [Pearl]"
+      },
+      {
+        "formulation": "B19RBP002.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19RBP002.json",
+        "ingredient": "Pineapple Phytelene Eg 401"
+      },
+      {
+        "formulation": "B19RBP002.json",
+        "ingredient": "Papaya Phytelene EG402"
+      },
+      {
+        "formulation": "B19RBP002.json",
+        "ingredient": "Refined Soya Bean Oil"
+      },
+      {
+        "formulation": "B19RBP002.json",
+        "ingredient": "Lipolight OAP PVA"
+      },
+      {
+        "formulation": "B19RBP002.json",
+        "ingredient": "Olivem 1000"
+      },
+      {
+        "formulation": "B19RBP002.json",
+        "ingredient": "Exfo Bio"
+      },
+      {
+        "formulation": "B19RBP002.json",
+        "ingredient": "Kombuchka"
+      },
+      {
+        "formulation": "B19RBP002.json",
+        "ingredient": "Oliwax"
+      },
+      {
+        "formulation": "B19RBP002.json",
+        "ingredient": "Biochemica Rosehip Oil Refined"
+      },
+      {
+        "formulation": "B19RBP002.json",
+        "ingredient": "Perfection Peptide P3"
+      },
+      {
+        "formulation": "B19RBP002.json",
+        "ingredient": "B.P. Glycerine"
+      },
+      {
+        "formulation": "B19RBP002.json",
+        "ingredient": "Blackcurrant Oil RBD # 266593"
+      },
+      {
+        "formulation": "B19RBP002.json",
+        "ingredient": "Microcare PHG"
+      },
+      {
+        "formulation": "B19RBP002.json",
+        "ingredient": "Inutec SLI"
+      },
+      {
+        "formulation": "B19RBP002.json",
+        "ingredient": "Xanthan Gum FF Food Grade"
+      },
+      {
+        "formulation": "B19RBP002.json",
+        "ingredient": "DL A Tocopherol"
+      },
+      {
+        "formulation": "B19RBP002.json",
+        "ingredient": "T.E.A 99% [AJ]"
+      },
+      {
+        "formulation": "B19RDS001.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19RDS001.json",
+        "ingredient": "Tegosoft TN [Finsolve TN]"
+      },
+      {
+        "formulation": "B19RDS001.json",
+        "ingredient": "Uvinul A Plus Granular"
+      },
+      {
+        "formulation": "B19RDS001.json",
+        "ingredient": "Phytelene EGX 773 [BG] 620032"
+      },
+      {
+        "formulation": "B19RDS001.json",
+        "ingredient": "Tinosorb S"
+      },
+      {
+        "formulation": "B19RDS001.json",
+        "ingredient": "Refined Shea Butter [Naturally Refinded]"
+      },
+      {
+        "formulation": "B19RDS001.json",
+        "ingredient": "Cetiol B"
+      },
+      {
+        "formulation": "B19RDS001.json",
+        "ingredient": "Uvinul T150"
+      },
+      {
+        "formulation": "B19RDS001.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19RDS001.json",
+        "ingredient": "Ronacare AP"
+      },
+      {
+        "formulation": "B19RDS001.json",
+        "ingredient": "Cetyl Stearyl Alcohol [AJ]"
+      },
+      {
+        "formulation": "B19RDS001.json",
+        "ingredient": "Montanov 68 MB [AJ]"
+      },
+      {
+        "formulation": "B19RDS001.json",
+        "ingredient": "Cetiol Sensoft"
+      },
+      {
+        "formulation": "B19RDS001.json",
+        "ingredient": "Amphisol K"
+      },
+      {
+        "formulation": "B19RDS001.json",
+        "ingredient": "DL Alpha Tocopheryl Acetate"
+      },
+      {
+        "formulation": "B19RDS001.json",
+        "ingredient": "Happybelle PE"
+      },
+      {
+        "formulation": "B19RDS001.json",
+        "ingredient": "Cosmedia DC"
+      },
+      {
+        "formulation": "B19RDS001.json",
+        "ingredient": "Microcare PHG"
+      },
+      {
+        "formulation": "B19RDS001.json",
+        "ingredient": "1,3 Butylene Glycol [Cosmetic Quality]"
+      },
+      {
+        "formulation": "B19RDS001.json",
+        "ingredient": "1,3 Butylene Glycol [Cosmetic Quality]"
+      },
+      {
+        "formulation": "B19RDS001.json",
+        "ingredient": "Sepimax Zen"
+      },
+      {
+        "formulation": "B19RDS001.json",
+        "ingredient": "Xanthan Gum FF Food Grade"
+      },
+      {
+        "formulation": "B19RDS001.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19RDS001.json",
+        "ingredient": "Trilon BD [EDTA NA2]"
+      },
+      {
+        "formulation": "B19RDS001.json",
+        "ingredient": "Hyaluronic Acid HMW"
+      },
+      {
+        "formulation": "B19RDS001.json",
+        "ingredient": "Caustic Soda Flakes [Pearl]"
+      },
+      {
+        "formulation": "B19RMS001.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19RMS001.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19RMS001.json",
+        "ingredient": "Hydromanil"
+      },
+      {
+        "formulation": "B19RMS001.json",
+        "ingredient": "Acquacell"
+      },
+      {
+        "formulation": "B19RMS001.json",
+        "ingredient": "B.P. Glycerine"
+      },
+      {
+        "formulation": "B19RMS001.json",
+        "ingredient": "Microcare PHG"
+      },
+      {
+        "formulation": "B19RMS001.json",
+        "ingredient": "Hydranov P"
+      },
+      {
+        "formulation": "B19RMS001.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19RMS001.json",
+        "ingredient": "Carbopol Ultrez 30"
+      },
+      {
+        "formulation": "B19RMS001.json",
+        "ingredient": "Caustic Soda Flakes [Pearl]"
+      },
+      {
+        "formulation": "B19RMS001.json",
+        "ingredient": "Hysilk Powder [LMW]"
+      },
+      {
+        "formulation": "B19RMS001.json",
+        "ingredient": "Hyaluronic Acid HMW"
+      },
+      {
+        "formulation": "B19RSP002.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19RSP002.json",
+        "ingredient": "Cetiol B"
+      },
+      {
+        "formulation": "B19RSP002.json",
+        "ingredient": "Tegosoft TN [Finsolve TN]"
+      },
+      {
+        "formulation": "B19RSP002.json",
+        "ingredient": "Uvinul A Plus Granular"
+      },
+      {
+        "formulation": "B19RSP002.json",
+        "ingredient": "Tinosorb S"
+      },
+      {
+        "formulation": "B19RSP002.json",
+        "ingredient": "DL Alpha Tocopheryl Acetate"
+      },
+      {
+        "formulation": "B19RSP002.json",
+        "ingredient": "Uvinul T150"
+      },
+      {
+        "formulation": "B19RSP002.json",
+        "ingredient": "Celligent"
+      },
+      {
+        "formulation": "B19RSP002.json",
+        "ingredient": "Ronacare AP"
+      },
+      {
+        "formulation": "B19RSP002.json",
+        "ingredient": "Cetyl Stearyl Alcohol [AJ]"
+      },
+      {
+        "formulation": "B19RSP002.json",
+        "ingredient": "Cetiol Sensoft"
+      },
+      {
+        "formulation": "B19RSP002.json",
+        "ingredient": "Amphisol K"
+      },
+      {
+        "formulation": "B19RSP002.json",
+        "ingredient": "1,3 Butylene Glycol [Cosmetic Quality]"
+      },
+      {
+        "formulation": "B19RSP002.json",
+        "ingredient": "Happybelle PE"
+      },
+      {
+        "formulation": "B19RSP002.json",
+        "ingredient": "Cosmedia DC"
+      },
+      {
+        "formulation": "B19RSP002.json",
+        "ingredient": "Montanov S"
+      },
+      {
+        "formulation": "B19RSP002.json",
+        "ingredient": "Microcare PHG"
+      },
+      {
+        "formulation": "B19RSP002.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19RSP002.json",
+        "ingredient": "Xanthan Gum FF Food Grade"
+      },
+      {
+        "formulation": "B19RSP002.json",
+        "ingredient": "Bergamot Oil"
+      },
+      {
+        "formulation": "B19RSP002.json",
+        "ingredient": "Trilon BD [EDTA NA2]"
+      },
+      {
+        "formulation": "B19RSP002.json",
+        "ingredient": "Caustic Soda Flakes [Pearl]"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "Evoil Wheat Germ"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "Pentavitin Code: 50 33152"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "Ivy Cosmelene Ext"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "Horsetail Cosmelene Ext"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "Centella Asiatica Cosmelene Ex"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "Arnica Phytenele EG 001 Ext"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "Lipolan 31 20"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "1,3 Butylene Glycol [Cosmetic Quality]"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "Alistin P5"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "Regu Stretch"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "Alpaflor Imperatoria"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "Glyco Repair"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "LPDs Asiatic Centella"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "Drieline 1S"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "DL Alpha Tocopheryl Acetate"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "Methyl Sulfonyl Methane [MSM]"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "Cetyl Stearyl Alcohol [AJ]"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "Stearic Acid [POFAC 1655L]"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "Lemon EG 240"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "Soapwort HG [3009] Extr"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "Verstatil PC"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "Cetyl Alcohol [Nacol 1695]"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "Aerosil R972"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "Inutec SLI"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "L Carnitine"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "Xanthan Gum FF Food Grade"
+      },
+      {
+        "formulation": "B19RSR005.json",
+        "ingredient": "Caffeine"
+      },
+      {
+        "formulation": "B19RUM002.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19RUM002.json",
+        "ingredient": "Tegosoft TN [Finsolve TN]"
+      },
+      {
+        "formulation": "B19RUM002.json",
+        "ingredient": "Uvinul A Plus Granular"
+      },
+      {
+        "formulation": "B19RUM002.json",
+        "ingredient": "Phytelene EGX 247 [BG] 620012"
+      },
+      {
+        "formulation": "B19RUM002.json",
+        "ingredient": "Tinosorb S"
+      },
+      {
+        "formulation": "B19RUM002.json",
+        "ingredient": "Niacinamide PC [AJ]"
+      },
+      {
+        "formulation": "B19RUM002.json",
+        "ingredient": "Cetiol B"
+      },
+      {
+        "formulation": "B19RUM002.json",
+        "ingredient": "Uvinul T150"
+      },
+      {
+        "formulation": "B19RUM002.json",
+        "ingredient": "Sebonormine OP"
+      },
+      {
+        "formulation": "B19RUM002.json",
+        "ingredient": "Amphisol K"
+      },
+      {
+        "formulation": "B19RUM002.json",
+        "ingredient": "Dry Flo PC [AJ]"
+      },
+      {
+        "formulation": "B19RUM002.json",
+        "ingredient": "Cetiol Sensoft"
+      },
+      {
+        "formulation": "B19RUM002.json",
+        "ingredient": "Evermat"
+      },
+      {
+        "formulation": "B19RUM002.json",
+        "ingredient": "Montanov S"
+      },
+      {
+        "formulation": "B19RUM002.json",
+        "ingredient": "1,3 Butylene Glycol [Cosmetic Quality]"
+      },
+      {
+        "formulation": "B19RUM002.json",
+        "ingredient": "DL Alpha Tocopheryl Acetate"
+      },
+      {
+        "formulation": "B19RUM002.json",
+        "ingredient": "Cetyl Stearyl Alcohol [AJ]"
+      },
+      {
+        "formulation": "B19RUM002.json",
+        "ingredient": "Happybelle PE"
+      },
+      {
+        "formulation": "B19RUM002.json",
+        "ingredient": "Cosmedia DC"
+      },
+      {
+        "formulation": "B19RUM002.json",
+        "ingredient": "Microcare PHG"
+      },
+      {
+        "formulation": "B19RUM002.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19RUM002.json",
+        "ingredient": "Xanthan Gum FF Food Grade"
+      },
+      {
+        "formulation": "B19RUM002.json",
+        "ingredient": "Trilon BD [EDTA NA2]"
+      },
+      {
+        "formulation": "B19RUM002.json",
+        "ingredient": "Caustic Soda Flakes [Pearl]"
+      },
+      {
+        "formulation": "B19RVE003.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19RVE003.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19RVE003.json",
+        "ingredient": "Skin Tightener ST[TM] PH"
+      },
+      {
+        "formulation": "B19RVE003.json",
+        "ingredient": "Crodamol SSA LQ [MV]"
+      },
+      {
+        "formulation": "B19RVE003.json",
+        "ingredient": "Crodamol ISIS LQ [MV]"
+      },
+      {
+        "formulation": "B19RVE003.json",
+        "ingredient": "Emulfree CBG [AJ]"
+      },
+      {
+        "formulation": "B19RVE003.json",
+        "ingredient": "Bioskinup Contour [Airfreight]"
+      },
+      {
+        "formulation": "B19RVE003.json",
+        "ingredient": "Oliwax"
+      },
+      {
+        "formulation": "B19RVE003.json",
+        "ingredient": "Cetyl Alcohol [Nacol 1695]"
+      },
+      {
+        "formulation": "B19RVE003.json",
+        "ingredient": "B.P. Glycerine"
+      },
+      {
+        "formulation": "B19RVE003.json",
+        "ingredient": "AquaCacteen"
+      },
+      {
+        "formulation": "B19RVE003.json",
+        "ingredient": "Microcare PHG"
+      },
+      {
+        "formulation": "B19RVE003.json",
+        "ingredient": "Carbopol EDT 2050"
+      },
+      {
+        "formulation": "B19RVE003.json",
+        "ingredient": "De Ion Water"
+      },
+      {
+        "formulation": "B19RVE003.json",
+        "ingredient": "Xanthan Gum FF Food Grade"
+      },
+      {
+        "formulation": "B19RVE003.json",
+        "ingredient": "DL A Tocopherol"
+      },
+      {
+        "formulation": "B19RVE003.json",
+        "ingredient": "Caustic Soda Flakes [Pearl]"
+      }
+    ]
+  },
+  "stats": {
+    "total_json_files": 1021,
+    "valid_json_files": 1021,
+    "total_formulations": 52,
+    "unknown_functions": 521,
+    "formulations_concentration_error": 25,
+    "total_ingredients": 180,
+    "ingredients_missing_cas": 180,
+    "ingredients_missing_supplier": 180,
+    "ingredients_missing_function": 180,
+    "total_products": 52,
+    "total_edges": 659,
+    "edge_types": {
+      "SUPPLIER_PROVIDES_INGREDIENT": 91,
+      "FORMULATION_DOCUMENTED_IN_PIF": 24,
+      "PRODUCT_HAS_FORMULATION": 24,
+      "PRODUCT_HAS_PIF": 24,
+      "INGREDIENT_IN_FORMULATION": 495
+    },
+    "missing_ingredient_refs": 0
+  }
+}

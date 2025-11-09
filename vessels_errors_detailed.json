@@ -1,0 +1,183 @@
+{
+  "formulations": [
+    {
+      "file": "B19FRMANTI_INFLAMM_AGEING.json",
+      "type": "concentration_error",
+      "total": 0.001,
+      "expected": 100,
+      "difference": 99.999
+    },
+    {
+      "file": "B19FRMDAILY_INTELLIGENT_SE.json",
+      "type": "concentration_error",
+      "total": 20.001,
+      "expected": 100,
+      "difference": 79.999
+    },
+    {
+      "file": "B19FRMPRODUCT_TYPE_FACE_WA.json",
+      "type": "concentration_error",
+      "total": 0.02,
+      "expected": 100,
+      "difference": 99.98
+    },
+    {
+      "file": "B19FRMPRODUCT_TYPE_MOISTUR.json",
+      "type": "concentration_error",
+      "total": 0.001,
+      "expected": 100,
+      "difference": 99.999
+    },
+    {
+      "file": "B19FRMPRODUCT_TYPE_SKIN_CA.json",
+      "type": "concentration_error",
+      "total": 0.001,
+      "expected": 100,
+      "difference": 99.999
+    },
+    {
+      "file": "B19FRMREJUVODERM_NIGHT_MAI.json",
+      "type": "concentration_error",
+      "total": 0.001,
+      "expected": 100,
+      "difference": 99.999
+    },
+    {
+      "file": "B19FRMZONE_30_POWER_PEEL_N.json",
+      "type": "concentration_error",
+      "total": 0.001,
+      "expected": 100,
+      "difference": 99.999
+    },
+    {
+      "file": "B19FRMZONE_50_POWER_PEEL_N.json",
+      "type": "concentration_error",
+      "total": 0.001,
+      "expected": 100,
+      "difference": 99.999
+    },
+    {
+      "file": "B19FRMZONE_ACNE_ATTACK_PRO.json",
+      "type": "concentration_error",
+      "total": 0.001,
+      "expected": 100,
+      "difference": 99.999
+    },
+    {
+      "file": "B19FRMZONE_ACNE_ATTACK_RES.json",
+      "type": "concentration_error",
+      "total": 0.001,
+      "expected": 100,
+      "difference": 99.999
+    },
+    {
+      "file": "B19FRMZONE_AGE_REVERSAL_NI.json",
+      "type": "concentration_error",
+      "total": 99.001,
+      "expected": 100,
+      "difference": 0.9989999999999952
+    },
+    {
+      "file": "B19FRMZONE_DAILY_RADIANT_B.json",
+      "type": "concentration_error",
+      "total": 0.001,
+      "expected": 100,
+      "difference": 99.999
+    },
+    {
+      "file": "B19FRMZONE_DAILY_ULTRA_DEF.json",
+      "type": "concentration_error",
+      "total": 0.001,
+      "expected": 100,
+      "difference": 99.999
+    },
+    {
+      "file": "B19FRMZONE_DERMA_DEEP_RICH.json",
+      "type": "concentration_error",
+      "total": 0.02,
+      "expected": 100,
+      "difference": 99.98
+    },
+    {
+      "file": "B19FRMZONE_EPI_GENES_XPRES.json",
+      "type": "concentration_error",
+      "total": 99.001,
+      "expected": 100,
+      "difference": 0.9989999999999952
+    },
+    {
+      "file": "B19FRMZONE_EYE_OPENER_SERU.json",
+      "type": "concentration_error",
+      "total": 0.001,
+      "expected": 100,
+      "difference": 99.999
+    },
+    {
+      "file": "B19FRMZONE_NEW_EXPRESSION_.json",
+      "type": "concentration_error",
+      "total": 0.001,
+      "expected": 100,
+      "difference": 99.999
+    },
+    {
+      "file": "B19FRMZONE_OMEGA_HIGH_IMPA.json",
+      "type": "concentration_error",
+      "total": 0.001,
+      "expected": 100,
+      "difference": 99.999
+    },
+    {
+      "file": "B19FRMZONE_PIGMENT_PERFECT.json",
+      "type": "concentration_error",
+      "total": 0.001,
+      "expected": 100,
+      "difference": 99.999
+    },
+    {
+      "file": "B19FRMZONE_QUANTUM_ELASTIN.json",
+      "type": "concentration_error",
+      "total": 0.001,
+      "expected": 100,
+      "difference": 99.999
+    },
+    {
+      "file": "B19FRMZONE_RAPID_REJUVO_MA.json",
+      "type": "concentration_error",
+      "total": 99.001,
+      "expected": 100,
+      "difference": 0.9989999999999952
+    },
+    {
+      "file": "B19FRMZONE_SENSORIAL_DAILY.json",
+      "type": "concentration_error",
+      "total": 20.001,
+      "expected": 100,
+      "difference": 79.999
+    },
+    {
+      "file": "B19FRMZONE_SUPER_SMOOTHER.json",
+      "type": "concentration_error",
+      "total": 0.001,
+      "expected": 100,
+      "difference": 99.999
+    },
+    {
+      "file": "B19FRMZONE_TECHNO_5.json",
+      "type": "concentration_error",
+      "total": 99.001,
+      "expected": 100,
+      "difference": 0.9989999999999952
+    },
+    {
+      "file": "B19PLGO001.json",
+      "type": "concentration_error",
+      "total": 299.8,
+      "expected": 100,
+      "difference": -199.8
+    }
+  ],
+  "ingredients": [],
+  "products": [],
+  "edges": [],
+  "cross_references": []
+}
