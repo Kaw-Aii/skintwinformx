@@ -15,5 +15,7 @@
     "source_document": "PIF - Zone - (8 Products) - 2 of 3 - 2021_08.pdf",
     "extraction_date": "2025-11-08T03:04:20.639Z",
     "quality_score": 50
-  }
+  },
+  "status": "incomplete",
+  "notes": "Original total concentration: 0.001%. Requires manual review."
 }

@@ -1,0 +1,442 @@
+[
+  {
+    "id": "R010000",
+    "inci_name": "De Ion Water",
+    "cas_number": "7732-18-5",
+    "function": "Other",
+    "cosing_id": "29068",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0101057",
+    "inci_name": "Kahlwax 8108 Beeswax White",
+    "cas_number": "8006-40-4,8012-89-3",
+    "function": "Other",
+    "cosing_id": "29012",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0101063",
+    "inci_name": "Refined Shea Butter [Naturally Refinded]",
+    "cas_number": "8029-34-3",
+    "function": "Active",
+    "cosing_id": "29013",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0101084",
+    "inci_name": "Isohexadecane",
+    "cas_number": "4390-04-9, 60908-77-2, 93685-80-4",
+    "function": "Emollient",
+    "cosing_id": "7690",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0101094",
+    "inci_name": "Silkflo 366",
+    "cas_number": "",
+    "function": "Other",
+    "cosing_id": "29061",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0101100",
+    "inci_name": "Evoil Apricot Kernel",
+    "cas_number": "",
+    "function": "Active",
+    "cosing_id": "11918",
+    "cosing_inci_name": "APRICOT KERNEL AMINO ACIDS"
+  },
+  {
+    "id": "R0101103",
+    "inci_name": "Melissa Oil",
+    "cas_number": "8028-66-8",
+    "function": "Humectant",
+    "cosing_id": "8049",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0101114",
+    "inci_name": "B.P. Glycerine",
+    "cas_number": "56-81-5",
+    "function": "Other",
+    "cosing_id": "7281",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0102008",
+    "inci_name": "1,3 Butylene Glycol [Cosmetic Quality]",
+    "cas_number": "107-21-1",
+    "function": "Humectant",
+    "cosing_id": "7342",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0102031",
+    "inci_name": "Xanthan Gum FF Food Grade",
+    "cas_number": "11138-66-2",
+    "function": "Other",
+    "cosing_id": "20653",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0105002",
+    "inci_name": "Medical Salicylic Acid",
+    "cas_number": "69-72-7",
+    "function": "Other",
+    "cosing_id": "8764",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0105020",
+    "inci_name": "Trilon BD [EDTA NA2]",
+    "cas_number": "60-00-4",
+    "function": "Other",
+    "cosing_id": "7091",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0105035",
+    "inci_name": "Tri Sodium Citrate",
+    "cas_number": "68-04-2 / 6132-04-3",
+    "function": "Other",
+    "cosing_id": "8831",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0105039",
+    "inci_name": "Citric Acid Anhydrous",
+    "cas_number": "77-92-9 / 5949-29-1",
+    "function": "Other",
+    "cosing_id": "6742",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0105041",
+    "inci_name": "Galacid Heat Stable 90",
+    "cas_number": "8049-98-7",
+    "function": "Active",
+    "cosing_id": "7801",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0105123",
+    "inci_name": "DL A Tocopherol",
+    "cas_number": "54-28-4 (gamma)/ 16698-35-4(beta) / 10191-41-0(DL) / 119-13-1 / 1406-18-4 / 1406-66-2 / 2074-53-5 (DL) / 59-02-9 (D)/7616-22-0",
+    "function": "Active",
+    "cosing_id": "20432",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0105159",
+    "inci_name": "Tinosorb S",
+    "cas_number": "7440-31-5",
+    "function": "Surfactant",
+    "cosing_id": "24722",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0105170",
+    "inci_name": "D Panthenol",
+    "cas_number": "81-13-0 / 16485-10-2",
+    "function": "Other",
+    "cosing_id": "8395",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0105179",
+    "inci_name": "DL Alpha Tocopheryl Acetate",
+    "cas_number": "7695-91-2 / 58-95-7",
+    "function": "Active",
+    "cosing_id": "9187",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0105182",
+    "inci_name": "Ascorbyl Palmitate",
+    "cas_number": "137-66-6",
+    "function": "Active",
+    "cosing_id": "6309",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0105203",
+    "inci_name": "Evoil Wheat Germ",
+    "cas_number": "68990-07-8",
+    "function": "Other",
+    "cosing_id": "9296",
+    "cosing_inci_name": "WHEAT GERM GLYCERIDES"
+  },
+  {
+    "id": "R0105227",
+    "inci_name": "Hysilk Powder [LMW]",
+    "cas_number": "9009-99-8",
+    "function": "Other",
+    "cosing_id": "29062",
+    "cosing_inci_name": "SILK POWDER"
+  },
+  {
+    "id": "R0105258",
+    "inci_name": "Lipovol A [Avocado oil]",
+    "cas_number": "8024-32-6",
+    "function": "Active",
+    "cosing_id": "19955",
+    "cosing_inci_name": "PERSEA GRATISSIMA OIL"
+  },
+  {
+    "id": "R0105270",
+    "inci_name": "Pentavitin Code: 50 33152",
+    "cas_number": "7440-31-5",
+    "function": "Surfactant",
+    "cosing_id": "24722",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0105304",
+    "inci_name": "Niacinamide PC [AJ]",
+    "cas_number": "59-67-6",
+    "function": "Other",
+    "cosing_id": "8247",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0105336",
+    "inci_name": "Methyl Sulfonyl Methane [MSM]",
+    "cas_number": "74-84-0",
+    "function": "Other",
+    "cosing_id": "7121",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0105489",
+    "inci_name": "Argan Oil",
+    "cas_number": "223747-87-3 ; 299184-75-1",
+    "function": "Active",
+    "cosing_id": "11868",
+    "cosing_inci_name": "ARGANIA SPINOSA KERNEL OIL"
+  },
+  {
+    "id": "R0106004",
+    "inci_name": "Cetyl Alcohol [Nacol 1695]",
+    "cas_number": "64-17-5",
+    "function": "Other",
+    "cosing_id": "6020",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0106006",
+    "inci_name": "Cetyl Stearyl Alcohol [AJ]",
+    "cas_number": "64-17-5",
+    "function": "Other",
+    "cosing_id": "6020",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0106024",
+    "inci_name": "Stearic Acid [POFAC 1655L]",
+    "cas_number": "57-11-4",
+    "function": "Other",
+    "cosing_id": "19698",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0106038",
+    "inci_name": "SP Arlacel 165 FP MBAL PA [RB] [Simusol 165]",
+    "cas_number": "8049-98-7",
+    "function": "Active",
+    "cosing_id": "7801",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0112001",
+    "inci_name": "Potassium Hydroxide",
+    "cas_number": "1310-58-3",
+    "function": "Other",
+    "cosing_id": "8625",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0113026",
+    "inci_name": "Centella Asiatica Phytelene EG 356 [320050]",
+    "cas_number": "84696-21-9",
+    "function": "Active",
+    "cosing_id": "12634",
+    "cosing_inci_name": "CENTELLA ASIATICA LEAF EXTRACT"
+  },
+  {
+    "id": "R0113028",
+    "inci_name": "Olive Oil Extra Virgin",
+    "cas_number": "8001-25-0",
+    "function": "Fragrance",
+    "cosing_id": "19015",
+    "cosing_inci_name": "OLEA EUROPAEA FRUIT OIL"
+  },
+  {
+    "id": "R0113090",
+    "inci_name": "Camellia Oil",
+    "cas_number": "8028-66-8",
+    "function": "Humectant",
+    "cosing_id": "8049",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0113091",
+    "inci_name": "Biochemica Rosehip Oil Refined",
+    "cas_number": "12001-26-2",
+    "function": "Other",
+    "cosing_id": "8163",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R0113094",
+    "inci_name": "Blackcurrant Oil RBD # 266593",
+    "cas_number": "8049-98-7",
+    "function": "Active",
+    "cosing_id": "7801",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R1901001",
+    "inci_name": "Pomegranate Seed Oil",
+    "cas_number": "299184-71-7",
+    "function": "Active",
+    "cosing_id": "6001",
+    "cosing_inci_name": "ACTINIDIA CHINENSIS SEED OIL"
+  },
+  {
+    "id": "R1901006",
+    "inci_name": "Borage Oil Refined GLA 20PCT",
+    "cas_number": "",
+    "function": "Active",
+    "cosing_id": "12077",
+    "cosing_inci_name": "BORAGE SEED OIL PEG-8 ESTERS"
+  },
+  {
+    "id": "R1902999",
+    "inci_name": "ColaMate RM / replacement Rewoderm S1333 KM 5",
+    "cas_number": "8049-98-7",
+    "function": "Active",
+    "cosing_id": "7801",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R1905000",
+    "inci_name": "Alistin P5",
+    "cas_number": "7440-31-5",
+    "function": "Surfactant",
+    "cosing_id": "24722",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R1905004",
+    "inci_name": "Hyaluronic Acid HMW",
+    "cas_number": "9004-61-9",
+    "function": "Other",
+    "cosing_id": "7483",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R1905009",
+    "inci_name": "Caffeine",
+    "cas_number": "58-08-2",
+    "function": "Fragrance",
+    "cosing_id": "6449",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R1905010",
+    "inci_name": "Malic Acid",
+    "cas_number": "97-67-6",
+    "function": "Other",
+    "cosing_id": "8009",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R1905021",
+    "inci_name": "L Carnitine",
+    "cas_number": "5080-50-2",
+    "function": "Active",
+    "cosing_id": "11546",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R1905023",
+    "inci_name": "AquaCacteen",
+    "cas_number": "7732-18-5",
+    "function": "Other",
+    "cosing_id": "6296",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R1905053",
+    "inci_name": "Retilactyl D",
+    "cas_number": "8049-98-7",
+    "function": "Active",
+    "cosing_id": "7801",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R1905056",
+    "inci_name": "Eternaline",
+    "cas_number": "63231-63-0",
+    "function": "Active",
+    "cosing_id": "8751",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R1905058",
+    "inci_name": "Aquaphyline",
+    "cas_number": "7732-18-5",
+    "function": "Other",
+    "cosing_id": "6296",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R1908000",
+    "inci_name": "Guaiazulene 100% Pure [G]",
+    "cas_number": "275-51-4",
+    "function": "Active",
+    "cosing_id": "17574",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R1913000",
+    "inci_name": "Ivy Cosmelene Ext",
+    "cas_number": "8028-66-8",
+    "function": "Humectant",
+    "cosing_id": "8049",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R1913003",
+    "inci_name": "Horsetail Cosmelene Ext",
+    "cas_number": "8028-66-8",
+    "function": "Humectant",
+    "cosing_id": "8049",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R1913004",
+    "inci_name": "Centella Asiatica Cosmelene Ex",
+    "cas_number": "8028-66-8",
+    "function": "Humectant",
+    "cosing_id": "8049",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R1913013",
+    "inci_name": "Passion Flower Cosmelene",
+    "cas_number": "8028-66-8",
+    "function": "Humectant",
+    "cosing_id": "8049",
+    "cosing_inci_name": ""
+  },
+  {
+    "id": "R1913014",
+    "inci_name": "Grapefruit Oil Pink",
+    "cas_number": "-",
+    "function": "Other",
+    "cosing_id": "21620",
+    "cosing_inci_name": "HYDROGENATED GRAPEFRUIT SEED OIL"
+  }
+]

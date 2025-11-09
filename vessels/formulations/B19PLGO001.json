@@ -94,5 +94,7 @@
     "ingredient_count": 12,
     "centrality_score": 0.06666666666666667,
     "network_density": 2.998
-  }
+  },
+  "status": "incomplete",
+  "notes": "Original total concentration: 299.8%. Requires manual review."
 }

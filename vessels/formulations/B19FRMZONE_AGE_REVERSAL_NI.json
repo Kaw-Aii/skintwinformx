@@ -6,7 +6,7 @@
     {
       "order": 1,
       "inci_name": "Diethanolamine 0.0025 0.500 111-42-2 203-868-0 pH Adjuster DOW TEA",
-      "concentration": 99,
+      "concentration": 99.999,
       "function": "active"
     },
     {
@@ -16,10 +16,11 @@
       "function": "active"
     }
   ],
-  "total_concentration": 99.001,
+  "total_concentration": 100,
   "extraction_metadata": {
     "source_document": "PIF - Zone - (8 Products) - 1 of 3 - 2021_08.pdf",
     "extraction_date": "2025-11-08T03:04:20.083Z",
     "quality_score": 50
-  }
+  },
+  "notes": "Normalized from 99.001% using scale factor 1.0101"
 }
