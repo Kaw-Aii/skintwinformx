@@ -3,7 +3,7 @@
  * Supports molecular, cellular, tissue, and organ scales
  */
 
-export type ScaleType = 'molecular' | 'cellular' | 'tissue' | 'organ';
+export type ScaleType = 'molecular' | 'cellular' | 'tissue' | 'organ' | 'system';
 
 export interface SpatialDimensions {
   x: number;
@@ -18,8 +18,8 @@ export interface TemporalDimensions {
 }
 
 export interface FieldDimensions {
-  spatial: SpatialDimensions;
-  temporal: TemporalDimensions;
+  spatial: SpatialDimensions | number[];
+  temporal: TemporalDimensions | number;
 }
 
 export interface FieldMetadata {
@@ -33,8 +33,15 @@ export interface FieldMetadata {
 export interface MultiscaleField {
   scale: ScaleType;
   data: number[];
-  dimensions: FieldDimensions;
-  metadata: FieldMetadata;
+  dimensions: FieldDimensions | {
+    spatial: number[];
+    temporal: number;
+  };
+  metadata: FieldMetadata | {
+    units: string;
+    description: string;
+    [key: string]: any;
+  };
   properties?: Record<string, unknown>;
   
   // Additional computed properties
@@ -77,7 +84,7 @@ export function isMultiscaleField(obj: unknown): obj is MultiscaleField {
 }
 
 export function isValidScaleType(scale: string): scale is ScaleType {
-  return ['molecular', 'cellular', 'tissue', 'organ'].includes(scale);
+  return ['molecular', 'cellular', 'tissue', 'organ', 'system'].includes(scale);
 }
 
 // Utility types

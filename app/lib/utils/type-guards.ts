@@ -3,7 +3,7 @@
  * Provides runtime type checking for TypeScript interfaces
  */
 
-import type { MultiscaleField, ScaleType } from '../proof-assistant/types';
+import type { MultiscaleField, ScaleType } from '../proof-assistant/types/multiscale-field';
 
 /**
  * Check if value is a non-null object
@@ -53,7 +53,7 @@ export function isNumberArray(value: unknown): value is number[] {
 export function isValidScaleType(value: unknown): value is ScaleType {
   return (
     typeof value === 'string' &&
-    ['molecular', 'cellular', 'tissue', 'organ'].includes(value)
+    ['molecular', 'cellular', 'tissue', 'organ', 'system'].includes(value)
   );
 }
 

@@ -137,6 +137,25 @@ export interface RelevanceRealizationContext {
   environmentalFactors: Map<string, any>;
 }
 
+// Multi-scale field types
+export type ScaleType = 'molecular' | 'cellular' | 'tissue' | 'organ' | 'system';
+
+export interface MultiscaleField {
+  scale: ScaleType;
+  data: number[];
+  dimensions: {
+    spatial: number[];
+    temporal: number;
+  };
+  metadata: {
+    units: string;
+    description: string;
+    timestamp?: Date;
+    [key: string]: any;
+  };
+  properties?: Record<string, unknown>;
+}
+
 // Tensor operation types
 export interface TensorField {
   dimensions: number[];
@@ -155,6 +174,13 @@ export interface TensorOperation {
   outputField: string;
   operation: (inputs: TensorField[]) => TensorField;
   validation: (result: TensorField) => boolean;
+}
+
+export interface MultiscaleTensorOperation {
+  type: 'add' | 'multiply' | 'convolve' | 'transform' | 'scale_transfer';
+  fields: MultiscaleField[];
+  result?: MultiscaleField;
+  parameters?: Record<string, any>;
 }
 
 // Verification engine types
