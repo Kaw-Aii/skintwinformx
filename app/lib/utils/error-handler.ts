@@ -1,202 +1,138 @@
 /**
- * Error Handling Utilities for SkinTwin FormX
- * Provides consistent error handling patterns across the application
+ * Error Handling Utilities
+ * 
+ * Provides custom error classes and error handling utilities
+ * for the SkinTwin application.
  */
 
-export enum ErrorCode {
-  // Database errors
-  DATABASE_ERROR = 'DATABASE_ERROR',
-  DATABASE_CONNECTION_ERROR = 'DATABASE_CONNECTION_ERROR',
-  QUERY_ERROR = 'QUERY_ERROR',
-  
-  // Validation errors
-  VALIDATION_ERROR = 'VALIDATION_ERROR',
-  TYPE_ERROR = 'TYPE_ERROR',
-  
-  // API errors
-  API_ERROR = 'API_ERROR',
-  NETWORK_ERROR = 'NETWORK_ERROR',
-  
-  // Computation errors
-  COMPUTATION_ERROR = 'COMPUTATION_ERROR',
-  CONVERGENCE_ERROR = 'CONVERGENCE_ERROR',
-  
-  // File system errors
-  FILE_ERROR = 'FILE_ERROR',
-  PARSE_ERROR = 'PARSE_ERROR',
-  
-  // Generic errors
-  UNKNOWN_ERROR = 'UNKNOWN_ERROR',
-  NOT_IMPLEMENTED = 'NOT_IMPLEMENTED',
-}
-
-export interface ErrorDetails {
-  code: ErrorCode;
-  message: string;
-  details?: Record<string, unknown>;
-  stack?: string;
-  timestamp: Date;
-}
-
+/**
+ * Base SkinTwin error class
+ */
 export class SkinTwinError extends Error {
-  public readonly code: ErrorCode;
-  public readonly details?: Record<string, unknown>;
-  public readonly timestamp: Date;
-
   constructor(
     message: string,
-    code: ErrorCode = ErrorCode.UNKNOWN_ERROR,
-    details?: Record<string, unknown>
+    public code: string,
+    public statusCode: number = 500,
+    public details?: Record<string, unknown>
   ) {
     super(message);
     this.name = 'SkinTwinError';
-    this.code = code;
-    this.details = details;
-    this.timestamp = new Date();
-
-    // Maintains proper stack trace for where our error was thrown
-    if (Error.captureStackTrace) {
-      Error.captureStackTrace(this, SkinTwinError);
-    }
+    Error.captureStackTrace(this, this.constructor);
   }
 
-  toJSON(): ErrorDetails {
+  toJSON() {
     return {
-      code: this.code,
+      name: this.name,
       message: this.message,
+      code: this.code,
+      statusCode: this.statusCode,
       details: this.details,
-      stack: this.stack,
-      timestamp: this.timestamp,
     };
   }
 }
 
+/**
+ * Database error
+ */
 export class DatabaseError extends SkinTwinError {
   constructor(message: string, details?: Record<string, unknown>) {
-    super(message, ErrorCode.DATABASE_ERROR, details);
+    super(message, 'DATABASE_ERROR', 500, details);
     this.name = 'DatabaseError';
   }
 }
 
+/**
+ * Validation error
+ */
 export class ValidationError extends SkinTwinError {
   constructor(message: string, details?: Record<string, unknown>) {
-    super(message, ErrorCode.VALIDATION_ERROR, details);
+    super(message, 'VALIDATION_ERROR', 400, details);
     this.name = 'ValidationError';
   }
 }
 
-export class ComputationError extends SkinTwinError {
+/**
+ * Type safety error
+ */
+export class TypeSafetyError extends SkinTwinError {
   constructor(message: string, details?: Record<string, unknown>) {
-    super(message, ErrorCode.COMPUTATION_ERROR, details);
-    this.name = 'ComputationError';
+    super(message, 'TYPE_SAFETY_ERROR', 500, details);
+    this.name = 'TypeSafetyError';
   }
 }
 
 /**
- * Handle database errors with consistent error transformation
+ * Formulation error
+ */
+export class FormulationError extends SkinTwinError {
+  constructor(message: string, details?: Record<string, unknown>) {
+    super(message, 'FORMULATION_ERROR', 400, details);
+    this.name = 'FormulationError';
+  }
+}
+
+/**
+ * Proof verification error
+ */
+export class ProofVerificationError extends SkinTwinError {
+  constructor(message: string, details?: Record<string, unknown>) {
+    super(message, 'PROOF_VERIFICATION_ERROR', 422, details);
+    this.name = 'ProofVerificationError';
+  }
+}
+
+/**
+ * Handle database errors
  */
 export function handleDatabaseError(error: unknown): never {
-  if (error instanceof DatabaseError) {
-    throw error;
-  }
-  
   if (error instanceof Error) {
-    throw new DatabaseError(error.message, {
-      originalError: error.name,
-      stack: error.stack,
-    });
+    throw new DatabaseError(error.message, { originalError: error });
   }
-  
-  throw new DatabaseError('Unknown database error', {
-    originalError: String(error),
-  });
+  throw new DatabaseError('Unknown database error');
 }
 
 /**
- * Handle validation errors with detailed context
+ * Handle validation errors
  */
 export function handleValidationError(
-  field: string,
-  value: unknown,
-  expectedType: string
+  message: string,
+  errors: Record<string, string[]>
 ): never {
-  throw new ValidationError(
-    `Validation failed for field "${field}"`,
-    {
-      field,
-      value,
-      expectedType,
-    }
-  );
+  throw new ValidationError(message, { errors });
 }
 
 /**
- * Handle computation errors with convergence information
+ * Wrap async function with error handling
  */
-export function handleComputationError(
-  operation: string,
-  iterations: number,
-  threshold: number
-): never {
-  throw new ComputationError(
-    `Computation failed to converge for operation "${operation}"`,
-    {
-      operation,
-      iterations,
-      threshold,
+export function withErrorHandling<T extends (...args: any[]) => Promise<any>>(
+  fn: T
+): T {
+  return (async (...args: Parameters<T>) => {
+    try {
+      return await fn(...args);
+    } catch (error) {
+      if (error instanceof SkinTwinError) {
+        throw error;
+      }
+      throw new SkinTwinError(
+        error instanceof Error ? error.message : 'Unknown error',
+        'INTERNAL_ERROR',
+        500,
+        { originalError: error }
+      );
     }
-  );
+  }) as T;
 }
 
 /**
- * Safe error logging that doesn't throw
+ * Assert condition with custom error
  */
-export function logError(error: unknown, context?: Record<string, unknown>): void {
-  const errorInfo = {
-    timestamp: new Date().toISOString(),
-    error: error instanceof Error ? {
-      name: error.name,
-      message: error.message,
-      stack: error.stack,
-    } : String(error),
-    context,
-  };
-  
-  console.error('[SkinTwin Error]', JSON.stringify(errorInfo, null, 2));
-}
-
-/**
- * Wrap async operations with error handling
- */
-export async function withErrorHandling<T>(
-  operation: () => Promise<T>,
-  errorHandler?: (error: unknown) => void
-): Promise<T | null> {
-  try {
-    return await operation();
-  } catch (error) {
-    if (errorHandler) {
-      errorHandler(error);
-    } else {
-      logError(error);
-    }
-    return null;
+export function assert(
+  condition: boolean,
+  message: string,
+  ErrorClass: typeof SkinTwinError = SkinTwinError
+): asserts condition {
+  if (!condition) {
+    throw new ErrorClass(message);
   }
-}
-
-/**
- * Type guard for SkinTwinError
- */
-export function isSkinTwinError(error: unknown): error is SkinTwinError {
-  return error instanceof SkinTwinError;
-}
-
-/**
- * Extract error message safely
- */
-export function getErrorMessage(error: unknown): string {
-  if (error instanceof Error) {
-    return error.message;
-  }
-  return String(error);
 }
