@@ -377,14 +377,14 @@ export class IngredientEffectPredictor {
       if (constraint.parameter === parameterName) {
         switch (constraint.operator) {
           case 'lte':
-            value = Math.min(value, constraint.value);
+            value = Math.min(value, Number(constraint.value));
             break;
           case 'gte':
-            value = Math.max(value, constraint.value);
+            value = Math.max(value, Number(constraint.value));
             break;
           case 'eq':
             // For equality constraints, project to nearest valid value
-            value = constraint.value;
+            value = Number(constraint.value);
             break;
         }
       }

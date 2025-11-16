@@ -450,9 +450,12 @@ export class CellularScaleModel {
     const flatData = cellDensityGrid.flat().flat();
 
     return {
-      dimensions: [...this.gridSize],
-      data: flatData,
       scale: 'cellular',
+      data: flatData,
+      dimensions: {
+        spatial: [...this.gridSize],
+        temporal: 1
+      },
       coupling_interfaces: [
         {
           from_scale: 'cellular',

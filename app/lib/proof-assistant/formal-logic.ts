@@ -51,6 +51,8 @@ export interface SkinModelAxioms {
   compatibilityRules: FormalProposition[];
   molecularInteractions?: FormalProposition; // Optional molecular binding kinetics axiom
   cellularProcesses?: FormalProposition; // Optional cellular differentiation axiom
+  tissueMechanics?: FormalProposition; // Optional tissue viscoelasticity axiom
+  organFunctions?: FormalProposition; // Optional organ-level functions axiom
 }
 
 /**

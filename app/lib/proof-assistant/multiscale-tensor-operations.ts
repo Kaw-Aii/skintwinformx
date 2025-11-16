@@ -4,14 +4,11 @@
  * Extends the existing tensor operations with scale-specific implementations
  */
 
-import type { TensorField, TensorOperation } from './tensor-operations';
+import type { TensorField, TensorOperation } from './types';
 
-export interface MultiscaleField extends TensorField {
-  scale: ScaleType;
-  coupling_interfaces: CouplingInterface[];
-}
+import type { MultiscaleField, ScaleType } from './types';
 
-export type ScaleType = 'molecular' | 'cellular' | 'tissue' | 'organ';
+export type { MultiscaleField, ScaleType };
 
 export interface CouplingInterface {
   from_scale: ScaleType;
@@ -37,9 +34,12 @@ export class MultiscaleTensorOperations {
     binding_sites?: number[]
   ): MultiscaleField {
     return {
-      dimensions: [concentration.length],
-      data: concentration,
       scale: 'molecular',
+      data: concentration,
+      dimensions: {
+        spatial: [concentration.length],
+        temporal: 1
+      },
       coupling_interfaces: [
         {
           from_scale: 'molecular',
@@ -69,9 +69,12 @@ export class MultiscaleTensorOperations {
     const flatData = cellDensity.flat().concat(viability.flat());
     
     return {
-      dimensions: [cellDensity.length, cellDensity[0].length, 2], // x, y, properties
-      data: flatData,
       scale: 'cellular',
+      data: flatData,
+      dimensions: {
+        spatial: [cellDensity.length, cellDensity[0].length, 2],
+        temporal: 1
+      },
       coupling_interfaces: [
         {
           from_scale: 'cellular',
@@ -105,9 +108,12 @@ export class MultiscaleTensorOperations {
     }
 
     return {
-      dimensions: [thickness.length, 3], // depth, properties
-      data: combinedData,
       scale: 'tissue',
+      data: combinedData,
+      dimensions: {
+        spatial: [thickness.length, 3],
+        temporal: 1
+      },
       coupling_interfaces: [
         {
           from_scale: 'tissue',
@@ -142,9 +148,12 @@ export class MultiscaleTensorOperations {
     }
 
     return {
-      dimensions: [temperature.length, 3], // spatial points, properties
-      data: combinedData,
       scale: 'organ',
+      data: combinedData,
+      dimensions: {
+        spatial: [temperature.length, 3],
+        temporal: 1
+      },
       coupling_interfaces: [],
       metadata: {
         units: 'mixed',
@@ -173,9 +182,9 @@ export class MultiscaleTensorOperations {
     );
 
     return {
-      dimensions: targetField.dimensions,
-      data: coupledData,
       scale: targetField.scale,
+      data: coupledData,
+      dimensions: targetField.dimensions,
       coupling_interfaces: [couplingParameters],
       metadata: {
         ...targetField.metadata,

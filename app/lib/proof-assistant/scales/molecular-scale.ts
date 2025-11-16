@@ -260,9 +260,12 @@ export class MolecularScaleModel {
     const flatData = this.spatialGrid.flat().flat();
     
     return {
-      dimensions: [this.spatialGrid.length, this.spatialGrid[0].length, this.spatialGrid[0][0].length],
-      data: flatData,
       scale: 'molecular',
+      data: flatData,
+      dimensions: {
+        spatial: [this.spatialGrid.length, this.spatialGrid[0].length, this.spatialGrid[0][0].length],
+        temporal: 1
+      },
       coupling_interfaces: [
         {
           from_scale: 'molecular',
@@ -293,7 +296,7 @@ export class MolecularScaleModel {
    */
   public applyUpwardInfluence(influence: MultiscaleField): void {
     // Apply influence from cellular scale (e.g., growth factors, stress signals)
-    const influenceStrength = influence.coupling_interfaces[0]?.coupling_strength || 0.1;
+    const influenceStrength = influence.coupling_interfaces?.[0]?.coupling_strength || 0.1;
     
     // Modify molecular interactions based on cellular state
     this.components.forEach(component => {

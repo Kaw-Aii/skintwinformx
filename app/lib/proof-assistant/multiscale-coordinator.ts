@@ -4,7 +4,10 @@
  * Manages interactions between different scales and ensures physical consistency
  */
 
-import { MultiscaleTensorOperations, MultiscaleField, ScaleType } from './multiscale-tensor-operations';
+import { MultiscaleTensorOperations } from './multiscale-tensor-operations';
+import type { MultiscaleField, ScaleType } from './types';
+
+export type { ScaleType };
 import { SkinModelAxiomSystem } from './skin-model-axioms';
 
 export interface ScaleModel {
@@ -160,7 +163,7 @@ export class MultiscaleCoordinator {
   }
 
   private coupleMolecularToCellular(): void {
-    const coupling = this.currentState.molecular.state.coupling_interfaces[0];
+    const coupling = this.currentState.molecular.state.coupling_interfaces?.[0];
     const coupledField = this.tensorOps.coupleSacales(
       this.currentState.molecular.state,
       this.currentState.cellular.state,
@@ -170,7 +173,7 @@ export class MultiscaleCoordinator {
   }
 
   private coupleCellularToTissue(): void {
-    const coupling = this.currentState.cellular.state.coupling_interfaces[0];
+    const coupling = this.currentState.cellular.state.coupling_interfaces?.[0];
     const coupledField = this.tensorOps.coupleSacales(
       this.currentState.cellular.state,
       this.currentState.tissue.state,
@@ -180,7 +183,7 @@ export class MultiscaleCoordinator {
   }
 
   private coupleTissueToOrgan(): void {
-    const coupling = this.currentState.tissue.state.coupling_interfaces[0];
+    const coupling = this.currentState.tissue.state.coupling_interfaces?.[0];
     const coupledField = this.tensorOps.coupleSacales(
       this.currentState.tissue.state,
       this.currentState.organ.state,
@@ -199,10 +202,10 @@ export class MultiscaleCoordinator {
       const nextScale = scaleOrder[i + 1];
       
       // Apply upward coupling
-      const currentModel = this.currentState[currentScale];
-      const nextModel = this.currentState[nextScale];
+      const currentModel = this.currentState[currentScale as keyof MultiscaleState] as ScaleModel;
+      const nextModel = this.currentState[nextScale as keyof MultiscaleState] as ScaleModel;
       
-      if (currentModel.state.coupling_interfaces.length > 0) {
+      if (currentModel.state.coupling_interfaces && currentModel.state.coupling_interfaces.length > 0) {
         const coupling = currentModel.state.coupling_interfaces[0];
         nextModel.state = this.tensorOps.coupleSacales(
           effect,

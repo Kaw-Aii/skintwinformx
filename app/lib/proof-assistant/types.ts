@@ -140,6 +140,13 @@ export interface RelevanceRealizationContext {
 // Multi-scale field types
 export type ScaleType = 'molecular' | 'cellular' | 'tissue' | 'organ' | 'system';
 
+export interface CouplingInterface {
+  from_scale: ScaleType;
+  to_scale: ScaleType;
+  coupling_strength: number;
+  coupling_mechanism: string;
+}
+
 export interface MultiscaleField {
   scale: ScaleType;
   data: number[];
@@ -154,6 +161,7 @@ export interface MultiscaleField {
     [key: string]: any;
   };
   properties?: Record<string, unknown>;
+  coupling_interfaces?: CouplingInterface[];
 }
 
 // Tensor operation types

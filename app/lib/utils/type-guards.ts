@@ -157,3 +157,37 @@ export function getPropertyWithDefault<T>(
   const value = obj[key];
   return guard(value) ? value : defaultValue;
 }
+
+/**
+ * Convert value to number with validation
+ * @throws Error if value cannot be converted to a valid number
+ */
+export function toNumber(value: unknown): number {
+  if (typeof value === 'number') {
+    if (isNaN(value) || !isFinite(value)) {
+      throw new Error('Value is NaN or Infinity');
+    }
+    return value;
+  }
+
+  if (typeof value === 'string') {
+    const num = parseFloat(value);
+    if (isNaN(num)) {
+      throw new Error(`Cannot convert string "${value}" to number`);
+    }
+    return num;
+  }
+
+  throw new Error(`Cannot convert ${typeof value} to number`);
+}
+
+/**
+ * Safely convert value to number with default fallback
+ */
+export function toNumberSafe(value: unknown, defaultValue: number = 0): number {
+  try {
+    return toNumber(value);
+  } catch {
+    return defaultValue;
+  }
+}
