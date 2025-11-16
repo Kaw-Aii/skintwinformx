@@ -1,0 +1,55 @@
+{
+  "conversion_date": "2025-11-16T01:44:46.016762",
+  "source_file": "/home/ubuntu/upload/COSING_Ingredients-FragranceInventory_v2.xlsx",
+  "total_ingredients": 30070,
+  "fields": [
+    "cosing_ref_no",
+    "inci_name",
+    "inn_name",
+    "ph_eur_name",
+    "cas_no",
+    "ec_no",
+    "chem_iupac_name___description",
+    "restriction",
+    "function",
+    "update_date"
+  ],
+  "sample_ingredients": [
+    {
+      "cosing_ref_no": 94753,
+      "inci_name": "DISODIUM TETRAMETHYLHEXADECENYLCYSTEINE FORMYLPROLINATE",
+      "inn_name": null,
+      "ph_eur_name": null,
+      "cas_no": "2040469-40-5, 2422121-34-2",
+      "ec_no": null,
+      "chem_iupac_name___description": "Disodium Tetramethylhexadecenylcysteine Formylprolinate is the organic compound that conforms to the formula:(",
+      "restriction": null,
+      "function": "SKIN PROTECTING",
+      "update_date": "16/06/2020"
+    },
+    {
+      "cosing_ref_no": 99268,
+      "inci_name": "(ANGELICA ACUTILOBA/PAEONIA LACTIFLORA) ROOT/CNIDIUM OFFICINALE RHIZOME EXTRACT",
+      "inn_name": null,
+      "ph_eur_name": null,
+      "cas_no": null,
+      "ec_no": null,
+      "chem_iupac_name___description": "(Angelica Acutiloba/Paeonia Lactiflora) Root/Cnidium Officinale Rhizome Extract is the extract of the roots of Angelica acutiloba and Paeonia lactiflora and the rhizomes of Cnidium officinale.",
+      "restriction": null,
+      "function": "SKIN CONDITIONING - EMOLLIENT",
+      "update_date": "19/03/2021"
+    },
+    {
+      "cosing_ref_no": 99270,
+      "inci_name": "(ARCTIUM LAPPA/RAPHANUS SATIVUS/MALVA VERTICILLATA) SEED OIL",
+      "inn_name": null,
+      "ph_eur_name": null,
+      "cas_no": null,
+      "ec_no": null,
+      "chem_iupac_name___description": "(Arctium Lappa/Raphanus Sativus/Malva Verticillata) Seed Oil is the volatile oil expressed from the seeds of Arctium lappa, Raphanus sativus, and Malva verticillata.",
+      "restriction": null,
+      "function": "SKIN CONDITIONING - EMOLLIENT",
+      "update_date": "19/03/2021"
+    }
+  ]
+}
