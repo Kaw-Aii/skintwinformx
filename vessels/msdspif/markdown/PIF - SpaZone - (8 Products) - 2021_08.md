@@ -1,0 +1,12094 @@
+# Product Information File: SpaZone - (8 Products)
+
+---
+
+**Document Type:** Product Information File (PIF)
+**Product:** SpaZone - (8 Products)
+**Date Prepared:** August 2018
+**Last Updated:** August 2021
+
+*As required under Article 11 of the European Cosmetics Regulation EC No. 1223/2009*
+
+---
+
+### PRODUCT
+
+## Information File*
+
+RegimA
+Instant Facial Lifting Wonder
+Serum and O2 Purifyer Face
++ Body Enhancing Serum
+**Prepared:** August 2018
+(Label & packaging update August 2021)
+*As required under Article 11 of the European Cosmetics Regulation EC No. 1223/2009
+
+## Table Of Contents
+
+Contents
+
+## Introduction ................................................................................................................... 3
+
+## Product Description .................................................................................................. 3
+
+## Cosmetic Product Safety Report ................................................................................ 7
+
+### Part A: Cosmetic Product Safety Information................................................................. 7
+
+### A.1 Quantitative and qualitative composition of the cosmetic product: ............... 7
+
+### A.2 Physical /chemical characteristics and stability of the cosmetic product .........
+
+........................................................................................................................ 11
+
+### A.3 Microbiological Quality................................................................................... 13
+
+### A.4 Impurities, traces, information about the packaging material ...................... 13
+
+### A.5 Normal and reasonably foreseeable use ........................................................ 13
+
+### A.6 Exposure to the Cosmetic Product ................................................................. 13
+
+### A.7 Exposure to the Substances ........................................................................... 14
+
+### A.8 Toxicological Profile of the Substances .......................................................... 16
+
+### A.9 Undesirable Effects and Serious Undesirable Effects..................................... 20
+
+### A.10
+
+### Information on the Cosmetic Product ........................................................ 20
+
+**B:** Part Cosmetic Product Safety Assessment ............................................................... 21
+
+### B.1 Assessment Conclusion .................................................................................. 21
+
+### B.2 Label Warnings and Instructions for Use ....................................................... 21
+
+### B.3 Reasoning ....................................................................................................... 23
+
+### B.4 Assessors Credentials and Approval of Part B ................................................ 23
+
+### List of References .......................................................................................................... 23
+
+## Method Of Manufacture / Gmp Certification............................................... 24
+
+## Proof Of Effect Claimed ..................................................................................... 25
+
+## Animal Testing Statement .................................................................................. 25
+
+### Appendix 1: Safety Data Sheets or Ingredient Specifications ...................................... 27
+
+### Appendix 2: Microbial Challenge Test .............................................................................. 28
+
+### Appendix 3: Certificates of Allergen Content ................................................................... 29
+
+### Appendix 4: Miscellaneous ........................................................................................... 32
+
+## Introduction
+
+## Product Description
+
+**Product Names:** Instant Facial Lifting Wonder Serum and O2 Purifyer Face + Body
+Enhancing Serum*
+Product type
+Form
+Colour
+Pack size
+Pack type
+Dispenser type
+Part of a set
+Manufacturer code
+Normal use
+
+Serum to help with firming and purifying
+Gel
+Slightly hazy brown
+50 ml (Instant Facial Lifting Wonder Serum), 200ml (O2
+Purifyer Face + Body Enhancing Serum)
+Airless container
+Pump
+No
+
+### PBP 003
+
+Instant Facial Lifting Wonder Serum
+**AM:** Cleanse with RegimA. Apply eye care products. Apply a
+few drops of Lifting Serum to face, neck and decollete.
+Allow Serum to dry to a film before applying other desired
+RegimA serums and daily care.
+O2 Purifyer Face + Body Enhancing Serum
+To be used as part of a RegimA Peel or facial, apply eye care
+then a layer of O2 Purifyer Face + Body Enhancing Serum to
+all treated areas. Allow to dry to a film, one may then, if
+desired, also apply a thin layer of Marine Replenish Masque
+with fingertips to face and neck, avoiding the eye area, to
+finalise a purifying, hydrating, replenishing treatment
+
+*This PIF contains two products with differing names, with the exact same formulation. The Instant Facial
+Wonder Serum is a take home product, while the O2 Purifyer Face + Body Enhancing Serum is a salon use
+product.
+
+**Pictures of the Item:** On following page
+
+Container label
+Instant Facial Lifting Wonder Serum
+
+O2 Purifyer Face + Body Enhancing Serum
+
+Carton label
+Instant Facial Lifting Wonder Serum
+
+O2 Purifyer Face + Body Enhancing Serum
+
+**Batch code:** The batch number is printed onto the underside of the carton and the
+container at the point of manufacturing and filling, therefore it is not visible on the label
+as represented in this PIF. The batching is automated, so the batch code and date is
+printed onto the carton and container as they are filled and boxed.
+**Product claims:** 
+This product claims to help with firming and purifying and provide firming and
+immediate long-lasting hydration.
+
+## Cosmetic Product Safety Report
+
+**Part A:** Cosmetic Product Safety Information
+
+### A.1
+
+Quantitative and qualitative composition of the cosmetic product:
+
+Instant Facial Lifting Wonder Serum and O2 Purifyer Face + Body Enhancing Serum Base formula
+No
+
+Raw Ingredient (INCI Name)
+
+%
+(w/w)
+
+Aqua
+
+Almond Oil PEG-6 Esters
+
+Sodium Lactate
+
+Aqua
+
+Butylene Glycol
+Aqua
+
+1.91
+
+Butyrospermum Parkii Seedcake
+Extract
+
+0.092
+
+Aqua
+Hydrolyzed Candida Saitoana
+Extract
+Phenoxyethanol
+Ethylhexylglycerin
+
+0.015
+0.006
+
+Glycerin
+
+Phenoxyethanol
+
+0.9
+
+Caprylyl Glycol
+
+0.1
+
+Mixture %
+w/w
+Wt(g/kg)
+
+CAS
+
+EC
+
+7732-18-5
+
+231-791-2
+
+124046-50-0
+
+#
+
+72-17-3 /
+867-56-1
+
+200-772-0 /
+212-762-3
+
+7732-18-5
+
+231-791-2
+
+107-88-0
+7732-18-5
+
+203-529-7
+231-791-2
+
+91080-23-8
+
+293-515-7
+
+7732-18-5
+
+231-791-2
+
+#
+
+#
+
+122-99-6
+70445-33-9
+
+204-589-7
+408-080-2
+
+122-99-6
+
+204-589-7
+
+1117-86-8
+
+214-254-7
+
+7732-18-5
+
+231-791-2
+
+2.87
+0.11
+
+Function
+
+Supplier
+(Agent)
+
+Tradename
+
+Solvent
+
+In-House
+Croda
+Chemicals
+
+Water
+Crovol A-70
+
+Purac
+(Chempure)
+
+Purasal S
+
+Silab
+(Meganede)
+
+Detoxyl
+
+Solvent/
+Skin Conditioning/
+Skin Protecting/
+Preservative
+
+Silab
+(Meganede)
+
+Celldetox
+
+Humectant/
+Perfuming/
+Skin protecting/
+Viscosity Controlling
+
+Various
+
+Glycerine CP
+
+Preservative/
+Emollient/
+
+Vestatil PC
+
+Dr.
+Straetmans
+(Meganede)
+
+Emollient/
+Emulsifying
+Buffering/
+Humectat/
+Keratolyic/
+Solvent
+Humectant/
+Skin Conditioning/
+Solvent/
+Viscosity Controlling/
+Skin Protecting
+
+No
+
+Raw Ingredient (INCI Name)
+
+%
+(w/w)
+
+Aqua
+
+0.8
+
+Sodium Hydroxide
+
+0.2
+
+Citrus bergamia peel oil
+expressed
+(also known as the perfuming
+**name:** Citrus Reticulata, X C.
+Sinensis Peel Extract)
+
+Cyclohexane
+
+0.009
+
+Carbomer
+Kappaphycus Alvarezii Extract
+Caesalpinia Spinosa Fruit Pod
+Extract
+Aqua
+
+0.99
+0.2375
+
+Xanthan Gum
+
+0.35
+
+0.2375
+0.025
+
+Mixture %
+w/w
+Wt(g/kg)
+
+0.5
+
+71.5
+
+CAS
+
+EC
+
+Supplier
+(Agent)
+
+Tradename
+
+Solvent/
+Buffering/
+Denaturant
+
+Various
+
+Sodium
+Hydroxide
+20%
+Solution
+
+FD Copeland
+(CJP Chemicals)
+
+Bergamot
+Oil
+
+Noveon (Carst
+& Walker)
+
+Carbopol
+Ultrez 30
+Polymer
+
+Hair Conditioning/
+Solvent/
+Skin Conditioning/
+
+Silab
+(Meganede)
+
+Filmexel
+
+Binding/
+Emulsifying/
+Emulsion Stabilsing/
+Gel Forming/
+Skin Conditioning/
+
+CP Kelco
+(Tranarc)
+
+Keltol T Plus
+
+Function
+Humectant/
+Skin Conditioning
+
+1310-73-2
+
+215-185-5
+
+93686-22-7
+
+297-672-2
+
+93686-22-7
+
+203-806-2
+
+Perfuming
+
+#
+
+Solvent/
+Emulsion Stabilsiing/
+Gel Forming/
+Viscosity Controlling
+
+9007-20-9 /
+9003-01-4 /
+76050-42-5 /
+9062-04-8 /
+9007-16-3 /
+9007-17-4
+#
+39300-88-4
+
+#
+254-409-6
+
+7732-18-5
+
+231-791-2
+
+11138-66-2
+
+234-394-2
+
+7732-18-5
+
+231-791-2
+
+No
+
+Raw Ingredient (INCI Name)
+
+# not assigned
+
+Aqua
+
+%
+(w/w)
+
+71.15
+
+Mixture %
+w/w
+Wt(g/kg)
+
+CAS
+
+71.5
+
+7732-18-5
+
+EC
+
+Function
+
+231-791-2
+
+Surfactant/
+Viscosity Controlling
+Solvent
+
+Supplier
+(Agent)
+
+Tradename
+
+In-House
+
+Water
+
+Ingredient order for the label: Aqua (Water), Almond Oil PEG-6 Esters, Sodium Lactate, Butylene Glycol, Glycerin, Citrus Bergamia
+Peel Oil Expressed, Carbomer, Phenoxyethanol, Xanthan Gum, Limonene, Caesalpinia Spinosa Fruit Pod Extract, Kappaphycus
+Alvarezii Extract, Sodium Hydroxide, Hydrolyzed Candida Saitoana Extract, Linalool, Caprylyl Glycol, Butyrospermum Parkii Seedcake
+Extract, Citral, Cyclohexane, Ethylhexylglycerin.
+Red font denotes ingredients present at less than 1% which may be listed in any order.
+
+Below are the allergens and their respective concentrations in the fragrance that are
+required to be listed in Article 19 Paragraph 1(d) & (g (ii)) of EC 1223/2009 when present
+at levels >0.001% in a leave-on product.
+Fragrance allergens*
+INCI (EU) Nam CAS number
+
+EC number
+
+Concentration
+% w/w
+
+Citral
+
+226-394-6
+
+0.0301
+
+Limonene
+
+Linalool
+
+### A.2
+
+5392-40-5
+
+5989-27-5
+
+78-70-6
+
+227-813-5
+
+201-134-4
+
+0.2735
+
+0.1005
+
+IFRA Standard
+
+d-, l- and dllimonene and
+natural products
+containing
+substantial
+amounts of it,
+should only be
+used when the
+level of peroxides
+is kept to the
+lowest practical
+level, for instance
+by adding
+antioxidants at
+the time of
+production. Such
+products should
+have a peroxide
+value of less than
+20 millimoles
+peroxides per
+liter, determined
+according to the
+FMA method.
+
+Comment
+Above 0.001%
+limit for leave on
+product
+
+Entire product
+has less than 20
+mmoles/L. The
+product also
+contains
+antioxidants
+tocopherol and
+tocopheryl
+acetate and the
+preservative
+phenoxyethanol.
+Above 0.001%
+limit for leave on
+product
+
+Above 0.001%
+limit for leave on
+product
+
+Physical /chemical characteristics and stability of the cosmetic product
+
+Physical and chemical characteristics of the ingredients have been listed in the safety
+data sheets which are maintained electronically by the Responsible Person and are
+available on request. A cross reference to the SDS tradename and electronic reference
+number has been shown in the base formula table.
+Physical and Chemical Characterization of the product
+
+1 Physical state
+2 type of mixture (emulsion/ o/w or w/o,
+suspension, lotion, powder, aerosol …)
+3 organoleptic properties (colour, odour,
+whenever relevant)
+4 pH (at 25oC)
+5 viscosity (at 25oC )
+6 thermal stability (glass bottle)
+7 Specific gravity
+
+Gel
+o/w
+Slight hazy gel, characteristic odour
+4.6
+360000 cPs
+2 weeks @ 40°C
+1 g/ml
+
+Stability of the product
+A shelf-life of 6 months after opening has been allocated to this product.
+An on-going stability study of the product in the packaging will be available to support
+the shelf-life. A stability test of the product in glass jars has confirmed stability at 40oC
+and 50°C for 2 weeks, at which point the appearance was slightly darker in both samples
+and the viscosity decreased by 14% and 12%, respectively.
+A 12 week stability test of the product in glass jars at room temperature has confirmed
+the stability of the product as formulated, at which point the products appearance was
+slightly darker on top. No other significant changes were noted during the 12 week
+period.
+An accelerated aging rate of 475 days was calculated which confirmed the 6 month shelf
+life for the product after opening. Presented below is how the accelerated aging rate
+was calculated. An industry standard of 2 was used for Q10 with 84 real time testing
+days.
+Q10^((Accelerated Aging temperature -Ambient Temperature)/10) X real time testing
+days
+2^((50-25)/10)= 5.66
+5.66 x 84 real time testing days = 475 days
+
+### A.3
+
+Microbiological Quality
+
+A PET test has been performed according to USP method 38 and confirms the
+effectiveness of the preservative for a period of 28 days. The certificate has been
+presented in Appendix 2.
+
+### A.4
+
+Impurities, traces, information about the packaging material
+
+None of the ingredients of this product contained impurities at a level which would
+require notification.
+A statement on the suitability of the product packaging is shown below.
+The Chubby Chunky Airless container is made from Polypropylene, light density
+polyethylene (LDPE) and high density polyethylene (HDPE). The pump is made from
+LDPE, HDPE and polypropylene. The components of the packaging material and
+suitability of use criteria are included in a certificate in Appendix 4. This is maintained
+electronically with the PIF by the Responsible Person and is available on request.
+
+### A.5
+
+Normal and reasonably foreseeable use
+Instant Facial Lifting Wonder Serum and O2 Purifyer Face + Body Enhancing Serum is a
+product designed to help with firming and purifying and provide firming and immediate
+long-lasting hydration. It is a leave-on product that in normal circumstances will be used
+once daily on the face, neck, decollete & body.
+
+### A.6
+
+Exposure to the Cosmetic Product
+
+Site of application
+Surface area of application (cm2)
+Volume of product applied (g)
+Frequency of application/use per day
+Target population
+Normal and foreseeable exposure route
+Calculated relative daily exposure
+according to SCCS notes for guidance
+tables (mg/kg bw/day)
+Dermal absorption information
+other
+
+Face, neck, decollete & body
+16235*
+8.07
+Once daily
+Adults
+Dermal
+0.25ml exposure daily
+Estimated exposure based on 60 kg adult =
+134.5 mg/kg bw/day
+Unknown
+N/A
+
+* The total surface area for application of Instant facial lifting Wonder Serum is 16235 cm2 ( Skincare; Face
+surface area = 565 cm2 and Skincare; Body Lotion surface area = 15670cm2). These figures are extracted
+from the SCCS guidelines for the testing of Cosmetic Ingredients and their Safety Evaluation, 9th revision,
+Section 4.2 , Table 1, page 76.
+
+### A.7
+
+Exposure to the Substances
+
+Daily Systemic Exposure Dosage (SED) is the daily amount of a cosmetic substance
+applied based on the concentration of that particular substance, the percutaneous
+absorption and the nominal human body weight (60 kg) and this is shown in the table
+below.
+Ingredient
+(INCI name & CAS number)
+Almond Oil PEG-6 Esters
+124046-50-0
+Sodium Lactate
+867-56-1
+Butylene Glycol
+107-88-0
+Glycerin
+56-81-5
+Citrus Bergamia Peel Oil
+Expressed
+93686-22-7
+Carbomer
+9007-20-9
+Phenoxyethanol
+122-99-6
+Xanthan Gum
+11138-66-2
+Caesalpinia Spinosa Fruit Pod
+Extract
+39300-88-4
+Kappaphycus Alvarezii Extract
+##
+Sodium Hydroxide
+1310-73-2
+Hydrolyzed Candida Saitoana
+Extract
+#2
+Caprylyl Glycol
+1117-86-8
+Butyrospermum Parkii
+Seedcake Extract
+91080-23-8
+
+Maximum
+concentration
+(%)
+
+Calculated
+product
+relative daily
+exposure
+(mg/kg
+bw/day)
+
+Dermal
+penetration
+factor#1
+
+Daily
+ingredient
+exposure
+or SED
+(mg/kg
+bw/day)
+
+134.5
+
+28.25
+
+134.5
+
+16.95
+
+134.5
+
+11.30
+
+134.5
+
+11.30
+
+134.5
+
+5.65
+
+0.99
+
+134.5
+
+5.59
+
+0.92
+
+134.5
+
+0.35
+
+134.5
+
+0.24
+
+134.5
+
+0.24
+
+134.5
+
+0.2
+
+134.5
+
+0.11
+
+134.5
+
+0.1
+
+134.5
+
+0.092
+
+134.5
+
+5.17
+1.98
+1.34
+1.34
+1.13
+0.64
+0.57
+0.52
+
+Ingredient
+(INCI name & CAS number)
+Cyclohexane
+110-82-7
+Ethylhexylglycerin
+70445-33-9
+
+Maximum
+concentration
+(%)
+
+Calculated
+product
+relative daily
+exposure
+(mg/kg
+bw/day)
+
+Dermal
+penetration
+factor#1
+
+0.009
+
+134.5
+
+0.006
+
+134.5
+
+Daily
+ingredient
+exposure
+or SED
+(mg/kg
+bw/day)
+0.051
+0.034
+
+#1 Where no dermal absorption data is available, 100% dermal absorption is used. However, where
+molecular weight > 500 Da and log Pow is smaller than -1 or higher than 4, the value of 10% dermal
+absorption is considered unless the formulation contains penetration enhancers. Dermal absorption of
+nanomaterials needs to be determined experimentally.
+#2 No CAS number assigned.
+
+### A.8
+
+Toxicological Profile of the Substances
+
+Ingredient
+(INCI name & CAS
+number)
+Almond Oil PEG-6
+Esters
+124046-50-0
+Butylene Glycol
+107-88-0
+
+Hazard Reference
+
+### NOAEL
+
+Human
+Irritant to
+Irritant
+Sensitiser
+ID and
+for
+(mg/kg
+SEDb
+MoSc
+comment
+data
+eyes
+to skin
+a
+list
+hazard ID
+bw/day)
+2014 CIR Compendium. Safe for use in cosmetics when formulated to be non-irritating. Almond Oi PEG-6
+esters is the product of transesterification of Prunus Amygdalus dulcis (Almond) Oil and PEG-G. The limits of
+the outlined reactants are stated as up to 77% and 51% respectively, where Almond oil was determined to
+A
+be non-irritating and PEG-6 safe for use in cosmetics. Full amended report 09/12 available from CIR; IJT 33
+**(Suppl 4):** 13-39, 2014. It was determined that the use of Almond Oil PEG-6 Esters is safe to use in Instant
+Facial Wonder Serum and O2 Purifying face+ Body Enhancing Serum at the level of 5%.
+A
+
+Butyrospermum Parkii
+Seedcake Extract
+91080-23-8
+
+A
+
+Caesalpinia Spinosa
+Fruit Pod Extract
+39300-88-4
+
+###
+
+Caprylyl Glycol
+1117-86-8
+Carbomer
+
+A
+A
+
+**Safe up to 89%; JACT 4(5):** 223-48, 1985 & International Journal of Toxicology 25(S2), 2006
+For use up to 5.5% in leave on cosmetic formulations. Dermal irritation studies where Butyrospermum Parkii
+(Shea) Seedcake Extract was used up to 0.14% was found not irritating in human studies. Further analysis
+determined Butyrospermum Parkii (Shea) Seedcake Extract to be non-irritating or sensitizing in HRIPTs at
+concentrations up to 0.42%. Final report available 09/12/2017 is available from the CIR. Butyrospermum
+Parkii (Shea) Seedcake Extract is present in Instant Facial Wonder Serum and O2 Purifying face+ Body
+Enhancing Serum at 0.092% and it was determined that no adverse effects are expected when used as
+directed.
+A secondary assessment was performed on Caesalpinia Spinosa Fruit Pod extract, with a read across to
+Caesalpinia Spinosa gum. Caesalpinia Spinosa gum was approved for use as a food ingredient by the JECFA
+with no ADI specified. Caesalpinia Spinosa Fruit Pod extract is present in Instant Facial Lifting Wonder Serum
+AND O2 Purifying Face + Body Enhancing Serum at 0.24%, 4 times lower than the worst case dose of 1%.
+With the JECFA report outlining Caesalpinia Spinosa gum as being safe for use as a food ingredient and
+Caesalpinia Spinosa Fruit Pod extract being 4 times lower than the worst case dose, it was determined that
+the addition of Caesalpinia Spinosa Fruit Pod extract is safe for use in Instant Facial Lifting Wonder Serum
+AND O2 Purifying Face + Body Enhancing Serum.
+Safe when used up to 5%, Safety assessment of 1,2-glycols as used in cosmetics, International Journal of
+Toxicology 31 (S2), 1475-1685, 2012
+Safe when used up to 2%, JACT 1(2)109-41, 1982 confirmed 11/02 IJT 22(S1):1-35, 2003
+
+Ingredient
+(INCI name & CAS
+number)
+9007-20-9
+Citrus Bergamia Peel Oil
+Expressed
+93686-22-7
+
+Cyclohexane
+110-82-7
+
+Ethylhexylglycerin
+70445-33-9
+Glycerin
+56-81-5
+Hydrolyzed Candida
+Saitoana Extract
+#
+
+Hazard Reference
+ID and
+for
+lista
+hazard ID
+B
+
+B
+
+Irritant to
+eyes
+
+Irritant
+to skin
+
+Sensitiser
+
+Human
+data
+
+### NOAEL
+
+(mg/kg
+bw/day)
+
+SEDb
+
+MoSc
+
+comment
+
+Supplier IFRA certificate of conformity supplied and presented in Appendix 3. Maximum allowable
+concentration in product is 9.96%, actual concentration 1%. Allergen components are declared in A1
+Fragrance Allergen table. Safe for inclusion in this product.
+Available data on Cyclohexane indicated that it has a low order of toxicity, no ADI has been established
+according to JECFA report 23/19*. Cyclohexane is almost completely absorbed by the oral and inhalation
+route with dermal absorption of pure liquid cyclohexane in contact with the skin being 5%, this percentage is
+significantly reduced in Instant Facial Wonder Serum and O2 Purifying face+ Body Enhancing Serum due to
+Cyclohexane being present in the formulation at 0.009% therefore the dermal absorption would be reduced.
+Cyclohexane is considered to be a skin irritant with the properties being delayed and persistent while it was
+not considered to be sensitizer. The NOAEL ranged from 250 ppm to 2,000 ppm in a range of animal and
+human toxicity testing. Taking 250ppm as the worst case scenario NOAEL the MoS was calculated to be
+4902. It is considered that a value above 100 is generally considered to be safe. Cyclohexane is present at a
+level of 0.051 mg/kg bw/day in Instant Facial Wonder Serum and O2 Purifying face+ Body Enhancing Serum,
+considerable lower than the level outlined as a NOAEL and therefore safe for use. Cyclohexane, Summary
+Risk Assessment Report. (2004). European Commission Joint Research Centre, Institute for health and
+Consumer Protection, Europen Chemicals Bureau, special Publication 1.04.22, pp 1-15; Evaluation of certain
+food additives. Twenty-third Report of the Joint FAO/WHO Expert Committee on Food Additives. (1981).
+Food and Cosmetics Toxicology, 19, p381.
+
+A
+
+2014 CIR Compendium safe with no upper limit for concentration, IJT 32 (S3): 5-21, 2013
+
+A
+
+GRAS#, FDA approved food additive, FDA approved over the counter (OTC) for skin
+
+###
+
+A secondary assessment was performed on Hydrolyzed Candida saitoana Extract with a read across to the
+active ingredient of glucan. Hydrolyzed Candida saitoana Extract is present in Instant Facial Lifting Serum
+
+and O2 Purifyer Face + Body enhancing Serum at 0.64 mg/kg bw/day, 65 times lower than the
+worse case scenario dose of 2500 mg/kg bw/day. It is not expected to cause any serious
+
+Ingredient
+(INCI name & CAS
+number)
+
+Hazard Reference
+ID and
+for
+lista
+hazard ID
+
+Irritant to
+eyes
+
+Irritant
+to skin
+
+Sensitiser
+
+Human
+data
+
+### NOAEL
+
+(mg/kg
+bw/day)
+
+SEDb
+
+MoSc
+
+comment
+
+undesirable effects when used as directed.
+
+Kappaphycus Alvarezii
+Extract
+##
+
+###
+
+Phenoxyethanol
+122-99-6
+
+A secondary assessment was preformed on Kappaphycus Alvarezii Extract. A principal component of
+Kappaphycus alvarezii extract is sulfonated galactans also known as Carrageenan’s. Carrageenan has been
+generally recognized as safe (GRAS) by the FDA and has also been approved as a food additive, this has been
+confirmed by WHO and JECFA with no ADI established. It has been determined that Kappaphycus alvarezii
+extract is a safe for use in Instant facial wonder serum and O2 Purifyer face +body enhancing serum.
+
+B
+
+Safe for use when included up to 1%, JACT 9(2):259-77, 1990
+Safe for use up to 6.9 % in leave on formulations, where the pH is <11. Human dermal irritation studies
+
+Sodium Hydroxide
+1310-73-2
+
+B
+
+Sodium Lactate
+72-17-3
+
+B
+
+Xanthan Gum
+11138-66-2
+
+A
+
+indicated irritation caused by sodium Hydroxide at levels as low as 0.5, with dermal sensitization
+HRIPT challenge test sodium hydroxide was not sensitizing when induced up to 1% and when
+challenged at 0.125% irritation was observed. Final report 12/15/2015 available from CIR. Sodium
+
+Hydroxide is in Annex III/15 where the pH is restricted to pH <11. Sodium hydroxide is present in Instant
+Facial Lifting Wonder Serum at a level of 0.2%, with a pH of 4.6 there for all restrictions are satisfied and
+determined safe for use as directed.
+**Safe with restrictions:** Glycolic and Lactic Acid, their common salts and their simple esters, are safe for use in
+cosmetic products at concentrations <=10%, at final formulation pH >=3.5, when formulated to avoid
+increasing sun sensitivity or when directions for use include the daily use of sun protection. IJT 17(S1):1-242,
+1998. Sodium Lactate is included in formulation at 3%, at a pH of 4.6 and has been determined safe for use
+in Instant facial lifting wonder serum and O2 Purifyer Face + Body Enhancing Serum.
+2014 CIR Compendium safe up to 6%, Safety Assessment of Microbial Polysaccharide Gums as Use in
+Cosmetics, Final Report, CIR, October, 2012
+
+a Some ingredients are excluded from a formal risk assessment where a recognized authority has published a review of the
+
+ingredient under similar conditions of use and concluded on safe use at the level of inclusion in the cosmetic product (Hazard ID=A).
+Hazard ID category B is for recognized authority reviews of the ingredient under similar conditions of use with restricted use or
+
+where the ingredient is contained in the annexes to Regulation (EC) No 1223/2009 (Hazard ID=B). Where hazard ID A or B is
+reported, the maximum allowed usage concentration should be stated.
+b all possible routes of exposure should be considered
+c A MoS of greater than 100 is considered to represent safe use
+# Food item, hazard and exposure data not required.
+## No CAS number assigned
+### Secondary assessment preformed, presented in Appendix 4
+
+**Fragrances:** 
+An IFRA Certificate of Conformity which includes the allergen composition has been
+presented in Appendix 3. The conformity certificate certifies compliance with the
+standards of INTERNATIONAL FRAGRANCE ASSOCIATION (IFRA-47th amendment,
+published June 2013) provided it is used at up to 9.96% for IFRA category 5 (Woman’s
+facial creams etc.). The fragrance is included in this product at 1% and
+based on this low concentration, allergens Citral is present at 0.0301%, Limonene is
+present at 0.2735% whilst Linalool is present at 0.1005%. As these concentrations
+exceed >0.001% for a leave-on product (Article 19 Paragraph 1(d) & (g (ii)) of EC
+1223/2009) they are declared in the list of ingredients.
+
+### A.9
+
+Undesirable Effects and Serious Undesirable Effects
+
+No undesirable effects are anticipated based on the product being used as directed on
+the face, neck, decollate and body once daily.
+
+### A.10
+
+Information on the Cosmetic Product
+
+Instant facial lifting wonder serum and O2 Purifyer Face + Body Enhancing Serum was
+released in 2017. Over the period August 2017 to August 2018 2841 units of Instant
+Facial Lifting Wonder Serum and 438 units of O2 Purifyer Face + Bogy Enhancing Serum
+have been sold and there have been no adverse reactions reported to RégimA
+Company.
+
+**B:** Part Cosmetic Product Safety Assessment
+
+### B.1
+
+Assessment Conclusion
+
+Review of the ingredients
+After analysis of all the available information including:
+• formulation
+• toxicological profile of the ingredients and their concentration in the product
+• Product data sheets supplied by the ingredient manufacturer
+It is not expected that Instant Facial Lifting Wonder Serum and O2 Purifying Face + Body
+Enhancing Serum will cause damage to human health when used as directed.
+It is therefore concluded that Instant Facial Lifting Wonder Serum and O2 Purifying Face
++ Body Enhancing Serum can be placed on the market in the EU as a face and body
+serum.
+Review of human data on the product
+There are no human tests such as a patch test, for this product.
+
+### B.2
+
+Label Warnings and Instructions for Use
+
+Directions for use are given on the product label and outer packaging as presented in
+Appendix 4.
+**Directions:** 
+Instant Facial Lifting Wonder Serum: AM: Cleanse with RégimA, apply eye care
+products. Apply a few drops of Lifting Serum to face, neck and décolleté. Allow Serum to
+dry to a film before applying other desired RégimA serums and daily care.
+O2 Purifyer Face +Body Enhancing Serum: To be used as part of a RégimA in-salon
+treatment. Following a RégimA peel or facial, apply eye care then layer of O2-Purifyer
+Serum to all treater areas. Allow to dry to a film, one may then, if desired, also apply a
+thin layer of Marine Replenish Masque with fingertips to face and neck, avoiding the eye
+area, to finalise a purifying, hydrating, replenishing treatment.
+
+**Warnings:** 
+Instant Facial Lifting Wonder Serum:
+‘Airless Container – DO NOT remove top as this would introduce air and/or bacteria’
+‘Product level can be viewed through the gap in label’
+‘Store below 77°F/25°C in a cool dry place. Protect from light’
+‘Must not be combined with any other product range’
+O2 Purifyer Face +Body Enhancing Serum:
+‘ Strictly for professional use’
+‘Airless container DO NOT remove top as this would introduce air and/or bacteria’
+‘Product level can be viewed through the gap in the label’
+‘Store below 77°F/25°C in a cool dry place. Protect from light’
+‘Must not be combined with any other product range’
+A Silab IBPN technology® logo is present on the label signifying RégimA having a license
+to use FILMEXEL® in Instant Facial Lifting Wonder Serum and O2 Purifyer Face + Body
+Enhancing Serum. The license and technical summary is presented in Appendix 4.
+
+### B.3
+
+Reasoning
+
+This product contains many ingredients with a positive reputation for their firming and
+hydrating properties and with good local tolerance. There are no reasons to anticipate
+tolerance problems with use when used as directed.
+This product is intended for external use in adults only.
+
+### B.4
+
+Assessors Credentials and Approval of Part B
+
+Shirley Hudson (safety assessor)
+BSc, University of Aberdeen
+CBiol, MSB
+20+ years as a practicing toxicologist in the pharmaceutical and chemical industries
+
+After analyzing of all of the available information including the product formulation and
+the toxicological profile of the ingredients, I conclude that according to the current state
+of scientific knowledge, this product is not expected to result in any significant damage
+to human health and can be safely marketed for the intended and foreseeable use as a
+face and body serum.
+
+List of References
+SCCS Notes of Guidance for the Testing of Cosmetic Substances and Their Safety
+Evaluation, 9th Revision, 29 September 2015 (SCCS/1564/15)
+European Commission database on cosmetic ingredients (Cosing)
+**http:** //ec.europa.eu/consumers/cosmetics/cosing/
+Cosmetic ingredient review http://www.cir-safety.org/
+
+## Method Of Manufacture / Gmp Certification
+
+## Proof Of Effect Claimed
+
+This product claims to help with firming and purifying and provide firming and
+immediate long-lasting hydration, confirmatory evidence has been provided by RégimA.
+SpaZone Instant Facial Lifting Wonder Serum and O2 Purifyer Face + Body Enhancing
+Serum contains an active ingredient called FILMEXEL® (with active botanicals
+Kappaphycus Alvarezii Extract and Caesalpinia Spinosa Fruit Pod Extract), this patented
+dynamic ingredient is categorised as providing a non-occlusive film known as a ‘Second
+Skin’ that mimicks its properties and functions. A technical summary outlining this proof
+of effect along with RégimA’s license to use FILMEXEL® in Instant Facial Lifting Wonder
+Serum and O2 Purifyer Face + Body Enhancing Serum is presented in Appendix 4.
+
+## Animal Testing Statement
+
+To the best of our knowledge, the manufacturer and his suppliers have not carried out
+or commissioned any animal testing for the purpose of developing new cosmetic
+products.
+The statement below is a confirmation of the company policy:
+
+RégimA Skin Treatments
+
+## Ck92/05371/23
+
+VAT No. 4590131043
+
+**Tel:** 011 615 2869 or 011 622 7827
+**Fax:** 011 616 8008
+**Cell:** 0836537020
+**e-mail:** jax@regima.com
+**POSTAL ADDRESS:** PO BOX 9523 Edenglen 1613
+**PHYSICAL ADDRESS:** 20 River Road Morninghill Bedfordview 2007 RSA
+Animal Testing Compliance Statement
+This letter is to serve as testimony as to the practice of animal testing, and
+confirm that RégimA Skin Treatments has not, nor will not engage in any practice
+that involves animal testing in any form.
+RégimA Skin Treatments hereby confirms neither the manufacturer nor RégimA
+Skin Treatments itself have commissioned or carried out any form of animal
+
+testing during the course of product development. This applies to any and all
+activities performed as part of the development process, including, but not
+**restricted to:** R&D, stability testing, safety and toxicology assessments, suitability
+studies or any other facet related to the product’s development.
+
+**Appendix 1:** Safety Data Sheets or Ingredient Specifications
+Safety data sheets and technical data sheets for the ingredients are maintained
+electronically with the PIF by the Responsible Person. They are available on request.
+
+**Appendix 2:** Microbial Challenge Test
+A microbial challenge test is maintained electronically with the PIF by the Responsible
+Person. It is available on request.
+
+**Appendix 3:** Certificates of Allergen Content
+
+**Appendix 4:** Miscellaneous
+The stability report, packaging material information and product carton insert are
+maintained electronically with the PIF by the Responsible Person. They are available on
+request.
+
+### PRODUCT
+
+## Information File*
+
+RégimA
+SpaZone Marine
+Replenishing Peptide
+Masque
+**Prepared:** August 2018
+(Label & packaging update August 2021)
+
+*As required under Article 11 of the European Cosmetics Regulation EC No. 1223/2009
+
+## Table Of Contents
+
+Contents
+
+## Introduction ................................................................................................................... 3
+
+## Product Description .................................................................................................. 3
+
+## Cosmetic Product Safety Report ................................................................................ 7
+
+### Part A: Cosmetic Product Safety Information................................................................. 7
+
+### A.1 Quantitative and qualitative composition of the cosmetic product: ............... 7
+
+### A.2 Physical /chemical characteristics and stability of the cosmetic product .........
+
+........................................................................................................................ 10
+
+### A.3 Microbiological Quality................................................................................... 12
+
+### A.4 Impurities, traces, information about the packaging material ...................... 12
+
+### A.5 Normal and reasonably foreseeable use ........................................................ 12
+
+### A.6 Exposure to the Cosmetic Product ................................................................. 12
+
+### A.7 Exposure to the Substances ........................................................................... 13
+
+### A.8 Toxicological Profile of the Substances .......................................................... 15
+
+### A.9 Undesirable Effects and Serious Undesirable Effects..................................... 20
+
+### A.10
+
+### Information on the Cosmetic Product ........................................................ 20
+
+**B:** Part Cosmetic Product Safety Assessment ............................................................... 21
+
+### B.1 Assessment Conclusion .................................................................................. 21
+
+### B.2 Label Warnings and Instructions for Use ....................................................... 21
+
+### B.3 Reasoning ....................................................................................................... 23
+
+### B.4 Assessors Credentials and Approval of Part B ................................................ 23
+
+### List of References .......................................................................................................... 23
+
+## Method Of Manufacture / Gmp Certification............................................... 25
+
+## Proof Of Effect Claimed ..................................................................................... 26
+
+## Animal Testing Statement .................................................................................. 26
+
+### Appendix 1: Safety Data Sheets or Ingredient Specifications ...................................... 28
+
+### Appendix 2: Microbial Challenge Test .............................................................................. 29
+
+### Appendix 3: Certificates of Allergen Content ................................................................... 30
+
+### Appendix 4: Miscellaneous ........................................................................................... 33
+
+## Introduction
+
+## Product Description
+
+**Product Name:** SpaZone Marine Replenishing Peptide Masque
+Product type
+Form
+Colour
+Pack size
+Pack type
+Dispenser type
+Part of a set
+Manufacturer code
+Normal use
+
+Face Mask
+Gel
+Hazy
+150ml
+Chubby Chunky Airless Container
+Polypropylene Pump
+No
+
+### HFM 002
+
+**Directions (150mls):** To be used as part of a RégimA insalon treatment. Following RégmA Peel or facial apply eye
+care and desired serums, particularly O2 Purifyer. Then
+apply a thin layer of Masque with fingertips to face and
+neck avoiding the eye area.
+
+**Pictures of the Item:** On following page
+
+Container label
+Marine Replenishing Peptide Masque – 150ml
+
+Carton label
+Marine Replenishing Peptide Masque – 150ml
+
+**Batch code:** The batch number is printed onto the underside of the carton and the
+container at the point of manufacturing and filling, therefore it is not visible on the label
+as represented in this PIF. The batching is automated, so the batch code and date is
+printed onto the carton and container as they are filled and boxed.
+**Product claims:** 
+This product claims to provide immediate and long-lasting deep hydration.
+
+## Cosmetic Product Safety Report
+
+**Part A:** Cosmetic Product Safety Information
+
+### A.1
+
+Quantitative and qualitative composition of the cosmetic product:
+
+Marine replenishing peptide masque base formula
+No
+
+Raw Ingredient (INCI Name)
+
+%
+(w/w)
+
+CAS
+
+EC
+
+7732-18-5
+57-55-6
+56-81-5
+
+231-791-2
+200-338-0
+200-289-5
+
+39300-88-4
+
+254-409-6
+254-409-6
+204-589-7
+202-785-7
+202-318-7
+204-399-4
+202-307-7
+231-791-2
+
+0.2
+0.0375
+0.00825
+0.00315
+0.00215
+0.00115
+
+Water
+Propylene Glycol
+Glycerin
+Hydrolysed caesalpinia Spinosa
+Gum
+Caesalpinia Spinosa Gum
+Phenoxyethanol
+Methylparaben
+Butylparaben
+Ethylparaben
+Propylparaben
+Water
+
+39300-88-4
+122-99-6
+99-76-3
+94-26-8
+120-47-8
+94-13-3
+7732-18-5
+
+Almond Oil PEG-6 Esters
+
+124046-50-0
+
+#
+
+3.832
+
+7732-18-5
+
+231-791-2
+
+Water
+Hydrolysed Viola Tricolor
+extract
+Phenoxyethanol
+Ethylhexylglycerin
+
+84012-42-0
+
+281-687-4
+
+122-99-6
+70445-33-9
+
+204-589-7
+408-080-2
+
+Glycerin
+
+0.16
+
+56-81-5
+
+200-289-5
+
+Water
+Ophiopogon japonicus root
+extract
+
+2.649
+
+7732-18-5
+
+231-791-2
+
+952500-62-8
+
+310-127-6
+
+5.2478
+2.2
+1.6
+
+Mixture %
+w/w
+Wt(g/kg)
+
+0.7
+
+0.14
+0.02
+0.008
+
+0.33
+
+Function
+
+Supplier
+(Agent)
+
+Tradename
+
+Humectant/
+Skin Conditioning/
+Viscosity Controlling/
+Solvent/
+Skin Protecting/
+Perfuming/
+Absorbent/
+Emollient/
+Preservative
+
+Provital
+(Savannah Fine
+Chemicals)
+
+Hydromanil™
+
+Solvent
+Emollient/
+Emlusifying
+Skin Protecting/
+Skin Conditioning/
+Solvent/
+Preservative
+
+In-House
+Croda
+Chemicals
+
+Aqua(Water)
+Crovol A-70
+
+Silab
+(Meganede)
+
+Aquaphyline™
+
+Humectant/
+Perfuming/
+Skin Protecting/
+Viscosity Controlling
+
+Various
+
+Glycerine CP
+
+Skin Conditioning/
+Preservative
+
+Silab
+(Meganede)
+
+Cohesium®
+
+No
+
+Raw Ingredient (INCI Name)
+
+%
+(w/w)
+
+Phenoxyethanol
+Ethylhexylglycerin
+
+0.015
+0.006
+
+Phenoxyethanol
+
+0.9
+
+Caprylyl Glycol
+
+0.1
+
+Sodium hydroxide
+
+0.8
+
+Water
+
+0.2
+
+Cyclohexane
+
+0.8
+
+Mixture %
+w/w
+Wt(g/kg)
+
+0.8
+
+Function
+
+Supplier
+(Agent)
+
+Tradename
+
+Preservative/
+Emollient/
+Humectant/
+Skin conditioning
+
+Dr. Straetmans
+(Meganede)
+
+Verstatil PC
+
+231-791-2
+
+Solvent/
+Buffering
+
+Various
+
+203-806-2
+
+Solvent
+
+Noveon
+(Carst &
+Walker)
+
+Sodium
+Hydroxide
+20% Solution
+
+Perfuming
+
+FD Copeland
+
+### (CJP
+
+chemicals)
+
+Bergamont
+Oil
+
+Hair Conditioning/
+Skin Conditioning
+
+Silab
+(Meganede)
+
+Filmexel
+
+Solvent
+
+In-House
+
+Deionised
+Water
+
+CAS
+
+EC
+
+122-99-6
+70445-33-9
+
+204-589-7
+408-080-2
+
+122-99-6
+
+204-589-7
+
+1117-86-8
+
+214-254-7
+
+1310-73-2
+
+215-185-5
+
+7732-18-5
+110-82-7
+
+Carbopol
+Ultrez 30
+
+0.5
+
+Citrus bergamia Peel Oil
+Expressed
+
+0.5
+
+Caesalpinia Spinosa Fruit Pod
+Extract
+
+0.095
+
+Kappaphycus Alvarezii Extract
+
+0.095
+
+Water
+
+0.01
+
+Water (Aqua)
+
+65.5
+
+# not assigned
+
+0.2
+
+65.5
+
+89957-91-5
+
+289-612-9
+
+39300-88-4
+
+254-409-6
+
+1220882-734
+7732-18-5
+7732-18-5
+
+310-127-6
+231-791-2
+231-791-2
+
+Ingredient order for the label: Water (Aqua), Almond Oil PEG-6 Esters, Propylene Glycol, Glycerin, Phenoxyethanol, Cyclohexane,
+Sodium Hydroxide, Hydrolysed Caesalpinia Spinosa Gum, Citrus bergamia peel oil expressed, Ophiopogon Japonicus Root Extract,
+Caesalpinia Spinosa Gum, Hydrolysed Viola Tricolor Extract, Limonene, Caprylyl Glycol, Caesalpinia Spinosa Fruit Pod Extract,
+Kappaphycus Alvarezii Extract, Linalool, Citral, Ethylhexylglycerin, Methylparaben, Butylparaben, Ethylparaben, Propylparaben,
+Linalyl Acetate
+Red font denotes ingredients present at less than 1% which may be listed in any order.
+Below are the allergens and their respective concentrations in the fragrance that are required to be listed in Article 19 Paragraph
+1(d) & (g (ii)) of EC 1223/2009 when present at levels >0.001% in a leave-on product.
+Fragrance allergens
+INCI (EU) Name
+Linalyl Acetate
+Alpha-pinene
+Limonene
+Linalool
+Citral
+
+### A.2
+
+CAS number
+
+EC number
+
+Concentration % w/w
+
+115-95-7
+80-56-8
+5989-27-5
+78-70-6
+5392-40-5
+
+204-116-4
+201-291-9
+227-813-5
+201-134-4
+226-394-6
+
+0.161
+0.0145
+0.13675
+0.05025
+0.01505
+
+Physical /chemical characteristics and stability of the cosmetic product
+
+Physical and chemical characteristics of the ingredients have been listed in the safety data sheets which are maintained
+electronically by the Responsible Person and are available on request. A cross reference to the SDS tradename and electronic
+reference number has been shown in the base formula table.
+
+Physical and Chemical Characterization of the product
+1 Physical state
+2 type of mixture (emulsion/ o/w or w/o,
+suspension, lotion, powder, aerosol …)
+3 organoleptic properties (colour, odour,
+whenever relevant)
+4 pH (at 25oC)
+5 viscosity (at 25oC )
+6 thermal stability (glass bottle)
+7 Specific gravity (at 25oC )
+
+Gel
+Emulsion
+Slightly Hazy gel with a characteristic
+odour.
+4.01
+72000 cPs
+50 oC for 12 weeks
+1.003g/ml
+
+Stability of the product
+A shelf-life of 6 month after opening has been allocated to this product.
+An on-going stability study of the product in the packaging will be available to support
+the shelf-life. A stability test of the product in glass jars has confirmed stability at 25oC
+for 12 weeks, at which point the product appeared to be very slightly yellow, the pH
+increased by 12% and the viscosity decreased by 17% .
+It is not expected that these changes in physical parameters will affect the stability of
+the product as formulated. The stability report is provided in Appendix 4.
+
+### A.3
+
+Microbiological Quality
+
+A PET test has been performed according to USP method 38 and confirms the
+effectiveness of the preservative for a period of 28 days. The certificate has been
+presented in Appendix 2.
+
+### A.4
+
+Impurities, traces, information about the packaging material
+
+None of the ingredients of this product contained impurities at a level which would
+require notification.
+A statement on the suitability of the product packaging is shown below.
+The Chubby Chunky Airless Containers is made from Polypropylene. The pump is
+composed of a mixture of Polypropylene, Low density Polyethylene (LDPE) and High
+density Polyethylene (HDPE). The components of the packaging material and suitability
+of use criteria are included in a certificate in Appendix 4. This is maintained
+electronically with the PIF by the Responsible Person and is available on request.
+
+### A.5
+
+Normal and reasonably foreseeable use
+Marine Replenishing Peptide Masque is a product designed to promote immediate and
+long-lasting deep hydration. It is a leave on face masque that in normal circumstances
+will be used once daily in the evening on the face and neck, avoiding the eye area.
+
+### A.6
+
+Exposure to the Cosmetic Product
+
+Site of application
+Surface area of application (cm2)
+Volume of product applied (mg)
+Frequency of application/use per day
+Target population
+Normal and foreseeable exposure route
+Calculated relative daily exposure
+according to SCCS notes for guidance
+tables (mg/kg bw/day)
+Dermal absorption information
+other
+
+Face and neck
+885cm2*
+1/week
+Adults
+Dermal
+Relative daily exposure of 0.25g was
+calculated to be 4.17 mg/kg bw/day based
+on a nominal 60kg human body weight
+None available
+NA
+
+*Total Surface area for Marine Replenishing Peptide Masque =885cm2. This surface area was determined as follows;
+Skincare, face cream surface area 565cm2 plus Skincare, neck surface area 320cm2. These figures have been extracted
+from SCCS Notes for Guidance for the testing of Cosmetic Ingredients and their safety Evaluation, 9th Revision, Section
+4.2, Table 1, page 76.
+
+### A.7
+
+Exposure to the Substances
+
+Daily Systemic Exposure Dosage (SED) is the daily amount of a cosmetic substance
+applied based on the concentration of that particular substance, the percutaneous
+absorption and the nominal human body weight (60 kg) and this is shown in the table
+below.
+Ingredient
+(INCI name & CAS number)
+
+Almond Oil PEG-6 Esters
+124046-50-0
+Propylene Glycol
+57-55-6
+Glycerin
+56-81-5
+Phenoxyethanol
+122-99-6
+Cyclohexane
+110-82-7
+Sodium hydroxide
+1310-73-2
+Hydrolysed caesalpinia Spinosa Gum
+39300-88-4
+Citrus bergamia peel oil expressed
+(also known as the perfuming name:
+Citrus Reticulata, X C. Sinensis Peel
+Extract)
+Ophiopogon japonicus root extract
+952500-62-8
+Caesalpinia Spinosa Gum
+39300-88-4
+Hydrolysed Viola Tricolor extract
+84012-42-0
+Caprylyl Glycol
+1117-86-8
+Caesalpinia Spinosa Fruit Pod Extract
+39300-88-4
+Kappaphycus Alvarezii Extract
+1220882-73-4
+Ethylhexylglycerin
+70445-33-9
+Methylparaben
+99-76-3
+
+Maximum
+concentration
+(%)
+
+Calculated
+product
+relative
+daily
+exposure
+(mg/kg
+bw/day)
+
+Dermal
+penetration
+factor#
+
+Daily
+ingredient
+exposure or
+SED
+(mg/kg
+bw/day)
+
+4.17
+
+0.2085
+
+2.2
+
+4.17
+
+0.0917
+
+1.76
+
+4.17
+
+0.0734
+
+0.9725
+
+4.17
+
+0.0406
+
+0.8
+
+4.17
+
+0.0334
+
+0.8
+
+4.17
+
+0.0334
+
+0.7
+
+4.17
+
+0.0292
+
+0.5
+
+4.17
+
+0.02085
+
+0.33
+
+4.17
+
+0.0138
+
+0.2
+
+4.17
+
+0.00834
+
+0.14
+
+4.17
+
+0.00584
+
+0.1
+
+4.17
+
+0.00417
+
+0.095
+
+4.17
+
+0.00396
+
+0.095
+
+4.17
+
+0.00396
+
+0.014
+
+4.17
+
+0.00058
+
+0.00825
+
+4.17
+
+0.00034
+
+Ingredient
+(INCI name & CAS number)
+
+Butylparaben
+94-26-8
+Ethylparaben
+120-47-8
+Propylparaben
+94-13-3
+
+Maximum
+concentration
+(%)
+
+Calculated
+product
+relative
+daily
+exposure
+(mg/kg
+bw/day)
+
+Dermal
+penetration
+factor#
+
+Daily
+ingredient
+exposure or
+SED
+(mg/kg
+bw/day)
+
+0.00315
+
+4.17
+
+0.00013
+
+0.00215
+
+4.17
+
+0.000090
+
+0.00115
+
+4.17
+
+0.000048
+
+# No dermal absorption is available, however 100% dermal absorption is used as Marine Replenishing
+Peptide Masque is a leave on product.
+
+### A.8
+
+Toxicological Profile of the Substances
+
+Ingredient
+(INCI name & CAS
+number)
+Almond Oil PEG-6
+Esters
+124046-50-0
+Propylene Glycol
+57-55-6
+Glycerin
+56-81-5
+Phenoxyethanol
+122-99-6
+
+Cyclohexane
+110-82-7
+
+Hazard Reference
+
+### NOAEL
+
+Human
+Irritant to
+Irritant
+Sensitiser
+ID and
+for
+(mg/kg
+SEDb
+MoSc
+comment
+data
+eyes
+to skin
+a
+list
+hazard ID
+bw/day)
+2014 CIR Compendium. Safe for use in cosmetics when formulated to be non-irritating. Almond Oil PEG-6
+esters is the product of transesterification of Prunus Amygdalus dulcis (Almond) Oil and PEG-G. The limits of
+the outlined reactants are stated as up to 77% and 51% respectively, where Almond oil was determined to
+A
+be non-irritating and PEG-6 safe for use in cosmetics. Full amended report 09/12 available from CIR; IJT 33
+**(Suppl 4):** 13-39, 2014. It was determined that the use of Almond Oil PEG-6 Esters is safe to use Marine
+Replenishing Peptide Masque at the level of 5%.
+A
+
+2014 CIR Compendium. For use up to 50%. JACT 13(6):437-91, 1994; IJT 21(2) 245-260, 2012.
+
+A
+
+Safe, GRAS, FDA approved food additive, FDA approved over the counter (OTC) for skin.
+
+A
+
+2014 CIR Compendium, for use up to 1%. JACT 9(2):259-77, 1990.
+Available data on Cyclohexane indicated that it has a low order of toxicity, no ADI has been established
+according to JECFA report 23/19. Evaluation of certain food additives. Twenty-third Report of the Joint
+FAO/WHO Expert Committee on Food Additives. (1981). Food and Cosmetics Toxicology, 19, p381.
+
+B
+
+Cyclohexane is almost completely absorbed by the oral and inhalation route with dermal absorption of pure
+liquid cyclohexane in contact with the skin being 5%, this percentage is significantly reduced use Marine
+Replenishing Peptide Masque due to Cyclohexane being present in the formulation at 0.8% therefore the
+dermal absorption would be reduced. Cyclohexane is considered to be a skin irritant with the properties
+being delayed and persistent while it was not considered to be sensitizer. The NOAEL ranged from 250 ppm
+to 2,000 ppm in a number of animal and human toxicity testing. Taking 250ppm as the worst case scenario
+NOAEL the MoS was calculated to be 7485. It is considered that a value above 100 is generally considered to
+be safe. Cyclohexane is present at a level of 0.0334 mg/kg bw/day in use Marine Replenishing Peptide
+Masque, considerable lower than the level outlined as a NOAEL and therefore safe for use. Cyclohexane,
+Summary Risk Assessment Report. (2004). European Commission Joint Research Centre, Institute for health
+
+Ingredient
+(INCI name & CAS
+number)
+
+Sodium hydroxide
+1310-73-2
+
+Hazard Reference
+
+### NOAEL
+
+Human
+Irritant to
+Irritant
+Sensitiser
+ID and
+for
+(mg/kg
+SEDb
+MoSc
+comment
+data
+eyes
+to skin
+a
+list
+hazard ID
+bw/day)
+and Consumer Protection, Europen Chemicals Bureau, special Publication 1.04.22, pp 1-15. This report is
+presented in Appendix 4.
+
+A
+
+Hydrolysed caesalpinia
+Spinosa Gum
+39300-88-4
+
+A
+
+Ophiopogon japonicus
+root extract
+952500-62-8
+
+##
+
+Caesalpinia Spinosa
+Gum
+
+A
+
+For use up to 6.9% in leave on cosmetics. Restricted to use in formulations where pH must be
+below pH 11. The pH of Marine Replenishing Peptide Masque is indicated on the stability report as
+pH 4.01. Human dermal irritation studies indicated irritation caused by sodium Hydroxide at levels
+as low as 0.5, with dermal sensitization HRIPT challenge test sodium hydroxide was not sensitizing
+when induced up to 1% and when challenged at 0.125% irritation was observed. Final report 12/15,
+available CIR website. The pH of Marine replenishing Peptide Masque indicated a pH of 4.01 ; lower
+than pH 11 outlined. With the combination of sufficient pH and Sodium Hydroxide present in
+formulation at 0.8%, no serious undesirable effects are expected when used as directed.
+
+For use up to 0.4% in leave on formulations, it is currently present in formulation at 0.7%. A read across to
+Caesalpinia Spinosa Gum toxicology was performed and the assessment found that the skin irritation
+potential was low and determined to be non-irritating. Hydrolysed Caesalpinia Spinosa Gum is classed as a
+Galactomannan, which are large molecules with a molecular weight of greater than 50,000 g/mole and often
+exceed 2,000,000 g/mole, therefore systemic safety is not considered as the dermal absorption potential is
+reduced. Caesalpinia Spinosa Gum has been approved for use as a food ingredient by the JECFA and an ADI
+has not been specified. IJT 34 (Suppl. 1):35-65, 2015. It was determined that the inclusion of Hydrolysed
+Caesalpinia Spinosa Gum in Marine Replenishing Peptide Masque will not cause any serious undesired
+effects when used as directed.
+A secondary assessment has been performed for Ophiopogon japonicus (OJ) root extract. A clinical trial
+(n=858) outlined a dose of 11,800 mg (196.6 mg/kg bw/day) which is 14,246 times lower than the
+concentration in the outlined product (0.0138 mg/kg bw/day). Mild adverse effects were noted in the high
+dose intravenous group (60ml/day); the effects included mild insomnia, dry mouth and stomach discomfort.
+No serious undesired effects are expected with the use of OJ in Marine Replenishing Peptide Masque when
+used as directed.
+Safe when used up to 0.5%, CIR compendium 2014. Final report 03/12 available from CIR. Caesalpinia
+Spinosa Gum is present in Marine Replenishing Peptide Masque at a level of 0.2% and it was determined
+
+Ingredient
+(INCI name & CAS
+number)
+39300-88-4
+
+Hazard Reference
+ID and
+for
+lista
+hazard ID
+
+Hydrolysed Viola
+Tricolor extract
+84012-42-0
+
+##
+
+Caprylyl Glycol
+1117-86-8
+
+A
+
+Caesalpinia Spinosa
+Fruit Pod Extract
+39300-88-4
+
+##
+
+Kappaphycus Alvarezii
+Extract
+1220882-73-4
+
+##
+
+Ethylhexylglycerin
+70445-33-9
+
+A
+
+### NOAEL
+
+(mg/kg
+SEDb
+MoSc
+comment
+bw/day)
+that at this level no serious undesirable effects are expected when used as desired.
+A secondary assessment was performed on Hydrolysed Viola Tricolor extract. According to the EMA final
+assessment, the worst case dose of Hydrolysed Viola Tricolour was outlined to be 37.5 mg/kg bw/day, 6421
+times greater than the stated amount in Marine Replenishing Peptide Masque. It was therefore concluded to
+be safe for use by adolescents and adults only. A read across was performed to a product called ABS Viola
+Tricolor PF, with INCI name of Hydrolyzed Viola Tricolor where In vitro toxicological tests concluded that
+Hydrolysed Tricolor was a nether a dermal nor ocular irritant. It is not expected that the presence of
+Hydrolysed Viola tricolor extract at a concentration of 0.14% (at 0.00584 mg/kg bw/day) would cause any
+serious undesired effects when used as directed.
+Irritant to
+eyes
+
+Irritant
+to skin
+
+Sensitiser
+
+Human
+data
+
+2014 CIR Compendium. For use up to 5%, IJT 31 (S2):147-168,2012.
+A read across was performed to Caesalpinia spinosa gum, where it was approved for use as a food ingredient
+by JECFA with no specific ADI assigned for man. The read across was performed to Caesalpinia Spinosa Gum
+due to both ingredients originating from the same plant family; Caesalpiniaceae. The fruit pod extract is
+similar to the gum as they are both largely contain polysaccharide’s. It was determined that Caesalpinia
+Spinosa Fruit Pod Extract was safe for use in Marine Replenishing Peptide Masque due to its low level
+inclusion ( 0.095%) and a read across to Caesalpinia Spinosa Gum determining it approved as a food
+ingredient.
+A secondary assessment was performed on Kappaphycus Alvarezii Extract where the proprietary ingredient
+sulphated galactan; Carrageenan was evaluated. Carrageenan is isolated from red seaweeds with molecular
+weights of between 200,000 and 400,000, with dermal penetration evaluated as being limited due to the
+large size of the molecule. Carrageenan is GRAS by the US FDA under the Code of Federal Regulations (21
+CFR 182.7255) and is also approved as food additive ingredient. Carrageenan has also been considered safe
+for food use with no ADI and Considered acceptable for use topically It is expected that Kappaphycus
+Alvarezii Extract is safe for use in Marine Replenishing Masque.
+2014 CIR Compendium. Safe for use up to 2% in leave on formulations. The skin irritation and sensitization
+potential of a foundation containing 0.4% ethylhexylglycerin in a RIPT with 108 males and females was
+evaluated where the test substance was applied for 24 hours for a total of 9 induction applications. There
+
+Ingredient
+(INCI name & CAS
+number)
+
+Methylparaben
+99-76-3
+Butylparaben
+94-26-8
+Ethylparaben
+120-47-8
+Propylparaben
+94-13-3
+
+Citrus Bergamia Peel Oil
+Expressed
+
+Hazard Reference
+
+### NOAEL
+
+Human
+Irritant to
+Irritant
+Sensitiser
+ID and
+for
+(mg/kg
+SEDb
+MoSc
+comment
+data
+eyes
+to skin
+a
+list
+hazard ID
+bw/day)
+was 109 participants in the challenge phase where the test sites were scored at the time of patch removal,
+24 and 48 hours later. It was determined that the foundation was neither a skin irritant nor a sensitizer. IJT
+**32 (Suppl. 3):** 5-21, 2013.
+2014 CIR Compendium. For use up to 0.4% if used alone; parabens mixture up to 0.8%. IJT 27(S4):1-82, 2008
+A
+**JACT 3(5):** 147-209. 1984 (original report). Methylparaben is present in Marine Replenishing Peptide Masque
+in a paraben mixture and therefore is allowed a maximum value of 0.8% in formulation.
+2014 CIR Compendium. For use up to 0.4% if used alone; parabens mixture up to 0.8%. IJT 27(S4):1-82, 2008
+**JACT 3(5):** 147-209. 1984 (original report). Butylparaben is present in Marine Replenishing Peptide Masque in
+A
+a paraben mixture and therefore is allowed a maximum value of 0.8% in formulation.
+2014 CIR Compendium. For use up to 0.4% if used alone; parabens mixture up to 0.8%. IJT 27(S4):1-82, 2008
+A
+**JACT 3(5):** 147-209. 1984 (original report). Ethylparaben is present in Marine Replenishing Peptide Masque in
+a paraben mixture and therefore is allowed a maximum value of 0.8% in formulation.
+2014 CIR Compendium. For use up to 0.4% if used alone; parabens mixture up to 0.8%. IJT 27(S4):1-82, 2008
+A
+**JACT 3(5):** 147-209. 1984 (original report). Propylparaben is present in Marine Replenishing Peptide Masque
+in a paraben mixture and therefore is allowed a maximum value of 0.8% in formulation.
+Supplier IFRA Certificate of conformity for Bergamot Oil is supplied and presented in Appendix 3. The
+maximum allowable concentration; Category 5 - Women’s facial creams is 9.96 % w/w . The actual
+concentration in the formulation is 0.5%. The allergen components are declared in section A.1. Fragrance
+B
+Allergen table. Citrus Bergamia Peel Oil Expressed will be indicated in the label along with its fragrance
+components. It has been determined that the use of Bergamot Oil is safe for use in Marine Replenishing
+Peptide Masque.
+
+a Some ingredients are excluded from a formal risk assessment where a recognized authority has published a review of the
+
+ingredient under similar conditions of use and concluded on safe use at the level of inclusion in the cosmetic product (Hazard ID=A).
+Hazard ID category B is for recognized authority reviews of the ingredient under similar conditions of use with restricted use or
+where the ingredient is contained in the annexes to Regulation (EC) No 1223/2009 (Hazard ID=B). Where hazard ID A or B is
+reported, the maximum allowed usage concentration should be stated.
+b all possible routes of exposure should be considered
+
+c A MoS of greater than 100 is considered to represent safe use
+
+# Food item, hazard and exposure data not required
+## A secondary assessment has been performed on this ingredient, the assessment is presented in Appendix 4
+
+**Fragrances:** 
+Marine Replenishing Peptide Masque contains a fragrance called Citrus Bergamia Peel
+Oil Expressed (Bergamot Oil). Allergens above the limit of 0.001% for leave on cosmetics
+include Limonene, Linalool, Citral, Alpha-Pinene and Linalyl Acetate with their
+corresponding concentrations outlined in Section A.1.The IFRA certificate and
+conformity certificate are presented in Appendix 3.
+
+### A.9
+
+Undesirable Effects and Serious Undesirable Effects
+
+No undesirable effects are anticipated based on the product being used as directed on
+the face twice daily.
+
+### A.10
+
+Information on the Cosmetic Product
+
+Marine Replenishing Peptide Masque was released in 2017. Over the period August
+2017 to August 2018 2045 units have been sold and there have been no adverse
+reactions reported to RégimA Company.
+
+**B:** Part Cosmetic Product Safety Assessment
+
+### B.1
+
+Assessment Conclusion
+
+Review of the ingredients
+After analysis of all the available information including:
+• formulation
+• toxicological profile of the ingredients and their concentration in the product
+• Product data sheets supplied by the ingredient manufacturer
+It is not expected that Marine Replenishing Peptide Masque will cause damage to
+human health when used as directed.
+It is therefore concluded that Marine Replenishing Peptide Masque can be placed on the
+market in the EU as a face masque.
+Review of human data on the product
+There are no human tests such as a patch test, for this product.
+
+### B.2
+
+Label Warnings and Instructions for Use
+
+Directions for use are given on the product label and the product outer packaging.
+These labels and product outer packaging is presented in Appendix 4.
+**Directions (50mls) PM:** Once weekly or as desired. Following a RégimA peel or facial
+apply eye care and desired serums. Particularly O2 Purifyer. Then apply a thin Layer of
+masque with fingertips to face and neck, avoiding the eye area. Leave masque on and
+only cleanse in the morning. To be followed by RégimA daily home care.
+**Directions (150mls):** To be used as part of a RégimA in-salon treatment. Following
+RégmA Peel or facial apply eye care and desired serums, particularly O2 Purifyer. Then
+apply a thin layer of Masque with fingertips to face and neck avoiding the eye area.
+This is a leave-on decadent Masque designed to provide immediate and long lasting
+deep hydration.
+
+**Warnings:** 
+**50ml Bottle:** 
+‘Must NOT be combined with any other product range’
+‘Airless Container DO NOT remove top as this would introduce air and/or bacteria’
+‘Product level can be viewed through the gap in label’
+‘ Store below 77°F/25°C in a cool dry place. Protect from light’
+‘Strictly for professional use’
+**150ml Bottle:** 
+‘Must NOT be combined with any other product range’
+‘Airless Container DO NOT remove top as this would introduce air and/or bacteria’
+‘Product level can be viewed through the gap in label’
+‘ Store below 77°F/25°C in a cool dry place. Protect from light’
+A Silab IBPN technology® logo is present on the label signifying RégimA having a license
+to use FILMEXEL® in Marine Replenishing Peptide Masque. The license and technical
+summary is presented in Appendix 4.
+
+### B.3
+
+Reasoning
+
+This product contains many ingredients with a positive reputation for their properties and
+with good local tolerance when used as directed. There are no reasons to anticipate
+tolerance problems when used once weekly.
+This product is intended for external use in adults only.
+
+### B.4
+
+Assessors Credentials and Approval of Part B
+
+Shirley Hudson (safety assessor)
+BSc, University of Aberdeen
+CBiol, MSB
+20+ years as a practicing toxicologist in the pharmaceutical and chemical industries
+
+After analyzing of all of the available information including the product formulation and
+, toxicological profile of the ingredients, I conclude that according to the current state of
+scientific knowledge, this product is not expected to result in any significant damage to
+human health and can be safely marketed for the intended and foreseeable use as a
+face masque.
+
+List of References
+SCCS Notes of Guidance for the Testing of Cosmetic Substances and Their Safety
+Evaluation, 9th Revision, 29 September 2015 (SCCS/1564/15)
+European Commission database on cosmetic ingredients (Cosing)
+**http:** //ec.europa.eu/consumers/cosmetics/cosing/
+Cosmetic ingredient review http://www.cir-safety.org/
+JECFA report on the ‘ Evaluation of certain food additives’ referring to Cyclohexane.
+**http:** //apps.who.int/iris/bitstream/handle/10665/41403/WHO_TRS_648.pdf?sequence=
+**Cyclohexane CAS no:** 110-82-7, EINECS No: 203-806-2, Summary Risk Assessment
+Report, European Commission, Special Publication I.04.22, Joint Research Centre,
+
+Institute for Health and Consumer Protection, European Chemicals Bureau, Italy, 2004.
+This report is presented in Appendix 4.
+
+## Method Of Manufacture / Gmp Certification
+
+## Proof Of Effect Claimed
+
+This product claims to provide immediate and long-lasting deep hydration, confirmatory
+evidence has been provided by RégimA. SpaZone Marine Replenishing Peptide Masque
+contains an active ingredient called FILMEXEL® (with active botanicals Kappaphycus
+Alvarezzi Extract and Caesalpinia Spinosa Fruit Pod Extract) , this patented dynamic
+ingredient is categorised as providing a non-occlusive film known as a ‘Second Skin’ that
+mimicks its properties and functions. A technical summary outlining this proof of effect
+along with RégimA’s license to use FILMEXEL® in Marine Replenishing Peptide Masque is
+presented in Appendix 4.
+
+## Animal Testing Statement
+
+To the best of our knowledge, the manufacturer and his suppliers have not carried out
+or commissioned any animal testing for the purpose of developing new cosmetic
+products.
+The statement below is a confirmation of the company policy:
+
+RégimA Skin Treatments
+
+## Ck92/05371/23
+
+VAT No. 4590131043
+
+**Tel:** 011 615 2869 or 011 622 7827
+**Fax:** 011 616 8008
+**Cell:** 0836537020
+**e-mail:** jax@regima.com
+**POSTAL ADDRESS:** PO BOX 9523 Edenglen 1613
+**PHYSICAL ADDRESS:** 20 River Road Morninghill Bedfordview 2007 RSA
+Animal Testing Compliance Statement
+This letter is to serve as testimony as to the practice of animal testing, and
+confirm that RégimA Skin Treatments has not, nor will not engage in any practice
+that involves animal testing in any form.
+RégimA Skin Treatments hereby confirms neither the manufacturer nor RégimA
+Skin Treatments itself have commissioned or carried out any form of animal
+testing during the course of product development. This applies to any and all
+activities performed as part of the development process, including, but not
+**restricted to:** R&D, stability testing, safety and toxicology assessments, suitability
+studies or any other facet related to the product’s development.
+
+**Appendix 1:** Safety Data Sheets or Ingredient Specifications
+Safety data sheets and technical data sheets for the ingredients are maintained
+electronically with the PIF by the Responsible Person. They are available on request.
+
+**Appendix 2:** Microbial Challenge Test
+A microbial challenge test is maintained electronically with the PIF by the Responsible
+Person. It is available on request.
+
+**Appendix 3:** Certificates of Allergen Content
+
+**Appendix 4:** Miscellaneous
+The stability report, packaging material information and product carton insert are
+maintained electronically with the PIF by the Responsible Person. They are available on
+request.
+
+### PRODUCT
+
+## Information File*
+
+RégimA Company
+Neck + Breast Refining
+Complex Masque
+**Prepared:** May 2018
+(Label & packaging update August 2021)
+*As required under Article 11 of the European Cosmetics Regulation EC No. 1223/2009
+
+## Table Of Contents
+
+Contents
+
+## Introduction ................................................................................................................... 3
+
+## Product Description .................................................................................................. 3
+
+## Cosmetic Product Safety Report ................................................................................ 7
+
+### Part A: Cosmetic Product Safety Information................................................................. 7
+
+### A.1 Quantitative and qualitative composition of the cosmetic product: ............... 7
+
+### A.2 Physical /chemical characteristics and stability of the cosmetic product ..... 12
+
+### A.3 Microbiological Quality................................................................................... 14
+
+### A.4 Impurities, traces, information about the packaging material ...................... 14
+
+### A.5 Normal and reasonably foreseeable use ........................................................ 14
+
+### A.6 Exposure to the Cosmetic Product ................................................................. 14
+
+### A.7 Exposure to the Substances ........................................................................... 15
+
+### A.8 Toxicological Profile of the Substances .......................................................... 17
+
+### A.9 Undesirable Effects and Serious Undesirable Effects..................................... 27
+
+### A.10
+
+### Information on the Cosmetic Product ........................................................ 27
+
+**B:** Part Cosmetic Product Safety Assessment ............................................................... 28
+
+### B.1 Assessment Conclusion .................................................................................. 28
+
+### B.2 Label Warnings and Instructions for Use ....................................................... 28
+
+### B.3 Reasoning ....................................................................................................... 30
+
+### B.4 Assessors Credentials and Approval of Part B ................................................ 30
+
+### List of References .......................................................................................................... 30
+
+## Method Of Manufacture / Gmp Certification............................................... 31
+
+## Proof Of Effect Claimed ..................................................................................... 32
+
+## Animal Testing Statement .................................................................................. 33
+
+### Appendix 1: Safety Data Sheets or Ingredient Specifications ...................................... 34
+
+### Appendix 2: Microbial Challenge Test .............................................................................. 35
+
+### Appendix 3: Certificates of Allergen Content ................................................................... 36
+
+### Appendix 4: Miscellaneous ........................................................................................... 39
+
+## Introduction
+
+## Product Description
+
+**Product Name:** Neck + Breast Refining Complex Masque
+Product type
+Form
+Colour
+Pack size
+Pack type
+Dispenser type
+Part of a set
+Manufacturer code
+Normal use
+
+Neck, décolleté and breast cream
+Cream
+Off white
+50 ml & 150ml
+Chubby Chunky Airless Containers
+Polypropylene pump
+No
+
+### SBRR 002
+
+**Directions:** 50ml. AM & PM; Cleanse with RégimA, apply
+eye care products. Apply a thin layer of Neck + Breast
+Complex to neck, décolleté and breasts. To be followed
+daily by application of RégimA day product containing sun
+protection.
+**150ml:** To be used as part of a RégimA in-salon treatment.
+This Neck + Breast Complex may be used as a Masque
+during a RégimA facial. Apply a think layer to neck,
+décolleté and breasts. This may be left on and additional
+hydrating or treatment products applied over if desired.
+
+**Pictures of the Item:** On following page
+
+Container label
+
+**Commented [HM1]:** Triple check labels
+
+Neck + Breast Refining Complex – 50ml
+
+Carton label
+Neck + Breast Refining Complex – 50ml
+
+**Batch code:** The batch number is printed onto the underside of the carton and the
+container at the point of manufacturing and filling; therefore, it is not visible on the
+label as represented in this PIF. The batching is automated, so the batch code and date
+is printed onto the carton and container as they are filled and boxed.
+**Product claims:** 
+This product claims the following:
+Restoration is available in the form of combined technologically advanced renewal active
+ingredients. Shiitake mushrooms, rich in oligosaccharides, anti-inflammatories,
+antioxidants, vitamins and minerals, fortify firmness and tonicity whilst lightening
+uneven skin colour. Increased elasticity is achieved by limiting degradation of Collagen I
+and III fibers, thereby reducing skin fatigability.
+Remodeling of the contours of the neck and breasts, increasing density and firmness is
+ultimate anti-ageing, achieved by boosting natural actives in the form of phytonutrients,
+including purified black pepper berries, proven to restore elasticity, tightness, smoothing,
+improving colour and texture.
+The combination of firming and contouring precious actives results in a firmer, more
+youthful looking skin.
+
+## Cosmetic Product Safety Report
+
+**Part A:** Cosmetic Product Safety Information
+
+### A.1
+
+Quantitative and qualitative composition of the cosmetic product:
+
+Neck + Breast Refining Complex Masque base formula
+No
+
+Raw Ingredient (INCI Name)
+
+%
+(w/w)
+
+Mixture %
+w/w
+Wt(g/kg)
+
+CAS
+
+EC
+
+Function
+
+Supplier
+(Agent)
+
+Tradename
+
+Water (Aqua)
+
+7732-18-5
+
+231-791-2
+
+Solvent
+
+In House
+
+Deionised
+Water
+
+Cetearyl Olivate
+
+2.5
+
+85116-80-9
+
+285-532-3
+
+Sorbitan Olivate
+
+2.5
+
+Emulsifying
+
+Textron
+Tecnica (CJP
+Chemicals)
+
+Olivem®
+
+Water (Aqua)
+Glycine Soja Protein
+
+4.85
+0.075
+
+Phenoxyethanol
+
+0.075
+
+Silab
+(Meganede)
+
+Raffermine®
+
+Water (Aqua)
+Pentylene Glycol
+Lentinus Edodes Extract
+
+4.35
+0.375
+0.275
+
+Solvent/
+Emulsifying/
+Skin Conditioning/
+Preservative
+Solvent/
+Skin Conditioning
+
+Silab
+(Meganede)
+
+Fermiskin™
+
+Olea Europaea Fruit Oil
+
+2.916
+0.063
+0.015
+0.006
+
+Textron
+Tecnica (CJP
+Chemicals)
+
+Olive Oil
+Extra Virgin
+
+Water (Aqua)
+Hydrolyzed pepper fruit extract
+Phenoxyethanol
+Ethylhexylglycerin
+
+Silab
+(Meganede)
+
+Retilactyl D®
+
+Rosa Canina Fruit Oil
+
+Masking/
+Perfuming/
+Skin Conditioning
+Solvent/
+Skin Protecting/
+Preservative /
+Skin Conditioning
+Emollient/
+Skin Conditioning
+
+Ribes Nigrum Seed Oil
+
+68606-81-5/
+97676-19-2
+
+271-749-0
+
+Emollient
+
+Hydrogenated Olive Oil
+
+1.95
+
+226993-75-5/
+
+269-820-6
+
+Skin Conditioning/
+
+223706-40-9/
+92202-01-2
+7732-18-5
+9010-10-0
+
+296-033-5
+231-791-2
+232-720-8
+
+122-99-6
+
+204-589-7
+
+7732-18-5
+5343-92-0
+223748-90-1
+
+231-791-2
+226-285-3
+310-127-6
+
+8001-25-0
+
+232-277-0
+
+7732-18-5
+84929-41-9
+122-99-6
+70445-33-9
+84696-47-9/
+84603-93-0
+
+231-791-2
+284-524-7
+204-589-7
+408-80-2
+283-652-0
+
+Seatons
+(Croda)
+Textron
+Tecnica (CJP
+Chemicals)
+Textron
+
+Rose Hips
+Oil
+Blackcurrant
+Seed Oil
+Oliwax
+
+No
+
+Raw Ingredient (INCI Name)
+
+%
+(w/w)
+
+Mixture %
+w/w
+Wt(g/kg)
+
+CAS
+68334-28-1
+8001-25-0
+8001-25-1/
+156798-12-8
+
+EC
+
+Viscosity Controlling/
+Masking/
+Perfuming/
+Skin Conditioning
+Humectant/
+Perfuming/
+Skin Protecting/
+Viscosity Controlling
+
+Olea Europaea Fruit Oil
+Olea Europaea Oil
+Unsaponifiables
+
+0.825
+
+Glycerin
+
+56-81-5
+
+200-289-5
+
+Persea Gratissima Oil
+
+8024-32-6
+
+232-428-0
+
+Polyacrylate Crosspolymer-6
+
+0.95
+
+#
+
+#
+
+T-Butyl Alcohol
+
+0.05
+
+75-65-0
+
+200-889-7
+
+Phenoxyethanol
+
+0.9
+
+122-99-6
+
+204-589-7
+
+Caprylyl Glycol
+
+0.1
+
+1117-86-8
+
+214-254-7
+
+Caesalpinia spinosa fruit extract
+Kappaphycus alvarezii extract
+Water (Aqua)
+Citrus bergamia peel oil
+expressed
+(also known as the perfuming
+**name:** Citrus Reticulata, X C.
+Sinensis Peel Extract)
+Xanthan Gum
+
+0.475
+0.475
+0.05
+
+39300-88-4
+1220882-73-4
+7732-18-5
+
+254-409-6
+310-127-6
+231-791-2
+
+Perfuming/
+Solvent /
+Emulsion Stabilising/
+Viscosity Controlling
+Preservative/
+Emollient/
+Humectant/
+Skin Conditioning
+Skin Protecting/
+Skin Conditioning/
+Solvent
+
+93686-22-7
+
+297-672-2
+
+0.25
+
+0.25
+
+11138-66-2
+
+234-394-2
+
+0.225
+
+232-277-0
+
+Function
+
+232-277-0
+
+Supplier
+(Agent)
+
+Tradename
+
+Tecnica
+
+### (CJP
+
+Chemicals)
+
+Various
+
+Refined
+Glycerin
+
+Textron
+Tecnica (CJP
+Chemicals)
+
+Avocado Oil
+
+Seppic (CJP)
+
+Sepimax Zen
+
+Dr Straetmans
+(Meganede)
+
+Verstatil PC
+
+Silab
+(Meganede)
+
+Filmexel®
+
+Perfuming
+
+FD Copeland
+(CJP Chemicals)
+
+Bergamot
+Oil
+
+Binding/
+
+CP Kilco
+
+Xanthan
+
+Skin Conditioning
+
+No
+
+Raw Ingredient (INCI Name)
+
+%
+(w/w)
+
+Mixture %
+w/w
+Wt(g/kg)
+
+CAS
+
+200-201-5/
+240-747-1/
+233-466-0/
+204-299-0/
+215-798-8/
+218-197-9/
+200-412-2
+
+231-791-2
+
+Tocopherol
+
+0.1
+
+0.1
+
+54-28-4
+(gamma)/
+16698-35-4
+(beta)/
+
+## 10191-410(Dl)/
+
+119-13-1/
+1406-18-4/
+406-66-2/
+2074-53-5
+
+### (DL)/
+
+## 59-02-9 (D)/
+
+616-22-0
+
+Water (Aqua)
+
+54.65
+
+54.65
+
+7732-18-5
+
+EC
+
+Supplier
+(Agent)
+
+Tradename
+
+(Tranarc)
+
+Gum
+
+Antioxidant/
+Masking/
+Skin Conditioning
+
+DSM
+Nutritional
+Products
+(Chempure)
+
+dl-αTocopherol
+
+Solvent
+
+In House
+
+Deionised
+Water
+
+Function
+Emulsifying/
+Emulsion Stabilising/
+Gel Forming/
+Skin Conditioning/
+Surfactant/
+Viscosity Controlling
+
+# CAS/ EC not assigned
+
+Ingredient order for the label: Water (Aqua), Olea Europaea Fruit Oil, Glycerine, Ribes Nigrum Seed Oil, Rosa Canina Fruit Oil,
+Cetearyl Olivate, Sorbitan Olivate, Persea Gratissima Oil, Hydrogenated Olive Oil, Citrus bergamia Peel Oil expressed,
+Phenoxyethanol, Polyacrylate Crosspolymer-6, Caesalpinia Spinosa Fruit extract, Kappaphycus alvarezii extract, Pentylene Glycol,
+Lentinus Edodes Extract, Limonene, Xanthan Gum, Olea Europea Oil Unsaponifiables,
+
+Linalool, Caprylyl Glycol, Tocopherol, Glycine Soja protein, Hydrolyzed pepper fruit extract, T-butyl alcohol, Citral, Ethylhexylglycerin,
+Linalyl Acetate, Pinene.
+Red font denotes ingredients present at less than 1% which may be listed in any order.
+
+Below are the allergens and their respective concentrations in the fragrance that are
+required to be listed in Article 19 Paragraph 1(d) & (g (ii)) of EC 1223/2009 when present
+at levels >0.001% in a leave-on product.
+Fragrance allergens
+INCI (EU) Name
+
+CAS number
+
+EC number
+
+Concentration % w/w
+
+Comment
+
+Citral
+Limonene
+Linalool
+
+5392-40-5
+5989-27-5
+78-70-6
+
+226-394-6
+227-813-5
+201-134-4
+
+0.0301
+0.2735
+0.1005
+
+Linalyl Acetate
+
+115-95-7
+
+204-116-4
+
+0.25
+
+Pinene
+
+80-56-8
+
+201-291-9
+
+0.029
+
+Annex III/70*
+Annex III/88*
+Annex III/84*
+SCCS Opinion on
+Fragrance allergens,
+Page 47 2*
+SCCS Opinion on
+Fragrance allergens,
+Page 47 2*
+
+*Regulation (EC) No 1223/2009 of the European Parliament and of the council of 30 November 2009 on
+
+cosmetic products, Annex III – List of substances which cosmetic products must not contain except subject
+to the restrictions laid down.
+** SCCS Opinion on Fragrance allergens in cosmetic products, 15th plenary meeting, June 2012,
+SCCS/1459/11, Section 7-1 – Tabular summary of evaluated individual fragrance chemicals, Table 7-1
+Established Contact allergens in humans.
+
+### A.2
+
+Physical /chemical characteristics and stability of the cosmetic product
+
+Physical and chemical characteristics of the ingredients have been listed in the safety
+data sheets which are maintained electronically by the Responsible Person and are
+available on request. A cross reference to the SDS tradename and electronic reference
+number has been shown in the base formula table.
+Physical and Chemical Characterization of the product
+1 Physical state
+2 type of mixture (emulsion/ o/w or w/o,
+suspension, lotion, powder, aerosol …)
+3 organoleptic properties (colour, odour,
+whenever relevant)
+4 pH (at 25oC)
+5 viscosity (at 25oC)
+6 thermal stability (glass bottle)
+7 Specific gravity (at 25oC)
+
+Cream
+Emulsion
+Off white smooth cream. Characteristic
+odour
+4.74
+85,000
+40 oC for 12 weeks
+0.960 g/ml
+
+Stability of the product
+A shelf-life of 6 months after opening has been allocated to this product.
+An on-going stability study of the product in the packaging will be available to support
+the shelf-life. A stability test of the product in glass jars has confirmed stability at 25oC
+for 12 weeks.
+Additional stability tests were performed at 5oC, 40oC and 50oC.
+5oC Stability testing
+Testing at 5oC noted an increase in viscosity at week 4, 8 and 12 where the increase was
+noted as 18%, 57% and 29% respectively.
+40oC Stability testing
+At 40oC the products appearance was noted as changed, the change was noted in week
+4 onwards where the change was described as very slightly darker. The pH had reduced
+in week 8 and 12 by 11% and 12% respectively. Viscosity testing at 40oC indicated a
+significant change in week 1, 2 and week 4 where changes were noted as 16%, 23%, ()34%
+50oC Stability testing
+Stability at 50oC indicated that the products appearance had changed from week 4
+through to week 12 where it was noted as ‘v. slightly darker’. The pH had noticeable
+dropped in week 4, 8 and 12 where the drop was noted as 17%, 22% and 19%
+respectively.
+Additionally, the viscosity of the product was noted to have changed in week 1 and
+week 2 where the change was 14% in both tests.
+
+### A.3
+
+Microbiological Quality
+
+A PET test has been performed according to USP method 38 and confirms the
+effectiveness of the preservative for a period of 28 days. The certificate has been
+presented in Appendix 2.
+
+### A.4
+
+Impurities, traces, information about the packaging material
+
+None of the ingredients of this product contained impurities at a level which would
+require notification.
+A statement on the suitability of the product packaging is shown below.
+The Neck + Breast Refining Complex Chubby Chunky Airless Container is made from
+Polypropylene and ow density Polyethylene (LDPE). The pump is composed of
+Polypropylene, LDPE and high-density polyethylene (HDPE). The components of the
+packaging material and suitability of use criteria are included in a certificate in Appendix
+4. This is maintained electronically with the PIF by the Responsible Person and is
+available on request.
+
+### A.5
+
+Normal and reasonably foreseeable use
+RégimA SpaZone Neck and Breast refining complex is a product designed for application
+to the neck, breast and décolleté as a refining complex. It is a leave-on product that in
+normal circumstances will be used once daily on the neck, break and décolleté. This
+product is an in-salon product (150ml) with a take home product also (50ml).
+
+### A.6
+
+Exposure to the Cosmetic Product
+
+Site of application
+Surface area of application (cm2)
+Volume of product applied (mg)
+Frequency of application/use per day
+Target population
+Normal and foreseeable exposure route
+Calculated relative daily exposure
+according to SCCS notes for guidance
+tables (mg/kg bw/day)
+Dermal absorption information
+
+Neck, Breast and Décolleté
+2,722.5*
+3196**
+Twice daily#
+Adults
+Dermal
+3.196g applied dermal to a human with a
+default weight of 60kg has determined a
+Relative Daily exposure of 53.27mg/kg
+bw/day
+None
+
+other
+NA
+* Surface area of application = 2,722.5cm2 has been extracted from the Nordic Exposure Group Project
+
+2011, Existing Default Values and Recommendations for Exposure Assessment, TemaNord 2012:505.
+RegimA Neck & Breast refining complex is applied to the neck, breast and décolleté area, as there is no
+data directly outlining the surface areas of the intended areas an extraction was made. The Nordic
+Exposure Group Project 2011 has outlined the total body surface area of men and women to be 19,400
+and 16,900cm2 respectively with an average body area of 18,150cm2. Referencing the Lund and Browder
+chart which outlines the % total body surface area burn, this chart is typically used in the assessment of
+burn victims. This chat is the most accurate method ad compensates the variation in body shape. The
+Lund and Browder chart indicates that the chest and neck (front and back) total 15% of the entire body,
+using this as the worst-case scenario the surface area of the neck and chest was calculated to be
+2,722.5cm2. It was concluded that the neck, break and décolleté totaled 25% (1/4) of the trunk of an
+adult giving a surface are of 1427.5cm2. Hettiaratchy, S. and Papini, R. (2004). Initial management of a
+**major burn:** II—assessment and resuscitation. BMJ, 329(7457), pp.101-103.
+** Volume of product applied = 3196mg/day, this has been extracted from Body cream/lotion data
+provided by CTFA where it states 1.12mg/cm2/day is applied. The surface area of application has been
+outlined as 1427.5 cm2 therefore the amount applied was calculated as 1598 mg/per application, where
+the product is applied twice a day.
+# Frequency of application/use per day: worst case scenario of application twice day based on the product
+being used at home.
+
+### A.7
+
+Exposure to the Substances
+
+Daily Systemic Exposure Dosage (SED) is the daily amount of a cosmetic substance
+applied based on the concentration of that particular substance, the percutaneous
+absorption and the nominal human body weight (60 kg) and this is shown in the table
+below.
+Calculated
+Daily
+product
+ingredient
+relative
+Maximum
+Dermal
+exposure
+Ingredient
+daily
+concentration
+penetration
+or SED
+(INCI name & CAS number)
+exposure
+(%)
+factor#
+(mg/kg
+(mg/kg
+bw/day)
+bw/day)
+Olea Europaea Fruit Oil
+8001-25-0
+Glycerin
+56-81-5
+Ribes Nigrum Seed Oil
+68606-81-5
+Rosa Canina Fruit Oil
+84696-47-9
+Cetearyl Olivate
+85116-80-9
+Sorbitan Olivate
+223706-40-9
+Persea Gratissima Oil
+
+4.825
+
+53.27
+
+2.570
+
+53.27
+
+1.598
+
+53.27
+
+1.598
+
+53.27
+
+1.598
+
+2.5
+
+53.27
+
+1.332
+
+2.5
+
+53.27
+
+1.332
+
+53.27
+
+1.065
+
+Ingredient
+(INCI name & CAS number)
+
+8024-32-6
+Hydrogenated Olive Oil
+226993-75-5
+Citrus bergamia peel oil
+expressed
+(also known as the perfuming
+**name:** Citrus Reticulata, X C.
+Sinensis Peel Extract)
+93686-22-7
+Phenoxyethanol
+122-99-6
+Polyacrylate Crosspolymer-6
+#
+Caesalpinia spinosa fruit extract
+39300-88-4
+Kappaphycus alvarezii extract
+1220882-73-4
+Pentylene Glycol
+5343-92-0
+Lentinus Edodes Extract
+223748-90-1
+Xanthan Gum
+11138-66-2
+Olea Europaea Oil
+Unsaponifiables
+8001-25-1
+Caprylyl Glycol
+1117-86-8
+Tocopherol
+54-28-4
+Glycine Soja Protein
+9010-10-0
+Hydrolyzed pepper fruit extract
+84929-41-9
+T-Butyl Alcohol
+75-65-0
+Ethylhexylglycerin
+70445-33-9
+
+Calculated
+Daily
+product
+ingredient
+Maximum
+relative
+Dermal
+exposure
+concentration
+daily
+penetration
+or SED
+(%)
+exposure
+factor#
+(mg/kg
+(mg/kg
+bw/day)
+bw/day)
+1.95
+
+53.27
+
+1.039
+
+53.27
+
+0.533
+
+0.99
+
+53.27
+
+0.527
+
+0.95
+
+53.27
+
+0.506
+
+0.475
+
+53.27
+
+0.253
+
+0.475
+
+53.27
+
+0.253
+
+0.375
+
+53.27
+
+0.200
+
+0.275
+
+53.27
+
+0.146
+
+0.25
+
+53.27
+
+0.133
+
+0.225
+
+53.27
+
+0.120
+
+0.1
+
+53.27
+
+0.05327
+
+0.1
+
+53.27
+
+0.05327
+
+0.075
+
+53.27
+
+0.03995
+
+0.063
+
+53.27
+
+0.03356
+
+0.05
+
+53.27
+
+0.02663
+
+0.006
+
+53.27
+
+0.003196
+
+# No dermal absorption data is available; 100% dermal absorption is used it is a leave on product.
+
+### A.8
+
+Toxicological Profile of the Substances
+
+Ingredient
+(INCI name & CAS
+number)
+
+Hazard
+ID and
+lista
+
+Polyacrylate Cross
+Polymer 6
+#
+
+C
+
+Olea Europaea Fruit
+Oil
+8001-25-0
+Glycerin
+56-81-5
+
+A
+A
+
+Reference
+Irritant to Irritant
+for
+Sensitiser
+eyes
+to skin
+hazard ID
+
+Human
+data
+
+### NOAEL
+
+(mg/kg
+bw/day)
+
+SEDb
+
+MoSc
+
+Comment
+
+Not genotoxic (negative
+bacterial revere
+mutation). Based on
+assumed low hazard
+(meets the NICNAS
+polymer of low concern
+criteria) and assessed
+Nonuse pattern (up to 5% in
+sensitizing
+cosmetics), not
+Slightly
+NonNonand nonNot
+Not
+Not
+considered to be an
+irritating irritant senstizing irritating
+available available available
+unreasonable health risk.
+in humans
+No developmental or
+at ~5%
+reproductive
+toxicological data is
+available for Polyacrylate
+Cross Polymer 6
+therefore it is advised
+not to use it on pregnant
+or lactation females.
+2014 CIR Compendium. For use up to 100%, Final report 03/11 available from CIR. the safety of Olea Europaea Fruit Oil
+for use in pregnant or lactating mothers has not been confirmed therefore it is advisable not to use during pregnancy and
+lactation.
+
+GRAS, FDA approved food additive, FDA approved over the counter (OTC) for skin. In a 2-generation reproductive
+study in rats, (n=10/sex), the administration of glycerin (0, 20%; ~ 2000 mg/kg/d in drinking water) for 8 weeks before
+
+Ingredient
+(INCI name & CAS
+number)
+
+Hazard
+ID and
+lista
+
+Ribes Nigrum Seed
+Oil
+68606-81-5
+
+A
+
+Reference
+
+### NOAEL
+
+Irritant to Irritant
+Human
+for
+(mg/kg
+SEDb
+MoSc
+Comment
+Sensitiser
+eyes
+to skin
+data
+hazard ID
+bw/day)
+mating until weaning of pups produced no adverse effects on the reproductive efficiency of the parents (F0
+generation), or the growth, fertility, or reproductive performance of the untreated F1 generation. No histological
+changes occurred in the tissues of either the F1 or F2 generations. The onset of estrus cycles, weight gain, and
+microscopic observations of the endocrine organs were comparable to those of the controls in both the F1 and the F2
+generation. A NOAEL for maternal toxicity and teratogenicity was calculated to be 1310 mg/kg/d following the
+administration of glycerin to Wistar rats by oral gavage on days 6 through 15 of gestation where there was no adverse
+effects observed in the dams. A maternal toxicity MoS of 1640 was calculated where a MoS of greater than 100
+represents safe use.
+Final report 12/09/2014 available from CIR website.
+2014 CIR Compendium. For use up to 0.3%, Final Report 03/11 available from CIR. Ribes Nigrum Seed Oil is present in
+Neck and Breast Refining Complex at 3%, 10 times over the limited outlined by the compendium. The FDA have stated
+that Blackcurrant buds and leaves; under the name Ribes Nigrum L. are permitted as direct addition to food for
+human consumption, 21CFR172.510.
+To determine the safety if Ribes Nigrum Seed Oil a read across to Ribes Nigrum L. leaves was performed. An
+assessment was performed by European Medicine’s Agency (EMA); A sub-acute repeated dose toxicity testing on rats
+was performed where daily doses of 2g/kg/day and 1.34 g/kg/day for 21 and 28 days respectively was administered.
+No signs of toxicity or gastric ulceration was observed.
+2g/kg/day = 2,000mg/kg/day
+1.34g/kg/day = 1,340 mg/kg/day
+
+## Ema/Hmpc/745347/2016
+
+The use of a conversion factor was required in order to obtain a mg/kg bw/day value which could then be used to
+assess the safety of Ribes Nigrum. The EFSA Guidance on default values stated that the conversion factor that is to be
+used in subacute rat studies is a factor of 0.12 this allows for the conversion of mg/kg to mg/kg bw/day. Therefore;
+2,000 mg/kg bw/day x 0.12 = 240 mg/kg bw/day
+1,340 m/kg bw/day = 160.8 mg/kg bw/day
+
+Ingredient
+(INCI name & CAS
+number)
+
+Hazard
+ID and
+lista
+
+Reference
+Irritant to Irritant
+for
+Sensitiser
+eyes
+to skin
+hazard ID
+
+### NOAEL
+
+(mg/kg
+SEDb
+bw/day)
+**EFSA Journal 2012;10(3):** 2579
+Human
+data
+
+MoSc
+
+Comment
+
+The EMA has stated that there is no data is available on the use of Ribes Nigrum L leaves in fertility, pregnancy and
+lactation, therefore, use of Ribes nigrum L., folium cannot be recommended during pregnancy and lactation.
+Ribes Nigrum Seed Oil is present in Neck and Breast Refining Complex at 1.598 mg/kg bw/day, 101 times lower than
+that outlined as lowest dose of 160.8mg/kg/ bw/day.
+It was determined that Ribes Nigrum L. is safe for use as formulated however, the safety of Ribes Nigrum Seed Oil for
+
+use in pregnant or lactating mothers has not been confirmed therefore it is advisable not to use during pregnancy and lactation.
+
+Rosa Canina Fruit Oil
+84696-47-9
+
+A
+
+Cetearyl Olivate
+85116-80-9
+
+A
+
+Sorbitan Olivate
+223706-40-9
+
+A
+
+2014 CIR Compendium. For use up to 19%, Final Report 03/11 available from CIR. There is no reliable information on
+the safety of taking Rose Hip (Rosa Canina) Fruit oil during pregnancy and breastfeeding it is therefore advisable to
+avoid its application to the skin.
+2014 CIR Compendium. Safe for use in cosmetics when formulated to be non-irritating, Final Report 03/2013 available
+from CIR. There is no reliable information on the safety of taking Cetearyl Olivate during pregnancy and breastfeeding
+it is therefore advisable to avoid its application to the skin.
+2014 CIR Compendium. For use up to 7.5%, IJT 21 (S1):93-112,2002. No information was available on the reproductive
+and developmental effects if Sorbitan Olivate, data was available on comparable products named Sorbital and
+Sorbitan Stearate. The data indicated the following: Fatty acids are normal components of diet for which no data was
+available concerning reproductive or developmental toxicity. Sorbitol (2.5% to 10%) had no adverse effects on the reproduction
+of CD rats during a multigenerational feeding study. Hydrogenated starch hydrolysates (~7% sorbitol) were not reproductive
+toxins at doses of 3000 to 7000 mg/kg/day for 2 years. Additionally, Gravid female Wistar rats, 20 per group, were dosed once
+daily by gavage with 0, 500 or 1000 mg/kg bw/day sorbitan stearate on days 0-20 of gestation, and the animals were killed. The
+NOAEL for maternal toxicity and for teratogenicity was 1000 mg/kg bw/day. No test article-related embryotoxic results were
+reported. Final report 12/09/2014 available from CIR website.
+
+A maternal toxicity MoS was calculated to be 751 (Maternal NOAEL 1000mg/kg bw/day ÷ SED 1.332 mg/kg bw/day),
+
+Ingredient
+(INCI name & CAS
+number)
+
+Hazard
+ID and
+lista
+
+Persea Gratissima Oil
+8024-32-6
+
+A
+
+Hydrogenated Olive
+Oil
+226993-75-5
+Citrus bergamia peel
+oil expressed
+(also known as the
+**perfuming name:** 
+Citrus Reticulata, X C.
+Sinensis Peel Extract)
+93686-22-7
+
+Phenoxyethanol
+122-99-6
+
+A
+
+B
+
+A
+
+Reference
+
+### NOAEL
+
+Irritant to Irritant
+Human
+for
+(mg/kg
+SEDb
+MoSc
+Comment
+Sensitiser
+eyes
+to skin
+data
+hazard ID
+bw/day)
+generally a MoS of greater than 100 is representative of safe.
+2014 CIR Compendium. For use up to 98%, Final amended Report 03/11 available from CIR; JEPT 4(4):93-103, 1980
+(original) re-review IJT 22(S1):1-35, 2003. There is no reliable information on the safety of taking Persea Gratissima Oil
+during pregnancy and breastfeeding it is therefore advisable to avoid its application to the skin.
+2014 CIR Compendium. For use up to 12%, Final Report 03/11 available from CIR. There is no reliable information on
+the safety of taking Hydrogenated Olive Oil during pregnancy and breastfeeding it is therefore advisable to avoid its
+application to the skin.
+Supplier IFRA certificate of conformity supplied and presented in Appendix 3. Maximum allowable concentration for
+Category 4C (Body Creams, Oils, Lotions) is 19.91%, actual concentration in Neck and Breast Refining Complex is 1%.
+Allergen components are declared in A1 Fragrance Allergen table. Safe for inclusion in this product. There is no
+reliable information on the safety of taking Citrus bergamia peel oil expressed during pregnancy and breastfeeding it is
+therefore advisable to avoid its application to the skin.
+2014 CIR Compendium. For use up to 1%, JACT 9(2):259-77, 1990. A teratogenicity/reproduction study was
+performed with 50 mice (of each sex) who were give 0.25, 1.25 and 2.5% Phenoxyethanol in their diet. An additional
+40 mice of each sex was used in the control group. The mice were administered the test substance in the feed for 7
+days prior to mating, and throughout the remainder of the study. Mice in the high-dose group produced fewer litters
+per pair, had smaller litters, and produced fewer live pups per litter. The decrease in weight of live pups was dose
+dependent.
+An additional crossover mating trial with a 7-day mating period, this was performed to determine which sex was
+affected by the administration of Phenoxyethanol. The study indicated that Phenoxyethanol was fetotoxic in the F0
+females. The only significant difference noted during the trial was in the female mice was an increased liver weight in
+the high-dose females.
+In another phase of the study, the final litters obtained from the continuous breeding phase of the study were one to
+
+Ingredient
+(INCI name & CAS
+number)
+
+Hazard
+ID and
+lista
+
+Reference
+
+### NOAEL
+
+Irritant to Irritant
+Human
+for
+(mg/kg
+SEDb
+MoSc
+Comment
+Sensitiser
+eyes
+to skin
+data
+hazard ID
+bw/day)
+three mice of each sex from each litter were selected for breeding within their feeding group. Dose-dependent
+decreases were found in body weight at birth, weaning day, and breeding day in these mice, suggesting that
+Phenoxyethanol was toxic throughout lactation and postweaning.
+The study concluded that 2.5% Phenoxyethanol in the diet was a reproductive toxicant in F0 mice and produced a
+dose-dependent decrease in live pup weight during exposure of the F0 mice. Phenoxyethanol was selectively fetotoxic
+to F0 females. Continuous exposure to Phenoxyethanol reduced the body weights of the F1, mice in a dose-dependent
+manner and produced mortalities of 39% in the mice of the 1.25% dose group and 87% in the mice of the 2.5% dose
+group. The weights of the F2 generation were also decreased in a dose-dependent manner. Phenoxyethanol in the
+diet was toxic to newborn and young mice.
+
+Caesalpinia spinosa
+fruit extract
+39300-88-4
+
+2#
+
+A teratogenicity study using New Zealand White (NZW) rabbits was performed with undiluted phenoxyethanol of a
+99% purity which was applied to the shaved backs of 25 pregnant rabbits at doses of 300, 600 or 1000 mg/kg/day
+from day 6 through to day 18 of gestation. It was concluded that dermal treatment of NZW rabbits with
+Phenoxyethanol did not result in teratogenicity, embryotoxicity, or fetotoxicity even at doses that were maternally
+toxic (600 mg/kg/day). A maternal MoS was calculated to be 1,139 (600mg/kg bw/day ÷ SED 0.527 mg/kg bw/day). A
+MoS of greater than 100 is generally considered safe. With the above studies in mind it is advisable not to use Neck +
+Breast Refining Complex during while pregnancy or during lactation.
+A secondary assessment was performed on Caesalpinia Spinosa Fruit Extract. A dose range of from 1-5% was
+established, which was 1-10 times greater than the percentage indicated in Neck + Breast refining complex; 0.475%. A
+read across was also performed to Caesalpinia Spinosa Gum, this read across was justified as the gum is a plant
+material derived from the dried gummy exudate (plan secretion) of the Caesalpinia Spinosa. Both Caesalpinia Spinosa
+and Caesalpinia Spinosa fruit extract both originate from the Fabaceae family. Caesalpinia Spinosa Gum has been
+approved for use as a food ingredient by JECFA, with no ADI specified and is also present in the CIR Compendium with
+its use in cosmetics stated as safe for use up to 0.5%.
+
+Ingredient
+(INCI name & CAS
+number)
+
+Hazard
+ID and
+lista
+
+Reference
+
+### NOAEL
+
+Irritant to Irritant
+Human
+for
+(mg/kg
+SEDb
+MoSc
+Comment
+Sensitiser
+eyes
+to skin
+data
+hazard ID
+bw/day)
+In order to determine the teratogenicity/reproductive potential of Caesalpinia Spinosa fruit extract a read across was
+performed to Caesalpinia Spinosa gum. This read across was justified as the gum is a plant material derived from the
+dried gummy exudate (plan secretion) of the Caesalpinia Spinosa.
+A multigenerational reproduction study on Caesalpinia Spinosa gum was performed using groups of CD albino rats (22
+days old) where the gum was administered to male and female rats at a dietary level of 5%( 50, 000ppm) through 3
+successive generations where all mating involved 10 males and 20 females per group where the fertility was
+described as high. The litters were maintained until the end of lactation (21 days old), it was concluded that C Spinosa
+gum had no adverse effects on reproductive performance and in utero development. Data from two progeny selected
+as parental animals for subsequent generations (F1 and F2 parents) indicated that these animals had normal growth
+patterns and reproductive performance.
+The teratogenicity and embryotoxicity of C spinosa gum was evaluated using Wistar/HAN rats where groups of 25 rats
+were fed diets containing 0, 1.25%, 2.5% or5% from days 6-16 of gestation. All females were killed on day 21 with
+fetuses removed by C section. Necropsy results did not reveal any abnormalities after external, visceral and skeletal
+examinations of fetuses, it was concluded that C spinosa gum did not induce maternal toxicity, embryotoxicity or
+teratogenicity where a NOAEL was considered to be <50,000ppm in diet. It was therefore concluded that Caesalpinia
+spinosa fruit extract was safe to use as an ingredient on pregnant consumers.
+
+Kappaphycus alvarezii
+extract
+1220882-73-4
+
+2#
+
+A secondary assessment was performed on Kappaphycus Alvarezii extract. A read across was performed to
+carrageenan as most carrageenan’s are extracted from Kappaphycus Alvarezii. Carrageenan is a relatively large
+molecule with average molecular weights of 200,000 – 400,000, thus reducing the potential of dermal penetration
+due to the large nature of the molecules. Carrageenan has also been categorized as GRAS by the United States FDA
+and has also been approved as a food additive under 21 CFR 172.620. The WHO has confirmed these findings and
+considers carrageenan safe for food use and that it is not necessary to specify an ADI for man. Kappaphycus Alvarezii
+extract is present in Neck + Breast Refining Complex at 0.475% and it was therefore concluded as safe for use as
+formulated. There is no reliable information on the safety of taking Kappaphycus Alvarezii extract during pregnancy
+and breastfeeding it is therefore advisable to avoid its application to the skin during these times.
+
+Ingredient
+(INCI name & CAS
+number)
+
+Hazard
+ID and
+lista
+
+Pentylene Glycol
+5343-92-0
+
+A
+
+Lentinus Edodes
+Extract
+223748-90-1
+
+B
+
+Reference
+
+### NOAEL
+
+Irritant to Irritant
+Human
+for
+(mg/kg
+SEDb
+MoSc
+Comment
+Sensitiser
+eyes
+to skin
+data
+hazard ID
+bw/day)
+2014 CIR Compendium. For use up to 5%. A read across was performed to Propylene Glycol to determine the
+teratogenic/developmental potential of Pentylene Glycol. This read across was justified as Propylene Glycol (C3H8O2)
+and Pentylene Glycol (C5H10O2) differ by C2H2. The reproductive and developmental toxicity potential of Propylene
+Glycol (PG) was determined using multiple studies which utilized Swiss Albino mice, Dutch belted rabbits and female
+golden hamsters where the studies concluded that PG was not a reproductive or developmental toxicant. IJT 31
+
+## (S2):147-168, 2012.
+
+A safety assessment was performed by EFSA Panel on Dietetic on Lentinex®; an aqueous mycelial extract of Lentinula
+edodes (formally Lentinus Edodes). Lentinex® consists of approximately 98% water and 2% dry matter; containing βGlucan Lectinan, free glucose and N-containing constituents). Lentinus Edodes is present in RégimA Neck + Breast
+Refining Complex as Silab’s ingredient Fermiskin®, where the composition is stated as Water (87%), Pentylene Glycol
+(7.5%) and Lentinus Edodes Extract (5.5%). A proposed intake of Lentinex® was estimated at 2.5mL; containing 1mg
+Lentinan (β-glucan)/ml that corresponds to 41.7 µg/kg body weight for a standard 60kg person, therefore 2.5 mg/kg
+bw/day. Repeated dose toxicity studies on Beta Glucan in oral intake by humans where 6 male subjects ingested
+milkshakes with beta-glucan for 28 days. The test subjects ingested 6g/day for 5 days, 35g/day for 2weeks and
+50g/day from day 21 to 28. Human Dermal irritation studies of Beta-glucan (the subject groups and
+dose/concentrations were not stated) under an occlusive patch test indicated beta-glucan to be a non-irritant. Skin
+sensitization was evaluated on 213 male subjects, where a modified Draize “multiple insult patch test was applied.
+The occlusive patches were applied every other day for 10 applications. A 48-hour challenge was performed after a 10
+to 14 days of a non-treatment period. Results indicated irritation during the induction however overall it was
+determined not to be a sensitizer. The Panel concluded that Lentinex® is safe for use as food ingredient at the
+proposed levels of intake; as outlined above. IJT 35(Suppl. 1):5-49, 2016. Scientific opinion on the safety of “Lentinus
+edodes extract” (Lentinex®) as a Novel Food ingredient, EFSA Panel on Dietetic Products, Nutrition and Allergies, EFSA
+**Journal 2010; 8(7):** 1685. Additional information provided by Silab regarding Fermiskin® has eluded to it being
+nonirritating, sensitizing and no toxicity associated with acute toxicity testing. Presented in Appendix 4. Lentinus
+Edodes Extract is present in Neck + Breast Refining Complex at 0.275%; 0.146 mg/kg bw/day based on an average
+60kg human, 17 times less than the worst-case dose of 2.5 mg/kg bw/day. It is not expected at the level outlined to
+
+Ingredient
+(INCI name & CAS
+number)
+
+Hazard
+ID and
+lista
+
+Xanthan Gum
+11138-66-2
+
+A
+
+Olea Europaea Oil
+Unsaponifiables
+8001-25-1
+
+A
+
+Caprylyl Glycol
+1117-86-8
+
+A
+
+Tocopherol
+200-201-5
+
+A
+
+Glycine Soja Protein
+9010-10-0
+
+A
+
+Reference
+
+### NOAEL
+
+Irritant to Irritant
+Human
+for
+(mg/kg
+SEDb
+MoSc
+Comment
+Sensitiser
+eyes
+to skin
+data
+hazard ID
+bw/day)
+cause any adverse outcome effects when used as directed. There is no reliable information on the safety of taking
+lentinus edodes extract during pregnancy and breastfeeding it is therefore advisable to avoid its application to the
+skin during these times.
+2014 CIR Compendium. For use up to 6%, Final Report 09/12 available from CIR. A three generational reproductive
+toxicity study was performed where albino rats were fed dietary level of 0, 0.25 and 0.5 g/kg bw/day Xanthan Gum
+where the rats produced 2 letters per generation and the successive generations were selected from weanlings of the
+second litter. There were no significant differences in developmental parameters between test and control litters and
+no malformations were observed in any of the offspring. IJT 35(Suppl. 1):5-49, 2016
+2014 CIR Compendium. For use up to 3%, Final report 03/11 available from CIR. There is no reliable information on
+the safety of taking Olea Europaea Oil Unsaponifiables during pregnancy and breastfeeding it is therefore advisable to
+avoid its application to the skin during these times.
+2014 CIR Compendium. For use up to 5%, IJT 31 (S2):147-168, 2012. Caprylyl glycol was assigned a score of ‘low’ for
+reproductive toxicity based on negative results for surrogates in animal studies. Caprylyl glycol was assigned a score
+of Low for developmental toxicity based on negative findings in well-conducted animal studies for the surrogates. The
+report Caprylyl Glycol (CAS #1117-86-6) GreenScreen® for Safer Chemicals (GreenScreen®) Assessment, Environmental Defense
+Fund, February 2016 is presented in Appendix 4.
+2014 CIR Compendium. For use <=5%, IJT 21(S3):51-116, 2002; Final Report 03/2014 available from CIR. There is no
+reliable information on the safety of taking Tocopherol during pregnancy and breastfeeding it is therefore advisable to
+avoid its application to the skin during these times. An article in The Telegraph published in June 2006 outlined that
+experts were warning women not to take Vitamin E supplements during pregnancy as it may harm the unborn child.
+The article does outline that it was not recommended to take Tocopherol orally but due to limited information on its
+reproductive and developmental toxicity potential it is taken as a worst-case scenario. The article is presented in
+Appendix 4.
+For use up to 0.9% in leave on cosmetics. Glycine Soja Protein is GRAS for substances migrating to food from paper
+and paperboard products (CFR 182.90). Final report available from CIR Website. There is no reliable information on
+the safety of taking Glycine Soja Protein during pregnancy and breastfeeding it is therefore advisable to avoid its
+
+Ingredient
+(INCI name & CAS
+number)
+
+Hazard
+ID and
+lista
+
+Hydrolyzed pepper
+fruit extract
+84929-41-9
+
+B
+
+T-Butyl Alcohol
+75-65-0
+
+A
+
+Reference
+
+### NOAEL
+
+Irritant to Irritant
+Human
+for
+(mg/kg
+SEDb
+MoSc
+Comment
+Sensitiser
+eyes
+to skin
+data
+hazard ID
+bw/day)
+application to the skin during these times.
+Hydrolyzed Pepper fruit extract has been identified under REACH registration conditions as Pepper (Piper) P. Nigrum
+ext. with corresponding CAS and EC numbers. The dossier provided states Skin irritation/ corrosion was determined
+via calculation. It was determined as a Category 2 (irritant) based on GHS criteria; this was due to Pepper (piper)P.
+Nigrum extract having more than 10% of its constituents classified as Skin Irritant Category 2. The skin sensitization
+potential was evaluated from the ECHA Guidance on the Application of the CLP Criteria (2013); the ingredient overall
+has not been tested in vitro or in vivo however some of the ingredients present have been classified as skin sensitizers
+Category 1B and all are described as being present at above the CLP generic concentration limit of 1%. Pepper (Piper),
+P. nigrum ext. REACH dossier
+Piperine is a naturally occurring alkaloid that is the major pungent compound found in spices including Piper nigrum
+L., a 90-day toxicity study in rats has established a NOAEL of 5mg/kg bw/day. A MoS of 1901 has been calculated;
+5mg/kg bw/day ÷ SED of 0.00263 mg/kg bw/day = 1901. A MoS of greater than 100 is generally recognized as safe.
+Norwegian Scientific Committee for Food Safety (2016). Risk assessment of "other substances" -Piperine.
+
+Hydrolyzed Pepper fruit extract is the active ingredient presented in Silab’s product Retilactyl D®, the dermal irritation
+and sensitization capacity of Retilactyl D® was evaluated on human skin where it was determined to be a non-irritant
+and non-sensitizing. It was determined that Hydrolyzed Pepper Fruit extract is safe for use in Neck and Breast Refining
+Complex at 0.063% (0.03356 mg/kg bw/day).
+Regarding reproductive and developmental toxicity of Piperine a 14-day study in Swiss albino female mice concluded
+that that the results indicated that Piperine might interfere with several crucial reproductive events in a mammalian
+model showing significantly reduced implantation values. Norwegian Scientific Committee for Food Safety (2016). Risk
+assessment of "other substances" -Piperine. While the product is considered safe when used and directed and adverse
+effects are not expected, in consideration of the information regarding fertility, use of this product containing
+hydrolyzed pepper fruit extract by pregnant or lactating women is not advised and this has been stated on the label.
+2014 CIR Compendium. For use up to 0.5%, IJT 24(2):1-20, 2005 (Amended) JACT 8(4):627-41, 1989 (original report).
+T-butyl Alcohol did not affect the in vitro fertilization capacity of mouse spermatozoa. Fetotoxicity generally increased
+
+Ingredient
+(INCI name & CAS
+number)
+
+Hazard
+ID and
+lista
+
+Ethylhexylglycerin
+70445-33-9
+
+A
+
+Reference
+
+### NOAEL
+
+Irritant to Irritant
+Human
+for
+(mg/kg
+SEDb
+MoSc
+Comment
+Sensitiser
+eyes
+to skin
+data
+hazard ID
+bw/day)
+with concentration and fetal weights were slightly depressed at concentrations of 0.5 to 1%. IJT 24(2):1-20, 2005 It
+was therefore concluded that the use of T-Butyl Alcohol in Pregnant and lactation females is not advised.
+2014 CIR Compendium. For use up to 8%, JT 32(Suppl. 3):5-21, 2013 The effects of Ethylhexylglycerin was evaluated
+on pregnancy and embryo-fetal development was evaluated in a prenatal developmental toxicology study on female
+rats. No treatment related changes were reveled following visceral and skeletal examinations, a NOAEL was
+considered to be 800 mg/kg. A reproductive and developmental toxicity MoS of 250,313 was determined for
+Ethylhexylglycerin (NOAEL 800mg/kg ÷ SEED 0.003196 mg/kg bw/day) and was therefore considered safe for use.
+
+a
+Some ingredients are excluded from a formal risk assessment where a recognized authority has published a review of the ingredient under similar conditions
+of use and concluded on safe use at the level of inclusion in the cosmetic product (Hazard ID=A). Hazard ID category B is for recognized authority reviews of the
+ingredient under similar conditions of use with restricted use or where the ingredient is contained in the annexes to Regulation (EC) No 1223/2009 (Hazard
+ID=B). Where hazard ID A or B is reported, the maximum allowed usage concentration should be stated.
+b
+all possible routes of exposure should be considered
+c
+A MoS of greater than 100 is considered to represent safe use
+# Food item, hazard and exposure data not required.
+2# Secondary assessment performed, presented in Appendix 4.
+
+**Fragrances:** 
+Neck and Breast refining complex contains a fragrance called Bergamot Oil. The IFRA
+certificate and allergen content is presented in Appendix 3 with individual allergen
+concentrations are outlined in Section A.1.
+
+### A.9
+
+Undesirable Effects and Serious Undesirable Effects
+
+No undesirable effects are anticipated based on the product being used as directed on
+the Neck and Breast area once daily.
+
+### A.10
+
+Information on the Cosmetic Product
+
+Neck and Breast refining complex was released in July 2017. Over the period July 2017
+to May 2019 3823 units have been sold and there have been no adverse reactions
+reported to RégimA Company.
+
+**B:** Part Cosmetic Product Safety Assessment
+
+### B.1
+
+Assessment Conclusion
+
+Review of the ingredients
+After analysis of all the available information including:
+• formulation
+• toxicological profile of the ingredients and their concentration in the product
+• Product data sheets supplied by the ingredient manufacturer
+It is not expected that Neck and Breast Refining Complex will cause damage to human
+health when used as directed.
+It is therefore concluded that Neck and Breast Refining Complex can placed on the
+market in the EU as a body cream for application to the neck and breast. While the
+product is considered safe for use when used as directed, it is not recommended for use
+by pregnant and breastfeeding women to avoid the possibility of adverse effects
+occurring to both the mother and breastfeeding child.
+Review of human data on the product
+There are no human tests such as a patch test, for this product.
+
+### B.2
+
+Label Warnings and Instructions for Use
+
+Directions for use are given on the product label and external packaging that is
+presented in Appendix 4.
+**Directions:** 
+50ml
+**AM & PM:** Cleanse with RégimA, apply eye care products. Apply thin layer of Neck +
+Breast Complex to neck, décolleté and breasts. To be followed daily by application of a
+RegimA day product containing sun protection.
+100ml
+To be used as part of a RégimA in-salon treatment.
+
+This Neck + Breast Complex may be used as a Masque during a RégimA facial. Apply a
+thin layer to neck, décolleté and breast. This may be left on and additional hydrating or
+treatment products applied over if desired.
+An IBPN label is attached to the product label and the outer packaging, this represents
+RégimA’s certification to use Silab’s Interpenetrating BioPolymer Network technology.
+The certificate is presented I Appendix 4.
+**Warnings:** 
+50ml
+‘Must not be combined with any other product range’
+‘Airless container DO NOT remove top as this would introduce air and/or bacteria’
+‘Product level can be viewed through the gap in label’
+‘Store below 77°F / 25°C in a cool dry place. Protect from light’
+‘Use sun protection’
+‘Do not use if Pregnant or breastfeeding’
+‘Discontinue use if irritation occurs.’
+100ml
+‘To be used as part of a RégimA in-salon treatment’
+‘Strictly for professional use’
+‘Airless container DO NOT remove top as this would introduce air/or bacteria’
+‘Product level can be viewed through the gap in label’
+‘Store below 77°F / 25°C in a cool dry place. Protect from light’
+‘Use sun protection’
+‘Do not use if Pregnant or breastfeeding’
+‘Discontinue use if irritation occurs.’
+
+### B.3
+
+Reasoning
+
+This product contains many ingredients with a positive reputation for their body
+moisturising properties and with good local tolerance. There are no reasons to anticipate
+tolerance problems with use.
+This product is intended for external use in adults only.
+
+### B.4
+
+Assessors Credentials and Approval of Part B
+
+Shirley Hudson (safety assessor)
+BSc, University of Aberdeen
+CBiol, MSB
+20+ years as a practicing toxicologist in the pharmaceutical and chemical industries
+
+After analyzing of all of the available information including the product formulation and
+toxicological profile of the ingredients, I conclude that according to the current state of
+scientific knowledge, this product is not expected to result in any significant damage to
+human health and can be safely marketed for the intended and foreseeable use as a
+Neck and breast moisturizer.
+
+List of References
+SCCS Notes of Guidance for the Testing of Cosmetic Substances and Their Safety
+Evaluation, 9th Revision, 29 September 2015 (SCCS/1564/15)
+European Commission database on cosmetic ingredients (Cosing)
+**http:** //ec.europa.eu/consumers/cosmetics/cosing/
+Cosmetic ingredient review http://www.cir-safety.org/
+
+## Method Of Manufacture / Gmp Certification
+
+## Proof Of Effect Claimed
+
+**This product claims to:** 
+1. Fortify firmness and tonicity while lightening uneven skin colour
+o This claim has been substantiated by additional information provided on
+the ingredient Retilactyl D®. Retilactyl D® is a target solution for forming
+up the supporting tissues in the skin. In Vitro and In vivo studies
+confirmed the cosmetic efficacy of Retilactyl D® when used in cosmetic
+products. The documentation is presented in Appendix 4.
+2. Increased elasticity is achieved by limiting degradation of collagen I and II fibers,
+therefore reducing skin fatigability
+o This claim has been substantiated by the ingredient Reffermine®, this
+ingredient by Silab claims to improve skin tone and elasticity due to it
+being rich in glycoproteins and polysaccharides of soyabean membranes.
+This effect has been confirmed by In Vitro Studies and In Vivo human
+studies; the document is presented in Appendix 4.
+3. Remodeling of the contours of the neck and breasts, increasing density and
+firmness
+o This claim has been substantiated by the additional information provided
+on the Ingredient Fermiskin® by Silab. Fermiskin® utilizes the firming
+agents, Oligosaccharides and Galacturonic acids, found in Shiitake
+mushrooms. In Vitro and In Vivo cosmetic efficacy is outlined in Appendix
+4. Firming and contouring precious actives results in a firmer, more youthful
+looking skin.
+o This claim has been substantiated by the additional information provided
+on the Ingredient Fermiskin® by Silab. Fermiskin® utilizes the firming
+agents, Oligosaccharides and Galacturonic acids, found in Shiitake
+mushrooms. In Vitro and In Vivo cosmetic efficacy is outlined in Appendix
+
+## Animal Testing Statement
+
+To the best of our knowledge, the manufacturer and his suppliers have not carried out
+or commissioned any animal testing for the purpose of developing new cosmetic
+products.
+The statement below is a confirmation of the company policy:
+
+RégimA Skin Treatments
+
+## Ck92/05371/23
+
+VAT No. 4590131043
+
+**Tel:** 011 615 2869 or 011 622 7827
+**Fax:** 011 616 8008
+**Cell:** 0836537020
+**e-mail:** jax@regima.com
+**POSTAL ADDRESS:** PO BOX 9523 Edenglen 1613
+**PHYSICAL ADDRESS:** 20 River Road Morninghill Bedfordview 2007 RSA
+Animal Testing Compliance Statement
+This letter is to serve as testimony as to the practice of animal testing, and
+confirm that RégimA Skin Treatments has not, nor will not engage in any practice
+that involves animal testing in any form.
+RégimA Skin Treatments hereby confirms neither the manufacturer nor RégimA
+Skin Treatments itself have commissioned or carried out any form of animal
+testing during the course of product development. This applies to any and all
+activities performed as part of the development process, including, but not
+**restricted to:** R&D, stability testing, safety and toxicology assessments, suitability
+studies or any other facet related to the product’s development.
+
+**Appendix 1:** Safety Data Sheets or Ingredient Specifications
+Safety data sheets and technical data sheets for the ingredients are maintained
+electronically with the PIF by the Responsible Person. They are available on request.
+
+**Appendix 2:** Microbial Challenge Test
+A microbial challenge test is maintained electronically with the PIF by the Responsible
+Person. It is available on request.
+
+**Appendix 3:** Certificates of Allergen
+Content
+
+**Appendix 4:** Miscellaneous
+The stability report, packaging material information and product carton insert are
+maintained electronically with the PIF by the Responsible Person. They are available on
+request.
+
+### PRODUCT
+
+## Information File*
+
+RegimA
+Instant Facial Lifting Wonder
+Serum and O2 Purifyer Face
++ Body Enhancing Serum
+**Prepared:** August 2018
+(Label & packaging update August 2021)
+
+*As required under Article 11 of the European Cosmetics Regulation EC No. 1223/2009
+
+## Table Of Contents
+
+Contents
+
+## Introduction ................................................................................................................... 3
+
+## Product Description .................................................................................................. 3
+
+## Cosmetic Product Safety Report ................................................................................ 7
+
+### Part A: Cosmetic Product Safety Information................................................................. 7
+
+### A.1 Quantitative and qualitative composition of the cosmetic product: ............... 7
+
+### A.2 Physical /chemical characteristics and stability of the cosmetic product .........
+
+........................................................................................................................ 11
+
+### A.3 Microbiological Quality................................................................................... 13
+
+### A.4 Impurities, traces, information about the packaging material ...................... 13
+
+### A.5 Normal and reasonably foreseeable use ........................................................ 13
+
+### A.6 Exposure to the Cosmetic Product ................................................................. 13
+
+### A.7 Exposure to the Substances ........................................................................... 14
+
+### A.8 Toxicological Profile of the Substances .......................................................... 16
+
+### A.9 Undesirable Effects and Serious Undesirable Effects..................................... 20
+
+### A.10
+
+### Information on the Cosmetic Product ........................................................ 20
+
+**B:** Part Cosmetic Product Safety Assessment ............................................................... 21
+
+### B.1 Assessment Conclusion .................................................................................. 21
+
+### B.2 Label Warnings and Instructions for Use ....................................................... 21
+
+### B.3 Reasoning ....................................................................................................... 23
+
+### B.4 Assessors Credentials and Approval of Part B ................................................ 23
+
+### List of References .......................................................................................................... 23
+
+## Method Of Manufacture / Gmp Certification............................................... 24
+
+## Proof Of Effect Claimed ..................................................................................... 25
+
+## Animal Testing Statement .................................................................................. 25
+
+### Appendix 1: Safety Data Sheets or Ingredient Specifications ...................................... 27
+
+### Appendix 2: Microbial Challenge Test .............................................................................. 28
+
+### Appendix 3: Certificates of Allergen Content ................................................................... 29
+
+### Appendix 4: Miscellaneous ........................................................................................... 32
+
+## Introduction
+
+## Product Description
+
+**Product Names:** Instant Facial Lifting Wonder Serum and O2 Purifyer Face + Body
+Enhancing Serum*
+Product type
+Form
+Colour
+Pack size
+Pack type
+Dispenser type
+Part of a set
+Manufacturer code
+Normal use
+
+Serum to help with firming and purifying
+Gel
+Slightly hazy brown
+50 ml (Instant Facial Lifting Wonder Serum), 200ml (O2
+Purifyer Face + Body Enhancing Serum)
+Airless container
+Pump
+No
+
+### PBP 003
+
+Instant Facial Lifting Wonder Serum
+**AM:** Cleanse with RegimA. Apply eye care products. Apply a
+few drops of Lifting Serum to face, neck and decollete.
+Allow Serum to dry to a film before applying other desired
+RegimA serums and daily care.
+O2 Purifyer Face + Body Enhancing Serum
+To be used as part of a RegimA Peel or facial, apply eye care
+then a layer of O2 Purifyer Face + Body Enhancing Serum to
+all treated areas. Allow to dry to a film, one may then, if
+desired, also apply a thin layer of Marine Replenish Masque
+with fingertips to face and neck, avoiding the eye area, to
+finalise a purifying, hydrating, replenishing treatment
+
+*This PIF contains two products with differing names, with the exact same formulation. The Instant Facial
+Wonder Serum is a take home product, while the O2 Purifyer Face + Body Enhancing Serum is a salon use
+product.
+
+**Pictures of the Item:** On following page
+
+Container label
+Instant Facial Lifting Wonder Serum
+
+O2 Purifyer Face + Body Enhancing Serum
+
+Carton label
+Instant Facial Lifting Wonder Serum
+
+O2 Purifyer Face + Body Enhancing Serum
+
+**Batch code:** The batch number is printed onto the underside of the carton and the
+container at the point of manufacturing and filling, therefore it is not visible on the label
+as represented in this PIF. The batching is automated, so the batch code and date is
+printed onto the carton and container as they are filled and boxed.
+**Product claims:** 
+This product claims to help with firming and purifying and provide firming and
+immediate long-lasting hydration.
+
+## Cosmetic Product Safety Report
+
+**Part A:** Cosmetic Product Safety Information
+
+### A.1
+
+Quantitative and qualitative composition of the cosmetic product:
+
+Instant Facial Lifting Wonder Serum and O2 Purifyer Face + Body Enhancing Serum Base formula
+No
+
+Raw Ingredient (INCI Name)
+
+%
+(w/w)
+
+Aqua
+
+Almond Oil PEG-6 Esters
+
+Sodium Lactate
+
+Aqua
+
+Butylene Glycol
+Aqua
+
+1.91
+
+Butyrospermum Parkii Seedcake
+Extract
+
+0.092
+
+Aqua
+Hydrolyzed Candida Saitoana
+Extract
+Phenoxyethanol
+Ethylhexylglycerin
+
+0.015
+0.006
+
+Glycerin
+
+Phenoxyethanol
+
+0.9
+
+Caprylyl Glycol
+
+0.1
+
+Mixture %
+w/w
+Wt(g/kg)
+
+CAS
+
+EC
+
+7732-18-5
+
+231-791-2
+
+124046-50-0
+
+#
+
+72-17-3 /
+867-56-1
+
+200-772-0 /
+212-762-3
+
+7732-18-5
+
+231-791-2
+
+107-88-0
+7732-18-5
+
+203-529-7
+231-791-2
+
+91080-23-8
+
+293-515-7
+
+7732-18-5
+
+231-791-2
+
+#
+
+#
+
+122-99-6
+70445-33-9
+
+204-589-7
+408-080-2
+
+122-99-6
+
+204-589-7
+
+1117-86-8
+
+214-254-7
+
+7732-18-5
+
+231-791-2
+
+2.87
+0.11
+
+Function
+
+Supplier
+(Agent)
+
+Tradename
+
+Solvent
+
+In-House
+Croda
+Chemicals
+
+Water
+Crovol A-70
+
+Purac
+(Chempure)
+
+Purasal S
+
+Silab
+(Meganede)
+
+Detoxyl
+
+Solvent/
+Skin Conditioning/
+Skin Protecting/
+Preservative
+
+Silab
+(Meganede)
+
+Celldetox
+
+Humectant/
+Perfuming/
+Skin protecting/
+Viscosity Controlling
+
+Various
+
+Glycerine CP
+
+Preservative/
+Emollient/
+
+Vestatil PC
+
+Dr.
+Straetmans
+(Meganede)
+
+Emollient/
+Emulsifying
+Buffering/
+Humectat/
+Keratolyic/
+Solvent
+Humectant/
+Skin Conditioning/
+Solvent/
+Viscosity Controlling/
+Skin Protecting
+
+No
+
+Raw Ingredient (INCI Name)
+
+%
+(w/w)
+
+Aqua
+
+0.8
+
+Sodium Hydroxide
+
+0.2
+
+Citrus bergamia peel oil
+expressed
+(also known as the perfuming
+**name:** Citrus Reticulata, X C.
+Sinensis Peel Extract)
+
+Cyclohexane
+
+0.009
+
+Carbomer
+Kappaphycus Alvarezii Extract
+Caesalpinia Spinosa Fruit Pod
+Extract
+Aqua
+
+0.99
+0.2375
+
+Xanthan Gum
+
+0.35
+
+0.2375
+0.025
+
+Mixture %
+w/w
+Wt(g/kg)
+
+0.5
+
+71.5
+
+CAS
+
+EC
+
+Supplier
+(Agent)
+
+Tradename
+
+Solvent/
+Buffering/
+Denaturant
+
+Various
+
+Sodium
+Hydroxide
+20%
+Solution
+
+FD Copeland
+(CJP Chemicals)
+
+Bergamot
+Oil
+
+Noveon (Carst
+& Walker)
+
+Carbopol
+Ultrez 30
+Polymer
+
+Hair Conditioning/
+Solvent/
+Skin Conditioning/
+
+Silab
+(Meganede)
+
+Filmexel
+
+Binding/
+Emulsifying/
+Emulsion Stabilsing/
+Gel Forming/
+Skin Conditioning/
+
+CP Kelco
+(Tranarc)
+
+Keltol T Plus
+
+Function
+Humectant/
+Skin Conditioning
+
+1310-73-2
+
+215-185-5
+
+93686-22-7
+
+297-672-2
+
+93686-22-7
+
+203-806-2
+
+Perfuming
+
+#
+
+Solvent/
+Emulsion Stabilsiing/
+Gel Forming/
+Viscosity Controlling
+
+9007-20-9 /
+9003-01-4 /
+76050-42-5 /
+9062-04-8 /
+9007-16-3 /
+9007-17-4
+#
+39300-88-4
+
+#
+254-409-6
+
+7732-18-5
+
+231-791-2
+
+11138-66-2
+
+234-394-2
+
+7732-18-5
+
+231-791-2
+
+No
+
+Raw Ingredient (INCI Name)
+
+# not assigned
+
+Aqua
+
+%
+(w/w)
+
+71.15
+
+Mixture %
+w/w
+Wt(g/kg)
+
+CAS
+
+71.5
+
+7732-18-5
+
+EC
+
+Function
+
+231-791-2
+
+Surfactant/
+Viscosity Controlling
+Solvent
+
+Supplier
+(Agent)
+
+Tradename
+
+In-House
+
+Water
+
+Ingredient order for the label: Aqua (Water), Almond Oil PEG-6 Esters, Sodium Lactate, Butylene Glycol, Glycerin, Citrus Bergamia
+Peel Oil Expressed, Carbomer, Phenoxyethanol, Xanthan Gum, Limonene, Caesalpinia Spinosa Fruit Pod Extract, Kappaphycus
+Alvarezii Extract, Sodium Hydroxide, Hydrolyzed Candida Saitoana Extract, Linalool, Caprylyl Glycol, Butyrospermum Parkii Seedcake
+Extract, Citral, Cyclohexane, Ethylhexylglycerin.
+Red font denotes ingredients present at less than 1% which may be listed in any order.
+
+Below are the allergens and their respective concentrations in the fragrance that are
+required to be listed in Article 19 Paragraph 1(d) & (g (ii)) of EC 1223/2009 when present
+at levels >0.001% in a leave-on product.
+Fragrance allergens*
+INCI (EU) Nam CAS number
+
+EC number
+
+Concentration
+% w/w
+
+Citral
+
+226-394-6
+
+0.0301
+
+Limonene
+
+Linalool
+
+### A.2
+
+5392-40-5
+
+5989-27-5
+
+78-70-6
+
+227-813-5
+
+201-134-4
+
+0.2735
+
+0.1005
+
+IFRA Standard
+
+d-, l- and dllimonene and
+natural products
+containing
+substantial
+amounts of it,
+should only be
+used when the
+level of peroxides
+is kept to the
+lowest practical
+level, for instance
+by adding
+antioxidants at
+the time of
+production. Such
+products should
+have a peroxide
+value of less than
+20 millimoles
+peroxides per
+liter, determined
+according to the
+FMA method.
+
+Comment
+Above 0.001%
+limit for leave on
+product
+
+Entire product
+has less than 20
+mmoles/L. The
+product also
+contains
+antioxidants
+tocopherol and
+tocopheryl
+acetate and the
+preservative
+phenoxyethanol.
+Above 0.001%
+limit for leave on
+product
+
+Above 0.001%
+limit for leave on
+product
+
+Physical /chemical characteristics and stability of the cosmetic product
+
+Physical and chemical characteristics of the ingredients have been listed in the safety
+data sheets which are maintained electronically by the Responsible Person and are
+available on request. A cross reference to the SDS tradename and electronic reference
+number has been shown in the base formula table.
+Physical and Chemical Characterization of the product
+
+1 Physical state
+2 type of mixture (emulsion/ o/w or w/o,
+suspension, lotion, powder, aerosol …)
+3 organoleptic properties (colour, odour,
+whenever relevant)
+4 pH (at 25oC)
+5 viscosity (at 25oC )
+6 thermal stability (glass bottle)
+7 Specific gravity
+
+Gel
+o/w
+Slight hazy gel, characteristic odour
+4.6
+360000 cPs
+2 weeks @ 40°C
+1 g/ml
+
+Stability of the product
+A shelf-life of 6 months after opening has been allocated to this product.
+An on-going stability study of the product in the packaging will be available to support
+the shelf-life. A stability test of the product in glass jars has confirmed stability at 40oC
+and 50°C for 2 weeks, at which point the appearance was slightly darker in both samples
+and the viscosity decreased by 14% and 12%, respectively.
+A 12 week stability test of the product in glass jars at room temperature has confirmed
+the stability of the product as formulated, at which point the products appearance was
+slightly darker on top. No other significant changes were noted during the 12 week
+period.
+An accelerated aging rate of 475 days was calculated which confirmed the 6 month shelf
+life for the product after opening. Presented below is how the accelerated aging rate
+was calculated. An industry standard of 2 was used for Q10 with 84 real time testing
+days.
+Q10^((Accelerated Aging temperature -Ambient Temperature)/10) X real time testing
+days
+2^((50-25)/10)= 5.66
+5.66 x 84 real time testing days = 475 days
+
+### A.3
+
+Microbiological Quality
+
+A PET test has been performed according to USP method 38 and confirms the
+effectiveness of the preservative for a period of 28 days. The certificate has been
+presented in Appendix 2.
+
+### A.4
+
+Impurities, traces, information about the packaging material
+
+None of the ingredients of this product contained impurities at a level which would
+require notification.
+A statement on the suitability of the product packaging is shown below.
+The Chubby Chunky Airless container is made from Polypropylene, light density
+polyethylene (LDPE) and high density polyethylene (HDPE). The pump is made from
+LDPE, HDPE and polypropylene. The components of the packaging material and
+suitability of use criteria are included in a certificate in Appendix 4. This is maintained
+electronically with the PIF by the Responsible Person and is available on request.
+
+### A.5
+
+Normal and reasonably foreseeable use
+Instant Facial Lifting Wonder Serum and O2 Purifyer Face + Body Enhancing Serum is a
+product designed to help with firming and purifying and provide firming and immediate
+long-lasting hydration. It is a leave-on product that in normal circumstances will be used
+once daily on the face, neck, decollete & body.
+
+### A.6
+
+Exposure to the Cosmetic Product
+
+Site of application
+Surface area of application (cm2)
+Volume of product applied (g)
+Frequency of application/use per day
+Target population
+Normal and foreseeable exposure route
+Calculated relative daily exposure
+according to SCCS notes for guidance
+tables (mg/kg bw/day)
+Dermal absorption information
+other
+
+Face, neck, decollete & body
+16235*
+8.07
+Once daily
+Adults
+Dermal
+0.25ml exposure daily
+Estimated exposure based on 60 kg adult =
+134.5 mg/kg bw/day
+Unknown
+N/A
+
+* The total surface area for application of Instant facial lifting Wonder Serum is 16235 cm2 ( Skincare; Face
+surface area = 565 cm2 and Skincare; Body Lotion surface area = 15670cm2). These figures are extracted
+from the SCCS guidelines for the testing of Cosmetic Ingredients and their Safety Evaluation, 9th revision,
+Section 4.2 , Table 1, page 76.
+
+### A.7
+
+Exposure to the Substances
+
+Daily Systemic Exposure Dosage (SED) is the daily amount of a cosmetic substance
+applied based on the concentration of that particular substance, the percutaneous
+absorption and the nominal human body weight (60 kg) and this is shown in the table
+below.
+Ingredient
+(INCI name & CAS number)
+Almond Oil PEG-6 Esters
+124046-50-0
+Sodium Lactate
+867-56-1
+Butylene Glycol
+107-88-0
+Glycerin
+56-81-5
+Citrus Bergamia Peel Oil
+Expressed
+93686-22-7
+Carbomer
+9007-20-9
+Phenoxyethanol
+122-99-6
+Xanthan Gum
+11138-66-2
+Caesalpinia Spinosa Fruit Pod
+Extract
+39300-88-4
+Kappaphycus Alvarezii Extract
+##
+Sodium Hydroxide
+1310-73-2
+Hydrolyzed Candida Saitoana
+Extract
+#2
+Caprylyl Glycol
+1117-86-8
+Butyrospermum Parkii
+Seedcake Extract
+91080-23-8
+
+Maximum
+concentration
+(%)
+
+Calculated
+product
+relative daily
+exposure
+(mg/kg
+bw/day)
+
+Dermal
+penetration
+factor#1
+
+Daily
+ingredient
+exposure
+or SED
+(mg/kg
+bw/day)
+
+134.5
+
+28.25
+
+134.5
+
+16.95
+
+134.5
+
+11.30
+
+134.5
+
+11.30
+
+134.5
+
+5.65
+
+0.99
+
+134.5
+
+5.59
+
+0.92
+
+134.5
+
+0.35
+
+134.5
+
+0.24
+
+134.5
+
+0.24
+
+134.5
+
+0.2
+
+134.5
+
+0.11
+
+134.5
+
+0.1
+
+134.5
+
+0.092
+
+134.5
+
+5.17
+1.98
+1.34
+1.34
+1.13
+0.64
+0.57
+0.52
+
+Ingredient
+(INCI name & CAS number)
+Cyclohexane
+110-82-7
+Ethylhexylglycerin
+70445-33-9
+
+Maximum
+concentration
+(%)
+
+Calculated
+product
+relative daily
+exposure
+(mg/kg
+bw/day)
+
+Dermal
+penetration
+factor#1
+
+0.009
+
+134.5
+
+0.006
+
+134.5
+
+Daily
+ingredient
+exposure
+or SED
+(mg/kg
+bw/day)
+0.051
+0.034
+
+#1 Where no dermal absorption data is available, 100% dermal absorption is used. However, where
+molecular weight > 500 Da and log Pow is smaller than -1 or higher than 4, the value of 10% dermal
+absorption is considered unless the formulation contains penetration enhancers. Dermal absorption of
+nanomaterials needs to be determined experimentally.
+#2 No CAS number assigned.
+
+### A.8
+
+Toxicological Profile of the Substances
+
+Ingredient
+(INCI name & CAS
+number)
+Almond Oil PEG-6
+Esters
+124046-50-0
+Butylene Glycol
+107-88-0
+
+Hazard Reference
+
+### NOAEL
+
+Human
+Irritant to
+Irritant
+Sensitiser
+ID and
+for
+(mg/kg
+SEDb
+MoSc
+comment
+data
+eyes
+to skin
+a
+list
+hazard ID
+bw/day)
+2014 CIR Compendium. Safe for use in cosmetics when formulated to be non-irritating. Almond Oi PEG-6
+esters is the product of transesterification of Prunus Amygdalus dulcis (Almond) Oil and PEG-G. The limits of
+the outlined reactants are stated as up to 77% and 51% respectively, where Almond oil was determined to
+A
+be non-irritating and PEG-6 safe for use in cosmetics. Full amended report 09/12 available from CIR; IJT 33
+**(Suppl 4):** 13-39, 2014. It was determined that the use of Almond Oil PEG-6 Esters is safe to use in Instant
+Facial Wonder Serum and O2 Purifying face+ Body Enhancing Serum at the level of 5%.
+A
+
+Butyrospermum Parkii
+Seedcake Extract
+91080-23-8
+
+A
+
+Caesalpinia Spinosa
+Fruit Pod Extract
+39300-88-4
+
+###
+
+Caprylyl Glycol
+1117-86-8
+Carbomer
+
+A
+A
+
+**Safe up to 89%; JACT 4(5):** 223-48, 1985 & International Journal of Toxicology 25(S2), 2006
+For use up to 5.5% in leave on cosmetic formulations. Dermal irritation studies where Butyrospermum Parkii
+(Shea) Seedcake Extract was used up to 0.14% was found not irritating in human studies. Further analysis
+determined Butyrospermum Parkii (Shea) Seedcake Extract to be non-irritating or sensitizing in HRIPTs at
+concentrations up to 0.42%. Final report available 09/12/2017 is available from the CIR. Butyrospermum
+Parkii (Shea) Seedcake Extract is present in Instant Facial Wonder Serum and O2 Purifying face+ Body
+Enhancing Serum at 0.092% and it was determined that no adverse effects are expected when used as
+directed.
+A secondary assessment was performed on Caesalpinia Spinosa Fruit Pod extract, with a read across to
+Caesalpinia Spinosa gum. Caesalpinia Spinosa gum was approved for use as a food ingredient by the JECFA
+with no ADI specified. Caesalpinia Spinosa Fruit Pod extract is present in Instant Facial Lifting Wonder Serum
+AND O2 Purifying Face + Body Enhancing Serum at 0.24%, 4 times lower than the worst case dose of 1%.
+With the JECFA report outlining Caesalpinia Spinosa gum as being safe for use as a food ingredient and
+Caesalpinia Spinosa Fruit Pod extract being 4 times lower than the worst case dose, it was determined that
+the addition of Caesalpinia Spinosa Fruit Pod extract is safe for use in Instant Facial Lifting Wonder Serum
+AND O2 Purifying Face + Body Enhancing Serum.
+Safe when used up to 5%, Safety assessment of 1,2-glycols as used in cosmetics, International Journal of
+Toxicology 31 (S2), 1475-1685, 2012
+Safe when used up to 2%, JACT 1(2)109-41, 1982 confirmed 11/02 IJT 22(S1):1-35, 2003
+
+Ingredient
+(INCI name & CAS
+number)
+9007-20-9
+Citrus Bergamia Peel Oil
+Expressed
+93686-22-7
+
+Cyclohexane
+110-82-7
+
+Ethylhexylglycerin
+70445-33-9
+Glycerin
+56-81-5
+Hydrolyzed Candida
+Saitoana Extract
+#
+
+Hazard Reference
+ID and
+for
+lista
+hazard ID
+B
+
+B
+
+Irritant to
+eyes
+
+Irritant
+to skin
+
+Sensitiser
+
+Human
+data
+
+### NOAEL
+
+(mg/kg
+bw/day)
+
+SEDb
+
+MoSc
+
+comment
+
+Supplier IFRA certificate of conformity supplied and presented in Appendix 3. Maximum allowable
+concentration in product is 9.96%, actual concentration 1%. Allergen components are declared in A1
+Fragrance Allergen table. Safe for inclusion in this product.
+Available data on Cyclohexane indicated that it has a low order of toxicity, no ADI has been established
+according to JECFA report 23/19*. Cyclohexane is almost completely absorbed by the oral and inhalation
+route with dermal absorption of pure liquid cyclohexane in contact with the skin being 5%, this percentage is
+significantly reduced in Instant Facial Wonder Serum and O2 Purifying face+ Body Enhancing Serum due to
+Cyclohexane being present in the formulation at 0.009% therefore the dermal absorption would be reduced.
+Cyclohexane is considered to be a skin irritant with the properties being delayed and persistent while it was
+not considered to be sensitizer. The NOAEL ranged from 250 ppm to 2,000 ppm in a range of animal and
+human toxicity testing. Taking 250ppm as the worst case scenario NOAEL the MoS was calculated to be
+4902. It is considered that a value above 100 is generally considered to be safe. Cyclohexane is present at a
+level of 0.051 mg/kg bw/day in Instant Facial Wonder Serum and O2 Purifying face+ Body Enhancing Serum,
+considerable lower than the level outlined as a NOAEL and therefore safe for use. Cyclohexane, Summary
+Risk Assessment Report. (2004). European Commission Joint Research Centre, Institute for health and
+Consumer Protection, Europen Chemicals Bureau, special Publication 1.04.22, pp 1-15; Evaluation of certain
+food additives. Twenty-third Report of the Joint FAO/WHO Expert Committee on Food Additives. (1981).
+Food and Cosmetics Toxicology, 19, p381.
+
+A
+
+2014 CIR Compendium safe with no upper limit for concentration, IJT 32 (S3): 5-21, 2013
+
+A
+
+GRAS#, FDA approved food additive, FDA approved over the counter (OTC) for skin
+
+###
+
+A secondary assessment was performed on Hydrolyzed Candida saitoana Extract with a read across to the
+active ingredient of glucan. Hydrolyzed Candida saitoana Extract is present in Instant Facial Lifting Serum
+
+and O2 Purifyer Face + Body enhancing Serum at 0.64 mg/kg bw/day, 65 times lower than the
+worse case scenario dose of 2500 mg/kg bw/day. It is not expected to cause any serious
+
+Ingredient
+(INCI name & CAS
+number)
+
+Hazard Reference
+ID and
+for
+lista
+hazard ID
+
+Irritant to
+eyes
+
+Irritant
+to skin
+
+Sensitiser
+
+Human
+data
+
+### NOAEL
+
+(mg/kg
+bw/day)
+
+SEDb
+
+MoSc
+
+comment
+
+undesirable effects when used as directed.
+
+Kappaphycus Alvarezii
+Extract
+##
+
+###
+
+Phenoxyethanol
+122-99-6
+
+A secondary assessment was preformed on Kappaphycus Alvarezii Extract. A principal component of
+Kappaphycus alvarezii extract is sulfonated galactans also known as Carrageenan’s. Carrageenan has been
+generally recognized as safe (GRAS) by the FDA and has also been approved as a food additive, this has been
+confirmed by WHO and JECFA with no ADI established. It has been determined that Kappaphycus alvarezii
+extract is a safe for use in Instant facial wonder serum and O2 Purifyer face +body enhancing serum.
+
+B
+
+Safe for use when included up to 1%, JACT 9(2):259-77, 1990
+Safe for use up to 6.9 % in leave on formulations, where the pH is <11. Human dermal irritation studies
+
+Sodium Hydroxide
+1310-73-2
+
+B
+
+Sodium Lactate
+72-17-3
+
+B
+
+Xanthan Gum
+11138-66-2
+
+A
+
+indicated irritation caused by sodium Hydroxide at levels as low as 0.5, with dermal sensitization
+HRIPT challenge test sodium hydroxide was not sensitizing when induced up to 1% and when
+challenged at 0.125% irritation was observed. Final report 12/15/2015 available from CIR. Sodium
+
+Hydroxide is in Annex III/15 where the pH is restricted to pH <11. Sodium hydroxide is present in Instant
+Facial Lifting Wonder Serum at a level of 0.2%, with a pH of 4.6 there for all restrictions are satisfied and
+determined safe for use as directed.
+**Safe with restrictions:** Glycolic and Lactic Acid, their common salts and their simple esters, are safe for use in
+cosmetic products at concentrations <=10%, at final formulation pH >=3.5, when formulated to avoid
+increasing sun sensitivity or when directions for use include the daily use of sun protection. IJT 17(S1):1-242,
+1998. Sodium Lactate is included in formulation at 3%, at a pH of 4.6 and has been determined safe for use
+in Instant facial lifting wonder serum and O2 Purifyer Face + Body Enhancing Serum.
+2014 CIR Compendium safe up to 6%, Safety Assessment of Microbial Polysaccharide Gums as Use in
+Cosmetics, Final Report, CIR, October, 2012
+
+a Some ingredients are excluded from a formal risk assessment where a recognized authority has published a review of the
+
+ingredient under similar conditions of use and concluded on safe use at the level of inclusion in the cosmetic product (Hazard ID=A).
+Hazard ID category B is for recognized authority reviews of the ingredient under similar conditions of use with restricted use or
+
+where the ingredient is contained in the annexes to Regulation (EC) No 1223/2009 (Hazard ID=B). Where hazard ID A or B is
+reported, the maximum allowed usage concentration should be stated.
+b all possible routes of exposure should be considered
+c A MoS of greater than 100 is considered to represent safe use
+# Food item, hazard and exposure data not required.
+## No CAS number assigned
+### Secondary assessment preformed, presented in Appendix 4
+
+**Fragrances:** 
+An IFRA Certificate of Conformity which includes the allergen composition has been
+presented in Appendix 3. The conformity certificate certifies compliance with the
+standards of INTERNATIONAL FRAGRANCE ASSOCIATION (IFRA-47th amendment,
+published June 2013) provided it is used at up to 9.96% for IFRA category 5 (Woman’s
+facial creams etc.). The fragrance is included in this product at 1% and
+based on this low concentration, allergens Citral is present at 0.0301%, Limonene is
+present at 0.2735% whilst Linalool is present at 0.1005%. As these concentrations
+exceed >0.001% for a leave-on product (Article 19 Paragraph 1(d) & (g (ii)) of EC
+1223/2009) they are declared in the list of ingredients.
+
+### A.9
+
+Undesirable Effects and Serious Undesirable Effects
+
+No undesirable effects are anticipated based on the product being used as directed on
+the face, neck, decollate and body once daily.
+
+### A.10
+
+Information on the Cosmetic Product
+
+Instant facial lifting wonder serum and O2 Purifyer Face + Body Enhancing Serum was
+released in 2017. Over the period August 2017 to August 2018 2841 units of Instant
+Facial Lifting Wonder Serum and 438 units of O2 Purifyer Face + Bogy Enhancing Serum
+have been sold and there have been no adverse reactions reported to RégimA
+Company.
+
+**B:** Part Cosmetic Product Safety Assessment
+
+### B.1
+
+Assessment Conclusion
+
+Review of the ingredients
+After analysis of all the available information including:
+• formulation
+• toxicological profile of the ingredients and their concentration in the product
+• Product data sheets supplied by the ingredient manufacturer
+It is not expected that Instant Facial Lifting Wonder Serum and O2 Purifying Face + Body
+Enhancing Serum will cause damage to human health when used as directed.
+It is therefore concluded that Instant Facial Lifting Wonder Serum and O2 Purifying Face
++ Body Enhancing Serum can be placed on the market in the EU as a face and body
+serum.
+Review of human data on the product
+There are no human tests such as a patch test, for this product.
+
+### B.2
+
+Label Warnings and Instructions for Use
+
+Directions for use are given on the product label and outer packaging as presented in
+Appendix 4.
+**Directions:** 
+Instant Facial Lifting Wonder Serum: AM: Cleanse with RégimA, apply eye care
+products. Apply a few drops of Lifting Serum to face, neck and décolleté. Allow Serum to
+dry to a film before applying other desired RégimA serums and daily care.
+O2 Purifyer Face +Body Enhancing Serum: To be used as part of a RégimA in-salon
+treatment. Following a RégimA peel or facial, apply eye care then layer of O2-Purifyer
+Serum to all treater areas. Allow to dry to a film, one may then, if desired, also apply a
+thin layer of Marine Replenish Masque with fingertips to face and neck, avoiding the eye
+area, to finalise a purifying, hydrating, replenishing treatment.
+
+**Warnings:** 
+Instant Facial Lifting Wonder Serum:
+‘Airless Container – DO NOT remove top as this would introduce air and/or bacteria’
+‘Product level can be viewed through the gap in label’
+‘Store below 77°F/25°C in a cool dry place. Protect from light’
+‘Must not be combined with any other product range’
+O2 Purifyer Face +Body Enhancing Serum:
+‘ Strictly for professional use’
+‘Airless container DO NOT remove top as this would introduce air and/or bacteria’
+‘Product level can be viewed through the gap in the label’
+‘Store below 77°F/25°C in a cool dry place. Protect from light’
+‘Must not be combined with any other product range’
+A Silab IBPN technology® logo is present on the label signifying RégimA having a license
+to use FILMEXEL® in Instant Facial Lifting Wonder Serum and O2 Purifyer Face + Body
+Enhancing Serum. The license and technical summary is presented in Appendix 4.
+
+### B.3
+
+Reasoning
+
+This product contains many ingredients with a positive reputation for their firming and
+hydrating properties and with good local tolerance. There are no reasons to anticipate
+tolerance problems with use when used as directed.
+This product is intended for external use in adults only.
+
+### B.4
+
+Assessors Credentials and Approval of Part B
+
+Shirley Hudson (safety assessor)
+BSc, University of Aberdeen
+CBiol, MSB
+20+ years as a practicing toxicologist in the pharmaceutical and chemical industries
+
+After analyzing of all of the available information including the product formulation and
+the toxicological profile of the ingredients, I conclude that according to the current state
+of scientific knowledge, this product is not expected to result in any significant damage
+to human health and can be safely marketed for the intended and foreseeable use as a
+face and body serum.
+
+List of References
+SCCS Notes of Guidance for the Testing of Cosmetic Substances and Their Safety
+Evaluation, 9th Revision, 29 September 2015 (SCCS/1564/15)
+European Commission database on cosmetic ingredients (Cosing)
+**http:** //ec.europa.eu/consumers/cosmetics/cosing/
+Cosmetic ingredient review http://www.cir-safety.org/
+
+## Method Of Manufacture / Gmp Certification
+
+## Proof Of Effect Claimed
+
+This product claims to help with firming and purifying and provide firming and
+immediate long-lasting hydration, confirmatory evidence has been provided by RégimA.
+SpaZone Instant Facial Lifting Wonder Serum and O2 Purifyer Face + Body Enhancing
+Serum contains an active ingredient called FILMEXEL® (with active botanicals
+Kappaphycus Alvarezii Extract and Caesalpinia Spinosa Fruit Pod Extract), this patented
+dynamic ingredient is categorised as providing a non-occlusive film known as a ‘Second
+Skin’ that mimicks its properties and functions. A technical summary outlining this proof
+of effect along with RégimA’s license to use FILMEXEL® in Instant Facial Lifting Wonder
+Serum and O2 Purifyer Face + Body Enhancing Serum is presented in Appendix 4.
+
+## Animal Testing Statement
+
+To the best of our knowledge, the manufacturer and his suppliers have not carried out
+or commissioned any animal testing for the purpose of developing new cosmetic
+products.
+The statement below is a confirmation of the company policy:
+
+RégimA Skin Treatments
+
+## Ck92/05371/23
+
+VAT No. 4590131043
+
+**Tel:** 011 615 2869 or 011 622 7827
+**Fax:** 011 616 8008
+**Cell:** 0836537020
+**e-mail:** jax@regima.com
+**POSTAL ADDRESS:** PO BOX 9523 Edenglen 1613
+**PHYSICAL ADDRESS:** 20 River Road Morninghill Bedfordview 2007 RSA
+Animal Testing Compliance Statement
+This letter is to serve as testimony as to the practice of animal testing, and
+confirm that RégimA Skin Treatments has not, nor will not engage in any practice
+that involves animal testing in any form.
+RégimA Skin Treatments hereby confirms neither the manufacturer nor RégimA
+Skin Treatments itself have commissioned or carried out any form of animal
+
+testing during the course of product development. This applies to any and all
+activities performed as part of the development process, including, but not
+**restricted to:** R&D, stability testing, safety and toxicology assessments, suitability
+studies or any other facet related to the product’s development.
+
+**Appendix 1:** Safety Data Sheets or Ingredient Specifications
+Safety data sheets and technical data sheets for the ingredients are maintained
+electronically with the PIF by the Responsible Person. They are available on request.
+
+**Appendix 2:** Microbial Challenge Test
+A microbial challenge test is maintained electronically with the PIF by the Responsible
+Person. It is available on request.
+
+**Appendix 3:** Certificates of Allergen Content
+
+**Appendix 4:** Miscellaneous
+The stability report, packaging material information and product carton insert are
+maintained electronically with the PIF by the Responsible Person. They are available on
+request.
+
+### PRODUCT
+
+## Information File*
+
+RégimA
+O2 Radiance Luminosity
+Masque
+**Prepared:** August 2018
+(Label & packaging update August 2021)
+
+*As required under Article 11 of the European Cosmetics Regulation EC No. 1223/2009
+
+## Table Of Contents
+
+Contents
+
+## Introduction ................................................................................................................... 3
+
+## Product Description .................................................................................................. 3
+
+## Cosmetic Product Safety Report ................................................................................ 7
+
+### Part A: Cosmetic Product Safety Information................................................................. 7
+
+### A.1 Quantitative and qualitative composition of the cosmetic product: ............... 7
+
+### A.2 Physical /chemical characteristics and stability of the cosmetic product .........
+
+........................................................................................................................ 12
+
+### A.3 Microbiological Quality................................................................................... 14
+
+### A.4 Impurities, traces, information about the packaging material ...................... 14
+
+### A.5 Normal and reasonably foreseeable use ........................................................ 14
+
+### A.6 Exposure to the Cosmetic Product ................................................................. 14
+
+### A.7 Exposure to the Substances ........................................................................... 15
+
+### A.8 Toxicological Profile of the Substances .......................................................... 17
+
+### A.9 Undesirable Effects and Serious Undesirable Effects..................................... 22
+
+### A.10
+
+### Information on the Cosmetic Product ........................................................ 22
+
+**B:** Part Cosmetic Product Safety Assessment ............................................................... 23
+
+### B.1 Assessment Conclusion .................................................................................. 23
+
+### B.2 Label Warnings and Instructions for Use ....................................................... 23
+
+### B.3 Reasoning ....................................................................................................... 25
+
+### B.4 Assessors Credentials and Approval of Part B ................................................ 25
+
+### List of References .......................................................................................................... 25
+
+## Method Of Manufacture / Gmp Certification............................................... 26
+
+## Proof Of Effect Claimed ..................................................................................... 27
+
+## Animal Testing Statement .................................................................................. 27
+
+### Appendix 1: Safety Data Sheets or Ingredient Specifications ...................................... 28
+
+### Appendix 2: Microbial Challenge Test .............................................................................. 29
+
+### Appendix 3: Certificates of Allergen Content ................................................................... 30
+
+### Appendix 4: Miscellaneous ........................................................................................... 33
+
+## Introduction
+
+## Product Description
+
+**Product Name:** O2 Radiance Luminosity Masque
+Product type
+Form
+Colour
+Pack size
+Pack type
+Dispenser type
+Part of a set
+Manufacturer code
+Normal use
+
+Facial masque
+Cream
+Off white
+150ml
+Chubby Chunky Airless container
+Polyethylene Pump
+No
+
+### IRFM 002
+
+**Directions:** Cleanse with RégimA. Apply a thin layer of
+Masque with finger tips to face and neck, avoiding the eye
+area. Allow 15-20 minutes for penetration and action.
+Remove thoroughly with RégimA Cleanser. Follow with
+appropriate RégimA after treatment products.
+
+**Pictures of the Item:** On following page
+
+Container label
+
+Carton label
+
+**Batch code:** The batch number is printed onto the underside of the carton and the
+container at the point of manufacturing and filling, therefore it is not visible on the label
+as represented in this PIF. The batching is automated, so the batch code and date is
+printed onto the carton and container as they are filled and boxed.
+**Product claims:** 
+This product makes no claims.
+
+## Cosmetic Product Safety Report
+
+**Part A:** Cosmetic Product Safety Information
+
+### A.1
+
+Quantitative and qualitative composition of the cosmetic product:
+
+O2 Radiance Luminosity Masque base formula
+No
+
+Raw Ingredient (INCI Name)
+
+%
+(w/w)
+
+Water (Aqua)
+
+Propylene Glycol
+Water (Aqua)
+
+2.4525
+2.4525
+
+Ananas Sativus fruit extract
+
+0.095
+
+Water (Aqua)
+Propylene Glycol
+
+2.4775
+2.475
+
+Carica Papaya Fruit Extract
+
+0.05
+
+Glycine Soja Oil
+
+Cetearyl Olivate
+
+Sorbitan Olivate
+
+Olea Europaea Fruit Oil
+
+3.1
+
+Water (Aqua)
+Hydrolyzed Lupine Protein
+Octenylsuccinate
+Phenoxyethanol
+
+0.84
+
+Hydrogenated Olive Oil
+
+1.80
+
+Olea Europaea Fruit Oil
+
+0.9
+
+Mixture %
+w/w
+Wt(g/kg)
+
+CAS
+
+EC
+
+Function
+
+Supplier
+(Agent)
+
+Tradename
+
+7732-18-5
+
+231-791-2
+
+Solvent
+
+In-House
+
+57-55-6
+7732-18-5
+
+200-338-0
+231-791-2
+
+68917-26-0
+
+272-839-2
+
+Greentech
+(Natchem)
+
+Pineapple
+Phytelene
+
+### EG 401
+
+7732-18-5
+57-55-6
+
+231-791-2
+200-338-0
+
+84012-30-6
+
+281-675-0
+
+Humectant/
+Skin Conditioning/
+Solvent/
+Viscosity Controlling
+Solvent/
+Humectant/
+Skin Conditioning/
+Viscosity Controlling
+Emollient/
+Perfuming/
+Skin Conditioning
+
+Deionised
+Water
+
+Greentech
+(Natchem)
+
+Papaya
+Phytelene
+
+### EG 402
+
+8001-22-7
+
+232-274-4
+
+85116-80-9
+223706-40-9/
+92202-01-2
+
+285-532-3
+
+8001-25-0
+
+232-277-0
+
+7732-18-5
+
+231-791-2
+
+84082-55-3
+
+282-001-8
+
+122-99-6
+68334-28-1/
+226993-75-5
+8001-25-0
+
+204-589-7
+
+0.06
+
+296-033-5
+
+269-820-6
+232-277-0
+
+Emulsifying
+Masking/
+Perfuming/
+Skin Conditioning
+
+Textron
+Tecnica (CJP
+Chemicals)
+Textron
+Tecnica (CJP
+Chemicals)
+Textron
+Tecnica (CJP
+Chemicals)
+
+Soyabean
+Oil refined
+No-GMO
+Olivem®
+Olive Oil
+Extra Virgin
+
+Solvent/
+Skin Protecting/
+Preservative
+
+Silab
+(meganede)
+
+Eclaline® 2
+
+Emollient/
+Skin Conditioning/
+Masking/
+
+Textron
+Tecnica (CJP
+Chemicals)
+
+Oliwax
+
+No
+
+Raw Ingredient (INCI Name)
+Olea Europaea Oil
+Unsaponifiables
+Water (Aqua)
+Tropaelum Majus
+Flower/leaf/Stem Extract
+Phenoxyethanol
+Ethylhexylglycerin
+Saccharomyces/Xylinum/Black
+Tea Ferment
+Glycerin
+Hydroxyethylcellulose
+Phenoxyethanol
+
+%
+(w/w)
+
+Mixture %
+w/w
+Wt(g/kg)
+
+CAS
+
+EC
+
+2.8935
+
+8001-25-0/
+156798-12-8
+7732-18-5
+
+0.0855
+
+84625-49-0
+
+283-419-3
+
+122-99-6
+70445-33-9
+
+204-59-7
+408-080-2
+
+2.58294
+
+100085-62-9
+
+309-204-7
+
+0.3
+0.045
+0.03
+
+56-81-5
+9004-62-0
+122-99-6
+24634-61-5/
+590-001
+5949-29-1/
+77-92-9
+68-04-2/
+6132-04-3
+58-85-5
+
+200-289-5
+#
+204-589-7
+
+0.3
+
+0.015
+0.006
+
+232-277-0
+231-791-2
+
+246-376-1
+
+Function
+
+Solvent/
+Skin Conditioning/
+Preservative
+Preservative/
+Buffering/
+Chelating/
+Masking/
+Skin Conditioning/
+Humectant/
+Perfuming/
+Skin Protecting/
+Viscosity Controlling/
+Emulsion Stabilizing/
+Film forming/
+Stabilizing
+Humectant/
+Perfuming/
+Skin Protecting/
+Viscosity Controlling
+
+0.003
+
+Citric Acid
+
+0.012
+
+Sodium Citrate
+
+0.027
+
+Biotin
+
+0.00006
+
+Glycerin
+
+56-81-5
+
+200-289-5
+
+Persea Gratissima Oil
+
+8024-32-6
+
+232-428-0
+
+Skin Conditioning
+
+Phenoxyethanol
+Caprylyl Glycol
+
+0.9
+0.1
+
+122-99-6
+1117-86-8
+
+204-589-7
+214-254-7
+
+Preservative/
+Emollient/
+
+200-675-3
+200-399-3
+
+Tradename
+
+Silab
+(meganede)
+
+Oxygenskin
+®
+
+Sederma
+(Croda
+Chemicals)
+
+Kombuchka
+
+### ™ PH
+
+Various
+
+Refined
+Glycerine
+
+Perfuming
+
+Potassium Sorbate
+
+201-069-1
+
+Supplier
+(Agent)
+
+Textron
+Tecnica (CJP
+Chemicals)
+Dr. Straetmans
+(Meganede
+
+Avocado Oil
+Verstatil®
+PC
+
+No
+
+Raw Ingredient (INCI Name)
+
+%
+(w/w)
+
+Citrus bergamia peel oil
+expressed
+(also known as the perfuming
+**name:** Citrus Reticulata, X C.
+Sinensis Peel Extract)
+
+0.5
+
+Xanthan Gum
+
+0.35
+
+Water (Aqua)
+
+0.01
+
+Kappaphycus Alvarezii Extract
+
+0.095
+
+Caesalpinia Spinosa Fruit Pod
+extract
+
+Tocopherol
+
+Mixture %
+w/w
+Wt(g/kg)
+
+CAS
+
+0.5
+
+93686-22-7
+
+EC
+
+Supplier
+(Agent)
+
+Tradename
+
+Humectant/
+Skin Conditioning
+297-672-2
+
+Perfuming
+
+FD Copeland
+(CJP Chemicals)
+
+Bergamot
+Oil
+
+Binding/
+Emulsifying/
+Emulsion Stabilising/
+Gel forming/
+Skin Conditioning/
+Surfactant/
+Viscosity Controlling
+
+CP Kelco
+(Tranarc)
+
+Keltrol TPlus
+
+Solvent/
+Skin Conditioning
+
+Silab
+(meganede)
+
+Filmexel®
+
+Antioxidant/
+Masking/
+Skin Conditioning
+
+DSM
+Nutritional
+Products
+(Chempure)
+
+dl-αTocopherol
+
+0.35
+
+11138-66-2
+
+234-394-2
+
+231-791-2
+
+0.2
+
+7732-18-5
+1220882-734
+
+0.095
+
+39300-88-4
+
+254-409-6
+
+0.1
+
+54-284(gamma)/
+16698-354(beta)/
+10191-41-0
+
+### (DL)/
+
+119-13-1/
+1406-18-4/
+1406-66-2/
+
+200-201-5/
+240-747-1/
+2333-466-0/
+204-299-0/
+215-798-8/
+218-197-9/
+200-412-2
+
+0.1
+
+Function
+
+310-127-6
+
+No
+
+Raw Ingredient (INCI Name)
+
+Water (Aqua)
+
+%
+(w/w)
+
+53.85
+
+Mixture %
+w/w
+Wt(g/kg)
+
+53.85
+
+CAS
+
+EC
+
+Function
+
+Supplier
+(Agent)
+
+Tradename
+
+231-791-2
+
+Solvent
+
+In-House
+
+Deionised
+Water
+
+2074-53-5
+
+### (DL)/
+
+## 59-02-9 (D)/
+
+7616-22-0
+7732-18-5
+
+# not assigned
+
+Ingredient order for the label: Water (Aqua), Propylene Glycol, Olea Europaea Fruit Oil, Glycine Soja Oil,
+Saccharomyces/Xylinum/Black Tea Ferment, Glycerin, Cetearyl Olivate, Persea Gratissima Oil, Sorbitan Olivate, Hydrogenated Olive
+Oil, Phenoxyethanol, Hydrolyzed Lupine Protein Octenylsuccinate, Citrus Bergamia Peel Oil Expressed*, Xanthum Gum, Olea Europaea
+Oil Unsaponifiables, D-Limonene, Ananas Sativus fruit extract, Caprylyl Glycol, Tocopherol, Caesalpinia Spinosa Fruit Pod extract,
+Kappaphycus Alvarezii Extract, Tropaelum Majus Flower/leaf/stem Extract, Linalool, Carica Papaya Fruit extract,
+Hydroxyethylcellulose, Sodium Citrate, Citral, Citric Acid, Ethylhexylglycerin, Potassium Sorbate, Biotin, Linalyl Acetate, Alpha-Pinene.
+Red font denotes ingredients present at less than 1% which may be listed in any order.
+* Bergamot oil is not a mixture, but it does contain sensitizers. Sensitizers (allergens) which are above the 0.001% level in a leave-on
+product are placed on the ingredients label list as outlined in Article 19 Paragraph 1(d) & (g (ii)) of EC 1223/2009.
+
+Below are the allergens and their respective concentrations in the fragrance that are
+required to be listed in Article 19 Paragraph 1(d) & (g (ii)) of EC 1223/2009 when present
+at levels >0.01% in a leave-on product.
+Fragrance allergens
+INCI (EU) Name CAS number
+Citral
+D-Limonene
+Linalool
+Linalyl Acetate
+Alpha-pinene
+
+### A.2
+
+5392-40-5
+5989-27-5
+78-70-6
+115-95-7
+80-56-8
+
+EC number
+
+Concentration % w/w
+
+226-394-6
+227-813-5
+201-134-4
+204-116-4
+201-291-9
+
+0.01505
+0.13675
+0.05025
+0.26895
+0.0145
+
+Physical /chemical characteristics and stability of the cosmetic product
+
+Physical and chemical characteristics of the ingredients have been listed in the safety
+data sheets which are maintained electronically by the Responsible Person and are
+available on request. A cross reference to the SDS tradename and electronic reference
+number has been shown in the base formula table.
+Physical and Chemical Characterization of the product
+1 Physical state
+2 type of mixture (emulsion/ o/w or w/o,
+suspension, lotion, powder, aerosol …)
+3 organoleptic properties (colour, odour,
+whenever relevant)
+4 pH (at 25oC)
+5 viscosity (at 25oC )
+6 thermal stability (glass bottle)
+7 Specific gravity (at 25oC )
+
+Cream
+w/o mixture
+Off white smooth light cream with a
+characteristic Bergamot odour
+5.96
+16,000 cPs
+25°C for 12 weeks
+0.991 g/ml
+
+Stability of the product
+A shelf-life of 6 months after opening has been allocated to this product.
+An on-going stability study of the product in the packaging will be available to support
+the shelf-life. A stability test of the product in was performed in glass jars has confirmed
+stability at 25oC for 12 weeks, at which point the viscosity increased by 22.5%. The
+
+colour, odour pH and specific gravity all showed unremarkable change over this time
+period.
+
+### A.3
+
+Microbiological Quality
+
+A PET test has been performed according to USP method 38 and confirms the
+effectiveness of the preservative for a period of 28 days. The certificate has been
+presented in Appendix 2.
+
+### A.4
+
+Impurities, traces, information about the packaging material
+
+None of the ingredients of this product contained impurities at a level which would
+require notification.
+A statement on the suitability of the product packaging is shown below.
+The chubby Chunky airless container is made from Polypropylene. The pump is made
+from polypropylene, Low density Polyethylene (LDPE) and High Density Polyethylene
+(HDPE). The components of the packaging material and suitability of use criteria are
+included in a certificate in Appendix 4. This is maintained electronically with the PIF by
+the Responsible Person and is available on request.
+
+### A.5
+
+Normal and reasonably foreseeable use
+O2 Radiance Luminosity Masque is a product designed as a face and neck masque. It is a
+wash off product that in normal circumstances will be used strictly in salons where it
+would be used once daily.
+
+### A.6
+
+Exposure to the Cosmetic Product
+
+Site of application
+Surface area of application (cm2)
+Volume of product applied (mL)
+Frequency of application/use per day
+Target population
+Normal and foreseeable exposure route
+Calculated relative daily exposure
+according to SCCS notes for guidance
+tables (mg/kg bw/day)
+Dermal absorption information
+other
+
+Face and neck
+885*
+1**
+Adults
+Dermal
+Relative daily exposure of 0.25mL was
+calculated to be 4.17mg/kg bw/day based
+on a nominal 60kg human body weight
+No
+NA
+
+*The total surface area for Urban Stress Protect + Detox Clarifying Masque is applied too= 885cm2 (Skincare: 565cm2- Face surface
+area + 320cm2 -Neck surface area). The figures used are adapted from SCCS Notes of the Guidance for the testing of Cosmetic
+Ingredients and their Safety Evaluation, 9th Revision, Section 4.2, Table 1, page 76
+
+** The frequency of application O2 Radiance Luminosity Masque was determined as 1 applications per day, this was extracted from
+this RégimA product being for strictly in salon use where maximum use would be once daily.
+
+### A.7
+
+Exposure to the Substances
+
+Daily Systemic Exposure Dosage (SED) is the daily amount of a cosmetic substance
+applied based on the concentration of that particular substance, the percutaneous
+absorption and the nominal human body weight (60 kg) and this is shown in the table
+below.
+Ingredient
+(INCI name & CAS number)
+
+Propylene Glycol
+57-55-6
+Olea Europaea Fruit Oil
+8001-25-0
+Glycine Soja Oil
+8001-22-7
+Saccharomyces/Xylinum/Black Tea
+Ferment
+100085-62-9
+Glycerin
+56-81-5
+Cetearyl Olivate
+85116-80-9
+Persea Gratissima Oil
+8024-32-6
+Sorbitan Olivate
+223706-40-9
+Hydrogenated Olive Oil
+68334-28-1
+Phenoxyethanol
+122-99-6
+Hydrolyzed Lupine Protein
+Octenylsuccinate
+84082-55-3
+Citrus bergamia peel oil expressed
+(also known as the perfuming
+**name:** Citrus Reticulata, X C.
+Sinensis Peel Extract)
+Xanthan Gum
+11138-66-2
+
+Maximum
+concentration
+(%)
+
+Calculated
+product
+relative
+daily
+exposure
+(mg/kg
+bw/day)
+
+Dermal
+penetration
+factor#
+
+Daily
+ingredient
+exposure or
+SED
+(mg/kg
+bw/day)
+
+4.925
+
+4.17
+
+0.01
+
+0.00206
+
+4.9
+
+4.17
+
+0.01
+
+0.00204
+
+4.17
+
+0.01
+
+0.00167
+
+2.58
+
+4.17
+
+0.01
+
+0.00108
+
+2.3
+
+4.17
+
+0.01
+
+0.00096
+
+4.17
+
+0.01
+
+0.00084
+
+4.17
+
+0.01
+
+0.00083
+
+4.17
+
+0.01
+
+0.00083
+
+1.803
+
+4.17
+
+0.01
+
+0.00075
+
+1.005
+
+4.17
+
+0.01
+
+0.00042
+
+0.84
+
+4.17
+
+0.01
+
+0.00035
+
+0.5
+
+4.17
+
+0.01
+
+0.00021
+
+0.35
+
+4.17
+
+0.01
+
+0.00015
+
+Ingredient
+(INCI name & CAS number)
+
+Olea Europaea Oil Unsaponifiables
+8001-25-0
+Caprylyl Glycol
+1117-86-8
+Tocopherol
+54-28-4
+Ananas Sativus fruit extract
+68917-26-0
+Caesalpinia Spinosa Fruit Pod
+extract
+39300-88-4
+Kappaphycus Alvarezii Extract
+1220882-73-4
+Tropaelum Majus
+Flower/leaf/Stem Extract
+84625-49-0
+Carica Papaya Fruit Extract
+84012-30-6
+Hydroxyethylcellulose
+9004-62-0
+Sodium Citrate
+68-04-2
+Citric Acid
+5949-29-1
+Ethylhexylglycerin
+70445-33-9
+Potassium Sorbate
+24634-61-5
+Biotin
+58-85-5
+
+Maximum
+concentration
+(%)
+
+Calculated
+product
+relative
+daily
+exposure
+(mg/kg
+bw/day)
+
+Dermal
+penetration
+factor#
+
+Daily
+ingredient
+exposure or
+SED
+(mg/kg
+bw/day)
+
+0.3
+
+4.17
+
+0.01
+
+0.00012
+
+0.1
+
+4.17
+
+0.01
+
+0.00004
+
+0.1
+
+4.17
+
+0.01
+
+0.00004
+
+0.095
+
+4.17
+
+0.01
+
+0.0000396
+
+0.095
+
+4.17
+
+0.01
+
+0.0000396
+
+0.095
+
+4.17
+
+0.01
+
+0.0000396
+
+0.0855
+
+4.17
+
+0.01
+
+0.0000357
+
+0.05
+
+4.17
+
+0.01
+
+0.0000188
+
+0.045
+
+4.17
+
+0.01
+
+0.0000188
+
+0.027
+
+4.17
+
+0.01
+
+0.0000113
+
+0.012
+
+4.17
+
+0.01
+
+0.0000050
+
+0.006
+
+4.17
+
+0.01
+
+0.0000025
+
+0.003
+
+4.17
+
+0.01
+
+0.0000013
+
+0.00006
+
+4.17
+
+0.01
+
+0.000000025
+
+# 1% dermal absorption is used in the assessment of O2 Radiance Luminosity Masque. The dermal
+penetration factor was obtained from Face washes, gels and scrubs, Table 3, Dermal sensitization
+quantitative risk Assessment (QRA) for fragrance ingredients, Regulatory Toxicology and Pharmacology
+52, 3-23, Api et al, 2007.
+
+### A.8
+
+Toxicological Profile of the Substances
+
+Hazard Reference
+
+### NOAEL
+
+Irritant Irritant
+Human
+ID and
+for
+Sensitiser
+(mg/kg SEDb MoSc comment
+to eyes to skin
+data
+lista
+hazard ID
+bw/day)
+Hydroxyethylcellulose
+2014 CIR Compendium, for use up to 6%. Amended safety assessment 03/09 – Available
+A
+9004-62-0
+**from CIR JACT 5(3):** 1-59, 1986 (original report)
+Saccharomyces/Xylinum/Black
+Traditional food item, GRAS. Saccharomyces/Xylinum/Black Tea Ferment is present in O2
+Tea Ferment
+#
+Radiance Luminosity Masque at a level of 0.00108 mg/kg bw/day (2.6%) and considered
+100085-62-9
+safe for use.
+Propylene Glycol
+2014 CIR Compendium. For use up to 50%, JACT 13(6):437-91, 1994; IJT 31(2) 245A
+57-55-6
+260,2012
+Olea Europaea Fruit Oil
+A
+2014 CIR Compendium. For use up to 100%, Final report 03/11 available from CIR
+8001-25-0
+Glycine Soja Oil
+A
+2014 CIR Compendium. For use up to 95%, Final report 03/11 available from CIR
+8001-22-7
+2014 CIR Compendium. For use up to 3% in dermal contact products. Safe for use in
+cosmetics when formulated to be non-irritating. IJT 34(Suppl.2):5-69, 2015; Final report
+Cetearyl Olivate
+A
+03/2013 available from CIR. Cetearyl Olivate is present in O2 Radiance Luminosity Masque
+85116-80-9
+at a level of 2%; below the maximum use level and therefore considered safe for use as
+formulated.
+Glycerin
+#
+GRAS, FDA approved food additive, FDA approved over the counter (OTC) for skin
+56-81-5
+Persea Gratissima Oil
+2014 CIR Compendium. For use up to 98%, Final amended report 03/11 available from
+A
+8024-32-6
+**CIR; JEPT 4(4):** 93-103, 1980 (original) re-review IJT 22(S1):1-35, 2003
+Sorbitan Olivate
+A
+2014 CIR Compendium. For use up to 7.5%, IJT 21 (S1):93-112, 2002
+223706-40-9
+Hydrogenated Olive Oil
+A
+2014 CIR Compendium. For use up to 12%, final report 03/11 available from CIR
+68334-28-1
+Ingredient
+(INCI name & CAS number)
+
+Ingredient
+(INCI name & CAS number)
+Phenoxyethanol
+122-99-6
+
+Hydrolyzed Lupine Protein
+Octenylsuccinate
+84082-55-3
+
+Xanthan Gum
+11138-66-2
+Olea Europaea Oil
+Unsaponifiables
+8001-25-0
+Caprylyl Glycol
+1117-86-8
+Tocopherol
+54-28-4
+Ananas Sativus fruit extract
+68917-26-0
+
+Hazard Reference
+ID and
+for
+lista
+hazard ID
+
+Irritant
+to eyes
+
+Irritant
+Human
+Sensitiser
+to skin
+data
+
+### NOAEL
+
+(mg/kg
+bw/day)
+
+SEDb
+
+MoSc
+
+comment
+
+A
+
+2014 CIR Compendium. For use up to 1%, JACT 9(2):259-77, 1990
+
+A
+
+Read across to Hydrolyzed Lupine Protein. For use up to 0.99% in leave on products and
+0.6% in wash off products. It is comprised of >90% peptides (w/w) and <4% carbohydrates
+(w/w). Genotoxicity testing determined Hydrolysed Lupine Protein as being not mutagenic
+in an Ames test, additional In Vitro testing of Hydrolyzed Lupine Protein in 3D human skin
+model (MTT+ IL 1α) resulted in 100% concentration being non-irritating. The indication of
+Hydrolyzed Lupine Protein being non-irritating was confirmed in human patch tests where
+concentrations ranging from 1.92% to 6% were well tolerated and confirmed as nonirritating. Human sensitization test with concentrations ranging from 0.005% to 6% in
+HRIPT resulted in no indication of dermal sensitization. Final report Safety Assessment of
+plant-derived Proteins and Peptides as Used in Cosmetics 09/12/2017 available from CIR.
+Hydrolyzed Lupine Protein is present in O2 Radiance Luminosity Masque at a level of
+0.84% (0.00035 mg/kg bw/day), it is not expected to cause any adverse effects when used
+as directed.
+
+A
+
+2014 CIR Compendium. For use up to 6%, Final report 09/12 available from CIR
+
+A
+
+2014 CIR Compendium. For use up to 3%, Final report 03/11 available from CIR
+
+A
+
+2014 CIR Compendium. For use up to 5%, IJT 31(S2):147-168, 2012
+
+A
+
+2014 CIR Compendium. For use <= 5%, IJT 21(S3):15-116, 2002; Final report 03/2014
+available from CIR
+
+#
+
+Food item, GRAS category as food for human consumption, non-irritant.
+
+Ingredient
+(INCI name & CAS number)
+Caesalpinia Spinosa Fruit Pod
+extract
+39300-88-4
+
+Kappaphycus Alvarezii Extract
+1220882-73-4
+
+Tropaeolum Majus
+Flower/leaf/Stem Extract
+84625-49-0
+Carica Papaya Fruit Extract
+84012-30-6
+Ethylhexylglycerin
+70445-33-9
+
+Hazard Reference
+
+### NOAEL
+
+Irritant Irritant
+Human
+Sensitiser
+ID and
+for
+(mg/kg SEDb MoSc comment
+to eyes to skin
+data
+a
+list
+hazard ID
+bw/day)
+A Secondary assessment was performed on Caesalpinia Spinosa Fruit Extract with a read
+across to Caesalpinia Spinosa Gum. Caesalpinia Spinosa Gum is safe for use up to 0.5%
+with JECFA approving its use as a food ingredient with no ADI specified. A maximum
+##
+stated dose for use is indicated as 5%, 53 times greater than that amount present;
+0.095%, in O2 Radiance Luminosity Masque. It was determined that Caesalpinia Spinosa
+Fruit Extract is safe for use when used as directed.
+Read across to Carrageenan, sulfated galactans extracted from red algae, Kappaphycus
+Alvarezii are kappa carrageenan’s extracted from the red algae. GRAS approved by the
+FDA, with use up to 15.7% in cosmetic formulations. Dermal irritation and sensitization
+studies of food grade iota carrageenan on guinea pigs indicated it was not a skin
+##
+sensitizer. Final report Safety Assessment of Polysaccharide Gums as used in cosmetics,
+09/22/2015 available from the CIR. Kappaphycus Alvarezii Extract is present at 0.095%
+(0.0000395 mg/kg bw/day) and it is not expected at this level to induce any adverse
+outcome effects when used as directed.
+A secondary assessment was performed on Tropaeolum Majus Flower/leaf/stem Extract.
+A worst case dose of 4-6 g/day was identified as dried watercress(a common name for
+genus Tropaeolum ), this is a relative daily exposure of between 66.6 and 100 mg/kg
+##
+bw/day. Tropaeolum Majus Flower/leaf/stem Extract is present in O2 Radiance Luminosity
+Masque at a level of 0.0000357 mg/kg bw/day, 1,865,546 to 2,801,120 times lower than
+the worst case dose. It was determined that Tropaeolum Majus Flower/leaf/Stem Extract
+is safe for use in O2 Radiance Luminosity Masque when used as directed.
+2014 CIR Compendium safe up to 0.1%, Final report 03/2011 (CIR) Read across to Carica
+A
+Papaya Seed Oil, non-irritant.
+A
+
+2014 CIR Compendium. Safe for use up to 2% in leave on formulations. The skin irritation and
+sensitization potential of a foundation containing 0.4% ethylhexylglycerin in a RIPT with 108 males
+and females where the test substance was applied for 24 hours for a total of 9 induction
+
+Ingredient
+(INCI name & CAS number)
+
+Citrus Bergamia Peel Oil
+Expressed
+Sodium Citrate
+68-04-2
+Citric Acid
+5949-29-1
+Potassium Sorbate
+24634-61-5
+Biotin
+58-85-5
+
+Hazard Reference
+ID and
+for
+lista
+hazard ID
+
+B
+
+Irritant
+to eyes
+
+Irritant
+Human
+Sensitiser
+to skin
+data
+
+### NOAEL
+
+(mg/kg
+bw/day)
+
+SEDb
+
+MoSc
+
+comment
+
+applications. There was 109 participants in the challenge phase where the test sites were scored
+at the time of patch removal, 24 and 48 hours later. It was determined that the foundation was
+neither a skin irritant nor a sensitizer. IJT 32 (Suppl. 3):5-21, 2013.
+Supplier IFRA Certificate of conformity for Bergamot Oil is supplied and presented in Appendix 3.
+The maximum allowable concentration; Category 5 - Women’s facial creams is 9.96 % w/w. The
+actual concentration in the formulation is 0.5%. The allergen components are declared in section
+
+### A.1. Fragrance Allergen table. Citrus Bergamia Peel Oil Expressed will be indicated in the label
+
+along with its fragrance components. It has been determined that the use of Bergamot Oil is safe
+for use in O2 Radiance Luminosity Masque.
+
+A
+
+2014 CIR Compendium, for use up t0 10%. IJT 33 (S2):29-127, 2006
+
+A
+
+2014 CIR Compendium, for use up to 39%. IJT 33 (S2): 16-46, 2014
+
+A
+
+2014 CIR Compendium, for use up to 1%. JACT 7(6):87-80,1988 confirmed 04/06
+
+A
+
+2014 CIR Compendium, for use up to 1%. IJT 20(S4): 1-12, 2001
+
+a Some ingredients are excluded from a formal risk assessment where a recognized authority has published a review of the
+
+ingredient under similar conditions of use and concluded on safe use at the level of inclusion in the cosmetic product (Hazard ID=A).
+Hazard ID category B is for recognized authority reviews of the ingredient under similar conditions of use with restricted use or
+where the ingredient is contained in the annexes to Regulation (EC) No 1223/2009 (Hazard ID=B). Where hazard ID A or B is
+reported, the maximum allowed usage concentration should be stated.
+b all possible routes of exposure should be considered
+c A MoS of greater than 100 is considered to represent safe use
+# Food item, hazard and exposure data not required.
+
+## A secondary assessment was performed to evaluate the substances toxicological potential. The assessment can be found in
+Appendix 4.
+
+**Fragrances:** 
+O2 Radiance Luminosity Masque contains a fragrance called Bergamot Oil and the IFRA
+certificate is presented in Appendix 3. Fragrance allergens present in Bergamot Oil are
+outlined in Section A.1.
+
+### A.9
+
+Undesirable Effects and Serious Undesirable Effects
+
+No undesirable effects are anticipated based on the product being used as directed on
+the face once daily.
+
+### A.10
+
+Information on the Cosmetic Product
+
+O2 Radiance Luminosity Masque was released in 2017. Over the period August 2017 to
+August 2018, 900 units have been sold and there have been no adverse reactions
+reported to RégimA Company.
+
+**B:** Part Cosmetic Product Safety Assessment
+
+### B.1
+
+Assessment Conclusion
+
+Review of the ingredients
+After analysis of all the available information including:
+• formulation
+• toxicological profile of the ingredients and their concentration in the product
+• Product data sheets supplied by the ingredient manufacturer
+It is not expected that O2 Radiance Luminosity Masque will cause damage to human
+health when used as directed.
+It is therefore concluded that O2 Radiance Luminosity Masque can placed on the market
+in the EU as a facial masque.
+Review of human data on the product
+There are no human tests such as a patch test, for this product.
+
+### B.2
+
+Label Warnings and Instructions for Use
+
+Directions for use are given on the product label that is presented in Appendix 4.
+**Directions:** To be used as part of a RégimA in-salon treatment. Cleanse with RégimA.
+Apply a thin layer of Masque with fingertips to face and neck, avoiding the eye area.
+Allow 15-20 minutes for penetration and action.
+Remove thoroughly with RégimA cleanser. Follow with appropriate RégimA after
+treatment products.
+**Warnings:** 
+‘Strictly for professional use’
+‘Airless container DO NOT remove top as this would introduce air and/or bacteria’
+‘Product level can be viewed through the gap in label’
+‘Store below 77°F/25°C in a cool dry place. Protect from light’
+
+‘Must not be combined with any other product range’
+‘Avoid eye area’
+
+### B.3
+
+Reasoning
+
+This product contains many ingredients with a positive reputation for their face masque
+properties and with e.g good local tolerance. There are no reasons to anticipate tolerance
+problems with use.
+This product is intended for external use in adults only.
+
+### B.4
+
+Assessors Credentials and Approval of Part B
+
+Shirley Hudson (safety assessor)
+BSc, University of Aberdeen
+CBiol, MSB
+20+ years as a practicing toxicologist in the pharmaceutical and chemical industries
+
+After analyzing of all of the available information including the product formulation and
+toxicological profile of the ingredients, I conclude that according to the current state of
+scientific knowledge, this product is not expected to result in any significant damage to
+human health and can be safely marketed for the intended and foreseeable use as a
+face masque.
+
+List of References
+SCCS Notes of Guidance for the Testing of Cosmetic Substances and Their Safety
+Evaluation, 9th Revision, 29 September 2015 (SCCS/1564/15)
+European Commission database on cosmetic ingredients (Cosing)
+**http:** //ec.europa.eu/consumers/cosmetics/cosing/
+Cosmetic ingredient review http://www.cir-safety.org/
+
+## Method Of Manufacture / Gmp Certification
+
+## Proof Of Effect Claimed
+
+This product makes no direct or implied claims and consequently no proof is required.
+
+## Animal Testing Statement
+
+To the best of our knowledge, the manufacturer and his suppliers have not carried out
+or commissioned any animal testing for the purpose of developing new cosmetic
+products.
+The statement below is a confirmation of the company policy:
+
+RégimA Skin Treatments
+
+## Ck92/05371/23
+
+VAT No. 4590131043
+
+**Tel:** 011 615 2869 or 011 622 7827
+**Fax:** 011 616 8008
+**Cell:** 0836537020
+**e-mail:** jax@regima.com
+**POSTAL ADDRESS:** PO BOX 9523 Edenglen 1613
+**PHYSICAL ADDRESS:** 20 River Road Morninghill Bedfordview 2007 RSA
+Animal Testing Compliance Statement
+This letter is to serve as testimony as to the practice of animal testing, and
+confirm that RégimA Skin Treatments has not, nor will not engage in any practice
+that involves animal testing in any form.
+RégimA Skin Treatments hereby confirms neither the manufacturer nor RégimA
+Skin Treatments itself have commissioned or carried out any form of animal
+testing during the course of product development. This applies to any and all
+activities performed as part of the development process, including, but not
+**restricted to:** R&D, stability testing, safety and toxicology assessments, suitability
+studies or any other facet related to the product’s development.
+
+**Appendix 1:** Safety Data Sheets or Ingredient Specifications
+Safety data sheets and technical data sheets for the ingredients are maintained
+electronically with the PIF by the Responsible Person. They are available on request.
+
+**Appendix 2:** Microbial Challenge Test
+A microbial challenge test is maintained electronically with the PIF by the Responsible
+Person. It is available on request.
+
+**Appendix 3:** Certificates of Allergen Content
+
+**Appendix 4:** Miscellaneous
+The stability report, packaging material information and product carton insert are
+maintained electronically with the PIF by the Responsible Person. They are available on
+request.
+
+### PRODUCT
+
+## Information File*
+
+RégimA Company
+Slimming Sculpting Solution
+Lift-Firm-Tone-Sculpt
+**Prepared:** March 2019
+(Label & packaging update August 2021)
+
+*As required under Article 11 of the European Cosmetics Regulation EC No. 1223/2009
+
+## Table Of Contents
+
+Contents
+
+## Introduction ................................................................................................................... 3
+
+## Product Description .................................................................................................. 3
+
+## Cosmetic Product Safety Report ................................................................................ 7
+
+### Part A: Cosmetic Product Safety Information................................................................. 7
+
+### A.1 Quantitative and qualitative composition of the cosmetic product: ............... 7
+
+### A.2 Physical /chemical characteristics and stability of the cosmetic product ..... 11
+
+### A.3 Microbiological Quality................................................................................... 13
+
+### A.4 Impurities, traces, information about the packaging material ...................... 13
+
+### A.5 Normal and reasonably foreseeable use ........................................................ 13
+
+### A.6 Exposure to the Cosmetic Product ................................................................. 13
+
+### A.7 Exposure to the Substances ........................................................................... 14
+
+### A.8 Toxicological Profile of the Substances .......................................................... 16
+
+### A.9 Undesirable Effects and Serious Undesirable Effects..................................... 21
+
+### A.10
+
+### Information on the Cosmetic Product ........................................................ 21
+
+**B:** Part Cosmetic Product Safety Assessment ............................................................... 22
+
+### B.1 Assessment Conclusion .................................................................................. 22
+
+### B.2 Label Warnings and Instructions for Use ....................................................... 22
+
+### B.3 Reasoning ....................................................................................................... 24
+
+### B.4 Assessors Credentials and Approval of Part B ................................................ 24
+
+### List of References .......................................................................................................... 24
+
+## Method Of Manufacture / Gmp Certification............................................... 25
+
+## Proof Of Effect Claimed ..................................................................................... 26
+
+## Animal Testing Statement .................................................................................. 26
+
+### Appendix 1: Safety Data Sheets or Ingredient Specifications ...................................... 28
+
+### Appendix 2: Microbial Challenge Test .............................................................................. 29
+
+### Appendix 3: Certificates of Allergen Content ................................................................... 30
+
+### Appendix 4: Miscellaneous ........................................................................................... 33
+
+## Introduction
+
+## Product Description
+
+**Product Name:** Slimming Sculpting Solution Lift-Firm-Tone-Sculpt
+Product type
+Form
+Colour
+Pack size
+Pack type
+Dispenser type
+Part of a set
+Manufacturer code
+
+Body Cream
+Cream
+Off White
+100ml and 200ml
+Chubby Chunky Airless Container
+Polypropylene pump
+No
+
+### BSS 002
+
+**Directions for use:** 
+200ml Box
+To be used as part of a RégimA in-salon treatment.
+Cleanse the body of cream and oil, except SpaZone O2Purifyer Serum and/or Target Cellulite, which may be used
+in combination.
+
+Normal use
+
+Apply one pump depression per target area such as thighs,
+inner knees, abdomen, upper arms. Gently massage a thin
+layer of cream solution to target areas. A cooling sensation
+may be felt. Therapist may then apply plastic wrap firmly
+over treated areas and leave for one hour. Plastic wrap is
+then removed.
+These SpaZone products are leave on treatments that work
+synergistically so are not cleansed off until the next
+morning if possible.
+
+**Pictures of the Item:** On following page
+
+Container label
+
+Carton label
+
+**Batch code:** The batch number is printed onto the underside of the carton and the
+container at the point of manufacturing and filling, therefore it is not visible on the label
+as represented in this PIF. The batching is automated, so the batch code and date is
+printed onto the carton and container as they are filled and boxed.
+**Product claims:** 
+This product claims to limit the development of fat masses, particularly in the abdomen
+and thighs and to firm the upper arms. It helps to facilitate the elimination of fat,
+stimulating lipolytic activity (breaking down of fat) of adipocytes (fat cells).
+Provides a dual action mechanism by tightening the dermal fiber network, allowing the
+skin to regain elasticity and tone, restoring curve contour.
+It has been described that with continued treatments the consumer can experience a
+decrease in oedema (fluid retention), thigh and abdominal circumference, dermal
+tightening, helping regain elasticity and tone.
+
+## Cosmetic Product Safety Report
+
+**Part A:** Cosmetic Product Safety Information
+
+### A.1
+
+Quantitative and qualitative composition of the cosmetic product:
+
+Slimming Sculpting Solution Lift Firm Tone Sculpt base formula
+No
+
+Raw Ingredient (INCI Name)
+
+%
+(w/w)
+
+Cetearyl Olivate
+
+2.5
+
+Sorbitan Olivate
+
+2.5
+
+Shea butter Glycerides
+
+Olea Europaea Fruit Oil
+
+Water (Aqua)
+Pentylene Glycol
+
+3.38
+0.4
+
+Secale Cereale Seed Extract
+
+0.22
+
+Water (Aqua)
+Pentylene Glycol
+Hydrolyzed Celosia Cristata
+Flower/Seed Extract
+Hydrolyzed Prunella Vulgaris
+Extract
+
+3.464
+0.4
+0.1088
+
+Rosa Canina Fruit Oil
+
+Ribes Nigrum Seed Oil
+
+Hydrogenated Olive Oil
+
+Mixture %
+w/w
+Wt(g/kg)
+
+CAS
+
+EC
+
+85116-80-9
+223706-40-9/
+92202-01-2
+194043-92-0/
+68424-61-3
+
+285-532-3
+296-0335-5
+
+Function
+
+Supplier
+(Agent)
+
+Tradename
+
+Emulsifying
+
+Textron
+Tecnica (CJP
+Chemicals)
+
+Olivem®
+
+Textron
+Tecnica (CJP
+Chemicals)
+
+Olive Oil
+Extra Virgin
+
+Silab
+(Meganede)
+
+Coheliss™
+
+Solvent/
+Skin Conditioning/
+Skin Protecting
+
+Silab
+(Meganede)
+
+BioSculptine®
+s GR
+
+Seatons
+(Croda)
+
+Seatons
+Rosehip Oil
+Ref-LQ-(JL)
+
+270-312-0
+Masking/
+Perfuming/
+Skin Conditioning
+Solvent/
+Skin Conditioning/
+Abbrasive/
+Bulking
+
+8001-25-0
+
+232-277-0
+
+7732-18-5
+5343-92-0
+
+231-791-2
+226-285-3
+
+90106-48-2
+
+290-271-3
+
+7732-18-5
+5343-92-0
+
+231-791-2
+226-285-3
+
+669066-11-9
+
+613-997-8
+
+90105-92-3
+
+290-211-6
+
+84603-93-0/
+84696-47-9
+
+238-652-0
+
+Emollient/
+Skin Conditioning
+
+68606-81-5/
+97676-19-2
+
+271-749-0
+
+Emollient
+
+1.95
+
+226993-75-5/
+68334-28-1
+
+269-820-6/
+
+Skin Conditioning/
+Viscosity Controlling/
+
+0.0272
+
+Textron
+Tecnica (CJP
+Chemicals)
+Textron
+Tecnica (CJP
+
+Blackcurrent
+Seed Oil
+Oliwax®
+
+No
+
+Raw Ingredient (INCI Name)
+
+%
+(w/w)
+
+Mixture %
+w/w
+Wt(g/kg)
+
+CAS
+
+EC
+
+Function
+
+8001-25-0
+8001-25-0/
+798-12-8
+
+232-277-0
+
+Masking/
+Perfuming
+
+Olea Europaea Fruit Oil
+Olea Europaea Oil
+Unsaponifiables
+
+0.825
+
+Glycerin
+
+56-81-5
+
+200-289-5
+
+Humectant/
+Perfuming/
+Skin Protecting/
+Viscosity Controlling
+
+Persea Gratissima Oil
+
+8024-32-6
+
+232-428-0
+
+Skin Conditioning
+
+Phenoxyethanol
+
+0.9
+
+122-99-6
+
+204-589-7
+
+117-86-8
+
+214-254-7
+
+7732-18-5
+1220882-734
+
+231-791-2
+
+0.225
+
+Caprylyl Glycol
+
+0.1
+
+Water (Aqua)
+
+0.05
+
+Kappaphycus Alvarezii extract
+
+0.475
+
+232-277-0
+
+310-127-6
+
+Caesalpinia Spinosa Fruit pod
+extract
+D-Limonene
+Linalyl Acetate
+Linalool
+Citral
+Gamma-Terpinene
+Pinene
+
+0.475
+
+39300-88-4
+
+254-409-6
+
+0.2735
+0.5379
+0.1005
+0.0301
+0.029
+0.029
+
+5989-27-5
+115-95-7
+78-70-6
+5392-40-5
+99-85-4
+80-56-8
+
+227-813-5
+204-116-4
+201-134-4
+226-394-6
+202-794-6
+201-291-9
+
+Xanthan Gum
+
+0.25
+
+0.25
+
+11138-66-2
+
+234-394-2
+
+Supplier
+(Agent)
+
+Tradename
+
+Chemicals)
+
+Various
+
+Refined
+Glycerine
+
+Preservative/
+Emollient/
+Humectant/
+Skin Conditioning
+
+Textron
+Tecnica (CJP
+Chemicals)
+
+Cold Pressed
+refined
+Avocado Oil
+
+Dr. Strartmans
+(Meganede)
+
+Verstatil® PC
+
+Solvent/
+Skin Conditioning
+
+Silab
+(Meganede)
+
+Filmexel®
+
+Perfuming/
+Masking/
+Antifoaming
+
+FD Copeland
+(CJP Chemicals)
+
+Bergamot Oil
+
+Binding/
+Emulsifying/
+Smulsion Stabilising/
+
+CP Kelco
+(Tranarc)
+
+Keltrol T-Plus
+
+No
+
+Raw Ingredient (INCI Name)
+
+%
+(w/w)
+
+Mixture %
+w/w
+Wt(g/kg)
+
+CAS
+
+200-201-5/
+240-747-1/
+233-466-0/
+204-299-0/
+215-798-8/
+218-197-9/
+200-412-2
+
+231-791-2
+
+Tocopherol
+
+0.1
+
+0.1
+
+54-28-4
+(gamma)/
+166698-35-4
+(beta)/
+
+## 10191-410(Dl)/
+
+119-13-1/
+1406-18-4/
+14066-66-2/
+
+## 2074-535(Dl)/
+
+## 59-02-9(D)/
+
+7616-22-0
+
+Water (Aqua)
+
+59.65
+
+59.65
+
+7732-185
+
+EC
+
+Supplier
+(Agent)
+
+Tradename
+
+Antioxidant/
+Masking/
+Skin Conditioning
+
+DL-αTocopherol
+
+DSM
+nutritional
+products
+(Chempure)
+
+Solvent
+
+In House
+
+Deionised
+water
+
+Function
+Gel Forming/
+Skin Conditioning/
+Surfactant/
+Viscosity Controlling
+
+# not assigned
+
+Ingredient order for the label: Water (Aqua), Olea Europaea Fruit Oil, Shea Butter Glycerides, Glycerin, Ribes Nigrum Seed Oil, Rosa
+Canina Fruit Oil, Cetearyl Olivate, Sorbitan Olivate, Persea Gratissima Oil, Hydrogenated Olive Oil, Citrus bergamia peel Oil
+expressed, Phenoxyethanol, Pentylene Glycol, Caesalpinia Spinosa Fruit Pod extract, Kappaphycus Alvarezii Extract, Limonene,
+Xanthan Gum, Olea Europaea Oil Unsaponifiables, Secale Cereale Seed Extract, Hydrolyzed Celosia Cristata Flower/Seed Extract,
+Linalool, Caprylyl Glycol, Tocopherol, Citral, Hydrolyzed Prunella Vulgaris Extract , Alpha-Pinene, Linalyl Acetate.
+Red font denotes ingredients present at less than 1% which may be listed in any order.
+
+Below are the allergens and their respective concentrations in the fragrance that are
+required to be listed in Article 19 Paragraph 1(d) & (g (ii)) of EC 1223/2009 when present
+at levels >0.001% in a leave-on product.
+Fragrance allergens
+INCI (EU) Name
+
+CAS number
+
+EC number
+
+Concentration % w/w
+
+Alpha -pinene
+
+80-56-8
+
+201-291-9
+
+0.029
+
+Linalyl Acetate
+
+115-95-7
+
+204-116-4
+
+0.5379
+
+Citral
+Limonene
+Linalool
+
+5392-40-5
+5989-27-5
+78-70-6
+
+226-394-6
+227-813-5
+201-134-4
+
+0.0301
+0.2795
+0.1005
+
+The restrictions of the fragrance allergens relate to the following sources:
+
+Reference
+SCCS opinion on Fragrance allergens in
+cosmetic products, medium risk allergen *
+SCCS opinion on Fragrance allergens in
+cosmetic products, low risk allergen *
+Annex III/70 2*
+Annex III/88 2*
+Annex III/84 2*
+
+* SCCS Opinion on Fragrance allergens in cosmetic products, SCCS/1459/11.
+2* Regulation (EC) No. 1223/2009 of the European parliament and of the council of 30 November 2009 on
+cosmetic products, Annex III List of substances which cosmetic products must no contain except to the
+restrictions laid down, L342/128.
+
+### A.2
+
+Physical /chemical characteristics and stability of the cosmetic product
+
+Physical and chemical characteristics of the ingredients have been listed in the safety
+data sheets which are maintained electronically by the Responsible Person and are
+available on request. A cross reference to the SDS tradename and electronic reference
+number has been shown in the base formula table.
+Physical and Chemical Characterization of the product
+1 Physical state
+2 type of mixture (emulsion/ o/w or w/o,
+suspension, lotion, powder, aerosol …)
+3 organoleptic properties (colour, odour,
+whenever relevant)
+4 pH (at 25oC)
+5 viscosity (at 25oC )
+6 thermal stability (glass bottle)
+7 Specific gravity (at 25oC)
+
+Cream
+w/o
+Off white cream, characteristic Bergamot
+odour
+4.43
+19,000 cPs
+40°C for 12 weeks
+0.961/ml
+
+Stability of the product
+A shelf-life of 6 months after opening has been allocated to this product.
+
+An on-going stability study of the product in the packaging will be available to support
+the shelf-life. A stability test of the product in glass jars has confirmed stability at 25oC
+for 12 weeks. During the test period the viscosity had significantly increased by 21%.
+Additional testing was performed at 5°C, 40°C and 50°C over a 12 week period.
+5°C Stability testing
+During stability testing at 5oC at the week 12 time point the appearance of the product
+was described as having oily globules. An 44% increase in viscosity was also noted.
+40°C Stability testing
+Accelerated stability testing at 40oC showed changes in the product appearance at week
+12 where it was noted as having ‘oily globules’. Additionally, in week 12, the odour was
+noted to have changed where it was described as ‘slightly stronger base odour’ and the
+pH had dropped by 21%.
+50°C Stability testing
+A slight yellowish appearance change was noted from week 2 to 8 when the product was
+tested at 50°C, with the appearance noted as separating on week 12.
+The pH had notably changed in week 2 where there was a 14% drop, this decrease
+continued through to week 12 where there was a 29% decrease. Additionally during
+viscosity testing there was a change noted from week 1 there was a 43% increase
+additional changes were noted in week 4, 8 and 12 where the changes were 49%, 20%
+and 40% respectively
+.
+A label warning is in place to store Slimming Sculpting Solution-Lift-Firm-Tone-Sculpt at a
+temperature of 25°C, with this it is not expected to affect the stability of the product as
+formulated.
+
+### A.3
+
+Microbiological Quality
+
+A PET test has been performed according to USP method 38 and confirms the
+effectiveness of the preservative for a period of 28 days. The certificate has been
+presented in Appendix 2.
+
+### A.4
+
+Impurities, traces, information about the packaging material
+
+None of the ingredients of this product contained impurities at a level which would
+require notification.
+A statement on the suitability of the product packaging is shown below.
+The Airless Chubby Chunky Containers used in the 100ml slimming sculpting solution are
+made from Polypropylene and Low-density Polyethylene (LDPE), the pump is LDPE. The
+Airless Chubby Chunky Containers used in the 200ml slimming sculpting solution are
+made from Polypropylene with the pump being made from LDPE and High-density
+Polyethylene (HDPE). The components of the packaging material and suitability of use
+criteria are included in Appendix 4. This is maintained electronically with the PIF by the
+Responsible Person and is available on request.
+
+### A.5
+
+Normal and reasonably foreseeable use
+Slimming Sculpting Solution Lift-Firm-Tone-Sculpt is a product designed to limit the
+development of fat masses, helping facilitate the elimination of fat, stimulating lipolytic
+activity (breaking down of fat) of adipocytes (fat cells) . It is a leave-on product that in
+normal circumstances will be used once daily on the thighs, inner knees, abdomen and
+upper arms.
+
+### A.6
+
+Exposure to the Cosmetic Product
+
+Site of application
+Surface area of application (cm2)
+Volume of product applied (mg)
+Frequency of application/use per day
+Target population
+Normal and foreseeable exposure route
+Calculated relative daily exposure
+according to SCCS notes for guidance
+
+Total body area (Area body -Area head
+female)
+15670*
+7820**
+Once daily
+Adults
+Dermal
+7.82g used once daily on a 60kg person,
+Relative Daily Exposure has been
+
+tables (mg/kg bw/day)
+calculated as 130.33 mg/kg bw/day
+Dermal absorption information
+None
+other
+NA
+* Surface area of application has been established as 15670cm2, taking worst case scenario of RégimA
+
+Slimming Sculpting Solution Lift-Firm-Tone-Sculpt being applied to the entire body during one treatment
+session. Area body – Area head female = 15670cm2. Table 1; Mean exposed skin surface area per product
+type and frequency of application per product type, Section 4-2, page 76, SCCS Notes of guidance for the
+testing of cosmetic ingredients and their Safety Evaluation, 9th revision.
+** Volume of product applied = 7820mg; taken as worst case scenario of application of product to the
+entire body. Volume of product applied has been extracted from Skin Care, Body lotion, Table 2:
+Estimated daily exposure levels for different cosmetic product types according to Cosmetics Europe Data,
+SCCS Notes of Guidance for the testing of Cosmetic Ingredients and their Safety evaluation, 9th revision.
+
+### A.7
+
+Exposure to the Substances
+
+Daily Systemic Exposure Dosage (SED) is the daily amount of a cosmetic substance
+applied based on the concentration of that particular substance, the percutaneous
+absorption and the nominal human body weight (60 kg) and this is shown in the table
+below.
+Calculated
+Daily
+product
+ingredient
+relative
+Dermal
+Maximum
+exposure
+Ingredient
+daily
+penetration
+concentration
+or SED
+(INCI name & CAS number)
+exposure
+factor#
+(%)
+(mg/kg
+(mg/kg
+bw/day)
+bw/day)
+Olea Europaea Fruit Oil
+8001-25-0
+Shea butter Glycerides
+194043-92-0
+Glycerin
+56-81-5
+Ribes Nigrum Seed Oil
+68606-81-5
+Rosa Canina Fruit Oil
+84603-93-0
+Cetearyl Olivate
+85116-80-9
+Sorbitan Olivate
+223706-40-9
+Persea Gratissima Oil
+8024-32-6
+Hydrogenated Olive Oil
+226993-75-5
+Citrus bergamia peel oil
+expressed
+
+5.825
+
+130.33
+
+7.5917
+
+130.33
+
+6.5165
+
+130.33
+
+3.9099
+
+130.33
+
+3.9099
+
+130.33
+
+3.9099
+
+2.5
+
+130.33
+
+3.2583
+
+2.5
+
+130.33
+
+3.2583
+
+130.33
+
+2.6066
+
+1.95
+
+130.33
+
+2.5414
+
+130.33
+
+1.3033
+
+Ingredient
+(INCI name & CAS number)
+
+93686-22-7
+Phenoxyethanol
+122-99-6
+Pentylene Glycol
+5343-92-0
+Caesalpinia Spinosa Fruit pod
+extract
+39300-88-4
+Kappaphycus Alvarezii extract
+1220882-73-4
+Xanthan Gum
+11138-66-2
+Olea Europaea Oil
+Unsaponifiables
+8001-25-0
+Secale Cereale Seed Extract
+90106-48-2
+Hydrolyzed Celosia Cristata
+Flower/Seed Extract
+669066-11-9
+Caprylyl Glycol
+117-86-8
+Tocopherol
+54-28-4
+Hydrolyzed Prunella Vulgaris
+Extract
+90105-92-3
+
+Calculated
+Daily
+product
+ingredient
+Maximum
+relative
+Dermal
+exposure
+concentration
+daily
+penetration
+or SED
+(%)
+exposure
+factor#
+(mg/kg
+(mg/kg
+bw/day)
+bw/day)
+
+0.9
+
+130.33
+
+1.1730
+
+0.8
+
+130.33
+
+1.0426
+
+0.475
+
+130.33
+
+0.6191
+
+0.475
+
+130.33
+
+0.6191
+
+0.25
+
+130.33
+
+0.3258
+
+0.225
+
+130.33
+
+0.2932
+
+0.22
+
+130.33
+
+0.2867
+
+0.1088
+
+130.33
+
+0.142
+
+0.1
+
+130.33
+
+0.130
+
+0.1
+
+130.33
+
+0.130
+
+0.0272
+
+130.33
+
+0.0354
+
+# No dermal absorption data is available, 100% dermal absorption assumed as it is a leave on product.
+
+### A.8
+
+Toxicological Profile of the Substances
+
+Ingredient
+(INCI name & CAS
+number)
+Olea Europaea Fruit
+Oil
+8001-25-0
+Shea butter
+Glycerides
+194043-92-0
+Glycerin
+56-81-5
+
+Hazard Reference
+ID and
+for
+a
+list
+hazard ID
+
+Irritant
+to eyes
+
+Irritant
+to skin
+
+Sensitiser
+
+Human
+data
+
+### NOAEL
+
+(mg/kg
+bw/day)
+
+SEDb
+
+MoSc
+
+comment
+
+A
+
+2014 CIR Compendium. For use up to 100%, Final report 03/11 available from CIR. Present in the
+current formulation at 5.825% and is therefore considered safe for use.
+
+A
+
+For use up to 6.5%, Final report 09/12/2017 available from CIR. Present in the current formulation
+at 5% and is therefore considered safe for use.
+
+A
+
+Safe, GRAS, FDA approved food additive, FDA approved over the counter (OTC) for skin.
+
+Ribes Nigrum Seed
+Oil
+68606-81-5
+
+A
+
+Rosa Canina Fruit Oil
+84603-93-0
+
+A
+
+Cetearyl Olivate
+85116-80-9
+
+A
+
+Sorbitan Olivate
+223706-40-9
+
+A
+
+2014 CIR Compendium. For use up to 0.3%, Final report 03/11 available from CIR. Ribes Nigrum
+Seed Oil is present in Slimming Sculpting Solution-Lift-Firm-Tone-Sculpt at 3%. A dermal irritation
+and sensitization study was performed using a skin cream containing 0.2% Ribes Nigrum
+(Blackcurrant) oil was evaluated with 106 participants in a HRIPT with an occlusive patch. The test
+indicated that it was not a dermal irritant or a sensitizer. Ribes Nigrum at 0.25% was formulated in
+a cream (type not specified) which was evaluated on 119 participants to determine Primary
+cutaneous irritation the results showed no primary irritation . Ribes Nigrum (Blackcurrant) seed oil
+is also a food item; GRAS, it is therefore considered safe for use in Slimming Sculpting Solution-LiftFirm-Tone-Sculpt.
+2014 CIR Compendium. For use up to 19%, final report 03/11 available from CIR. Present in the
+current formulation at 3% and is therefore considered safe for use.
+2014 CIR Compendium. For use up to 3% and when formulated to be non-irritating, Final report
+03/2013 available from CIR. Present in the current formulation at 2.5% and is therefore considered
+safe for use.
+2014 CIR Compendium. For use up to 7.5%, IJT 21(S1):93-112, 2002. Present in the current
+formulation at 2.5% and is therefore considered safe for use.
+
+Ingredient
+(INCI name & CAS
+number)
+Persea Gratissima Oil
+8024-32-6
+Hydrogenated Olive
+Oil
+226993-75-5
+Phenoxyethanol
+122-99-6
+Pentylene Glycol
+5343-92-0
+
+Hazard Reference
+
+### NOAEL
+
+Irritant
+Irritant
+Human
+Sensitiser
+ID and
+for
+(mg/kg
+SEDb
+MoSc
+comment
+to eyes
+to skin
+data
+a
+list
+hazard ID
+bw/day)
+2014 CIR Compendium. For use up to 89%, Final amended report 03/11 available from CIR; JEPT
+A
+**4(4):** 93-103, 1980 (original) re-review IJT 22(S1) :1-35, 2003. Present in the current formulation at
+2% and is therefore considered safe for use.
+A
+A
+A
+
+Caesalpinia Spinosa
+Fruit pod extract
+39300-88-4
+
+##
+
+Kappaphycus
+Alvarezii extract
+1220882-73-4
+
+##
+
+2014 CIR Compendium. For use up to 12%, Final report 03/11 available from CIR. Present in the
+current formulation at 1.95% and is therefore considered safe for use.
+2014 CIR Compendium. For use up to 1%, JACT 9(2):259-77,1990. Present in the current
+formulation at 0.9% and is therefore considered safe for use.
+2014 CIR Compendium. For use up to 5%, IJT 31 (S2):147-168, 2012. Present in the current
+formulation at 0.8% and is therefore considered safe for use.
+A secondary assessment was performed on Caesalpinia Spinosa Fruit Pod extract. A recommended
+dose was established as 1-5%; where 5% was used as the worst case scenario dose. Caesalpinia
+Spinosa Fruit Pod extract is present in Slimming Sculpting Solution lift-Firm-Tone-Sculpt at 0.475%,
+10.5 times lower than that of the worst case dose outlined. A read across to Caesalpinia Spinosa
+gum was performed due to the gum being derived from the dried, gummy exudate of Caesalpinia
+Spinosa leuminosae. Caesalpinia Spinosa gum has been approved for use as a food ingredient with
+no specific ADI for man established. 2014 CIR Compendium has outlined a use concentration of
+0.5% for Caesalpinia Spinosa gum (Final report 03/12 available from CIR). It’s present in the current
+formulation at 0.475% and is therefore considered safe for use.. Caesalpinia Spinosa Fruit pod
+extract is not expected to cause any adverse outcome effects in Slimming Sculpting Solution liftFirm-Tone-Sculpt as formulated when used as directed.
+A secondary assessment was performed on Kappaphycus Alvarezii extract. A read across was
+performed to Carrageenan as the primary component of Kappaphycus Alvarezii is sulfonated
+galactans knowns as Carrageenan. Carrageenan is GRAS the US FDA and is an approved food
+additive. The WHO JECFA report established confirmed that carrageenan is safe for food use and
+concluded that it is not necessary to specify an ADI. The carrageenan molecule is a large molecule
+
+Ingredient
+(INCI name & CAS
+number)
+
+Xanthan Gum
+11138-66-2
+Olea Europaea Oil
+Unsaponifiables
+8001-25-0
+
+Hazard Reference
+
+### NOAEL
+
+Irritant
+Irritant
+Human
+Sensitiser
+ID and
+for
+(mg/kg
+SEDb
+MoSc
+comment
+to eyes
+to skin
+data
+a
+list
+hazard ID
+bw/day)
+with average molecular weights of 200,000-400,000 leading to a low dermal absorption potential
+and therefore reducing the risk of a systemic effect. It was therefore concluded that the presence
+of Kappaphycus Alvarezii extract in Slimming Sculpting Solution Lift-Firm-Tone-Sculpt at 0.475% is
+not expected to cause an adverse outcome effect when used as directed.
+2014 CIR Compendium. For use up to 6%, Final report 09/12 available from CIR. Present in the
+A
+current formulation at 0.25% and is therefore considered safe for use.
+A
+
+Secale Cereale Seed
+Extract
+90106-48-2
+
+A
+
+Hydrolyzed Celosia
+Cristata Flower/Seed
+Extract
+669066-11-9
+
+##
+
+2014 CIR Compendium. For use up to 3%, Final report 03/11 available from CIR. Present in the
+current formulation at 0.225% and is therefore considered safe for use.
+The common name for Secale Cereale Seed Extract is Rye Seed Extract. Rye seeds are a common
+food ingredient with no safety concerns associated with it. It was determined that Secale Cereale
+Seed Extract is not expected to cause any adverse outcomes when used as directed, at 0.22%
+(0.0092 mg/kg bw/day).
+A secondary assessment of Hydrolyzed Celosia Cristata Flower/Seed Extract has been performed. It
+has been used in traditional medical for the purposes of headaches, ulcers and eye inflammation.
+Limited toxicological data is available however an oral administration study where a methanol
+extract of Celosia Cristata was administered in feed at doses of between 1000-4000 mg/kg which
+equated to 150-600 mg/kg bw/day with a conversion factor was applied. Hydrolyzed Celosia
+Cristata Flower/Seed Extract is present in Slimming Sculpting Lift-Firm-Tone-Slim-Sculpt at 0.142
+mg/kg bw/day; 1056 –4225 times lower than the doses previously outlined. Hydrolyzed Celosia
+Cristata Flower/Seed Extract is a component of Silab® product marketed as Biosculptine, the
+combined safety has been examined and was confirmed as both non-irritating in cutaneous
+irritation tests in vivo on human volunteers and non-sensitizing following evaluation in human
+volunteers using the Marzulli-Maibach method, these studies are outlined in the Biosculptine
+leaflet in Appendix 4. It is therefore concluded that Hydrolyzed Celosia Cristata Flower/Seed Extract
+is not expected to cause any adverse outcomes when used as directed, in Slimming Sculpting Lift18
+
+Ingredient
+(INCI name & CAS
+number)
+Caprylyl Glycol
+117-86-8
+Tocopherol
+54-28-4
+
+Hydrolyzed Prunella
+Vulgaris Extract
+90105-92-3
+
+Hazard Reference
+ID and
+for
+lista
+hazard ID
+A
+A
+
+##
+
+### NOAEL
+
+Sensitiser
+(mg/kg
+SEDb
+MoSc
+comment
+bw/day)
+Firm-Tone-Slim-Sculpt as formulated.
+2014 CIR Compendium. For use up to 5%, IJT 31 (S2):147-168, 2012. Present in the current
+formulation at 0.1% and is therefore considered safe for use.
+2014 CIR Compendium. For use <=5%, IJT 21(S3):51-116, 2002; Final report 03/2014 available from
+CIR. Present in the current formulation at 0.1% and is therefore considered safe for use.
+A secondary assessment has been performed on Hydrolysed Prunella Vulgaris extract. Limited
+toxicological data was available with a dose range of 0.75g to 30g established via oral
+administration and topical application. Hydrolysed Prunella Vulgaris extract is present in Slimming
+Sculpting Solution Lift-Firm-Tone-Sculpt at 0.0354 mg/kg bw/day. The systemic exposure was
+calculated to be 12.5 mg/kg bw/day and 500mg/kg bw/day based on a 60kg human which equated
+to 353 and 14124 times greater than that outlined in formulation for 0.75g (750mg) and 30g
+(30,000mg) respectively. Prunella Vulgaris is a common Chinese herbal medicine that is used to
+treat a range of illnesses that include high blood pressure. Prunella Vulgaris has been listed on the
+FDA Poisonous Plant Database, it was also found that small doses of Prunella Vulgaris is considered
+safe. Hydrolyzed Prunella Vulgaris Extract is a component of Silab® product marketed as
+Biosculptine, the combined safety has been stated as non-irritating in cutaneous irritation tests
+when used between 2 and 4% in human volunteers. Along with the irritation potential being
+evaluated the sensitizing potential was evaluated and resulted in a non-sensitizing affirmation
+following its evaluation in vivo on human volunteers using the Marzulli-Maibach method, this is
+presented in the Biosculptine leaflet presented in Appendix 4. As hydrolyzed Purnella Vulgaris is
+present in Slimming Sculpting Solution Lift-Firm-Tone-Sculpt at a low level (0.0272%) and
+considering the available safety information, it is not expected that there would be adverse effects
+and it is expected to be safe for use when used as directed.
+Irritant
+to eyes
+
+Irritant
+to skin
+
+Human
+data
+
+a Some ingredients are excluded from a formal risk assessment where a recognized authority has published a review of the
+
+ingredient under similar conditions of use and concluded on safe use at the level of inclusion in the cosmetic product (Hazard ID=A).
+
+Hazard ID category B is for recognized authority reviews of the ingredient under similar conditions of use with restricted use or
+where the ingredient is contained in the annexes to Regulation (EC) No 1223/2009 (Hazard ID=B). Where hazard ID A or B is
+reported, the maximum allowed usage concentration should be stated.
+b all possible routes of exposure should be considered
+c A MoS of greater than 100 is considered to represent safe use
+# Food item, hazard and exposure data not required.
+## Secondary assessment performed and report presented in Appendix 4.
+
+**Fragrances:** 
+Slimming Sculpting Solution Lift-Firm-Tone-Sculpt contains the fragrance Citrus Bergima
+Peel Oil expressed, known as Bergamot Oil. The IFRA certificate is presented in Appendix
+3 and fragrance allergen composition is outlined in Section A.1.
+
+### A.9
+
+Undesirable Effects and Serious Undesirable Effects
+
+No undesirable effects are anticipated based on the product being used as directed on
+the total body area, once daily.
+
+### A.10
+
+Information on the Cosmetic Product
+
+Slimming Sculpting Solution Lift-Firm-Tone-Sculpt was released in July 2017. Over the
+period July 2017 to October 2018 , 346 units have been sold and there have been no
+adverse reactions reported to RégimA Company.
+
+**B:** Part Cosmetic Product Safety Assessment
+
+### B.1
+
+Assessment Conclusion
+
+Review of the ingredients
+After analysis of all the available information including:
+• formulation
+• toxicological profile of the ingredients and their concentration in the product
+• Product data sheets supplied by the ingredient manufacturer
+It is not expected that Slimming Sculpting Solution Lift-Firm-Tone-Sculpt will cause
+damage to human health when used as directed.
+It is therefore concluded that Slimming Sculpting Solution Lift-Firm-Tone-Sculpt can
+placed on the market in the EU as a body cream.
+Review of human data on the product
+There are no human tests such as a patch test, for this product.
+
+### B.2
+
+Label Warnings and Instructions for Use
+
+Directions for use are given on the product label and (Appendix 4).
+**Directions:** 
+100ml Box
+Cleanse the body of cream and oil, except SpaZone Target Cellulite, which may be used
+in combination.
+Apply one pump depression per target area, such as thighs, inner knees, abdomen,
+upper arms. Gently massage a thin layer of cream solution to target areas. A cooling
+sensation may be felt.
+These SpaZone products are leave-on treatments that work synergistically, so do not
+cleanse off until the next morning if possible.
+200ml Box
+To be used as part of a RégimA in-salon treatment.
+
+Cleanse the body of cream and oil, except SpaZone O2-Purifyer Serum and/or Target
+Cellulite, which may be used in combination.
+Apply one pump depression per target area such as thighs, inner knees, abdomen,
+upper arms. Gently massage a thin layer of cream solution to target areas. A cooling
+sensation may be felt. Therapist may then apply plastic wrap firmly over treated areas
+and leave for one hour. Plastic wrap is then removed.
+These SpaZone products are leave on treatments that work synergistically so are not
+cleansed off until the next morning if possible.
+A IBPN technology® label is attached to packaging indicating that RégimA hold the
+license to utilize Silab’s Interpenetrating biopolymer Network in their cosmetics. The
+certificate stating this is presented in Appendix 4.
+**Warnings:** 
+100ml
+‘Must not be combined with any other product range’
+‘A cooling sensation may be felt’
+‘Airless Container DO NOT remove top as this would introduce air and/or bacteria’
+‘Product level can be viewed through the gap in the label’
+‘Store below 77°F/25°C in a cool dry place. Protect from light’
+‘If irritation occurs, discontinue use’
+200ml
+‘To be used as part of RégimA in-salon treatment’
+‘Must not be combined with any other product range’
+‘A cooling sensation may be felt’
+‘Strictly for professional use’
+‘Airless Container DO NOT remove op as this would introduce air and/or bacteria’
+‘Product level can be viewed through the gap in the label’
+‘Store below 77°F/25°C in a cool dry place. Protect from light’
+‘If irritation occurs, discontinue use’
+
+### B.3
+
+Reasoning
+
+This product contains many ingredients with a positive reputation for their body lotion
+properties and with good local tolerance. There are no reasons to anticipate tolerance
+problems with use.
+This product is intended for external use in adults only.
+
+### B.4
+
+Assessors Credentials and Approval of Part B
+
+Shirley Hudson (safety assessor)
+BSc, University of Aberdeen
+CBiol, MSB
+20+ years as a practicing toxicologist in the pharmaceutical and chemical industries
+
+After analyzing of all of the available information including the product formulation and
+toxicological profile of the ingredients, I conclude that according to the current state of
+scientific knowledge, this product is not expected to result in any significant damage to
+human health and can be safely marketed for the intended and foreseeable use as a
+body lotion.
+
+List of References
+SCCS Notes of Guidance for the Testing of Cosmetic Substances and Their Safety
+Evaluation, 9th Revision, 29 September 2015 (SCCS/1564/15)
+European Commission database on cosmetic ingredients (Cosing)
+**http:** //ec.europa.eu/consumers/cosmetics/cosing/
+Cosmetic ingredient review http://www.cir-safety.org/
+
+## Method Of Manufacture / Gmp Certification
+
+## Proof Of Effect Claimed
+
+This product claims to limit the development of fat masses, particularly in the abdomen
+and thighs, firm upper arms, helping facilitate elimination of fat, stimulating lipolytic
+activity (breaking down of fat) of adipocytes (fat cells).
+A new slenderizing strategy, short and long term, is obtained from the synergy of
+specific plant polyphenols, providing a dual action mechanical stress and by tightening
+the dermal fiber network. Skin regains elasticity and tone, restoring curve contour.
+With continued treatments one can experience a decrease in oedema (fluid retention),
+thigh and abdominal circumference, dermal tightening, helping regain elasticity ad tone.
+The claims relating to Slimming Sculpting Solution -Lift-Firm-Tone-Sculpt are
+substantiated by supplemented data supplied by Silab. RégimA is a licensed user of Silab
+products which include Biosculptine®, Coheliss and Filmexel where through In Vitro and
+human In Vivo testing have shown to substantiate the results claimed.
+The additional information on Silab® ingredients are located in Appendix 4.
+
+## Animal Testing Statement
+
+To the best of our knowledge, the manufacturer and his suppliers have not carried out
+or commissioned any animal testing for the purpose of developing new cosmetic
+products.
+The statement below is a confirmation of the company policy:
+
+RégimA Skin Treatments
+
+## Ck92/05371/23
+
+VAT No. 4590131043
+
+**Tel:** 011 615 2869 or 011 622 7827
+**Fax:** 011 616 8008
+**Cell:** 0836537020
+**e-mail:** jax@regima.com
+**POSTAL ADDRESS:** PO BOX 9523 Edenglen 1613
+**PHYSICAL ADDRESS:** 20 River Road Morninghill Bedfordview 2007 RSA
+Animal Testing Compliance Statement
+
+This letter is to serve as testimony as to the practice of animal testing, and
+confirm that RégimA Skin Treatments has not, nor will not engage in any practice
+that involves animal testing in any form.
+RégimA Skin Treatments hereby confirms neither the manufacturer nor RégimA
+Skin Treatments itself have commissioned or carried out any form of animal
+testing during the course of product development. This applies to any and all
+activities performed as part of the development process, including, but not
+**restricted to:** R&D, stability testing, safety and toxicology assessments, suitability
+studies or any other facet related to the product’s development.
+
+**Appendix 1:** Safety Data Sheets or Ingredient Specifications
+Safety data sheets and technical data sheets for the ingredients are maintained
+electronically with the PIF by the Responsible Person. They are available on request.
+
+**Appendix 2:** Microbial Challenge Test
+A microbial challenge test is maintained electronically with the PIF by the Responsible
+Person. It is available on request.
+
+**Appendix 3:** Certificates of Allergen Content
+
+**Appendix 4:** Miscellaneous
+The stability report, packaging material information and product carton insert are
+maintained electronically with the PIF by the Responsible Person. They are available on
+request.
+
+### PRODUCT
+
+## Information File*
+
+RégimA
+Target Cellulite Contouring
+Complex
+**Prepared:** April 2019
+(Label and packaging update August 2021)
+
+*As required under Article 11 of the European Cosmetics Regulation EC No. 1223/2009
+
+## Table Of Contents
+
+Contents
+
+## Introduction ................................................................................................................... 3
+
+## Product Description .................................................................................................. 3
+
+## Cosmetic Product Safety Report ................................................................................ 7
+
+### Part A: Cosmetic Product Safety Information................................................................. 7
+
+### A.1 Quantitative and qualitative composition of the cosmetic product: ............... 7
+
+### A.2 Physical /chemical characteristics and stability of the cosmetic product ..... 12
+
+### A.3 Microbiological Quality................................................................................... 15
+
+### A.4 Impurities, traces, information about the packaging material ...................... 15
+
+### A.5 Normal and reasonably foreseeable use ........................................................ 15
+
+### A.6 Exposure to the Cosmetic Product ................................................................. 15
+
+### A.7 Exposure to the Substances ........................................................................... 16
+
+### A.8 Toxicological Profile of the Substances .......................................................... 18
+
+### A.9 Undesirable Effects and Serious Undesirable Effects..................................... 23
+
+### A.10
+
+### Information on the Cosmetic Product ........................................................ 23
+
+**B:** Part Cosmetic Product Safety Assessment ............................................................... 24
+
+### B.1 Assessment Conclusion .................................................................................. 24
+
+### B.2 Label Warnings and Instructions for Use ....................................................... 24
+
+### B.3 Reasoning ....................................................................................................... 26
+
+### B.4 Assessors Credentials and Approval of Part B ................................................ 26
+
+### List of References .......................................................................................................... 26
+
+## Method Of Manufacture / Gmp Certification............................................... 27
+
+## Proof Of Effect Claimed ..................................................................................... 28
+
+## Animal Testing Statement .................................................................................. 29
+
+### Appendix 1: Safety Data Sheets or Ingredient Specifications ...................................... 30
+
+### Appendix 2: Microbial Challenge Test .............................................................................. 31
+
+### Appendix 3: Certificates of Allergen Content ................................................................... 32
+
+### Appendix 4: Miscellaneous .............................................. Error! Bookmark not defined.
+
+## Introduction
+
+## Product Description
+
+**Product Name:** Target Cellulite Silhouette Contouring Complex
+Product type
+Form
+Colour
+Pack size
+Pack type
+Dispenser type
+Part of a set
+Manufacturer code
+Normal use
+
+Cream
+Emulsion
+Off white
+200ml and 100ml
+Chubby chunky airless tube
+NA
+No
+
+### CCC 003
+
+**Directions:** AM or PM: cleanse the body of any cream and
+oil, except SpaZone O2- Purifying Serum if undertaking a
+combined treatment. If the body is warm following a bath
+or shower this aids penetration.
+Massage briskly a layer of Complex to all areas prone to
+cellulite, thighs, buttocks, abdomen and inner knees. Then
+very gently ensure areas of lymph drainage (where toxins
+are eliminated) are covered, targeting mainly behind the
+knees, groin, armpits, up to the neck. Leave treatment on.
+One may apply Slimming Sculpting Solution to target areas
+over the top.
+
+**Pictures of the Item:** On following page
+
+Container label
+Target Cellulite Silhouette Contouring Complex – 200ml
+
+Carton label
+Target Cellulite Silhouette Contouring Complex – 200ml
+
+**Batch code:** The batch number is printed onto the underside of the carton and the
+container at the point of manufacturing and filling; therefore, it is not visible on the
+label as represented in this PIF. The batching is automated, so the batch code and date
+is printed onto the carton and container as they are filled and boxed.
+**Product claims:** 
+This product claims the following:
+- That it targets cellulite, facilitates progressive elimination of oedema (fluid
+retention), stimulates microcirculation by vaso-dilatation and decongestion.
+Sacred Locus breaks down fat storage, limits formation of new fat cells. Natural
+biopolymer has a tensor, lifting, anti-wrinkle effect, smoothing and visibly
+elasticizing, improving contour, plus the look and feel of lack lustre skin.
+
+## Cosmetic Product Safety Report
+
+**Part A:** Cosmetic Product Safety Information
+
+### A.1
+
+Quantitative and qualitative composition of the cosmetic product:
+
+Target Cellulite Silhouette Contouring Complex base formula
+No
+
+Raw Ingredient (INCI Name)
+
+% (w/w)
+
+Prunus Amygdalus Dulcis Oil
+
+11.40612
+
+Tocopherol
+
+0.00588
+
+Olus Oil
+
+0.588
+
+Water (Aqua)
+
+Cetearyl Olivate
+
+Sorbitan Olivate
+
+2.5
+
+Water (Aqua)
+Butylene Glycol
+Citrus Aurantium Amara Flower
+Extract
+Phenoxyethanol
+
+3.5875
+1.25
+0.1125
+0.025
+
+Mixture %
+w/w
+Wt(g/kg)
+
+CAS
+8007-69-0/
+90320-37-9
+54-28-4
+(gamma)/
+16698-35-4
+(beta)/
+10191-41-0
+
+### (DL)/
+
+119-13-1/
+1406-18-4/
+1406-66-2/
+2074-53-5
+
+### (DL)/
+
+## 59-02-9 (D)/
+
+7616-22-0
+68956-68-3
+
+EC
+
+Function
+
+Supplier
+(Agent)
+
+Tradename
+
+Skin Conditioning/
+Emollient
+
+Textron
+Tecnica (CJP
+Chemicals)
+
+Sweet
+Almond Oil
+
+Solvent
+
+In House
+
+Emulsifying
+
+Textron
+Tecnica (CJP
+Chemicals)
+
+Deionised
+Water
+
+Solvent /
+Humectant/
+Masking/
+Skin Conditioning/
+Viscosity Controlling/
+
+Silab
+(Meganede)
+
+291-063-5
+
+200-201-5/
+240-747-1/
+233-466-0/
+204-299-0/
+215-798-8
+218-197-9/
+200-412-2
+
+273-313-5
+
+7732-18-5
+
+231-791-2
+
+85116-80-9
+92202-01-2/
+223706-40-9
+7732-18-5
+107-88-0
+72968-50-4/
+68916-04-1
+122-99-6
+
+285-532-3
+296-033-5
+231-791-2
+203-529-7
+277-143-2
+204-589-7
+
+Olivem®
+
+Remoduline™
+
+No
+
+Raw Ingredient (INCI Name)
+
+% (w/w)
+
+Ethylhexylglycerin
+
+0.025
+
+Mixture %
+w/w
+Wt(g/kg)
+
+EC
+
+70445-33-9
+
+408-080-2
+
+68424-61-3/
+194043-92-0
+
+270-312-1
+
+107-88-0
+7732-18-5
+
+203-529-7
+231-791-2
+
+85085-51-4
+
+285-379-2
+
+Shea Butter Glycerides
+
+Butylene Glycol
+Water (Aqua)
+
+1.966
+
+Nelumbo Nucifera Leaf extract
+
+0.34
+
+Hydrogenated Olive Oil
+
+2.07
+
+Olea Europaea Fruit Oil
+Olea Europaea Oil
+Unsaponifiables
+
+0.633
+
+Olea Europaea Fruit Oil
+
+8001-25-0
+
+232-277-0
+
+Glycerin
+
+56-81-5
+
+200-289-5
+
+CAS
+
+0.297
+
+68334-28-1/
+226993-75-5
+8001-25-0
+8001-25-0/
+156798-12-8
+
+269-820-6
+232-277-0
+232-277-0
+
+Function
+Refreshing/
+Preservative
+Emulsifying/
+Emulsion Stabilising/
+Skin conditioning/
+Surfactant/
+Viscosity Controlling
+Humectant/
+Masking/
+Skin Conditioning/
+Solvent/
+Viscosity Controlling
+Skin Conditioning/
+Viscosity Controlling/
+Masking/
+Perfuming
+Masking/
+Perfuming/
+Skin Conditioning
+Humectant/
+Perfuming/
+Skin Protecting/
+Viscosity Controlling
+
+Persea Gratissima Oil
+
+8024-32-6
+
+232-428-0
+
+Skin Conditioning
+
+Phenoxyethanol
+
+0.9
+
+122-99-6
+
+204-589-7
+
+Preservative/
+
+Supplier
+(Agent)
+
+Tradename
+
+Olvea
+(Savannah
+Fine
+Chemicals)
+
+Olcea®
+Creamy Shea
+
+Silab
+(Meganede)
+
+Pro-Sveltyl ®
+0P
+
+Textron
+Tecnica (CJP
+Chemicals)
+
+Oliwax
+
+Textron
+Tecnica (CJP
+Chemicals)
+
+Olive Oil
+Extra Virgin
+
+Various
+
+Refined
+Glycerine
+
+Textron
+Tecnica (CJP
+Chemicals)
+Dr. Straetmans
+
+Cold Pressed
+refined
+Avocado Oil
+Verstatil® PC
+
+No
+
+Raw Ingredient (INCI Name)
+
+% (w/w)
+
+Caprylyl Glycol
+
+Mixture %
+w/w
+Wt(g/kg)
+
+CAS
+
+EC
+
+Function
+
+0.1
+
+1117-86-8
+
+214-254-7
+
+Water (Aqua)
+
+0.05
+
+231-791-2
+
+Kappaphycus alvarezii extract
+
+0.475
+
+Caesalpinia spinosa fruit extract
+Citrus bergamia peel oil
+expressed
+(also known as the perfuming
+**name:** Citrus Reticulata, X C.
+Sinensis Peel Extract)
+
+0.475
+
+7732-18-5
+1220882-734
+39300-88-4
+
+Humectant/
+Skin Conditioning/
+Emollient
+
+Xanthan Gum
+
+0.3
+
+Tocopherol
+
+0.1
+
+93686-22-7
+
+Supplier
+(Agent)
+
+Tradename
+
+(Meganede)
+
+Solvent /
+Skin Conditioning/
+Skin Protecting
+
+Silab
+(Meganede)
+
+Filmexel ®
+
+297-672-2
+
+Perfuming
+
+FD Copeland
+
+### (CJP
+
+Chemicals)
+
+Bergamot Oil
+
+CP Kelco
+(Tranarc)
+
+Keltrol ® T
+Plus
+
+DSM
+Nutritional
+Products
+(Chempure)
+
+dl-αTocopherol
+
+310-127-6
+254-409-6
+
+0.3
+
+11138-66-2
+
+234-394-2
+
+0.1
+
+54-28-4
+(gamma)/
+16698-35-4
+(beta)/
+10191-41-0
+
+### (DL)/
+
+119-13-1/
+1406-18-4/
+1406-66-2/
+
+Binding/
+Emulsifying/
+Emulsion Stabilising/
+Gel Forming/
+Skin Conditioning/
+Surfactant/
+Viscosity Controlling
+
+200-201-5/
+240-747-1/
+233-466-0/
+204-299-0/
+215-798-8/
+218-197-9/
+200-412-2
+
+Antioxidant/
+Masking/
+Skin Conditioning
+
+No
+
+Raw Ingredient (INCI Name)
+
+Water (Aqua)
+
+% (w/w)
+
+51.6
+
+Mixture %
+w/w
+Wt(g/kg)
+
+51.6
+
+CAS
+
+EC
+
+Function
+
+Supplier
+(Agent)
+
+Tradename
+
+231-791-2
+
+Solvent
+
+In House
+
+Deionised
+Water
+
+2074-53-5
+
+### (DL)/
+
+## 59-02-9 (D)/
+
+7616-22-0
+7732-18-5
+
+# CAS/EC not assigned
+
+Ingredient order for the label: Water (Aqua),Prunus Amygdalus Dulcis Oil, Shea butter Glycerides, Butylene Glycol, Olea Europaea
+Fruit Oil, Cetearyl Olivate, Sorbitan Olivate, Hydrogenated Olive Oil, Glycerin, Persea Gratissima Oil, Citrus Bergamia Peel Oil
+Expressed, Phenoxyethanol, Olus Oil, Caesalpinia Spinosa fruit Extract, Kappaphycus alvarezii extract, Nelumbo Nucifera Leaf extract,
+Xanthan Gum, Olea Europaea Oil Unsaponifiables, Limonene, Citrus Aurantium Amara Flower Extract, Tocopherol, Linalool, Caprylyl
+Glycol, Citral, Ethylhexylglycerin, Linalyl Acetate, Alpha-Pinene.
+Red font denotes ingredients present at less than 1% which may be listed in any order.
+
+Below are the allergens and their respective concentrations in the fragrance that are
+required to be listed in Article 19 Paragraph 1(d) & (g (ii)) of EC 1223/2009 when present
+at levels >0.001% in a leave-on product.
+Fragrance allergens*
+INCI (EU) Name
+
+CAS number
+
+EC number
+
+Concentration % w/w
+
+Comment
+
+Limonene
+
+5989-27-5
+
+227-813-5
+
+0.2735
+
+Linalyl Acetate
+
+115-95-7
+
+204-116-4
+
+0.5379
+
+Linalool
+Citral
+
+78-70-6
+5392-40-5
+
+201-134-4
+226-394-6
+
+0.1005
+0.0301
+
+Alpha -Pinene
+
+80-56-8
+
+201-291-9
+
+0.029
+
+Annex III/88*
+Low to medium risk allergen as
+outlined by the SCCS Opinion on
+fragrance allergens 2*
+Annex III/84*
+Annex III/70*
+Medium risk allergen as outlined by
+the SCCS Opinion on fragrance
+allergens 2*
+
+* Regulation (EC) No 1223/2009 of the European Parliament and of the council of 30 November 2009 on
+cosmetic products, Annex III; List of substances which cosmetic products must not contain except subject
+to the restrictions laid down, page 128.
+2* SCCS Opinion on Fragrance allergens in cosmetic products, 15th plenary meeting, June 2012, Section 7,
+Table 7-1, page 47.
+
+### A.2
+
+Physical /chemical characteristics and stability of the cosmetic product
+
+Physical and chemical characteristics of the ingredients have been listed in the safety
+data sheets which are maintained electronically by the Responsible Person and are
+available on request. A cross reference to the SDS tradename and electronic reference
+number has been shown in the base formula table.
+Physical and Chemical Characterization of the product
+1 Physical state
+2 type of mixture (emulsion/ o/w or w/o,
+suspension, lotion, powder, aerosol …)
+3 organoleptic properties (colour, odour,
+whenever relevant)
+4 pH (Initial result at 25oC)
+5 viscosity (Initial result at 25oC)
+6 thermal stability (glass bottle)
+7 Specific gravity (Initial result at 25°C)
+
+Cream
+w/o mixture
+Off white colour, smooth consistency with
+characteristic odour (Bergamot Oil
+perfuming agent)
+6.01
+30,000 cPs
+40°C for 12 weeks
+0.951 g/ml
+
+Stability of the product
+A shelf-life of 6 months after opening has been allocated to this product.
+An on-going stability study of the product in the packaging will be available to support
+the shelf-life. A stability test of the product in glass jars confirmed stability at 25oC
+(room temperature) for 12 weeks. Additional testing was performed at 5oC, 40oC and
+50oC.
+Stability testing at 5°C
+During testing at 5oC an increase in viscosity was noted from week 1 to week 2 and in
+week 8 and week 12, the increase was noted to be 21%, 33%, 32% respectively.
+Stability testing at 40°C
+During testing at 40oC a change in appearance was noted in week 4; the product
+appeared slightly darker, this continued until week 12. Additionally, a decrease in pH
+was noted as 16%, 24%, 39% and 39% in weeks 2 to 12 respectively. A decrease in
+viscosity was noted from week 1 to 8 with the decrease being 94%, 63%, 47% and 20%
+respectively, an 40% increase was then noted in week 12.
+The appearance of the cream was noted as slightly darker from week 4 through to week
+12. It was determined that a warning be placed on the product indicating users to keep
+in a cool place
+Stability testing at 50°C
+Accelerated stability testing performed at 50oC indicated a significant change in the
+physical parameters outlined in the test from week 1, where a decrease in the pH was
+noted to be 20%, 27%, 38%, 46% and 47% from week 1 to 12 respectively. A decrease in
+viscosity was noted in week 1 and 4; 52% and 40% respectively.
+From week 4; the creams appearance was noted as ‘slightly darker’ in comparison to the
+initial observation of off white, this change in appearance was noted through to week
+12 where the consistency was also noted to be lumpy. Additionally, from week 8 the
+characteristic odour appeared stronger and this was continued through to week 12 of
+testing. A warning will be put in place for the user to keep in a cool dark place.
+With normal storage and the consumer complying with additional warnings placed on
+the packaging, it is not expected that the product will deviate from specifications
+outlined. The stability report is presented in Appendix 4.
+The Accelerated Aging Rate (AAR) was calculated to estimate the shelf life of the
+product. The AAR is calculated using the following equation;
+
+Q10^ ((Accelerated Aging Temp. – Ambient Temp.)/10) where Q10 is the Accelerated
+Aging Factor with an industry standard of 2.
+
+## ∴ Aar = 2^ ((50 – 25)/10) = 5.66
+
+The study was performed over 12 weeks, 84 days, therefore 84 X 5.66 = approximately
+475 days using the Accelerated Aging scenario. This has confirmed the shelf life of 6
+months which has been assigned to this product.
+
+### A.3
+
+Microbiological Quality
+
+A PET test has been performed according to USP method 38 and confirms the
+effectiveness of the preservative for a period of 28 days. The certificate has been
+presented in Appendix 2.
+
+### A.4
+
+Impurities, traces, information about the packaging material
+
+None of the ingredients of this product contained impurities at a level which would
+require notification.
+A statement on the suitability of the product packaging is shown below.
+The Chubby Chunky Airless Containers are made from 100ml; Low density polyethylene
+(LDPE) and AS/PP and 200ml; Polypropylene (PP) and Low-density polyethylene (LDPE).
+The pump in the 100ml is made from. The components of the packaging material and
+suitability of use criteria are included in a certificate in Appendix 4. This is maintained
+electronically with the PIF by the Responsible Person and is available on request.
+
+### A.5
+
+Normal and reasonably foreseeable use
+Target Cellulite Silhouette Contouring Complex is a product designed to moisturise the
+skin. It is a leave-on cream that in normal circumstances will be used twice daily on the
+entire body, mainly the thighs, buttocks, abdomen, inner knees, groin and arm pits.
+
+### A.6
+
+Exposure to the Cosmetic Product
+
+Site of application
+Surface area of application (cm2)
+Volume of product applied (mg)
+Frequency of application/use per day
+Target population
+Normal and foreseeable exposure route
+Calculated relative daily exposure
+according to SCCS notes for guidance
+tables (mg/kg bw/day)
+Dermal absorption information
+other
+
+Entire body (excluding the head)
+15,670
+7,820*
+2.28/day**
+Adults
+Dermal
+7.82g applied daily
+Relative daily exposure of 130.33 mg/kg
+bw/day based on a 60kg adult
+None
+NA
+
+*Volume of product applied = 7.82g (7820 mg). This volume of application was determined as follows; Skin Care,
+Body Lotion, estimated daily amount applied; 7.82g. This figure has been extracted from adapted from SCCS Notes for
+
+Guidance for the testing of Cosmetic Ingredients and their safety Evaluation, 9th Revision, Section 4.2, Table 2, page
+79.
+
+**Frequency of application for Target Cellulite Silhouette Contouring Complex = 2.28/day. The frequency of
+
+application has been adapted from the following; Skincare, Body Lotion frequency of application of 2.28/day. This
+figure has been extracted from SCCS Notes for Guidance for the testing of Cosmetic Ingredients and their safety
+Evaluation, 9th Revision, Section 4.2, Table 1, page 76.
+
+### A.7
+
+Exposure to the Substances
+
+Daily Systemic Exposure Dosage (SED) is the daily amount of a cosmetic substance
+applied based on the concentration of that particular substance, the percutaneous
+absorption and the nominal human body weight (60 kg) and this is shown in the table
+below.
+
+Ingredient
+(INCI name & CAS number)
+
+Prunus Amygdalus Dulcis Oil
+8007-69-0
+Shea Butter Glycerides
+68424-61-3
+Butylene Glycol
+107-88-0
+Olea Europaea Fruit Oil
+8001-25-0
+Cetearyl Olivate
+85116-80-9
+Sorbitan Olivate
+92202-01-2
+Hydrogenated Olive Oil
+68334-28-1
+Glycerin
+56-81-5
+Persea Gratissima Oil
+8024-32-6
+Citrus bergamia peel oil expressed
+93686-22-7
+Phenoxyethanol
+122-99-6
+Olus Oil
+68956-68-3
+Caesalpinia spinosa fruit extract
+39300-88-4
+Kappaphycus alvarezii extract
+
+Maximum
+concentration
+(%)
+
+Calculated
+product
+relative
+daily
+exposure
+(mg/kg
+bw/day)
+
+Dermal
+penetration
+factor#
+
+Daily
+ingredient
+exposure
+or SED
+(mg/kg
+bw/day)
+
+11.40612
+
+130.33
+
+14.87
+
+130.33
+
+6.52
+
+3.25
+
+130.33
+
+4.24
+
+2.633
+
+130.33
+
+3.432
+
+2.5
+
+130.33
+
+3.258
+
+2.5
+
+130.33
+
+3.258
+
+2.07
+
+130.33
+
+2.698
+
+130.33
+
+2.607
+
+130.33
+
+2.607
+
+130.33
+
+1.303
+
+0.925
+
+130.33
+
+1.206
+
+0.588
+
+130.33
+
+0.766
+
+0.475
+
+130.33
+
+0.619
+
+0.475
+
+130.33
+
+0.619
+
+Ingredient
+(INCI name & CAS number)
+
+Maximum
+concentration
+(%)
+
+Calculated
+product
+relative
+daily
+exposure
+(mg/kg
+bw/day)
+
+Dermal
+penetration
+factor#
+
+Daily
+ingredient
+exposure
+or SED
+(mg/kg
+bw/day)
+
+0.34
+
+130.33
+
+0.443
+
+0.3
+
+130.33
+
+0.391
+
+0.297
+
+130.33
+
+0.387
+
+0.1125
+
+130.33
+
+0.147
+
+0.10588
+
+130.33
+
+0.138
+
+0.1
+
+130.33
+
+0.130
+
+0.025
+
+130.33
+
+0.033
+
+1220882-73-4
+Nelumbo Nucifera Leaf extract
+85085-51-4
+Xanthan Gum
+11138-66-2
+Olea Europaea Oil Unsaponifiables
+8001-25-0
+Citrus Aurantium Amara Flower
+Extract
+5989-27-5
+Tocopherol
+54-28-4
+Caprylyl Glycol
+1117-86-8
+Ethylhexylglycerin
+70445-33-9
+
+# 100% dermal absorption is used as Target Cellulite Silhouette Contouring Complex is a leave on product.
+
+### A.8
+
+Toxicological Profile of the Substances
+
+Ingredient
+(INCI name & CAS
+number)
+Prunus Amygdalus
+Dulcis Oil
+8007-69-0
+Shea Butter Glycerides
+68424-61-3
+Butylene Glycol
+107-88-0
+Olea Europaea Fruit Oil
+8001-25-0
+Cetearyl Olivate
+85116-80-9
+Sorbitan Olivate
+92202-01-2
+Hydrogenated Olive Oil
+68334-28-1
+Glycerin
+56-81-5
+Persea Gratissima Oil
+8024-32-6
+
+Hazard Reference
+ID and
+for
+lista
+hazard ID
+
+Irritant to
+eyes
+
+Irritant
+to skin
+
+Sensitiser
+
+Human
+data
+
+### NOAEL
+
+(mg/kg
+bw/day)
+
+SEDb
+
+MoSc
+
+Comment
+
+A
+
+2014 CIR Compendium. For use up to 77%, Final amended report 03/11 available from CIR; JACT 2(5):85-99,
+**1983; re-review IJT 24 (S1):** 98-101, 2005.
+
+A
+
+For use up to 6.5%, Final report 09/12/2017 available from CIR
+
+A
+
+2014 CIR Compendium. For use up to 89%, JACT 4(5):223-48, 1985 confirmed 02/04 IJT 25 (S2), 2006.
+
+A
+
+2014 CIR Compendium. For use up to 100%, final report 03/11 available from CIR.
+
+A
+
+2014 CIR Compendium. For use up to 3%; Safe for use in cosmetics when formulated to be non-irritating,
+Final report 03/2013 available from CIR.
+
+A
+
+2014 CIR Compendium. For use up to 7.5%, IJT 21 (S1):93-112,2002.
+
+A
+
+2014 CIR Compendium. For use up to 12%, Final report 03/11 available from CIR.
+
+A
+
+Safe, GRAS, FDA approved food additive, FDA approved over the counter (OTC) for skin.
+
+A
+
+Citrus Bergamia Peel Oil
+Expressed
+
+B
+
+Phenoxyethanol
+122-99-6
+
+A
+
+2014 CIR Compendium. For use up to 98%, final amended report 03/11 available from CIR; JEPT 4(4):93-103,
+1980 (original) re-review IJT 22(S1):1-35, 2003.
+Supplier IFRA certificate of conformity supplied and presented in Appendix 3. Maximum allowable
+concentration in product is 19.91% (Category 4C – Body creams), actual concentration in Target Cellulite
+Silhouette Contouring Complex is 1%. All allergen components are declared in Section A.1. fragrance
+allergen table. It was determined that Citrus Bergamia Peel Oil Expressed is expected to be safe for use in
+Target Cellulite Silhouette Contouring Complex.
+2014 CIR Compendium. For use up to 1%, JACT 9(2):259-77,1990.
+
+Ingredient
+(INCI name & CAS
+number)
+Olus Oil
+68956-68-3
+Caesalpinia spinosa
+fruit extract
+39300-88-4
+
+Kappaphycus alvarezii
+extract
+1220882-73-4
+
+Nelumbo Nucifera Leaf
+extract
+85085-51-4
+
+Xanthan Gum
+11138-66-2
+Olea Europaea Oil
+Unsaponifiables
+
+Hazard Reference
+
+### NOAEL
+
+Human
+Irritant to
+Irritant
+Sensitiser
+ID and
+for
+(mg/kg
+SEDb
+MoSc
+Comment
+data
+eyes
+to skin
+a
+list
+hazard ID
+bw/day)
+A read across was performed to Vegetable Oil as Olus Oil is an expressed oil of vegetable origin that
+A
+primarily consists of triglycerides of fatty acids. 2014 CIR Compendium. For use up to 31%, Final report 03/11
+available from CIR.
+A read across was performed on Caesalpinia spinosa fruit extract to Caesalpinia Spinosa gum. Caesalpinia
+Spinosa fruit Gum for use up to 0.5%, Final report 03/12 available from CIR. Caesalpinia spinosa fruit extract
+A
+is present in Target Cellulite Silhouette Contouring Complex at a level of 0.475%, it is therefore expected to
+be safe for use in the product formulation.
+A secondary assessment was performed on Kappaphycus alvarezii extract where the proprietary ingredient
+sulphated galactan; Carrageenan was evaluated. Carrageenan is isolated from red seaweeds with molecular
+weights of between 200,000 and 400,000, with dermal penetration evaluated as being limited due to the
+large size of the molecule. Carrageenan is GRAS by the US FDA under the Code of Federal Regulations (21
+#
+CFR 182.7255) and is also approved as food additive ingredient. Carrageenan has also been considered safe
+for food use with no ADI and Considered acceptable for use topically. It is therefore expected to be safe for
+use in Target Cellulite Silhouette Contouring Complex. Secondary assessment in presented in Appendix 4.
+Limited publicly available information is available on Nelumbo Nucifera Leaf extract; therefore, a secondary
+assessment was performed on Nelumbo Nucifera Leaf extract to determine its safety.
+The assessment showed that the commercially recommended oral dose of Nelumbo Nucifera Leaf extract
+ranged from 1,000 – 3,000 mg daily. The relative daily exposure was calculated to range from 16.6mg/kg
+bw/day to 50 mg/kg bw/day, this equated to 38-115 times less than the level present in Target Cellulite
+Silhouette Contouring Complex (0.433 mg/kg bw/day), which in addition, is applied dermally where
+absorption is expected to be less than the oral route. It was determined that Nelumbo Nucifera Leaf extract
+is expected to be safe for use as formulated.
+The secondary assessment for Nelumbo Nucifera Leaf extract is present in Appendix 4. RegimA has provided
+additional information on Pro-Sveltyl® from Silab; the report and assessment are presented in Appendix 4.
+A
+
+2014 CIR Compendium. For use up to 6%, Final report 09/12 available from CIR.
+
+A
+
+2014 CIR Compendium. For use up to 3%, Final report 03/11 available from CIR.
+
+Ingredient
+(INCI name & CAS
+number)
+8001-25-0
+
+Hazard Reference
+ID and
+for
+lista
+hazard ID
+
+Irritant to
+eyes
+
+Irritant
+to skin
+
+Sensitiser
+
+Human
+data
+
+### NOAEL
+
+(mg/kg
+bw/day)
+
+SEDb
+
+MoSc
+
+Comment
+
+For use up to 0.0325% in leave on formulations. Final report 12/06/2016 available from CIR website.
+Citrus Aurantium Amara (Bitter Orange) Flower Extract is present in Target Cellulite Silhouette Contouring
+Complex at 0.1125%. Citrus Aurantium Amara (Bitter Orange) Flower Extract was found to be non-irritating
+in human subjects during dermal irritation studies when leave on formulations were comprised of up to
+0.001%. HRIPT of Citrus Aurantium Amara (Bitter Orange) Flower Extract at concentrations of up to 0.0225%
+were found not to be not sensitizing. Citrus Aurantium Amara (Bitter Orange) Flower Extract is safe for use
+when formulated to be non-irritating and non-sensitizing. A read across to Citrus Aurantium Amara (Bitter
+Orange) flower Oil was also performed to determine its dermal sensitization potential. Tests performed on
+Citrus Aurantium Amara (Bitter Orange) flower Oil found it not to be sensitizing at 4% in petrolatum; Final
+report 12/06/2016 available from CIR.
+
+Citrus Aurantium Amara
+Flower Extract
+72968-50-4
+
+A
+
+Additionally, a Toxtree assessment was performed to determine the safety of Citrus Aurantium Amara
+Flower Extract, the assessment utilised the Cramer Rules and Revised Cramer Decision Tree along with a
+QSAR Skin Irritation/Skin Corrosion assessment.
+The results indicated a Low (Class I) classification in both the Cramer Rules and Revised Cramer Decision
+Tree, a Low (Class II) classification using the Cramer Rules describes a substance of simple chemical structure
+with known metabolic pathways and innocuous end products which suggest a low order of oral toxicity. The
+Threshold of Toxicological Concern has been established as 1,800 µg/day - 30µg/kg bw/day. The Revised
+Cramer Decision Tree Low (Class I) classification describes a substance with simple chemical structures and
+for which efficient modes of metabolism exist which suggests a low order of oral toxicity, the 5th percentile
+NOEL was established as 3.0 mg/kg bw/day with a human exposure threshold of 1.8 mg/person/day. A QSAR
+Skin Irritation/Skin Corrosion assessment indicated an unknown result.
+Citrus Aurantium Amara (Bitter Orange) Flower Extract is present in formulation at 0.147 mg/kg bw/day,
+lower than that outlined in the above assessments, it was therefore determined to be safe for use when
+used as directed.
+Bitter orange is regulated by the Food and Drug Administration (FDA). Although C. aurantium is listed in its
+Poisonous Plants Database, C. aurantium orange oil extract, peel, flowers, and leaf are listed in the food
+
+additive database, an inventory often referred to as "Everything" Added to Food in the United States
+(EAFUS). Additionally, bitter orange peel, oil, oleoresins, and extracts are Generally Recognized as Safe
+(GRAS) as a direct additive to food. Citrus Aurantium Amara Flower Extract NTP Toxicological Literature
+Review
+
+Tocopherol
+54-28-4
+Caprylyl Glycol
+1117-86-8
+Ethylhexylglycerin
+70445-33-9
+
+As Citrus Aurantium Amara (Bitter Orange) Flower Extract is present at a higher percentage to that outlined
+in the CIR Compendium a warning will be placed on the label to direct the consumer to stop use if irritation
+occurs. It is not expected to cause irritation when used as directed.
+A
+
+2014 CIR Compendium. For use <= 5%. IJT 21(S3):51-116, 2002; Final report 03/2014 available from CIR.
+
+A
+
+2014 CIR Compendium. For use up to 5%, IJT 31 (S2):147-168, 2012.
+
+A
+
+For use up to 8%, IJT 32(Suppl. 3):5-21, 2013
+
+Some ingredients are excluded from a formal risk assessment where a recognized authority has published a review of the ingredient under similar conditions
+of use and concluded on safe use at the level of inclusion in the cosmetic product (Hazard ID=A). Hazard ID category B is for recognized authority reviews of the
+ingredient under similar conditions of use with restricted use or where the ingredient is contained in the annexes to Regulation (EC) No 1223/2009 (Hazard
+ID=B). Where hazard ID A or B is reported, the maximum allowed usage concentration should be stated.
+b
+all possible routes of exposure should be considered
+c
+A MoS of greater than 100 is considered to represent safe use
+# Food item, hazard and exposure data not required.
+a
+
+**Fragrances:** 
+Target Cellulite Silhouette Contouring Complex contains a fragrance called Bergamot Oil.
+The fragrance allergens are presented in Section A.1. with the IFRA certificate and
+certificate of conformity presented in Appendix 3.
+
+### A.9
+
+Undesirable Effects and Serious Undesirable Effects
+
+No undesirable effects are anticipated based on the product being used as directed on
+the body twice daily. The areas of the body that Target cellulite Silhouette Contouring
+Complex is targeted towards includes thighs, buttocks, abdomen, inner knees, behind
+knees, groin, armpits, up to neck.
+
+### A.10
+
+Information on the Cosmetic Product
+
+Target Cellulite Silhouette Contouring Complex was released in September 2017. Over
+the period September 2017 to April 2019 760 units have been sold and there have been
+no adverse reactions reported to RégimA.
+
+**B:** Part Cosmetic Product Safety Assessment
+
+### B.1
+
+Assessment Conclusion
+
+Review of the ingredients
+After analysis of all the available information including:
+• formulation
+• toxicological profile of the ingredients and their concentration in the product
+• Product data sheets supplied by the ingredient manufacturer
+It is not expected that Target Cellulite Silhouette Contouring Complex will cause damage
+to human health when used as directed.
+It is therefore concluded that Target Cellulite Silhouette Contouring Complex can be
+placed on the market in the EU as a face and body serum.
+Review of human data on the product
+There are no human tests such as a patch test, for this product.
+
+### B.2
+
+Label Warnings and Instructions for Use
+
+Directions for use are given on the product label and outer packaging of both the 100ml
+and 200 ml packaging, this is presented in Appendix 4.
+Directions
+Target Cellulite Silhouette Contouring Complex 100ml: AM or PM: Cleanse the body of
+any cream and oil. If the body is warm following a bath or shower this aids penetration.
+Massage briskly a layer of Complex to all areas prone to cellulite, thighs, buttocks,
+abdomen and inner knees. Then very gently areas of lymph drainage (where toxins are
+eliminated) are covered, targeting mainly behind knees, groin, armpits, up to neck.
+Leave treatment on.
+Target Cellulite Silhouette contouring Complex 200ml: To be used as part of a RégimA
+in-salon treatment.
+Cleanse the body of cream and oil, except SpaZone O2 Purifyer Serum if undertaking a
+combined treatment. Ensure the body is warm as this will aid penetration.
+Massage briskly a layer of Complex to all areas prone to cellulite, thighs, buttocks,
+abdomen and inner knees. Then very gently ensure areas of lymph drainage are
+
+covered, targeting mainly behind knees, groin, armpits, up to neck. Leave treatment on.
+One may apply Slimming Sculpting Solution to target areas over the top.
+**Warnings:** 
+Target Cellulite Silhouette Contouring Complex 100ml
+‘MUST NOT be combined with any other product range’
+‘Airless container DO NOT remove top as this would introduce air and/or bacteria’
+‘Product level can be viewed through the gap in label’
+‘Store below 77°F/25°C in a cool dry place. Protect from light’
+‘If irritation occurs, discontinue use’
+Target Cellulite Silhouette contouring Complex 200ml:
+‘Strictly for Professional use’
+‘Airless container DO NOT remove top as this would introduce air and/or bacteria’
+‘Product level can be viewed through the gap in label’
+‘Store below 77°F/25°C in a cool dry place. Protect from light’
+‘MUST NOT be combined with any other product range’
+‘If irritation occurs, discontinue use’
+
+### B.3
+
+Reasoning
+
+This product contains many ingredients with a positive reputation for their skin moisturising
+properties and with good local tolerance when used as directed. There are no reasons to
+anticipate tolerance problems with use.
+This product is intended for external use in adults only.
+
+### B.4
+
+Assessors Credentials and Approval of Part B
+
+Shirley Hudson (safety assessor)
+BSc, University of Aberdeen
+CBiol, MSB
+20+ years as a practicing toxicologist in the pharmaceutical and chemical industries
+
+After analysing of all of the available information including the product formulation and
+toxicological profile of the ingredients, I conclude that according to the current state of
+scientific knowledge, this product is not expected to result in any significant damage to
+human health and can be safely marketed for the intended and foreseeable use as a
+body lotion.
+
+List of References
+SCCS Notes of Guidance for the Testing of Cosmetic Substances and Their Safety
+Evaluation, 9th Revision, 29 September 2015 (SCCS/1564/15)
+European Commission database on cosmetic ingredients (Cosing)
+**http:** //ec.europa.eu/consumers/cosmetics/cosing/
+Cosmetic ingredient review http://www.cir-safety.org/
+
+## Method Of Manufacture / Gmp Certification
+
+## Proof Of Effect Claimed
+
+This product claims to target cellulite, facilitates progressive elimination of oedema
+(fluid retention), stimulates microcirculation by vaso-dilatation and decongestion. Sacred
+Locus breaks down fat storage, limits formation of new fat cells. Natural biopolymer has
+a tensor, lifting, anti-wrinkle effect, smoothing and visibly elasticizing, improving
+contour, plus the look and feel of lack lustre skin.
+RégimA have provided a report from the manufacturers Silab (Meganede) on the active
+ingredient Pro-Sveltyl® an ingredient that claims anti-cellulite and draining properties.
+The product Pro-Sveltyl® contains the active ingredient named Nelumbo nucifera which
+is better known as Sacred Lotus. The Pro-Sveltyl® properties include;
+•
+
+•
+•
+•
+•
+
+In Vivo (Human) studies have demonstrated the anti-cellulitis action, the draining
+effect and the slenderizing properties of Pro-Sveltyl®. The test was performed at
+4% versus a placebo where it was found that Pro-Sveltyl® significantly reduced
+skin surface irregularities which resulted from the presence of cellulitis, drains
+zones of edema and reduces the circumference of the thighs, abdomen and hips.
+Reducing fat storage by activating lipolysis and boosting the synthesis of SIRT-1
+Limits adipose tissue inflammation by stimulating the expression of adiponectin
+Preserving fibrous architecture by inhibiting the activity of adipocyte MMP-2 and
+
+### MMP-9
+
+In Vitro studies have shown its effects on fat storage, adipose tissue
+inflammation and on fibrous matrix of adipose tissue.
+
+These properties have been confirmed by In vitro and In vivo (Human studies), this
+report is presented in Appendix 4.
+
+## Animal Testing Statement
+
+To the best of our knowledge, the manufacturer and his suppliers have not carried out
+or commissioned any animal testing for the purpose of developing new cosmetic
+products.
+The statement below is a confirmation of the company policy:
+
+RégimA Skin Treatments
+
+## Ck92/05371/23
+
+VAT No. 4590131043
+
+**Tel:** 011 615 2869 or 011 622 7827
+**Fax:** 011 616 8008
+**Cell:** 0836537020
+**e-mail:** jax@regima.com
+**POSTAL ADDRESS:** PO BOX 9523 Edenglen 1613
+**PHYSICAL ADDRESS:** 20 River Road Morninghill Bedfordview 2007 RSA
+Animal Testing Compliance Statement
+This letter is to serve as testimony as to the practice of animal testing, and
+confirm that RégimA Skin Treatments has not, nor will not engage in any practice
+that involves animal testing in any form.
+RégimA Skin Treatments hereby confirms neither the manufacturer nor RégimA
+Skin Treatments itself have commissioned or carried out any form of animal
+testing during the course of product development. This applies to any and all
+activities performed as part of the development process, including, but not
+**restricted to:** R&D, stability testing, safety and toxicology assessments, suitability
+studies or any other facet related to the product’s development.
+
+**Appendix 1:** Safety Data Sheets or Ingredient Specifications
+Safety data sheets and technical data sheets for the ingredients are maintained
+electronically with the PIF by the Responsible Person. They are available on request.
+
+**Appendix 2:** Microbial Challenge Test
+A microbial challenge test is maintained electronically with the PIF by the Responsible
+Person. It is available on request.
+
+**Appendix 3:** Certificates of Allergen Content
+
+**Appendix 4:** Miscellaneous
+The stability report, packaging material information and product carton insert are
+maintained electronically with the PIF by the Responsible Person. They are available on
+request.
+
+### PRODUCT
+
+## Information File*
+
+RégimA
+Urban Stress Protect + Detox
+Clarifying Masque
+**Prepared:** September 2018
+(Label & packaging update August 2021)
+
+*As required under Article 11 of the European Cosmetics Regulation EC No. 1223/2009
+
+## Table Of Contents
+
+Contents
+
+## Introduction ................................................................................................................... 3
+
+## Product Description .................................................................................................. 3
+
+## Cosmetic Product Safety Report ................................................................................ 7
+
+### Part A: Cosmetic Product Safety Information................................................................. 7
+
+### A.1 Quantitative and qualitative composition of the cosmetic product: ............... 7
+
+### A.2 Physical /chemical characteristics and stability of the cosmetic product .........
+
+........................................................................................................................ 12
+
+### A.3 Microbiological Quality................................................................................... 14
+
+### A.4 Impurities, traces, information about the packaging material ...................... 14
+
+### A.5 Normal and reasonably foreseeable use ........................................................ 14
+
+### A.6 Exposure to the Cosmetic Product ................................................................. 14
+
+### A.7 Exposure to the Substances ........................................................................... 15
+
+### A.8 Toxicological Profile of the Substances .......................................................... 17
+
+### A.9 Undesirable Effects and Serious Undesirable Effects..................................... 22
+
+### A.10
+
+### Information on the Cosmetic Product ........................................................ 22
+
+**B:** Part Cosmetic Product Safety Assessment ............................................................... 23
+
+### B.1 Assessment Conclusion .................................................................................. 23
+
+### B.2 Label Warnings and Instructions for Use ....................................................... 23
+
+### B.3 Reasoning ....................................................................................................... 25
+
+### B.4 Assessors Credentials and Approval of Part B ................................................ 25
+
+### List of References .......................................................................................................... 25
+
+## Method Of Manufacture / Gmp Certification............................................... 26
+
+## Proof Of Effect Claimed ..................................................................................... 27
+
+## Animal Testing Statement .................................................................................. 27
+
+### Appendix 1: Safety Data Sheets or Ingredient Specifications ...................................... 28
+
+### Appendix 2: Microbial Challenge Test .............................................................................. 29
+
+### Appendix 3: Certificates of Allergen Content ................................................................... 30
+
+### Appendix 4: Miscellaneous ........................................................................................... 33
+
+## Introduction
+
+## Product Description
+
+**Product Name:** Urban Stress Protect + Detox Clarifying Masque
+Product type
+Form
+Colour
+Pack size
+Pack type
+Dispenser type
+Part of a set
+Manufacturer code
+Normal use
+
+Face Clarifying Masque
+Light cream
+Off white
+150 ml (5 fl oz)
+Polypropylene
+Airless container
+No
+
+### DCFM 002
+
+**Directions:** Cleanse with RégimA, apply a thin layer of
+Masque with fingertips to face and neck, avoiding the eye
+area. Allow 15-20 minutes for penetration and action.
+Remove thoroughly with RégimA cleanser. Follow with
+appropriate RégimA after treatment products
+
+**Pictures of the Item:** On following page
+
+Container label
+
+Carton label
+
+**Batch code:** The batch number is printed onto the underside of the carton and the
+container at the point of manufacturing and filling, therefore it is not visible on the label
+as represented in this PIF. The batching is automated, so the batch code and date is
+printed onto the carton and container as they are filled and boxed.
+
+**Product claims:** 
+This product has no direct claims.
+
+## Cosmetic Product Safety Report
+
+**Part A:** Cosmetic Product Safety Information
+
+### A.1
+
+Quantitative and qualitative composition of the cosmetic product:
+
+Urban Stress Protect +Detox Clarifying Masque base formula
+No
+
+Raw Ingredient (INCI Name)
+
+Kaolin
+
+%
+(w/w)
+
+Mixture %
+w/w
+Wt(g/kg)
+
+CAS
+
+1332-58-7
+
+EC
+
+Function
+
+Supplier
+(Agent)
+
+Tradename
+
+310-194-1
+
+Abrasive/
+Absorbent/
+Anticaking/
+Bulking/
+Cosmetic Colourant/
+Opacifying
+
+Protea
+
+Kaolin (Clay
+Mineral)
+
+293-515-7/
+272-911-3
+
+Skin Conditioning/
+Viscosity Controlling
+
+### BASF
+
+(Chemgrit)
+
+Cetiol® SB
+
+235-374-6
+
+Abrasive/
+Bulking/
+Humectant/
+Opacifying/
+UV Absorber/
+UV Filter/
+Buffering
+
+Vanderbilt
+
+### (IMCD)
+
+Veegum®
+Ultra
+
+Emulsifying
+
+B&T Srl
+(Millchem)
+
+Olivem®
+
+Textron
+Technica (CJP
+Chemicals)
+
+Olive Oil
+Extra Virgin
+
+Organic
+Chemical
+Corporation
+
+Refined
+Glycerine
+
+Butyrospermum Parkii Butter
+
+Argilla
+
+4.675
+
+194043-92-0/
+91080-23-8/
+68920-03-6
+12199-37-0
+
+Titanium Dioxide
+
+0.15
+
+13463-67-7
+
+236-675-5
+
+868-14-4
+
+212-769-1
+
+Potassium Bitartrate
+
+0.15
+
+Quartz
+
+0.025
+
+14808-60-7
+
+238-878-4
+
+Cetearyl Olivate
+
+2.5
+2.5
+
+285-532-3
+
+Sorbitan Olivate
+
+85116-80-9
+223706-40-9/
+92202-01-2
+
+Olea Europaea Fruit Oil
+
+8001-25-0
+
+232-277-0
+
+Glycerin
+
+56-81-5
+
+200-289-5
+
+296-033-5
+
+Masking/
+Perfuming/
+Skin conditioning
+Humectant/
+Perfuming/
+Skin Protecting/
+Viscosity Controlling
+
+No
+
+Raw Ingredient (INCI Name)
+
+%
+(w/w)
+
+Hydrogenated Olive Oil
+
+1.803
+
+Olea Europaea Fruit Oil
+Olea Europaea Oil
+Unsaponifiables
+Water (Aqua)
+Hydrolysed Candida Saitoana
+Extract
+Phenoxyethanol
+Ethylhexylglycerin
+Water (Aqua)
+
+0.9
+
+Mixture %
+w/w
+Wt(g/kg)
+
+0.297
+2.8665
+0.1125
+0.015
+0.006
+2.874
+
+Yeast Extract
+
+0.096
+
+1,2-Hexanediol
+Caprylyl Glycol
+
+0.015
+0.015
+
+Persea Gratissima Oil
+
+Phenoxyethanol
+
+0.901
+
+Caprylyl Glycol
+
+0.099
+
+Xanthan Gum
+
+0.8
+
+0.8
+
+EC
+
+Function
+
+Supplier
+(Agent)
+
+Tradename
+
+269-820-6
+
+Skin Conditioning/
+Viscosity Controlling/
+Masking/
+Skin Conditioning
+
+B&T Srl
+(Millchem)
+
+Oliwax
+
+Skin Conditioning/
+Solvent /
+Skin Protecting/
+Preservative
+
+Silab
+(Meganede)
+
+Celldetox®
+
+230-029-6
+214-254-7
+
+Solvent/
+Skin Conditioning/
+Skin Protecting/
+Emollient/
+Humectant/
+
+Silab
+(Meganede)
+
+Mitokinyl®
+
+8024-32-6
+
+232-428-0
+
+Skin Conditioning
+
+Textron
+Technica (CJP
+Chemicals)
+
+Avocado Oil
+
+122-99-6
+
+204-589-7
+
+1117-86-8
+
+214-254-7
+
+Dr Straetmans
+(Meganede)
+
+Verstatil®
+PC
+
+11138-66-2
+
+234-395-2
+
+CP Kelco(
+Tranarc)
+
+Keltrol TPlus
+
+CAS
+226993-75-5/
+68334-28-1
+8001-25-0
+8001-25-0/
+156798-12-8
+7732-18-5
+1151559-873
+122-99-6
+70445-33-9
+7732-18-5
+8013-01-2/
+68876-77-7
+6920-22-5
+1117-86-8
+
+232-277-0
+232-277-0
+231-791-2
+232-387-9
+204-589-7
+408-080-2
+231-791-2
+232-387-9
+
+Preservative /
+Emollient/
+Humectant/
+Skin Conditioning
+Binding/
+Emulsifying/
+Emuslion Stabilising/
+Gel Forming/
+Skin Conditioning/
+Surfactant/
+
+%
+(w/w)
+
+No
+
+Raw Ingredient (INCI Name)
+
+Citrus bergamia peel oil
+expressed
+(also known as the perfuming
+**name:** Citrus Reticulata, X C.
+Sinensis Peel Extract)
+
+0.5
+
+Kappaphycus Alvarezii extract
+
+0.19
+
+Caesalpinia Spinosa Fruit Extract
+Water (Aqua)
+
+0.19
+0.02
+
+Mixture %
+w/w
+Wt(g/kg)
+
+CAS
+
+0.5
+
+93686-22-7
+
+0.4
+
+Tocopherol
+
+0.1
+
+0.1
+
+Water (Aqua)
+
+43.2
+
+48.2
+
+# not assigned
+
+EC
+
+Function
+
+Supplier
+(Agent)
+
+Tradename
+
+Viscosity Controlling
+
+1220882-734
+39300-88-4
+7732-18-5
+54-284(gamma)/
+16698-35-4
+(beta)/
+
+## 10191-410(Dl)/
+
+119-13-1/
+1406-18-4/
+1406-66-2/
+2074-53-5
+
+### (DL)/
+
+59-02-9/
+7616-22-0
+7732-18-5
+
+297-672-2
+
+Perfuming
+
+FD Copeland
+(CJP Chemicals)
+
+Bergamot
+Oil
+
+310-127-6
+
+Skin Protecting/
+Skin Conditioning/
+Solvent
+
+Silab
+(Meganede)
+
+Filmexel ®
+
+200-201-5/
+240-747-1/
+233-466-0/
+204-299-0/
+215-798-8/
+218-97-9/
+200-412-2
+
+Antioxidant/
+Masking/
+Skin Conditioning
+
+DSM Nutrient
+Products
+(chempure)
+
+dl-αTocopherol
+
+231-791-2
+
+Solvent
+
+Inhouse
+
+Deiolinsed
+water
+
+254-409-6
+231-791-2
+
+Ingredient order for the label: Water(Aqua), Kaolin, Butyrospermum Parkii Butter, Olea Europaea Fruit Oil, Argilla, Glycerin, Sorbitan
+Olivate, Cetearyl Olivate, Persea Gratissima Oil, Hydrogenated Olive Oil, Phenoxyethanol, Xanthan Gum, Citrus bergamia peel oil
+expressed, Olea Europaea Oil Unsaponifiables, Caesalpina Spinosa Fruit Extract, Kappaphycus Alvarezii extract, Potassium Bitartrate,
+Titanium Dioxide, Limonene, Caprylyl Glycol, Hydrolysed Candida Saitoana Extract, Tocopherol, Yeast Extract, Linalool, Quartz, Citral,
+1,2-Hexanediol, Ethylhexylglycerin, Citral, Limonene, Linalool, Linalyl Acetate, Alpha-Pinene.
+Red font denotes ingredients present at less than 1% which may be listed in any order.
+
+Below are the allergens and their respective concentrations in the fragrance that are
+required to be listed in Article 19 Paragraph 1(d) & (g (ii)) of EC 1223/2009 when present
+at levels >0.001% in a leave-on product.
+Fragrance allergens
+INCI (EU) Name
+Citral
+Limonene
+Linalool
+Linalyl Acetate
+Alpha-pinene
+
+CAS number
+
+EC number
+
+Concentration % w/w
+
+Comment
+
+5392-40-5
+5989-27-5
+78-70-6
+115-95-7
+80-56-8
+
+226-394-6
+227-813-5
+201-134-4
+204-116-4
+201-291-9
+
+0.01505
+0.1368
+0.05025
+0.26895
+0.0145
+
+Annex III/70*
+Annex III/88*
+Annex III/84*
+SCCS opinion on fragrances 2*
+SCCS opinion on fragrances 2*
+
+* Regulation (EC) No 1223/2009 of the European Parliament and of the council of 30 November 2990 on cosmetic
+
+products, Annex III; List of substances which cosmetics products must not contain except subject to the restrictions
+
+laid down.
+2* SCCS opinion on Fragrance allergens in Cosmetic products, 15th plenary meeting, June 2012, Section 7, Table 7-1,
+Page 47.
+
+### A.2
+
+Physical /chemical characteristics and stability of the cosmetic product
+
+Physical and chemical characteristics of the ingredients have been listed in the safety
+data sheets which are maintained electronically by the Responsible Person and are
+available on request. A cross reference to the SDS tradename and electronic reference
+number has been shown in the base formula table, Section 7, Table 7-1, page 47.
+Physical and Chemical Characterization of the product
+1 Physical state
+2 type of mixture (emulsion/ o/w or w/o,
+suspension, lotion, powder, aerosol …)
+3 organoleptic properties (colour, odour,
+whenever relevant)
+4 pH (at 25oC)
+5 viscosity (at 25oC )
+6 thermal stability (glass bottle)
+7 Specific gravity (at 25oC )
+
+Cream
+Lotion
+Off white colour with characteristic
+odour
+4.24
+89 500 cPs
+50 oC for 12 weeks
+0.987/ml
+
+Stability of the product
+A shelf-life of 6months after opening has been allocated to this product.
+
+An on-going stability study of the product in the packaging will be available to support
+the shelf-life. A stability test of the product in glass jars has confirmed stability at 25oC
+for 12 weeks.
+Accelerated stability testing was performed at 40 and 50 oC for 12 weeks which further
+substantiated the product was stable as formulated. A reduction in viscosity was
+however noted across all the temperature ranges in the stability tests in week 12; 59%,
+51%,77%,68% in 5 oC, 25 oC, 40 oC and 50 oC respectively. This reduction in viscosity in all
+stability test is not expected to affect the overall stability of the product as formulated.
+
+### A.3
+
+Microbiological Quality
+
+A PET test has been performed according to USP method 38 and confirms the
+effectiveness of the preservative for a period of 28 days. The certificate has been
+presented in Appendix 2.
+
+### A.4
+
+Impurities, traces, information about the packaging material
+
+None of the ingredients of this product contained impurities at a level which would
+require notification.
+A statement on the suitability of the product packaging is shown below.
+The Chubby Chunky Airless Container is made from Polypropylene. The pump is made
+from Polypropylene, high-density polypropylene and low-density-polypropylene. The
+components of the packaging material and specifications are included in a certificate in
+Appendix 4. This is maintained electronically with the PIF by the Responsible Person and
+is available on request.
+
+### A.5
+
+Normal and reasonably foreseeable use
+Urban Stress Protect + Detox Clarifying Masque is a product designed clarify the skin. It
+is a wash off product that in normal circumstances will be used twice daily on the face
+and neck (avoiding the eye area).
+
+### A.6
+
+Exposure to the Cosmetic Product
+
+Site of application
+Surface area of application (cm2)
+Volume of product applied (mg)
+Frequency of application/use per day
+Target population
+Normal and foreseeable exposure route
+Calculated relative daily exposure
+according to SCCS notes for guidance
+tables (mg/kg bw/day)
+Dermal absorption information
+other
+
+Face and neck
+885*
+1**
+Adults
+Dermal
+0.5ml exposure daily
+Estimated exposure based on 60 kg adult =
+4.17 mg/kg bw/day
+None
+NA
+
+*The total surface area the Urban Stress Protect + Detox Clarifying Masque is applied too= 885cm2 (Skincare: 565cm2- Face surface
+area + 320cm2 -Neck surface area). The figures used are adapted from SCCS Notes of the Guidance for the testing of Cosmetic
+Ingredients and their Safety Evaluation, 9th Revision, Section 4.2, Table 1, page 76
+
+** The frequency of application for Urban Stress Protect + Detox Clarifying Masque was determined as 1 applications per day, this
+was determined due to the product sole use ‘In Salon’ where it is applied by professionals trained by RégimA. A warning is in place
+on the label to indicate it’s in salon use only.
+
+### A.7
+
+Exposure to the Substances
+
+Daily Systemic Exposure Dosage (SED) is the daily amount of a cosmetic substance
+applied based on the concentration of that particular substance, the percutaneous
+absorption and the nominal human body weight (60 kg) and this is shown in the table
+below.
+Calculated
+Daily
+product
+ingredient
+relative
+Dermal
+Maximum
+Ingredient
+exposure
+daily
+concentration
+penetration
+(INCI name & CAS number)
+or SED
+exposure
+(%)
+factor#
+(mg/kg
+(mg/kg
+bw/day)
+bw/day)
+Kaolin
+4.17
+0.01
+0.00626
+1332-58-7
+Butyrospermum Parkii
+Butter
+4.17
+0.01
+0.00209
+194043-92-0
+Olea Europaea Fruit Oil
+4.9
+4.17
+0.01
+0.00204
+8001-25-0
+Argilla
+4.675
+4.17
+0.01
+0.00195
+12199-37-0
+Glycerin
+4.17
+0.01
+0.00167
+56-81-5
+Sorbitan Olivate
+2.5
+4.17
+0.01
+0.00104
+223706-40-9
+Cetearyl Olivate
+2.5
+4.17
+0.01
+0.00104
+85116-80-9
+Persea Gratissima Oil
+4.17
+0.01
+0.00083
+8024-32-6
+Hydrogenated Olive Oil
+1.803
+4.17
+0.01
+0.00075
+226993-75-5
+Phenoxyethanol
+0.916
+4.17
+0.01
+0.00038
+122-99-6
+Xanthan Gum
+0.8
+4.17
+0.01
+0.00033
+11138-66-2
+Citrus bergamia peel oil
+expressed
+0.5
+4.17
+0.01
+0.00021
+(also known as the
+**perfuming name:** Citrus
+
+Ingredient
+(INCI name & CAS number)
+
+Reticulata, X C. Sinensis
+Peel Extract)
+Olea Europaea Oil
+Unsaponifiables
+8001-25-0
+Caesalpina Spinosa Fruit
+Extract
+39300-88-4
+Kappaphycus Alvarezii
+extract
+1220882-73-4
+Potassium Bitartrate
+868-14-4
+Titanium Dioxide
+13463-67-7
+Caprylyl Glycol
+1117-86-8
+Hydrolysed Candida
+Saitoana Extract
+1151559-87-3
+Tocopherol
+54-28-4
+Yeast Extract
+8013-01-2
+Quartz
+14808-60-7
+1,2-Hexanediol
+6920-22-5
+Ethylhexylglycerin
+70445-33-9
+
+Calculated
+product
+Maximum
+relative
+Dermal
+concentration
+daily
+penetration
+(%)
+exposure
+factor#
+(mg/kg
+bw/day)
+
+Daily
+ingredient
+exposure
+or SED
+(mg/kg
+bw/day)
+
+0.297
+
+4.17
+
+0.01
+
+0.0001238
+
+0.19
+
+4.17
+
+0.01
+
+0.0000792
+
+0.19
+
+4.17
+
+0.01
+
+0.0000792
+
+0.15
+
+4.17
+
+0.01
+
+0.0000626
+
+0.15
+
+4.17
+
+0.01
+
+0.00006255
+
+0.114
+
+4.17
+
+0.01
+
+0.00004754
+
+0.1125
+
+4.17
+
+0.01
+
+0.00004691
+
+0.1
+
+4.17
+
+0.01
+
+0.00004170
+
+0.096
+
+4.17
+
+0.01
+
+0.00004003
+
+0.025
+
+4.17
+
+0.01
+
+0.00001043
+
+0.015
+
+4.17
+
+0.01
+
+0.00000626
+
+0.006
+
+4.17
+
+0.01
+
+0.00000250
+
+# 1% dermal absorption is used in the assessment of Urban Stress Protect +Detox Clarifying Masque. The
+dermal penetration factor was obtained from Face washes, gels and scrubs, Table 3, Dermal sensitization
+quantitative risk Assessment (QRA) for fragrance ingredients, Api et al, 2007.
+
+### A.8
+
+Toxicological Profile of the Substances
+
+Ingredient
+(INCI name & CAS
+number)
+Kaolin
+1332-58-7
+Butyrospermum
+Parkii Butter
+194043-92-0
+Olea Europaea
+Fruit Oil
+8001-25-0
+Argilla
+12199-37-0
+Glycerin
+56-81-5
+Sorbitan Olivate
+223706-40-9
+Cetearyl Olivate
+85116-80-9
+Persea Gratissima
+Oil
+8024-32-6
+Hydrogenated
+
+Hazard
+ID and
+lista
+
+Reference
+for hazard
+ID
+
+Irritant
+to eyes
+
+Irritant
+to skin
+
+Sensitiser
+
+Human
+data
+
+### NOAEL
+
+(mg/kg
+bw/day)
+
+SEDb
+
+MoSc
+
+comment
+
+A
+
+2014 CIR Compendium. For use up to 100%, IJT 28(S1):37-102, 2003.
+
+A
+
+2014 CIR Compendium. For use up to 60%, Final report 03/11 available from CIR
+
+A
+
+2014 CIR Compendium. For use up to 100%, Final report 03/11 available from CIR
+
+B
+
+An additional assessment was performed on Argilla. Argilla is described as naturally occurring
+substance in the Smectite group minerals with cosmetic functions including; abrasive, bulking and
+humectant properties. Argilla has been adopted as a trade name for ‘Kaolin’; World Health Organisation,
+W. (2005). Bentonite, Kaolin and Selected Clay Minerals (EHC 231, 2005). [online] Inchem.org. Available at:
+**http:** //www.inchem.org/documents/ehc/ehc/ehc231.htm#3.2.1.3 [Accessed 3 Sep. 2018], a read across was then
+
+performed to Kaolin. 204 CIR Compendium. For use up to 100%, IJT 22(S1):37-102, 2003.
+Safe, GRAS, FDA approved food additive, FDA approved over the counter (OTC) for skin
+
+A
+
+2014 CIR Compendium. For use up to 7.5%, IJT 21(S1):93-112, 2002
+
+A
+
+2014 CIR compendium, safe for use in cosmetics when formulated to be non-irritating, Final report
+03/2013 available from CIR.
+
+A
+
+2014 CIR Compendium. For use up to 98%, Final amended report 03/11 available from CIR; JEPT
+**4(4):** 93-103, 1980 (original) re-review IJT 22(S1):1-35, 2003.
+
+A
+
+2014 CIR Compendium. For use up to 12%, Final report available from CIR.
+
+Ingredient
+(INCI name & CAS
+number)
+Olive Oil
+226993-75-5
+Phenoxyethanol
+122-99-6
+Xanthum Gum
+11138-66-2
+Olea Europaea Oil
+Unsaponifiables
+8001-25-0
+
+Caesalpinia Spinosa
+Fruit Extract
+39300-88-4
+
+Hazard
+ID and
+lista
+
+Reference
+for hazard
+ID
+
+Irritant
+to eyes
+
+Irritant
+to skin
+
+Sensitiser
+
+Human
+data
+
+### NOAEL
+
+(mg/kg
+bw/day)
+
+SEDb
+
+MoSc
+
+comment
+
+A
+
+2014 CIR Compendium. For use up to 1%, JACT 9(2):259-77, 1990.
+
+A
+
+2014 CIR Compendium. For use up to 6%, Final report 09/12 available from CIR.
+
+A
+
+2014 CIR Compendium. For use up to 3%, Final report 03/11 available from CIR.
+
+2#
+
+A secondary assessment was performed on Caesalpinia Spinosa Fruit extract, where a read across to
+Caesalpinia spinosa gum as performed. A typical dose range was established as being from 1-5%;
+Caesalpinia Spinosa Fruit extract is present in formulation at 0.19% (0.0000792 mg/kg bw/day), 5.26
+times less than the worst case scenario dose. JECFA opinion on ‘Tara’ Gum (obtained from grinding
+the endosperm of the seeds of Caesalpinia spinosa; family: Leguminosae) declared Caesalpinia
+Spinosa Fruit extract safe for use as food ingredient with no ADI specified for man. It was then
+concluded that Caesalpinia Spinosa Fruit extract is safe for use in Urban Stress Protect + Detox
+clarifying Masque as formulated. The secondary assessment is presented in Appendix 4
+
+Kappaphycus
+Alvarezii extract
+1220882-73-4
+
+2#
+
+Potassium Bitartrate
+868-14-4
+
+A secondary assessment was performed on Kappaphycus alvarezii extract where a read across was performed
+to Carrageenan; the read across was performed as the sulphated galactans present primarily in Kappaphycus
+Alvarezii are known as Carrageenan. Carrageenan is a large macro-molecule with ranging molecular weights of
+200,000-400,000 resulting in low risk dermal penetration. Carrageenan was determined as GRAS by the US
+FDA and therefore safe for use in Urban Stress Protect + Detox Clarifying Masque at 0.19% (0.0000792 mg/kg
+bw/day) . See attached secondary assessment in Appendix 4.
+
+B
+
+Determined GRAS by the FDA, referenced as Potassium Acid Tartrate. 21CFR184.1077
+
+B
+
+Titanium Dioxide was evaluated by JECFA where an ADI of ‘Not Limited’ was established at the 13th
+
+Titanium Dioxide
+
+Ingredient
+(INCI name & CAS
+number)
+13463-67-7
+Caprylyl Glycol
+1117-86-8
+
+Hydrolysed
+Candida Saitoana
+Extract
+1151559-87-3
+
+Tocopherol
+54-28-4
+Yeast Extract
+8013-01-2
+
+Quartz
+14808-60-7
+
+Hazard
+ID and
+lista
+A
+
+Reference
+for hazard
+ID
+
+Irritant
+to eyes
+
+Irritant
+to skin
+
+Sensitiser
+
+Human
+data
+
+### NOAEL
+
+(mg/kg
+bw/day)
+
+SEDb
+
+MoSc
+
+comment
+
+## Jecfa (1969). Trs 733-Jecfa 29/24
+
+2014 CIR Compendium. For use up to 5%, IJT 31 (S2):147-168, 2012
+A secondary assessment was performed on Hydrolysed Candida Saitoana Extract; isolated and purified
+
+2#
+
+A
+A
+
+form of Candida Saitoana, a fungus obtained from a fermentation process. The active ingredient in
+hydrolysed Candida Saitoana Extract has been identified as α-glucans. Limited toxicology data is
+available for α-glucan so a read across was performed to β-glucan due to the stereochemistry. Βglucans have a high molecular mass, thus reducing the potential for dermal absorption. During a subchronic oral toxicity study a no adverse effect dose of 2.5 g/kg bw/day. A worst case dose for
+Hydrolysed Candida Saitoana Extract was established at 41.6mg/kg bw/day. This is 888,226 times
+greater than the level present in Urban Stress Protect + Detox Clarifying Masque, which is
+0.00004691 mg/kg bw/day. It was concluded that Hydrolysed Candida Saitoana Extract is safe for use
+as formulated. The secondary assessment for Hydrolysed Candida Saitoana Extract is present in
+Appendix 4.
+2014 CIR Compendium. For use <= 5% IJT 21 (S3):51-116, 2002; Final report 03/2014 available from
+CIR
+Food item (various), GRAS category (FDA) as food for human consumption.
+Quartz was assessed under the name Crystalline silica; where quartz is the most common form,
+
+B
+
+Occupational Safety and Health administration (2002). Crystalline Silica Exposure Health Hazard Information. [online]
+**Osha.gov. Available at:** https://www.osha.gov/OshDoc/data_General_Facts/crystalline-factsheet.pdf [Accessed 4 Sep.
+2018]. According to the FDA Quartz has been identified as Silicon dioxides with a CAS number 14808-
+
+60-7 and has been considered as a GRAS substance; SCOGS Report Number: 61, NTIS Accession
+**Number:** PB301402, 1979 (FDA (1979). Select Committee on GRAS Substances (SCOGS) Opinion: Silicates. [online]
+
+Wayback.archive-it.org. Available at: http://wayback.archiveit.org/7993/20171031063508/https://www.fda.gov/Food/IngredientsPackagingLabeling/GRAS/SCOGS/ucm260849.htm
+[Accessed 4 Sep. 2018].)
+
+Ingredient
+(INCI name & CAS
+number)
+
+Hazard
+ID and
+lista
+
+1,2-Hexanediol
+6920-22-5
+
+B
+
+Ethylhexylglycerin
+70445-33-9
+
+A
+
+Reference
+
+### NOAEL
+
+Irritant
+Irritant
+Human
+for hazard
+(mg/kg
+SEDb
+MoSc
+comment
+Sensitiser
+to eyes
+to skin
+data
+ID
+bw/day)
+For use up to 10% in dermal contact products. The sensitization potential of 1,2-hexanediol was
+evaluated at concentrations of 10%, 50% and 10% in acetone/olive (3:1) using the mouse local lymph
+node assay (following OECD 429 protocol). The results from the study indicated 1,2-Hexanediol was
+negative for its skin sensitization potential. A 50:50 (w/w) mixture of 1,2-Hexanediol and caprylyl
+glycol was evaluated in an RIPT involving 56 subjects. The test concentration was set at 20% in
+gel(where the effective concentration per ingredient equaled to 10%) where it was determined that
+the mixture did not induce skin sensitization in any of the test subjects. A leg and foot gel containing
+0.5% 1,2-Hexanediol was applied to the upper back of 101 healthy subjects (males and females) in an
+RIPT. The test site was covered with a semi-occlusive patch that remained in place for 24h, The
+product did not induce skin irritation or sensitization. A safety evaluation on the skin irritation and
+sensitization potential of 1,2-Hexanediol utilized the in-use effect of a body wash containing 0.15%
+1,2-Hexanediol for a minimum of 3 times per week over a total of 30 days. No evidence of erythema,
+edema or dryness was identified during the test period and it was concluded that the product
+containing 1,2-Hexanediol did not demonstrate a potential for skin irritation or sensitization. 1,2Hexanediol is present in Urban Stress Protect + Detox Clarifying Masque at 0.015%; 666 times less
+than the maximum concentration of 10%, it is determined that the use of 1,2-Hexanediol in
+cosmetics. Final report ‘On the safety assessment of 1,2-Glycols as used in cosmetics’ June 2011
+available from the CIR website.
+2014 CIR Compendium. For use up to 8%, IJT 32 (S3):5-21, 2013.
+
+a Some ingredients are excluded from a formal risk assessment where a recognized authority has published a review of the
+
+ingredient under similar conditions of use and concluded on safe use at the level of inclusion in the cosmetic product (Hazard ID=A).
+Hazard ID category B is for recognized authority reviews of the ingredient under similar conditions of use with restricted use or
+where the ingredient is contained in the annexes to Regulation (EC) No 1223/2009 (Hazard ID=B). Where hazard ID A or B is
+reported, the maximum allowed usage concentration should be stated.
+
+b all possible routes of exposure should be considered
+
+c A MoS of greater than 100 is considered to represent safe use
+
+# Food item, hazard and exposure data not required.
+2# A secondary assessment was performed on this ingredient, reports are placed in Appendix 4.
+
+**Fragrances:** 
+Urban Stress Protect + Detox Clarifying Masque does contain a fragrance known as
+Bergamot Oil. The IFRA certificate and allergen certificate is presented in Appendix 3.
+
+### A.9
+
+Undesirable Effects and Serious Undesirable Effects
+
+No undesirable effects are anticipated based on the product being used as directed on
+the face and neck twice daily.
+
+### A.10
+
+Information on the Cosmetic Product
+
+Urban Stress Protect +Detox Clarifying Masque was released in June 2017. Over the
+period June 2017 to September 2018, 914 units have been sold and there have been no
+adverse reactions reported to RégimA cosmetics.
+
+**B:** Part Cosmetic Product Safety Assessment
+
+### B.1
+
+Assessment Conclusion
+
+Review of the ingredients
+After analysis of all the available information including:
+• formulation
+• toxicological profile of the ingredients and their concentration in the product
+• Product data sheets supplied by the ingredient manufacturer
+It is not expected that Urban Stress Protect + Detox Clarifying Masque will cause
+damage to human health when used as directed.
+It is therefore concluded that Urban Stress Protect + Detox Clarifying Masque can placed
+on the market in the EU as a face masque.
+Review of human data on the product
+There are no human tests such as a patch test, for this product.
+
+### B.2
+
+Label Warnings and Instructions for Use
+
+Directions for use are given on the product label provided in Appendix 4.
+**Directions:** Cleanse with RégimA, apply a thin layer of masque with fingertips to face
+and neck, avoiding the eye area. Allow 15-20 minutes for penetration and action.
+Remove thoroughly with RégimA cleanser. Follow with appropriate RégimA after
+treatment products.
+**Warnings:** 
+‘Strictly for professional use’
+‘Airless Container DO NOT remove top as this would introduce air and/or bacteria’
+‘Product level can be viewed through the gap in label’
+‘Store below 77°F/25°C in a cool dry place. Protect from light’
+
+‘Must not be combined with any other product range’
+‘Avoiding eye area’
+
+### B.3
+
+Reasoning
+
+This product contains many ingredients with a positive reputation for their Facial masque
+properties and with e.g good local tolerance. There are no reasons to anticipate tolerance
+problems with use.
+This product is intended for external use in adults only.
+
+### B.4
+
+Assessors Credentials and Approval of Part B
+
+Shirley Hudson (safety assessor)
+BSc, University of Aberdeen
+CBiol, MSB
+20+ years as a practicing toxicologist in the pharmaceutical and chemical industries
+
+After analyzing of all of the available information including the product formulation and
+toxicological profile of the ingredients, I conclude that according to the current state of
+scientific knowledge, this product is not expected to result in any significant damage to
+human health and can be safely marketed for the intended and foreseeable use as a
+facial masque.
+
+List of References
+SCCS Notes of Guidance for the Testing of Cosmetic Substances and Their Safety
+Evaluation, 9th Revision, 29 September 2015 (SCCS/1564/15)
+European Commission database on cosmetic ingredients (Cosing)
+**http:** //ec.europa.eu/consumers/cosmetics/cosing/
+Cosmetic ingredient review http://www.cir-safety.org/
+
+## Method Of Manufacture / Gmp Certification
+
+## Proof Of Effect Claimed
+
+This product makes no direct or implied claims and consequently no proof is required.
+
+## Animal Testing Statement
+
+To the best of our knowledge, the manufacturer and his suppliers have not carried out
+or commissioned any animal testing for the purpose of developing new cosmetic
+products.
+The statement below is a confirmation of the company policy:
+
+RégimA Skin Treatments
+
+## Ck92/05371/23
+
+VAT No. 4590131043
+
+**Tel:** 011 615 2869 or 011 622 7827
+**Fax:** 011 616 8008
+**Cell:** 0836537020
+**e-mail:** jax@regima.com
+**POSTAL ADDRESS:** PO BOX 9523 Edenglen 1613
+**PHYSICAL ADDRESS:** 20 River Road Morninghill Bedfordview 2007 RSA
+Animal Testing Compliance Statement
+This letter is to serve as testimony as to the practice of animal testing, and
+confirm that RégimA Skin Treatments has not, nor will not engage in any practice
+that involves animal testing in any form.
+RégimA Skin Treatments hereby confirms neither the manufacturer nor RégimA
+Skin Treatments itself have commissioned or carried out any form of animal
+testing during the course of product development. This applies to any and all
+activities performed as part of the development process, including, but not
+**restricted to:** R&D, stability testing, safety and toxicology assessments, suitability
+studies or any other facet related to the product’s development.
+
+**Appendix 1:** Safety Data Sheets or Ingredient Specifications
+Safety data sheets and technical data sheets for the ingredients are maintained
+electronically with the PIF by the Responsible Person. They are available on request.
+
+**Appendix 2:** Microbial Challenge Test
+A microbial challenge test is maintained electronically with the PIF by the Responsible
+Person. It is available on request.
+
+**Appendix 3:** Certificates of Allergen Content
+
+**Appendix 4:** Miscellaneous
+The stability report, packaging material information and product carton insert are
+maintained electronically with the PIF by the Responsible Person. They are available on
+request.

@@ -1,0 +1,1361 @@
+# Product Information File: Zone - 30 Power Peel NE Gel (Final)
+
+---
+
+**Document Type:** Product Information File (PIF)
+**Product:** Zone - 30 Power Peel NE Gel (Final)
+**Date Prepared:** May 2016
+**Last Updated:** August 2021
+
+*As required under Article 11 of the European Cosmetics Regulation EC No. 1223/2009*
+
+---
+
+### PRODUCT
+
+## Information
+
+### FILE*
+
+RegimA
+Zone 30 Power Peel
+Natural Exfoliating Gel
+- Maintenance Masque
+**Prepared:** May 2016
+(Label & packaging update August 2021)
+*As required under Article 11 of the European Cosmetics Regulation EC No. 1223/2009
+
+## Table Of Contents
+
+Contents
+
+## Introduction .............................................................................................................. 3
+
+## Product Description ........................................................................................ 3
+
+## Cosmetic Product Safety Report ................................................................ 7
+
+### Part A: Cosmetic Product Safety Information .......................................................... 7
+
+### A.1 Quantitative and qualitative composition of the cosmetic product: ........ 7
+
+### A.2 Physical /chemical characteristics and stability of the cosmetic product
+
+........................................................................................................................ 10
+
+### A.3 Microbiological Quality ................................................................................ 11
+
+### A.4 Impurities, traces, information about the packaging material ............... 11
+
+### A.5 Normal and reasonably foreseeable use ................................................. 11
+
+### A.6 Exposure to the Cosmetic Product............................................................ 11
+
+### A.7 Exposure to the Substances ...................................................................... 12
+
+### A.8 Toxicological Profile of the Substances ................................................... 14
+
+### A.9 Undesirable Effects and Serious Undesirable Effects ........................... 18
+
+### A.10 Information on the Cosmetic Product.................................................... 18
+
+**B:** Part Cosmetic Product Safety Assessment ...................................................... 19
+
+### B.1 Assessment Conclusion ............................................................................. 19
+
+### B.2 Label Warnings and Instructions for Use ................................................. 20
+
+### B.3 Reasoning ..................................................................................................... 20
+
+### B.4 Assessors Credentials and Approval of Part B ....................................... 21
+
+### List of References ...................................................................................................... 22
+
+## Method Of Manufacture / Gmp Certification............................... 23
+
+## Proof Of Effect Claimed .......................................................................... 24
+
+## Animal Testing Statement ........................................................................ 24
+
+### Appendix 1: Safety Data Sheets or Ingredient Specifications ............................ 25
+
+### Appendix 2: Microbial Challenge Test ........................................................................ 26
+
+### Appendix 3: Certificates of Allergen Content ............................................................. 27
+
+### Appendix 4: Miscellaneous ....................................................................................... 28
+
+## Introduction
+
+## Product Description
+
+**Product Name:** Zone 30 Power Peel Natural Exfoliating Gel - Maintenance Masque
+Product type
+Form
+Colour
+Pack size
+Pack type
+Dispenser type
+Part of a set
+Manufacturer code
+Normal use
+
+Exfoliating masque
+Lotion
+Light brown
+50ml
+WSZ Airless Bottle
+Bottle with pump dispenser
+No
+
+### 30P 002
+
+In-salon use only. Apply 2 pump depressions to the face,
+avoiding the eye area and neck. Allow 10 to 15 minutes
+before removing by cleansing thoroughly with RegimA
+cleanser. This is an in-salon masque applied as part of a
+RegimA facial ideally every 4-6 weeks.
+
+**Pictures of the Item:** On following page
+
+Container label
+
+Carton label
+
+**Batch code:** The batch number is printed onto the underside of the carton and the
+container at the point of manufacturing and filling, therefore it is not visible on the label
+as represented in this PIF. The batching is automated, so the batch code and date is
+printed onto the carton and container as they are filled and boxed.
+**Product claims:** 
+This product claims to visibly help improve the appearance of most skins and make the
+signs of aging less prominent.
+
+## Cosmetic Product Safety Report
+
+**Part A:** Cosmetic Product Safety Information
+
+### A.1
+
+Quantitative and qualitative composition of the cosmetic product:
+
+Zone 30 Power Peel NE Gel- Maintenance Masque base formula
+No
+
+Raw Ingredient (INCI Name)
+
+%
+(w/w)
+
+CAS
+
+EC
+
+Function
+
+Supplier
+(Agent)
+
+Tradename
+
+Lactic Acid
+
+14.7
+
+201-196-2
+200-018-0
+231-791-2
+230-022-8
+202-601-5
+500-183-1
+
+Skin conditioning
+
+Purac
+
+Lactic Acid
+90%
+
+Skin conditioning
+
+Merck KGaA
+
+79-33-4
+50-21-5
+7732-18-5
+6915-15-7
+97-67-6
+68037-01-4
+
+Aqua (Water)
+Malic Acid
+
+0.3
+13.5
+
+13.5
+
+Emollient
+
+### IMCD
+
+77-92-9
+
+201-069-1
+
+Buffering
+
+Merck KGaA
+
+Aqua (Water)
+Propylene Glycol
+Prunus Persica (Peach) Leaf
+Extract
+Rubus Idaeus (Raspberry) Fruit
+Extract
+Pyrus Malus (Apple) Fruit
+Extract
+Ascorbic Acid
+Butylene Glycol
+
+2.4175
+2.4675
+0.08
+
+7732-18-5
+57-55-6
+84012-34-0
+
+231-791-2
+200-338-0
+281-678-7
+
+Humectant/
+Skin conditioning
+
+Greentech
+(Natchem)
+
+Malic Acid
+BP
+Dekanex
+Citric Acid
+BP
+Rayolys D
+
+Hydrogenated Polydecene
+
+Citric Acid
+
+0.01
+
+84929-76-0
+
+284-554-0
+
+0.01
+
+85251-63-4
+
+286-475-7
+
+50-81-7
+107-88-0
+
+200-066-2
+107-88-0
+
+Humectant
+
+Aqua (Water)
+Propylene Glycol
+Hypericum Perforatum Extract
+
+0.97
+0.971
+0.059
+
+7732-18-5
+57-55-6
+84082-80-4
+
+231-791-2
+200-338-0
+282-026-4
+
+Solvent/
+Antimicrobial/ Skin
+protecting/ Soothing
+
+Daicel
+Chemical
+Industries
+Ltd
+Greentech
+(Natchem)
+
+Decarboxy Carnosine HCl
+
+0.2
+
+57022-38-5
+
+415-470-6
+
+Skin conditioning
+
+0.015
+
+Mixture %
+w/w
+Wt(g/kg)
+
+Exsymol
+
+Butylene
+Glycol
+St. John's
+Wort
+Hydroglycolic
+Extract
+(300837)
+Alistin P5
+
+No
+
+Raw Ingredient (INCI Name)
+
+%
+(w/w)
+
+Butylene Glycol
+Aqua (Water)
+Phenoxyethanol
+Aqua (Water)
+Propylene Glycol
+Centella Asiatica Extract
+Panthenol
+
+0.1636
+1.6164
+0.02
+0.926
+1.05
+0.024
+
+Polyacrylate Crosspolymer-6
+T-butyl alcohol
+Phenoxyethanol
+Caprylyl Glycol
+Silica Dimethyl Silylate
+
+1.9
+0.1
+0.75
+0.75
+
+Xanthan Gum
+
+0.3
+
+Aqua (Water)
+
+37.7
+
+Mixture %
+w/w
+Wt(g/kg)
+
+CAS
+
+EC
+
+107-88-0
+7732-18-5
+122-99-6
+7732-18-5
+57-55-6
+84696-21-9
+81-13-0
+
+203-529-7
+231-791-2
+204-589-7
+231-791-2
+200-338-0
+283-640-5
+201-327-3
+#
+200-889-7
+204-589-7
+214-254-7
+271-893-4
+
+Emulsion stabilising
+
+#
+75-65-0
+122-99-6
+1117-86-8
+68611-44-9
+
+0.3
+
+11138-66-2
+
+234-394-2
+
+Binding
+
+Acti-Chem
+(Thor)
+Evonik
+Degussa
+(Protea
+Speciality
+Chemicals)
+Jungbunzlauer
+
+7732-18-5
+
+231-791-2
+
+Solvent
+
+In-House
+
+1.5
+
+37.7
+
+# not assigned
+
+Function
+
+Supplier
+(Agent)
+
+Tradename
+
+(Akulu
+Marchon)
+Humectant/
+Skin conditioning
+
+Greentech SA
+(Natchem)
+
+Skin conditioning
+
+Zhejiang Xinfu
+Biochemical
+Seppic (CJP)
+
+Emollient/
+Preservative
+Anticaking
+
+Phytelene EG
+356 Centella
+Asiatica
+D-Panthenol
+SepiMax
+ZEN
+Microcare
+PHG
+Aerosil R 972
+
+Xanthan Gum
+Deionised
+Water
+
+Ingredient order for the label: Aqua (Water), Lactic Acid, Malic Acid, Hydrogenated Polydecene, Propylene Glycol, Butylene Glycol,
+Citric Acid, Panthenol, Polyacrylate Crosspolymer-6, Silica Dimethyl Silylate, Phenoxyethanol, Caprylyl Glycol, Xanthan Gum,
+Decarboxy Carnosine HCl, T-butyl alcohol, Prunus Persica (Peach) Leaf Extract, Hypericum Perforatum Extract, Centella Asiatica
+Extract, Ascorbic Acid, Pyrus Malus (Apple) Fruit Extract, Rubus Idaeus (Raspberry) Fruit Extract.
+Red font denotes ingredients present at less than 1% which may be listed in any order.
+
+Below are the allergens and their respective concentrations in the fragrance that are
+required to be listed in Article 19 Paragraph 1(d) & (g (ii)) of EC 1223/2009 when
+present at levels >0.001% in a leave-on product.
+Fragrance allergens*
+INCI (EU) Name
+
+CAS number
+
+EC number
+
+Concentration % w/w
+
+* Zone 30 Power Peel Natural Exfoliating Gel - Maintenance Masque does not contain a
+fragrance
+
+### A.2
+
+Physical /chemical characteristics and stability of the cosmetic product
+
+Physical and chemical characteristics of the ingredients have been listed in the safety data
+sheets which are maintained electronically by the Responsible Person and are available
+on request. A cross reference to the SDS tradename and electronic reference number has
+been shown in the base formula table.
+Physical and Chemical Characterization of the product
+1 Physical state
+2 type of mixture (emulsion/ o/w or w/o,
+suspension, lotion, powder, aerosol …)
+3 organoleptic properties (colour, odour,
+whenever relevant)
+4 pH (at 25oC)
+5 viscosity (at 25oC )
+6 thermal stability (glass bottle)
+7 Specific gravity
+
+Lotion
+Lotion
+Light brown with a characteristic odour
+1.62
+28800 cPs
+Stable at room temperature for 12 weeks
+but with a pH increase from 1.62 to 1.87
+1.076 g/ml
+
+Stability of the product
+A shelf-life of 6 months after opening has been allocated to this product.
+An on-going stability study of the product in the packaging will be available to support
+the shelf-life. A stability test of the product in glass bottles has confirmed stability at
+room temperature for 12 weeks although an increase in pH of around 23% was noted at
+40°C and therefore a warning regarding storage temperature to be below 25°C will be
+presented on the label.
+
+### A.3
+
+Microbiological Quality
+
+A PET test has been performed according to USP method 31 and confirms the
+effectiveness of the preservative for a period of 28 days. The certificate has been
+presented in Appendix 2.
+
+### A.4
+
+Impurities, traces, information about the packaging material
+
+None of the ingredients of this product contained impurities at a level which would
+require notification.
+A statement on the suitability of the product packaging is shown below.
+The WSZ airless pump bottle body is made from acrylonitrile-styrene resin (SAN) with a
+polyethylene liner. The pump is polypropylene. The components of the packaging
+material and suitability of use criteria are included in a certificate in Appendix 4. This is
+maintained electronically with the PIF by the Responsible Person and is available on
+request.
+
+### A.5
+
+Normal and reasonably foreseeable use
+Zone 30 Power Peel NE Gel- Maintenance Masque is a product designed to visibly help
+improve the appearance of most skins and make the signs of aging less prominent. It is a
+wash off product that in normal circumstances will be applied by professional in-salon
+therapists who have been trained according to a RegimA training program. It is used once
+every 4-6 weeks in the salon only on the face, avoiding the eye area and neck.
+
+### A.6
+
+Exposure to the Cosmetic Product
+
+Site of application
+Surface area of application (cm2)
+Volume of product applied (ml)
+Frequency of application
+Target population
+Normal and foreseeable exposure route
+Calculated relative daily exposure
+according to SCCS notes for guidance
+tables (mg/kg bw/day)
+Dermal absorption information
+other
+
+Face (avoiding eye area and neck)
+565 cm2
+0.5 ml (2 pump depressions)
+1 application/4 weeks (maximum)
+Adult
+Dermal
+0.5 ml exposure per 4 weeks
+Estimated exposure based on 60 kg adult=
+8.34 mg/kg bw
+Unknown
+None
+
+### A.7
+
+Exposure to the Substances
+
+Daily Systemic Exposure Dosage (SED) is the daily amount of a cosmetic substance
+applied based on the concentration of that particular substance, the percutaneous
+absorption and the nominal human body weight (60 kg) and this is shown in the table
+below.
+Ingredient
+(INCI name & CAS number)
+
+Lactic Acid
+79-33-4
+50-21-5
+Malic Acid
+6915-15-7
+97-67-6
+Hydrogenated Polydecene
+68037-01-4
+Propylene Glycol
+57-55-6
+Butylene Glycol
+107-88-0
+Citric Acid
+77-92-9
+Panthenol
+81-13-0
+Polyacrylate Crosspolymer-6
+#
+Silica Dimethyl Silylate
+68611-44-9
+Phenoxyethanol
+122-99-6
+Caprylyl Glycol
+1117-86-8
+Xanthan Gum
+11138-66-2
+Decarboxy Carnosine HCl
+57022-38-5
+T-butyl alcohol
+75-65-0
+Prunus Persica (Peach) Leaf Extract
+84012-34-0
+Hypericum Perforatum Extract
+84082-80-4
+Centella Asiatica Extract
+84696-21-9
+Ascorbic Acid
+50-81-7
+
+Calculated
+product
+relative
+daily
+exposure
+(mg/kg bw)
+
+Dermal
+penetration
+factor#
+
+Daily
+ingredient
+exposure or
+SED
+(mg/kg bw)
+
+8.34
+
+1.2260
+
+13.5
+
+8.34
+
+1.1259
+
+8.34
+
+0.8340
+
+4.4885
+
+8.34
+
+0.3743
+
+3.1636
+
+8.34
+
+0.2638
+
+8.34
+
+0.2502
+
+8.34
+
+0.1668
+
+1.9
+
+8.34
+
+0.1585
+
+8.34
+
+0.0834
+
+0.77
+
+8.34
+
+0.0642
+
+0.75
+
+8.34
+
+0.0626
+
+0.3
+
+8.34
+
+0.0250
+
+0.2
+
+8.34
+
+0.0167
+
+0.1
+
+8.34
+
+0.0083
+
+0.08
+
+8.34
+
+0.0067
+
+0.059
+
+8.34
+
+0.0049
+
+0.024
+
+8.34
+
+0.0020
+
+0.015
+
+8.34
+
+0.0013
+
+Maximum
+concentration
+(%)
+
+14.7
+
+Ingredient
+(INCI name & CAS number)
+
+Pyrus Malus (Apple) Fruit Extract
+85251-63-4
+Rubus Idaeus (Raspberry) Fruit
+Extract
+84929-76-0
+
+Maximum
+concentration
+(%)
+
+0.01
+0.01
+
+Calculated
+product
+relative
+daily
+exposure
+(mg/kg bw)
+
+Dermal
+penetration
+factor#
+
+Daily
+ingredient
+exposure or
+SED
+(mg/kg bw)
+
+8.34
+
+0.0008
+
+8.34
+
+0.0008
+
+# Where no dermal absorption data is available, 100% dermal absorption is used. However, where
+molecular weight > 500 Da and log Pow is smaller than -1 or higher than 4, the value of 10% dermal
+absorption is considered unless the formulation contains penetration enhancers. Dermal absorption of
+nanomaterials needs to be determined experimentally.
+
+### A.8
+
+Toxicological Profile of the Substances
+
+Ingredient
+(INCI name &
+CAS number)
+Lactic Acid
+79-33-4
+50-21-5
+
+Hazard
+ID and
+lista
+B
+
+Malic Acid
+6915-15-7
+97-67-6
+
+B
+
+Hydrogenated
+Polydecene
+68037-01-4
+
+C
+
+Propylene Glycol
+57-55-6
+Butylene Glycol
+107-88-0
+Citric Acid
+77-92-9
+Panthenol
+81-13-0
+Polyacrylate
+Crosspolymer-6
+#
+
+A
+
+Reference
+
+### NOAEL
+
+Irritant to Irritant to
+Human
+Sensitiser
+for
+(mg/kg
+SEDb
+MoSc
+comment
+eyes
+skin
+data
+hazard ID
+bw/day)
+2014 CIR compendium, αHAs included at ca. 15% - safe up to ≤10%, at final formulation pH >=3.5, when
+formulated to avoid increasing sun sensitivity or when directions for use include the daily use of sun protection.
+safe for use in salon products at concentrations ≤30%, at final formulation pH ≥3.0, in products designed for
+brief, discontinuous use followed by thorough rinsing from the skin, when applied by trained professionals, and
+when application is accompanied by directions for the daily use of sun protection 1; International Journal of
+**Toxicology 17(S1):** 1-242, 1998
+Safe use in this product is supported by human usage information (see section A.10 and B.1).
+Safety
+1000assessment
+NonNot a
+of polyene
+4620 for
+irritant,
+primary
+NonNon0.209
+group as
+females
+irritant/non- sensitizing nonirritant
+used in
+genotoxic in a 90corrosive
+cosmetics,
+day study
+
+### CIR, 2014
+
+Safe (when formulated to be non-irritating), Safety assessment of propylene glycol tripropylene glycol and PPGs
+as Used in Cosmetics, Fiume, M. et al., International Journal of Toxicology 31(S 2), 2012
+
+A
+
+**Safe up to 89%; JACT 4(5):** 223-48, 1985 & International Journal of Toxicology 25(S2), 2006
+
+A
+
+2014 CIR Compendium, safe for use up to 39%, IJT 33 (S2): 16-46, 2014
+
+A
+
+**Safe up to 25%, JAQCT 6(1):** 139-62, 2006
+
+C
+
+-
+
+Slightly
+irritating
+
+Non-irritant
+
+Nonsenstizing
+
+Nonsensitizing
+and nonNot
+irritating
+available
+in humans
+at ~5%
+
+Not
+genotoxic
+(negative
+Not
+Not
+available available bacterial
+revere
+mutation).
+
+Ingredient
+(INCI name &
+CAS number)
+
+Silica Dimethyl
+Silylate
+68611-44-9
+Phenoxyethanol
+122-99-6
+Caprylyl Glycol
+1117-86-8
+Xanthan Gum
+11138-66-2
+Decarboxy
+Carnosine HCl
+57022-38-5
+T-butyl alcohol
+
+Hazard
+ID and
+lista
+
+Reference
+Irritant to
+for
+eyes
+hazard ID
+
+A
+
+2014 CIR safe when formulated and delivered in the final product not to be irritating or sensitizing to the
+**respiratory tract, IJT 32(S1):** 5-24, 2013
+
+B
+
+2014 CIR Compendium safe up to 1%, JACT 9(2):259-77, 1990
+
+A
+A
+A
+A
+
+Irritant to
+skin
+
+Sensitiser
+
+Human
+data
+
+### NOAEL
+
+(mg/kg
+bw/day)
+
+SEDb
+
+MoSc
+
+comment
+Based on
+assumed low
+hazard
+(meets the
+
+### NICNAS
+
+polymer of
+low concern
+criteria) and
+assessed use
+pattern (up
+to 5% in
+cosmetics),
+not
+considered
+to be an
+unreasonable
+health risk
+
+Safe when used up to 5%, Safety assessment of 1,2-glycols as used in cosmetics, International Journal of
+Toxicology 31 (S2), 1475-1685, 2012
+2014 CIR Compendium safe up to 6%, Safety Assessment of Microbial Polysaccharide Gums as Use in
+Cosmetics, Final Report, CIR, October, 2012
+A natural peptide, Included in Health Canada drug and health products as a skin conditioning agent with no
+restrictions, Product Data Sheet reports not irritant skin or eye, (tested in vitro), tested in vivo volunteers well
+tolerated to 1.5% concentration.
+Safe for use up to 0.5% IJT 24(2):1-20, 2005, (Amended) JACT 8(4):627-41, 1989 (Original Report)
+
+Ingredient
+(INCI name &
+CAS number)
+75-65-0
+Prunus Persica
+(Peach) Leaf
+Extract
+84012-34-0
+
+Hazard
+ID and
+lista
+
+##
+
+Reference
+Irritant to
+for
+eyes
+hazard ID
+
+A
+
+Centella Asiatica
+Extract
+84696-21-9
+
+Centella
+Asiatica
+Extract C
+8469621-9
+
+Rubus Idaeus
+(Raspberry) Fruit
+Extract
+84929-76-0
+
+Sensitiser
+
+Human
+data
+
+### NOAEL
+
+(mg/kg
+bw/day)
+
+SEDb
+
+MoSc
+
+comment
+
+Prunus Persica (Peach) Kernel Oil- is safe up to 22%, 2014 CIR Compendium; Final Report Plant-Derived Fatty
+Acid Oils as Used in Cosmetics, 03/2011.
+Read-across to the Kernel oil for the leaf extract considered appropriate when considering the low concentration
+in the product, strictly in-salon use and historical safe use based on experience of this product.
+Acute toxicity studies using rats, guinea pigs and mice indicate that the extract is relatively non-toxic, mixtures
+containing the extract and oil were not irritants or sensitizers in animals and produced minimal/no ocular
+irritation in rabbits and was not irritating in clinical studies. Also, hypericum perforatum extract is used in over
+50 cosmetic foundations across a wide range of product types, International Journal of Toxicology 20(S2): 31-39,
+2001. As there is no data available on the efficacy and safety of the extract in children and adolescents, use below
+the age of 18 is not recommended. The use of Hypericum has been documented for a long period and beside the
+risk of increased photosensitivity of the treated skin (the label will contain a suitable warning, see Section B.2 of
+this PIF) no concerns are known. The risk has been deemed an acceptable level for traditional herbal medicinal
+products, Assessment Report on Hypericum Perforatum L., Herba, Doc. Ref.: EMA/HMPC/101303/2008.
+
+Hypericum
+Perforatum Extract
+84082-80-4
+
+Ascorbic Acid
+50-81-7
+Pyrus Malus
+(Apple) Fruit
+Extract
+85251-63-4
+
+Irritant to
+skin
+
+-
+
+Non-irritant
+
+Nonirritant
+
+Safe at
+0.024%
+inclusion
+rate
+
+Not
+genotoxic
+
+9.60x101.04x106
+
+A
+
+2014 CIR Compendium, safe when used up to 10%, International Journal of Toxicology 24(2): 51-111, 2005
+
+A
+
+Safe (concentration of use not reported) CIR Compendium, 2014, Food item GRAS
+
+##
+
+Rubus Idaeus (Raspberry) Seed Oil- is safe up to 5%, 2014 CIR Compendium. In addition, raspberries are food
+items and raspberry leaf is a well-known herb that has been used orally for decades against various ailments
+according to handbooks and articles. Raspberry leaf preparations are generally recognized as safe. In mice an oral
+dose of extract equivalent to 10% of body weight of dried raspberry leaves was considered non-toxic. Neither the
+chemical composition nor the long-term widespread use in the European Union suggest that there is a high risk
+
+Ingredient
+(INCI name &
+CAS number)
+
+Hazard
+ID and
+lista
+
+Reference
+
+### NOAEL
+
+Irritant to Irritant to
+Human
+Sensitiser
+for
+(mg/kg
+SEDb
+MoSc
+eyes
+skin
+data
+hazard ID
+bw/day)
+associated with the use of raspberry leaf preparations, Reference: EMA/HMPC/44209/2012.
+
+comment
+
+a
+
+Some ingredients are excluded from a formal risk assessment where a recognized authority has published a review of the ingredient
+under similar conditions of use and concluded on safe use at the level of inclusion in the cosmetic product (Hazard ID=A). Hazard ID
+category B is for recognized authority reviews of the ingredient under similar conditions of use with restricted use or where the
+ingredient is contained in the annexes to Regulation (EC) No 1223/2009 (Hazard ID=B). Where hazard ID A or B is reported, the
+maximum allowed usage concentration should be stated.
+b
+all possible routes of exposure should be considered
+c
+A MoS of greater than 100 is considered to represent safe use
+# Food item, hazard and exposure data not required
+## other; read-across to information on related ingredient as presented
+
+**Fragrances:** 
+Zone 30 Power Peel Natural Exfoliating Gel- Maintenance Masque does not contain a
+fragrance.
+
+### A.9
+
+Undesirable Effects and Serious Undesirable Effects
+
+A letter describing in-salon use of this product and its immediate effects is included in
+Appendix 4 and described here.
+‘On application of the Power Peel Masque there may be a tingling, itching sensation.
+The tingling is alleviated by the application of Laser Azu-Gel, which is massaged around
+the face. There is rarely erythema, unless the skin is dehydrated or there are extensive
+solar keratosis. Over the next few days following the in-Rooms application there may be
+slight flaking or peeling of the skin which subsides quickly and the patient applies Scar
+Forte Serum and day protection as desired. The patients tolerate these treatments
+extremely well, are very happy with the results and attend the Rooms regularly for these
+Power Peel Masques.
+No undesirable effects are anticipated based on the product being used as directed on the
+face once every 4-6 weeks.
+
+### A.10
+
+Information on the Cosmetic Product
+
+Zone 30 Power Peel NE Gel- Maintenance Masque was released in 2013. Over the period
+October 2014 to May 2016, 2489 units have been sold and there have been no adverse
+reactions reported to RegimA.
+
+**B:** Part Cosmetic Product Safety Assessment
+
+### B.1
+
+Assessment Conclusion
+
+Review of the ingredients
+After analysis of all the available information including:
+• formulation
+• toxicological profile of the ingredients and their concentration in the product
+• Product data sheets supplied by the ingredient manufacturer
+Ingredients no. 1 (a mixture containing Lactic Acid), 2 (Malic Acid) and 4 (Citric Acid)
+and declare up to 14.7%, 13.5% and 3% alpha hydroxyl acid (AHA) content
+respectively, which would equate to a maximum of 31.2% content in the formulated
+product which has a pH of 1.03. According to the criteria on the FDA web-site about the
+use of AHAs in cosmetic products this can be used safely when the following is the case:
+**(http:** //www.fda.gov/Cosmetics/ProductsIngredients/Ingredients/ucm107940.htm)
+•
+The AHA concentration is 10 percent or less.
+•
+The final product has a pH of 3.5 or greater.
+•
+The final product is formulated in such a way that it protects the skin from
+increased sun sensitivity or its package directions tell consumers to use daily protection
+from the sun.
+In this product the concentration of AHA is greater than 10 percent and the pH is less
+than 3.5. Consequently the product is for strictly in-salon use by professional therapists
+who have been trained according to the RegimA training scheme. Additionally the
+product insert and labelling contain the advice to use daily protection from the sun.
+When used according to the label and product insert directions, it is not expected that
+Zone 30 Power Peel Natural Exfoliating Gel - Maintenance Masque will cause lasting
+damage to human health. This is supported by a letter from Richard J Van Der Poel MB
+ChB FRCS (Edin.) Plastic and Reconstructive Surgeon who has supervised the use of this
+product in-salon in South Africa (see below).
+It is therefore concluded that Zone 30 Power Peel Natural Exfoliating Gel- Maintenance
+Masque can be placed on the market in the EU as an exfoliating masque, under the
+condition that it is only to be applied in-salon by a RegimA trained professional skin
+care therapist.
+Review of human data on the product
+There are no human tests such as a patch test, for this product.
+
+Statement of tolerability
+The product has been used under the guidance of a plastic and reconstructive surgeon,
+Richard J Van Der Poel, whose patients have tolerated the 30% AHA formulation
+without lasting adverse effects such as irritation being reported.
+Richard J Van Der Poel reports ‘On application of the Power Peel Masque there may be
+a tingling, itching sensation. The tingling is alleviated by the application of Laser AzuGel, which is massaged around the face. There is rarely erythema, unless the skin is
+dehydrated or there are extensive solar keratosis. The Power Peel Gel is then thoroughly
+cleansed with RégimA Derma Zest Cleansing + Toning Gel ensuring all masque has been
+removed. Following cleansing Scar Forte Serum and a RégimA product containing sun
+protection is always applied.
+Over the next few days following the in-Rooms application there may be slight flaking or
+peeling of the skin which subsides quickly and the patient applies Scar Forte Serum and
+day protection as desired.
+The patients tolerate these treatments extremely well, are very happy with the results and
+attend the Rooms regularly for these Power Peel Masques.
+I feel that these products and treatments offer safe, continuity of care at home and inRooms for my patients pre and post-op.’ The statement is included in Appendix 4.
+
+### B.2
+
+Label Warnings and Instructions for Use
+
+Directions for use are given on the product insert (Appendix 4).
+**Directions for use:** In-salon: Cleanse with RegimA products. Apply 2 pump depressions
+to the face, avoiding the eye area and neck. Allow 10 to 15 minutes before removing by
+cleansing thoroughly with RegimA cleanser. This is an in-salon masque applied as part of
+a RegimA facial ideally every 4-6 weeks. Follow with RegimA home care products,
+which must include a product containing sun protection.
+**Label warnings:** 
+‘Not for retail. Strictly in-salon Masque for use by a RegimA trained professional skin
+care therapist’.
+‘All skin types- except sensitive’
+‘Must always be followed by a RegimA product containing UVA and UVB protection’.
+‘Keep out of reach of children’.
+‘Protect from temperatures above 25°C’.
+
+‘Suitable for adults only’.
+
+### B.3
+
+Reasoning
+
+This product contains many ingredients with a positive reputation for its exfoliating
+properties. There are no reasons to anticipate tolerance problems with intermittent 4-6 week
+use. Supporting evidence has been given by Richard J Van Der Poel, plastic and
+reconstructive surgeon, who has used this product as an in-salon treatment. Clients have
+tolerated the 30% AHA formulation without lasting adverse irritating effects being
+reported.
+This product is intended for external use in adults only.
+
+### B.4
+
+Assessors Credentials and Approval of Part B
+
+Shirley Hudson (safety assessor)
+BSc, University of Aberdeen
+CBiol, MBS
+20+ years as a practicing toxicologist in the pharmaceutical and chemical industries.
+After analyzing of all of the available information including the product formulation and
+toxicological profile of the ingredients, I conclude that according to the current state of
+scientific knowledge, this product is not expected to result in any significant damage to
+human health and can be safely marketed for the intended and foreseeable use as an
+exfoliating masque.
+
+List of References
+SCCS Notes of Guidance for the Testing of Cosmetic Substances and Their Safety
+Evaluation, 9th Revision, 29 September 2015 (SCCS/1564/15)
+European Commission database on cosmetic ingredients (Cosing)
+**http:** //ec.europa.eu/consumers/cosmetics/cosing/
+Cosmetic ingredient review http://www.cir-safety.org/
+
+## Method Of Manufacture / Gmp Certification
+
+## Proof Of Effect Claimed
+
+This product makes no direct or implied claims and consequently no proof is required.
+
+## Animal Testing Statement
+
+To the best of our knowledge, the manufacturer and his suppliers have not carried out or
+commissioned any animal testing for the purpose of developing new cosmetic products.
+The statement below is a confirmation of the company policy:
+
+RégimA Skin Treatments
+
+## Ck92/05371/23
+
+VAT No. 4590131043
+
+**Tel:** 011 615 2869 or 011 622 7827
+**Fax:** 011 616 8008
+**Cell:** 0836537020
+**e-mail:** jax@regima.com
+**POSTAL ADDRESS:** PO BOX 9523 Edenglen 1613
+**PHYSICAL ADDRESS:** 20 River Road Morninghill Bedfordview 2007 RSA
+Animal Testing Compliance Statement
+This letter is to serve as testimony as to the practice of animal testing, and
+confirm that RégimA Skin Treatments has not, nor will not engage in any practice
+that involves animal testing in any form.
+RégimA Skin Treatments hereby confirms neither the manufacturer nor RégimA
+Skin Treatments itself have commissioned or carried out any form of animal
+testing during the course of product development. This applies to any and all
+activities performed as part of the development process, including, but not
+**restricted to:** R&D, stability testing, safety and toxicology assessments, suitability
+studies or any other facet related to the product’s development.
+
+**Appendix 1:** Safety Data Sheets or Ingredient Specifications
+Safety data sheets and technical data sheets for the ingredients are maintained
+electronically with the PIF by the Responsible Person. They are available on request.
+
+**Appendix 2:** Microbial Challenge Test
+A microbial challenge test is maintained electronically with the PIF by the Responsible
+Person. It is available on request.
+
+**Appendix 3:** Certificates of Allergen Content
+
+**Appendix 4:** Miscellaneous
+The stability report, packaging material information and product carton insert are
+maintained electronically with the PIF by the Responsible Person. They are available on
+request.

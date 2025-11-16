@@ -52,4 +52,5 @@ docs/instructions/Roadmap.md
 !vessels/HYPERGRAPH_INTEGRATION.md
 !vessels/README.md
 !vessels/schemas/*.md
+!vessels/msdspif/markdown/*.md
 !.github/agents/*.md
