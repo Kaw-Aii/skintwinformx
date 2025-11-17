@@ -161,7 +161,7 @@ export function MSDSGenerator() {
 
         // Section title
         pdf.setFontSize(12);
-        pdf.setFont(undefined, 'bold');
+        pdf.setFont('helvetica', 'bold');
         const titleLines = pdf.splitTextToSize(section.title, pageWidth - 2 * margin);
         titleLines.forEach((line: string) => {
           pdf.text(line, margin, currentY);
@@ -170,7 +170,7 @@ export function MSDSGenerator() {
         currentY += 5;
 
         // Section content
-        pdf.setFont(undefined, 'normal');
+        pdf.setFont('helvetica', 'normal');
         pdf.setFontSize(10);
         
         if (Array.isArray(section.content)) {
@@ -193,7 +193,7 @@ export function MSDSGenerator() {
       });
 
       // Add footer with generation date and page numbers
-      const pageCount = pdf.internal.getNumberOfPages();
+      const pageCount = (pdf.internal as any).pages?.length || 1;
       for (let i = 1; i <= pageCount; i++) {
         pdf.setPage(i);
         pdf.setFontSize(8);

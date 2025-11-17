@@ -163,7 +163,12 @@ export class MultiscaleCoordinator {
   }
 
   private coupleMolecularToCellular(): void {
-    const coupling = this.currentState.molecular.state.coupling_interfaces?.[0];
+    const coupling = this.currentState.molecular.state.coupling_interfaces?.[0] ?? {
+      from_scale: 'molecular' as const,
+      to_scale: 'cellular' as const,
+      coupling_strength: 0.5,
+      coupling_mechanism: 'default_molecular_cellular'
+    };
     const coupledField = this.tensorOps.coupleSacales(
       this.currentState.molecular.state,
       this.currentState.cellular.state,
@@ -173,7 +178,12 @@ export class MultiscaleCoordinator {
   }
 
   private coupleCellularToTissue(): void {
-    const coupling = this.currentState.cellular.state.coupling_interfaces?.[0];
+    const coupling = this.currentState.cellular.state.coupling_interfaces?.[0] ?? {
+      from_scale: 'cellular' as const,
+      to_scale: 'tissue' as const,
+      coupling_strength: 0.5,
+      coupling_mechanism: 'default_cellular_tissue'
+    };
     const coupledField = this.tensorOps.coupleSacales(
       this.currentState.cellular.state,
       this.currentState.tissue.state,
@@ -183,7 +193,12 @@ export class MultiscaleCoordinator {
   }
 
   private coupleTissueToOrgan(): void {
-    const coupling = this.currentState.tissue.state.coupling_interfaces?.[0];
+    const coupling = this.currentState.tissue.state.coupling_interfaces?.[0] ?? {
+      from_scale: 'tissue' as const,
+      to_scale: 'organ' as const,
+      coupling_strength: 0.5,
+      coupling_mechanism: 'default_tissue_organ'
+    };
     const coupledField = this.tensorOps.coupleSacales(
       this.currentState.tissue.state,
       this.currentState.organ.state,

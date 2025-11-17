@@ -16,7 +16,6 @@ import {
   ExclamationTriangleIcon, 
   LightBulbIcon,
   CpuChipIcon,
-  BrainIcon,
   CalculatorIcon,
   ChartBarIcon
 } from '@heroicons/react/24/outline';
@@ -244,7 +243,7 @@ export function EnhancedProofAssistant({
           <SubsystemStatus
             name="Deep Tree Echo"
             active={activeSubsystems.deepTreeEcho}
-            icon={<BrainIcon className="w-5 h-5" />}
+            icon={<CpuChipIcon className="w-5 h-5" />}
             onToggle={() => toggleSubsystem('deepTreeEcho')}
             metrics={systemMetrics?.subsystemStatus.get('echo')}
           />
@@ -412,7 +411,7 @@ export function EnhancedProofAssistant({
               {[
                 { id: 'verification', label: 'Verification', icon: CheckCircleIcon },
                 { id: 'ml', label: 'ML Predictions', icon: CpuChipIcon },
-                { id: 'cognitive', label: 'Cognitive Insights', icon: BrainIcon },
+                { id: 'cognitive', label: 'Cognitive Insights', icon: CpuChipIcon },
                 { id: 'formal', label: 'Formal Logic', icon: CalculatorIcon },
                 { id: 'integration', label: 'Integration', icon: ChartBarIcon },
               ].map((tab) => (

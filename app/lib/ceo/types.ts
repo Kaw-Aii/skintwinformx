@@ -35,7 +35,7 @@ export type JAXOperationType =
  */
 export interface JAXTensorOperation {
   operation: JAXOperationType;
-  inputs: number[][];
+  inputs: number[][][];  // Array of 2D tensors (matrices)
   parameters?: {
     axis?: number;
     keepdims?: boolean;

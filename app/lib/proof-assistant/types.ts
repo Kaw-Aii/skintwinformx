@@ -138,7 +138,7 @@ export interface RelevanceRealizationContext {
 }
 
 // Multi-scale field types
-export type ScaleType = 'molecular' | 'cellular' | 'tissue' | 'organ' | 'system';
+export type ScaleType = 'molecular' | 'cellular' | 'tissue' | 'organ';
 
 export interface CouplingInterface {
   from_scale: ScaleType;

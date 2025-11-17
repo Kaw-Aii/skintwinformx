@@ -145,7 +145,7 @@ export function MultiscaleSkinViewer({ coordinator, onScaleChange }: MultiscaleS
           <div className="bg-gray-50 p-4 rounded-md">
             <h3 className="font-semibold mb-2">Current Scale: {currentScale}</h3>
             <div className="space-y-1 text-sm">
-              <div>Dimensions: {skinState[currentScale].state.dimensions.join(' × ')}</div>
+              <div>Dimensions: {skinState[currentScale].state.dimensions.spatial.join(' × ')}</div>
               <div>Time Step: {skinState[currentScale].timeStep}</div>
               <div>Units: {skinState[currentScale].state.metadata.units}</div>
               <div>Last Update: {skinState[currentScale].lastUpdate.toLocaleTimeString()}</div>
@@ -157,7 +157,7 @@ export function MultiscaleSkinViewer({ coordinator, onScaleChange }: MultiscaleS
             <div className="space-y-1 text-sm">
               <div>Sync Status: {skinState.syncStatus}</div>
               <div>Global Time: {skinState.globalTime}</div>
-              <div>Active Couplings: {skinState[currentScale].state.coupling_interfaces.length}</div>
+              <div>Active Couplings: {skinState[currentScale].state.coupling_interfaces?.length ?? 0}</div>
             </div>
           </div>
         </div>

@@ -174,7 +174,7 @@ export function PIFGenerator() {
       });
 
       // Add footer with generation date
-      const pageCount = pdf.internal.getNumberOfPages();
+      const pageCount = (pdf.internal as any).pages?.length || 1;
       for (let i = 1; i <= pageCount; i++) {
         pdf.setPage(i);
         pdf.setFontSize(10);

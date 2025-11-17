@@ -33,7 +33,7 @@ export interface TypeConstraint {
 }
 
 export interface PrimitiveType {
-  name: 'Nat' | 'Real' | 'Bool' | 'String' | 'Ingredient' | 'Concentration' | 'Effect';
+  name: 'Nat' | 'Real' | 'Bool' | 'String' | 'Ingredient' | 'Concentration' | 'Effect' | 'Formulation';
 }
 
 // Higher-order logic expressions
@@ -652,10 +652,10 @@ export class AutomatedTheoremProver {
     }
 
     return {
-      type: 'application',
+      type: 'application' as const,
       name: 'and',
       args: [safetyGoal, ...effectivenessGoals]
-    };
+    } as LogicalExpression;
   }
 
   /**
