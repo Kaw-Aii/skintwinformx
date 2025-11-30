@@ -7019,31 +7019,345 @@
       "timeset": ""
     }
   ],
-  "layers": {
-    "supply_chain": {
-      "metadata": {
-        "name": "RSGraph",
-        "description": "Supply Chain Network: Suppliers and Ingredients",
-        "node_count": 114,
-        "edge_count": 91,
-        "density": 0.007064120478186617,
-        "created_at": "2025-11-30T09:55:42.695Z"
-      },
-      "node_count": 114,
-      "edge_count": 91
+  "function_groups": [
+    {
+      "function": "Unmapped",
+      "ingredients": [
+        "R1907000",
+        "R1902003",
+        "R1905039",
+        "R1905042",
+        "R1905011",
+        "R1905012",
+        "R1905024",
+        "R1905047",
+        "R1911000",
+        "R1911001",
+        "R1911003",
+        "R1905016",
+        "R1905017",
+        "R1901001",
+        "R1901006",
+        "R1902000",
+        "R1902001",
+        "R1905014",
+        "R1906000",
+        "R1906001",
+        "R1911002",
+        "R1913014",
+        "R1901005",
+        "R1905002",
+        "R1905003",
+        "R1905025",
+        "R1905026",
+        "R1905033",
+        "R1905034",
+        "R1901002",
+        "R1901003",
+        "R1905019",
+        "R1905029",
+        "R1905030",
+        "R1905043",
+        "R1905015",
+        "R1905022",
+        "R1905008",
+        "R1905055",
+        "R1905020",
+        "R1905018",
+        "R1905027",
+        "R1905035",
+        "R1905041",
+        "R1905046",
+        "R1905048",
+        "R1905049",
+        "R1905050",
+        "R1905051",
+        "R1905052",
+        "R1905054",
+        "R1905057",
+        "R1905032",
+        "R1905044",
+        "R1905001",
+        "R1905037",
+        "R1905045",
+        "R1913001",
+        "R1913002",
+        "R1913005",
+        "R1913006",
+        "R1913007",
+        "R1913008",
+        "R1913009",
+        "R1913011",
+        "R1913012",
+        "R1902002",
+        "R1901004",
+        "R1905005",
+        "R1905006",
+        "R1905007",
+        "R1905031",
+        "R1905028",
+        "R1905040",
+        "R1905013",
+        "R1905038",
+        "R0101059",
+        "R0101072",
+        "R0101077",
+        "R0101100",
+        "R0101102",
+        "R0101121",
+        "R0102002",
+        "R0102018",
+        "R0102026",
+        "R0104015",
+        "R0104056",
+        "R0105060",
+        "R0105122",
+        "R0105124",
+        "R0105141",
+        "R0105152",
+        "R0105176",
+        "R0105177",
+        "R0105201",
+        "R0105203",
+        "R0105238",
+        "R0105240",
+        "R0105258",
+        "R0105308",
+        "R0105334",
+        "R0105358",
+        "R0105433",
+        "R0105486",
+        "R0105494",
+        "R0105527",
+        "R0105535",
+        "R0105566",
+        "R0105587",
+        "R0105601",
+        "R0105621",
+        "R0105639",
+        "R0105640",
+        "R0106001",
+        "R0106012",
+        "R0106015",
+        "R0106020",
+        "R0106063",
+        "R0109005",
+        "R0110029",
+        "R0111012",
+        "R0111062",
+        "R0111063",
+        "R0112003",
+        "R0112004",
+        "R0113026",
+        "R0113028",
+        "R0113062",
+        "R0113117",
+        "R0113124",
+        "R0113156",
+        "R1901000"
+      ]
     },
-    "formulation": {
-      "metadata": {
-        "name": "RAWGraph",
-        "description": "Formulation Network: Products and Ingredients",
-        "node_count": 199,
-        "edge_count": 521,
-        "density": 0.01322267905182478,
-        "created_at": "2025-11-30T09:55:42.698Z"
-      },
-      "node_count": 199,
-      "edge_count": 521
+    {
+      "function": "Active",
+      "ingredients": [
+        "R1908000",
+        "R1905021",
+        "R1905053",
+        "R1905056",
+        "R1902999",
+        "R0101063",
+        "R0105041",
+        "R0105123",
+        "R0105179",
+        "R0105182",
+        "R0105489",
+        "R0106038",
+        "R0113094"
+      ]
+    },
+    {
+      "function": "Other",
+      "ingredients": [
+        "R1905023",
+        "R1905004",
+        "R1905058",
+        "R1905010",
+        "R010000",
+        "R0101057",
+        "R0101094",
+        "R0101114",
+        "R0102031",
+        "R0105002",
+        "R0105020",
+        "R0105035",
+        "R0105039",
+        "R0105170",
+        "R0105227",
+        "R0105304",
+        "R0105336",
+        "R0106004",
+        "R0106006",
+        "R0106024",
+        "R0112001",
+        "R0113091"
+      ]
+    },
+    {
+      "function": "Surfactant",
+      "ingredients": [
+        "R1905000",
+        "R0105159",
+        "R0105270"
+      ]
+    },
+    {
+      "function": "Fragrance",
+      "ingredients": [
+        "R1905009"
+      ]
+    },
+    {
+      "function": "Humectant",
+      "ingredients": [
+        "R1913000",
+        "R1913003",
+        "R1913004",
+        "R1913013",
+        "R0101103",
+        "R0102008",
+        "R0105359",
+        "R0113090"
+      ]
+    },
+    {
+      "function": "Emollient",
+      "ingredients": [
+        "R0101084"
+      ]
     }
+  ],
+  "formulation_types": {
+    "total_combinations": 6,
+    "function_distribution": {
+      "Unmapped": 132,
+      "Active": 13,
+      "Other": 22,
+      "Surfactant": 3,
+      "Fragrance": 1,
+      "Humectant": 8,
+      "Emollient": 1
+    },
+    "formulation_patterns": [
+      {
+        "functions": [
+          "Active",
+          "Humectant",
+          "Other",
+          "Surfactant",
+          "Unmapped"
+        ],
+        "count": 10,
+        "example_ingredients": [
+          "R010000",
+          "R0102008",
+          "R0102031",
+          "R0104056",
+          "R0105039"
+        ]
+      },
+      {
+        "functions": [
+          "Active",
+          "Other",
+          "Unmapped"
+        ],
+        "count": 8,
+        "example_ingredients": [
+          "R010000",
+          "R0101114",
+          "R0102031",
+          "R0104056",
+          "R0105123"
+        ]
+      },
+      {
+        "functions": [
+          "Other",
+          "Unmapped"
+        ],
+        "count": 4,
+        "example_ingredients": [
+          "R010000",
+          "R0101114",
+          "R0104056",
+          "R0105566",
+          "R0105640"
+        ]
+      },
+      {
+        "functions": [
+          "Active",
+          "Humectant",
+          "Other",
+          "Unmapped"
+        ],
+        "count": 4,
+        "example_ingredients": [
+          "R0101100",
+          "R0101102",
+          "R0101121",
+          "R0105123",
+          "R0105258"
+        ]
+      },
+      {
+        "functions": [
+          "Active",
+          "Emollient",
+          "Other",
+          "Unmapped"
+        ],
+        "count": 1,
+        "example_ingredients": [
+          "R010000",
+          "R0101084",
+          "R0101114",
+          "R0102031",
+          "R0104015"
+        ]
+      },
+      {
+        "functions": [
+          "Active",
+          "Fragrance",
+          "Humectant",
+          "Other",
+          "Surfactant",
+          "Unmapped"
+        ],
+        "count": 1,
+        "example_ingredients": [
+          "R010000",
+          "R0102008",
+          "R0102031",
+          "R0104056",
+          "R0105179"
+        ]
+      }
+    ]
   },
-  "cross_layer_edges": []
+  "cosing_metadata": {
+    "total_cosing_ingredients": 30070,
+    "mapped_ingredients": 48,
+    "unmapped_ingredients": 132,
+    "function_coverage": {
+      "Unmapped": 132,
+      "Active": 13,
+      "Other": 22,
+      "Surfactant": 3,
+      "Fragrance": 1,
+      "Humectant": 8,
+      "Emollient": 1
+    }
+  }
 }
