@@ -123,6 +123,31 @@ interface HyperGraphAnalysis extends GraphAnalysis {
   cross_layer_analysis: any;
 }
 
+/**
+ * COSING Ingredient Interface
+ * Represents an ingredient from the European Commission's COSING database
+ * 
+ * @property id - Unique COSING database identifier
+ * @property name - Common name of the ingredient
+ * @property inci_name - International Nomenclature of Cosmetic Ingredients (INCI) standardized name
+ * @property cas_number - Chemical Abstracts Service registry number(s), multiple numbers separated by '/'
+ * @property function - Primary cosmetic function (Active, Emollient, Humectant, Surfactant, etc.)
+ * @property molecular_weight - Molecular weight in g/mol (optional)
+ * @property solubility - Solubility characteristics in common solvents (optional)
+ * @property concentration_min - Minimum recommended concentration as percentage
+ * @property concentration_max - Maximum recommended concentration as percentage
+ * @property safety_profile - Safety assessment summary (optional)
+ * @property price_per_100g - Price per 100g in specified currency (optional)
+ * @property stability_ph_min - Minimum pH for ingredient stability (optional)
+ * @property stability_ph_max - Maximum pH for ingredient stability (optional)
+ * @property temperature_stability - Maximum stable temperature in Celsius (optional)
+ * @property incompatibilities - List of incompatible ingredient INCI names
+ * @property benefits - List of cosmetic benefits
+ * @property phase - Preferred formulation phase (water, oil, etc.) (optional)
+ * @property is_natural - Whether ingredient is naturally derived
+ * @property is_restricted - Whether ingredient has regulatory restrictions
+ * @property is_gras - Whether ingredient is Generally Recognized As Safe
+ */
 interface COSINGIngredient {
   id: number;
   name: string;
@@ -481,9 +506,14 @@ class GraphBuilder {
 // COSING HYPERGRAPH BUILDER
 // ============================================================================
 
+// Constants for function categories
+const FUNCTION_UNMAPPED = 'Unmapped';
+const FUNCTION_OTHER = 'Other';
+
 class COSINGHyperGraphBuilder {
   private vesselsDir: string;
   private cosingDir: string;
+  private cosingLookupIndex: Map<string, COSINGIngredient> | null = null;
 
   constructor() {
     this.vesselsDir = path.join(process.cwd(), 'vessels');
@@ -498,29 +528,50 @@ class COSINGHyperGraphBuilder {
     const filepath = path.join(this.cosingDir, 'ingredients.json');
     
     if (!fs.existsSync(filepath)) {
-      console.error('  ✗ COSING database not found');
-      return [];
+      const errorMsg = 'COSING database not found at ' + filepath;
+      console.error('  ✗ ' + errorMsg);
+      throw new Error(errorMsg);
     }
 
     const content = fs.readFileSync(filepath, 'utf-8');
     const data = JSON.parse(content);
     
     console.log(`  ✓ Loaded ${data.length} COSING ingredients`);
+    
+    // Build lookup index for performance
+    this.buildLookupIndex(data);
+    
     return data;
+  }
+  
+  /**
+   * Build lookup index for efficient ingredient matching
+   */
+  private buildLookupIndex(ingredients: COSINGIngredient[]): void {
+    this.cosingLookupIndex = new Map();
+    
+    for (const ingredient of ingredients) {
+      const normalizedName = this.normalizeINCI(ingredient.inci_name);
+      this.cosingLookupIndex.set(normalizedName, ingredient);
+    }
+    
+    console.log(`  ✓ Built lookup index with ${this.cosingLookupIndex.size} entries`);
   }
 
   /**
    * Normalize INCI name for matching
+   * Preserves word boundaries while removing special characters
    */
   private normalizeINCI(name: string): string {
     return name
       .toUpperCase()
-      .replace(/[^A-Z0-9]/g, '')
+      .replace(/[^A-Z0-9\s-]/g, '') // Keep spaces and hyphens
+      .replace(/\s+/g, ' ') // Normalize multiple spaces
       .trim();
   }
 
   /**
-   * Map ingredient to COSING function
+   * Map ingredient to COSING function using lookup index
    */
   private mapIngredientToCOSING(
     ingredientLabel: string,
@@ -528,22 +579,24 @@ class COSINGHyperGraphBuilder {
   ): COSINGIngredient | undefined {
     const normalizedLabel = this.normalizeINCI(ingredientLabel);
     
-    // Try exact match first
-    let match = cosingDatabase.find(
-      ing => this.normalizeINCI(ing.inci_name) === normalizedLabel
-    );
-    
-    // Try partial match if exact fails
-    if (!match) {
-      match = cosingDatabase.find(
-        ing => {
-          const normalized = this.normalizeINCI(ing.inci_name);
-          return normalized.includes(normalizedLabel) || normalizedLabel.includes(normalized);
-        }
-      );
+    // Try exact match first using index
+    if (this.cosingLookupIndex) {
+      const exactMatch = this.cosingLookupIndex.get(normalizedLabel);
+      if (exactMatch) {
+        return exactMatch;
+      }
     }
     
-    return match;
+    // Fallback to partial match for complex names (still needed for variants)
+    // This is less common so O(n) is acceptable
+    const partialMatch = cosingDatabase.find(
+      ing => {
+        const normalized = this.normalizeINCI(ing.inci_name);
+        return normalized.includes(normalizedLabel) || normalizedLabel.includes(normalized);
+      }
+    );
+    
+    return partialMatch;
   }
 
   /**
@@ -554,10 +607,6 @@ class COSINGHyperGraphBuilder {
     
     // Load COSING database
     const cosingDatabase = this.loadCOSINGDatabase();
-    
-    if (cosingDatabase.length === 0) {
-      throw new Error('Cannot build COSINGHyperGraph without COSING database');
-    }
     
     // Group ingredients by function
     const functionGroups = new Map<string, Set<string>>();
@@ -570,7 +619,7 @@ class COSINGHyperGraphBuilder {
         const cosingMatch = this.mapIngredientToCOSING(node.label, cosingDatabase);
         
         if (cosingMatch) {
-          const func = cosingMatch.function || 'Other';
+          const func = cosingMatch.function || FUNCTION_OTHER;
           if (!functionGroups.has(func)) {
             functionGroups.set(func, new Set());
           }
@@ -578,10 +627,10 @@ class COSINGHyperGraphBuilder {
           mappedCount++;
         } else {
           // Add to "Unmapped" category
-          if (!functionGroups.has('Unmapped')) {
-            functionGroups.set('Unmapped', new Set());
+          if (!functionGroups.has(FUNCTION_UNMAPPED)) {
+            functionGroups.set(FUNCTION_UNMAPPED, new Set());
           }
-          functionGroups.get('Unmapped')!.add(nodeId);
+          functionGroups.get(FUNCTION_UNMAPPED)!.add(nodeId);
           unmappedCount++;
         }
       }
@@ -641,6 +690,19 @@ class COSINGHyperGraphBuilder {
     
     console.log(`  Analyzing ${products.length} products`);
     
+    // Build reverse index: product -> ingredients for performance
+    const productToIngredients = new Map<string, Set<string>>();
+    for (const product of products) {
+      productToIngredients.set(product.id, new Set());
+    }
+    
+    // Populate reverse index
+    for (const edge of hyperGraph.layers.formulation.edges) {
+      if (productToIngredients.has(edge.target)) {
+        productToIngredients.get(edge.target)!.add(edge.source);
+      }
+    }
+    
     // Track function combinations per product
     const productFunctionSets = new Map<string, Set<string>>();
     const formulationPatterns = new Map<string, {
@@ -652,20 +714,16 @@ class COSINGHyperGraphBuilder {
     
     // For each product, find its ingredients and their functions
     for (const product of products) {
-      const productIngredients = new Set<string>();
+      const productIngredients = productToIngredients.get(product.id) || new Set();
       const productFunctions = new Set<string>();
       
-      // Find edges from ingredients to this product
-      for (const edge of hyperGraph.layers.formulation.edges) {
-        if (edge.target === product.id) {
-          productIngredients.add(edge.source);
-          
-          // Find function of this ingredient
-          for (const [func, ingSet] of functionGroups) {
-            if (ingSet.has(edge.source)) {
-              productFunctions.add(func);
-              break;
-            }
+      // Map ingredients to functions
+      for (const ingredientId of productIngredients) {
+        // Find function of this ingredient
+        for (const [func, ingSet] of functionGroups) {
+          if (ingSet.has(ingredientId)) {
+            productFunctions.add(func);
+            break;
           }
         }
       }
@@ -1100,7 +1158,7 @@ class ForensicReportGenerator {
     
     // Bottleneck detection
     const bottlenecks = rsAnalysis.vulnerability_assessment.critical_nodes
-      .map(id => ({
+      .map((id: string) => ({
         id,
         label: rsGraph.nodes.get(id)?.label || '',
         type: rsGraph.nodes.get(id)?.type || '',

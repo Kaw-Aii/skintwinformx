@@ -1,6 +1,6 @@
 # SKIN-TWIN Forensic Hypergraph Analysis Report
 
-**Generated:** 2025-11-30T09:55:46.164Z
+**Generated:** 2025-11-30T10:03:38.996Z
 
 ## Executive Summary
 
@@ -85,9 +85,9 @@ The COSINGHyperGraph provides a functional analysis of formulations by grouping 
 
 #### Key Statistics
 - **Total Formulation Types:** 6
-- **Mapped Ingredients:** 48
-- **Unmapped Ingredients:** 132
-- **Mapping Coverage:** 26.67%
+- **Mapped Ingredients:** 47
+- **Unmapped Ingredients:** 133
+- **Mapping Coverage:** 26.11%
 
 #### Formulation Type Interpretation
 
@@ -105,10 +105,10 @@ The system identified **6 distinct formulation types** across the product catalo
 5. **Active, Emollient, Other, Unmapped** - 1 products
 
 #### Function Distribution
-- **Unmapped**: 132 ingredients
-- **Other**: 22 ingredients
-- **Active**: 13 ingredients
-- **Humectant**: 8 ingredients
+- **Unmapped**: 133 ingredients
+- **Other**: 23 ingredients
+- **Active**: 12 ingredients
+- **Humectant**: 7 ingredients
 - **Surfactant**: 3 ingredients
 - **Fragrance**: 1 ingredients
 - **Emollient**: 1 ingredients

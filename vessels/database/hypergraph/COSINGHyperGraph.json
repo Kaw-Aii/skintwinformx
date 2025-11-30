@@ -5,7 +5,7 @@
     "node_count": 231,
     "edge_count": 612,
     "density": 0.011518915866741954,
-    "created_at": "2025-11-30T09:55:42.698Z"
+    "created_at": "2025-11-30T10:03:36.635Z"
   },
   "nodes": [
     {
@@ -7125,6 +7125,7 @@
         "R0105308",
         "R0105334",
         "R0105358",
+        "R0105359",
         "R0105433",
         "R0105486",
         "R0105494",
@@ -7161,7 +7162,6 @@
       "function": "Active",
       "ingredients": [
         "R1908000",
-        "R1905021",
         "R1905053",
         "R1905056",
         "R1902999",
@@ -7179,6 +7179,7 @@
       "function": "Other",
       "ingredients": [
         "R1905023",
+        "R1905021",
         "R1905004",
         "R1905058",
         "R1905010",
@@ -7225,7 +7226,6 @@
         "R1913013",
         "R0101103",
         "R0102008",
-        "R0105359",
         "R0113090"
       ]
     },
@@ -7239,12 +7239,12 @@
   "formulation_types": {
     "total_combinations": 6,
     "function_distribution": {
-      "Unmapped": 132,
-      "Active": 13,
-      "Other": 22,
+      "Unmapped": 133,
+      "Active": 12,
+      "Other": 23,
       "Surfactant": 3,
       "Fragrance": 1,
-      "Humectant": 8,
+      "Humectant": 7,
       "Emollient": 1
     },
     "formulation_patterns": [
@@ -7348,15 +7348,15 @@
   },
   "cosing_metadata": {
     "total_cosing_ingredients": 30070,
-    "mapped_ingredients": 48,
-    "unmapped_ingredients": 132,
+    "mapped_ingredients": 47,
+    "unmapped_ingredients": 133,
     "function_coverage": {
-      "Unmapped": 132,
-      "Active": 13,
-      "Other": 22,
+      "Unmapped": 133,
+      "Active": 12,
+      "Other": 23,
       "Surfactant": 3,
       "Fragrance": 1,
-      "Humectant": 8,
+      "Humectant": 7,
       "Emollient": 1
     }
   }

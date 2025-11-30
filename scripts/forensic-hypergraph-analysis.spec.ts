@@ -281,4 +281,111 @@ describe('Forensic Hypergraph Analysis', () => {
       expect(content).toContain('SKIN-TWIN Hypergraph Forensic Analysis');
     });
   });
+
+  describe('COSINGHyperGraph', () => {
+    it('should generate COSINGHyperGraph.json', () => {
+      const filepath = path.join(outputDir, 'COSINGHyperGraph.json');
+      expect(fs.existsSync(filepath)).toBe(true);
+      
+      const data = JSON.parse(fs.readFileSync(filepath, 'utf-8'));
+      expect(data.metadata).toBeDefined();
+      expect(data.function_groups).toBeDefined();
+      expect(data.formulation_types).toBeDefined();
+      expect(data.cosing_metadata).toBeDefined();
+    });
+    
+    it('should have formulation type statistics', () => {
+      const filepath = path.join(outputDir, 'COSINGHyperGraph.json');
+      const data = JSON.parse(fs.readFileSync(filepath, 'utf-8'));
+      
+      expect(data.formulation_types.total_combinations).toBeGreaterThan(0);
+      expect(data.formulation_types.function_distribution).toBeDefined();
+      expect(data.formulation_types.formulation_patterns).toBeDefined();
+      expect(Array.isArray(data.formulation_types.formulation_patterns)).toBe(true);
+    });
+    
+    it('should have function groups', () => {
+      const filepath = path.join(outputDir, 'COSINGHyperGraph.json');
+      const data = JSON.parse(fs.readFileSync(filepath, 'utf-8'));
+      
+      expect(Array.isArray(data.function_groups)).toBe(true);
+      expect(data.function_groups.length).toBeGreaterThan(0);
+      
+      // Each function group should have function and ingredients
+      data.function_groups.forEach((group: any) => {
+        expect(group.function).toBeDefined();
+        expect(Array.isArray(group.ingredients)).toBe(true);
+      });
+    });
+    
+    it('should have COSING metadata', () => {
+      const filepath = path.join(outputDir, 'COSINGHyperGraph.json');
+      const data = JSON.parse(fs.readFileSync(filepath, 'utf-8'));
+      
+      expect(data.cosing_metadata.total_cosing_ingredients).toBeGreaterThan(0);
+      expect(data.cosing_metadata.mapped_ingredients).toBeGreaterThanOrEqual(0);
+      expect(data.cosing_metadata.unmapped_ingredients).toBeGreaterThanOrEqual(0);
+      expect(data.cosing_metadata.function_coverage).toBeDefined();
+    });
+    
+    it('should have formulation patterns sorted by frequency', () => {
+      const filepath = path.join(outputDir, 'COSINGHyperGraph.json');
+      const data = JSON.parse(fs.readFileSync(filepath, 'utf-8'));
+      
+      const patterns = data.formulation_types.formulation_patterns;
+      expect(patterns.length).toBeGreaterThan(0);
+      
+      // Patterns should be sorted by count (descending)
+      for (let i = 1; i < patterns.length; i++) {
+        expect(patterns[i - 1].count).toBeGreaterThanOrEqual(patterns[i].count);
+      }
+      
+      // Each pattern should have functions, count, and example_ingredients
+      patterns.forEach((pattern: any) => {
+        expect(Array.isArray(pattern.functions)).toBe(true);
+        expect(pattern.count).toBeGreaterThan(0);
+        expect(Array.isArray(pattern.example_ingredients)).toBe(true);
+      });
+    });
+    
+    it('should map ingredients to COSING functions', () => {
+      const filepath = path.join(outputDir, 'COSINGHyperGraph.json');
+      const data = JSON.parse(fs.readFileSync(filepath, 'utf-8'));
+      
+      const totalMapped = data.cosing_metadata.mapped_ingredients;
+      const totalUnmapped = data.cosing_metadata.unmapped_ingredients;
+      const totalIngredients = totalMapped + totalUnmapped;
+      
+      // Should have attempted to map all ingredients
+      expect(totalIngredients).toBeGreaterThan(0);
+      
+      // Mapping coverage should be a valid percentage
+      const coverage = (totalMapped / totalIngredients) * 100;
+      expect(coverage).toBeGreaterThanOrEqual(0);
+      expect(coverage).toBeLessThanOrEqual(100);
+    });
+    
+    it('should calculate total formulation combinations', () => {
+      const filepath = path.join(outputDir, 'COSINGHyperGraph.json');
+      const data = JSON.parse(fs.readFileSync(filepath, 'utf-8'));
+      
+      const totalCombinations = data.formulation_types.total_combinations;
+      const patternsLength = data.formulation_types.formulation_patterns.length;
+      
+      // Total combinations should match the number of unique patterns
+      expect(totalCombinations).toBe(patternsLength);
+      expect(totalCombinations).toBeGreaterThan(0);
+    });
+    
+    it('should include COSING section in summary markdown', () => {
+      const filepath = path.join(outputDir, 'FORENSIC_ANALYSIS_SUMMARY.md');
+      const content = fs.readFileSync(filepath, 'utf-8');
+      
+      expect(content).toContain('COSINGHyperGraph Analysis');
+      expect(content).toContain('Formulation Type Estimation');
+      expect(content).toContain('Total Formulation Types');
+      expect(content).toContain('Function Distribution');
+      expect(content).toContain('Formulation Patterns');
+    });
+  });
 });
