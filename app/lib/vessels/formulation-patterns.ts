@@ -395,14 +395,44 @@ export class FormulationPatternManager {
 }
 
 /**
- * Load formulation patterns from JSON file
+ * Load formulation patterns from JSON file (Node.js environment)
+ * 
+ * @example
+ * ```typescript
+ * import { loadFormulationPatterns } from '~/lib/vessels/formulation-patterns';
+ * const manager = await loadFormulationPatterns();
+ * ```
+ * 
+ * For browser/client-side usage, import the JSON directly:
+ * @example
+ * ```typescript
+ * import patternData from '~/vessels/cosing/formulation_patterns.json';
+ * const manager = new FormulationPatternManager(patternData);
+ * ```
  */
 export async function loadFormulationPatterns(): Promise<FormulationPatternManager> {
-  // This would be implemented to load from the JSON file
-  // For now, it's a placeholder for the client-side implementation
-  throw new Error(
-    'loadFormulationPatterns must be implemented with file system access'
+  // This function requires Node.js file system access
+  // For browser/client-side usage, import the JSON directly as shown in the example above
+  if (typeof window !== 'undefined') {
+    throw new Error(
+      'loadFormulationPatterns requires Node.js file system access. ' +
+      'In browser environments, import the JSON file directly: ' +
+      'import patternData from "~/vessels/cosing/formulation_patterns.json"; ' +
+      'const manager = new FormulationPatternManager(patternData);'
+    );
+  }
+  
+  // For Node.js environments
+  const fs = await import('fs');
+  const path = await import('path');
+  const dataPath = path.join(
+    process.cwd(),
+    'vessels',
+    'cosing',
+    'formulation_patterns.json'
   );
+  const data = JSON.parse(await fs.promises.readFile(dataPath, 'utf-8'));
+  return new FormulationPatternManager(data);
 }
 
 /**
