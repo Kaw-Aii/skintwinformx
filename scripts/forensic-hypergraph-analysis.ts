@@ -123,6 +123,73 @@ interface HyperGraphAnalysis extends GraphAnalysis {
   cross_layer_analysis: any;
 }
 
+/**
+ * COSING Ingredient Interface
+ * Represents an ingredient from the European Commission's COSING database
+ * 
+ * @property id - Unique COSING database identifier
+ * @property name - Common name of the ingredient
+ * @property inci_name - International Nomenclature of Cosmetic Ingredients (INCI) standardized name
+ * @property cas_number - Chemical Abstracts Service registry number(s), multiple numbers separated by '/'
+ * @property function - Primary cosmetic function (Active, Emollient, Humectant, Surfactant, etc.)
+ * @property molecular_weight - Molecular weight in g/mol (optional)
+ * @property solubility - Solubility characteristics in common solvents (optional)
+ * @property concentration_min - Minimum recommended concentration as percentage
+ * @property concentration_max - Maximum recommended concentration as percentage
+ * @property safety_profile - Safety assessment summary (optional)
+ * @property price_per_100g - Price per 100g in specified currency (optional)
+ * @property stability_ph_min - Minimum pH for ingredient stability (optional)
+ * @property stability_ph_max - Maximum pH for ingredient stability (optional)
+ * @property temperature_stability - Maximum stable temperature in Celsius (optional)
+ * @property incompatibilities - List of incompatible ingredient INCI names
+ * @property benefits - List of cosmetic benefits
+ * @property phase - Preferred formulation phase (water, oil, etc.) (optional)
+ * @property is_natural - Whether ingredient is naturally derived
+ * @property is_restricted - Whether ingredient has regulatory restrictions
+ * @property is_gras - Whether ingredient is Generally Recognized As Safe
+ */
+interface COSINGIngredient {
+  id: number;
+  name: string;
+  inci_name: string;
+  cas_number: string;
+  function: string;
+  molecular_weight?: number;
+  solubility?: string;
+  concentration_min: number;
+  concentration_max: number;
+  safety_profile?: string;
+  price_per_100g?: number;
+  stability_ph_min?: number;
+  stability_ph_max?: number;
+  temperature_stability?: number;
+  incompatibilities: string[];
+  benefits: string[];
+  phase?: string;
+  is_natural: boolean;
+  is_restricted: boolean;
+  is_gras: boolean;
+}
+
+interface COSINGHyperGraph extends HyperGraph {
+  function_groups: Map<string, Set<string>>; // function -> ingredient IDs
+  formulation_types: {
+    total_combinations: number;
+    function_distribution: Record<string, number>;
+    formulation_patterns: Array<{
+      functions: string[];
+      count: number;
+      example_ingredients: string[];
+    }>;
+  };
+  cosing_metadata: {
+    total_cosing_ingredients: number;
+    mapped_ingredients: number;
+    unmapped_ingredients: number;
+    function_coverage: Record<string, number>;
+  };
+}
+
 // ============================================================================
 // UTILITY FUNCTIONS
 // ============================================================================
@@ -432,6 +499,297 @@ class GraphBuilder {
     console.log(`  Density: ${hyperGraph.metadata.density.toFixed(4)}`);
     
     return hyperGraph;
+  }
+}
+
+// ============================================================================
+// COSING HYPERGRAPH BUILDER
+// ============================================================================
+
+// Constants for function categories
+const FUNCTION_UNMAPPED = 'Unmapped';
+const FUNCTION_OTHER = 'Other';
+
+class COSINGHyperGraphBuilder {
+  private vesselsDir: string;
+  private cosingDir: string;
+  private cosingLookupIndex: Map<string, COSINGIngredient> | null = null;
+
+  constructor() {
+    this.vesselsDir = path.join(process.cwd(), 'vessels');
+    this.cosingDir = path.join(this.vesselsDir, 'cosing');
+  }
+
+  /**
+   * Load COSING ingredients database
+   */
+  private loadCOSINGDatabase(): COSINGIngredient[] {
+    console.log('\n=== Loading COSING Database ===');
+    const filepath = path.join(this.cosingDir, 'ingredients.json');
+    
+    if (!fs.existsSync(filepath)) {
+      const errorMsg = 'COSING database not found at ' + filepath;
+      console.error('  ✗ ' + errorMsg);
+      throw new Error(errorMsg);
+    }
+
+    const content = fs.readFileSync(filepath, 'utf-8');
+    const data = JSON.parse(content);
+    
+    console.log(`  ✓ Loaded ${data.length} COSING ingredients`);
+    
+    // Build lookup index for performance
+    this.buildLookupIndex(data);
+    
+    return data;
+  }
+  
+  /**
+   * Build lookup index for efficient ingredient matching
+   */
+  private buildLookupIndex(ingredients: COSINGIngredient[]): void {
+    this.cosingLookupIndex = new Map();
+    
+    for (const ingredient of ingredients) {
+      const normalizedName = this.normalizeINCI(ingredient.inci_name);
+      this.cosingLookupIndex.set(normalizedName, ingredient);
+    }
+    
+    console.log(`  ✓ Built lookup index with ${this.cosingLookupIndex.size} entries`);
+  }
+
+  /**
+   * Normalize INCI name for matching
+   * Preserves word boundaries while removing special characters
+   */
+  private normalizeINCI(name: string): string {
+    return name
+      .toUpperCase()
+      .replace(/[^A-Z0-9\s-]/g, '') // Keep spaces and hyphens
+      .replace(/\s+/g, ' ') // Normalize multiple spaces
+      .trim();
+  }
+
+  /**
+   * Map ingredient to COSING function using lookup index
+   */
+  private mapIngredientToCOSING(
+    ingredientLabel: string,
+    cosingDatabase: COSINGIngredient[]
+  ): COSINGIngredient | undefined {
+    const normalizedLabel = this.normalizeINCI(ingredientLabel);
+    
+    // Try exact match first using index
+    if (this.cosingLookupIndex) {
+      const exactMatch = this.cosingLookupIndex.get(normalizedLabel);
+      if (exactMatch) {
+        return exactMatch;
+      }
+    }
+    
+    // Fallback to partial match for complex names (still needed for variants)
+    // This is less common so O(n) is acceptable
+    const partialMatch = cosingDatabase.find(
+      ing => {
+        const normalized = this.normalizeINCI(ing.inci_name);
+        return normalized.includes(normalizedLabel) || normalizedLabel.includes(normalized);
+      }
+    );
+    
+    return partialMatch;
+  }
+
+  /**
+   * Build COSINGHyperGraph from RAWSHyperGraph
+   */
+  buildCOSINGHyperGraph(rawsHyperGraph: HyperGraph): COSINGHyperGraph {
+    console.log('\n=== Building COSINGHyperGraph ===');
+    
+    // Load COSING database
+    const cosingDatabase = this.loadCOSINGDatabase();
+    
+    // Group ingredients by function
+    const functionGroups = new Map<string, Set<string>>();
+    let mappedCount = 0;
+    let unmappedCount = 0;
+    
+    // Process all ingredients from RAWSHyperGraph
+    for (const [nodeId, node] of rawsHyperGraph.nodes) {
+      if (node.type === 'ingredient') {
+        const cosingMatch = this.mapIngredientToCOSING(node.label, cosingDatabase);
+        
+        if (cosingMatch) {
+          const func = cosingMatch.function || FUNCTION_OTHER;
+          if (!functionGroups.has(func)) {
+            functionGroups.set(func, new Set());
+          }
+          functionGroups.get(func)!.add(nodeId);
+          mappedCount++;
+        } else {
+          // Add to "Unmapped" category
+          if (!functionGroups.has(FUNCTION_UNMAPPED)) {
+            functionGroups.set(FUNCTION_UNMAPPED, new Set());
+          }
+          functionGroups.get(FUNCTION_UNMAPPED)!.add(nodeId);
+          unmappedCount++;
+        }
+      }
+    }
+    
+    console.log(`  Mapped ingredients: ${mappedCount}`);
+    console.log(`  Unmapped ingredients: ${unmappedCount}`);
+    console.log(`  Function groups: ${functionGroups.size}`);
+    
+    // Calculate formulation type combinations
+    const formulationTypes = this.calculateFormulationTypes(
+      rawsHyperGraph,
+      functionGroups,
+      cosingDatabase
+    );
+    
+    // Create COSING-enhanced hypergraph
+    const cosingHyperGraph: COSINGHyperGraph = {
+      ...rawsHyperGraph,
+      function_groups: functionGroups,
+      formulation_types: formulationTypes,
+      cosing_metadata: {
+        total_cosing_ingredients: cosingDatabase.length,
+        mapped_ingredients: mappedCount,
+        unmapped_ingredients: unmappedCount,
+        function_coverage: this.calculateFunctionCoverage(functionGroups)
+      }
+    };
+    
+    console.log(`  Total formulation combinations: ${formulationTypes.total_combinations}`);
+    console.log(`  Formulation patterns identified: ${formulationTypes.formulation_patterns.length}`);
+    
+    return cosingHyperGraph;
+  }
+
+  /**
+   * Calculate possible formulation type combinations
+   */
+  private calculateFormulationTypes(
+    hyperGraph: HyperGraph,
+    functionGroups: Map<string, Set<string>>,
+    cosingDatabase: COSINGIngredient[]
+  ): {
+    total_combinations: number;
+    function_distribution: Record<string, number>;
+    formulation_patterns: Array<{
+      functions: string[];
+      count: number;
+      example_ingredients: string[];
+    }>;
+  } {
+    console.log('\n=== Calculating Formulation Types ===');
+    
+    // Get all products from the formulation layer
+    const products = Array.from(hyperGraph.layers.formulation.nodes.values())
+      .filter(n => n.type === 'product');
+    
+    console.log(`  Analyzing ${products.length} products`);
+    
+    // Build reverse index: product -> ingredients for performance
+    const productToIngredients = new Map<string, Set<string>>();
+    for (const product of products) {
+      productToIngredients.set(product.id, new Set());
+    }
+    
+    // Populate reverse index
+    for (const edge of hyperGraph.layers.formulation.edges) {
+      if (productToIngredients.has(edge.target)) {
+        productToIngredients.get(edge.target)!.add(edge.source);
+      }
+    }
+    
+    // Track function combinations per product
+    const productFunctionSets = new Map<string, Set<string>>();
+    const formulationPatterns = new Map<string, {
+      functions: string[];
+      count: number;
+      products: string[];
+      ingredients: Set<string>;
+    }>();
+    
+    // For each product, find its ingredients and their functions
+    for (const product of products) {
+      const productIngredients = productToIngredients.get(product.id) || new Set();
+      const productFunctions = new Set<string>();
+      
+      // Map ingredients to functions
+      for (const ingredientId of productIngredients) {
+        // Find function of this ingredient
+        for (const [func, ingSet] of functionGroups) {
+          if (ingSet.has(ingredientId)) {
+            productFunctions.add(func);
+            break;
+          }
+        }
+      }
+      
+      productFunctionSets.set(product.id, productFunctions);
+      
+      // Create pattern key (sorted function names)
+      const patternKey = Array.from(productFunctions).sort().join('|');
+      
+      if (!formulationPatterns.has(patternKey)) {
+        formulationPatterns.set(patternKey, {
+          functions: Array.from(productFunctions).sort(),
+          count: 0,
+          products: [],
+          ingredients: new Set()
+        });
+      }
+      
+      const pattern = formulationPatterns.get(patternKey)!;
+      pattern.count++;
+      pattern.products.push(product.id);
+      productIngredients.forEach(ing => pattern.ingredients.add(ing));
+    }
+    
+    // Calculate total combinations
+    // This is the number of unique formulation patterns
+    const totalCombinations = formulationPatterns.size;
+    
+    // Calculate function distribution
+    const functionDistribution: Record<string, number> = {};
+    for (const [func, ingredientSet] of functionGroups) {
+      functionDistribution[func] = ingredientSet.size;
+    }
+    
+    // Convert patterns to array format
+    const patternsArray = Array.from(formulationPatterns.values())
+      .map(p => ({
+        functions: p.functions,
+        count: p.count,
+        example_ingredients: Array.from(p.ingredients).slice(0, 5)
+      }))
+      .sort((a, b) => b.count - a.count); // Sort by frequency
+    
+    console.log(`  Unique formulation patterns: ${totalCombinations}`);
+    console.log(`  Top pattern: ${patternsArray[0]?.functions.join(', ')} (${patternsArray[0]?.count} products)`);
+    
+    return {
+      total_combinations: totalCombinations,
+      function_distribution: functionDistribution,
+      formulation_patterns: patternsArray
+    };
+  }
+
+  /**
+   * Calculate function coverage statistics
+   */
+  private calculateFunctionCoverage(
+    functionGroups: Map<string, Set<string>>
+  ): Record<string, number> {
+    const coverage: Record<string, number> = {};
+    
+    for (const [func, ingredientSet] of functionGroups) {
+      coverage[func] = ingredientSet.size;
+    }
+    
+    return coverage;
   }
 }
 
@@ -800,7 +1158,7 @@ class ForensicReportGenerator {
     
     // Bottleneck detection
     const bottlenecks = rsAnalysis.vulnerability_assessment.critical_nodes
-      .map(id => ({
+      .map((id: string) => ({
         id,
         label: rsGraph.nodes.get(id)?.label || '',
         type: rsGraph.nodes.get(id)?.type || '',
@@ -874,6 +1232,7 @@ function exportGraphs(
   rawGraph: Graph,
   hyperGraph: HyperGraph,
   hgnn: HyperGraphNeuralNetwork,
+  cosingHyperGraph: COSINGHyperGraph | null,
   outputDir: string
 ): void {
   console.log('\n=== Exporting Graph Data ===');
@@ -943,6 +1302,27 @@ function exportGraphs(
   exportAdjacencyCSV(hgnn.adjacency_tensors.formulation, 'adjacency_formulation.csv');
   exportAdjacencyCSV(hgnn.adjacency_tensors.cross_layer, 'adjacency_cross_layer.csv');
   console.log('  ✓ Adjacency matrices (CSV)');
+  
+  // Export COSING HyperGraph if available
+  if (cosingHyperGraph) {
+    const cosingData = {
+      metadata: cosingHyperGraph.metadata,
+      nodes: Array.from(cosingHyperGraph.nodes.values()),
+      edges: cosingHyperGraph.edges,
+      function_groups: Array.from(cosingHyperGraph.function_groups.entries()).map(([func, ingSet]) => ({
+        function: func,
+        ingredients: Array.from(ingSet)
+      })),
+      formulation_types: cosingHyperGraph.formulation_types,
+      cosing_metadata: cosingHyperGraph.cosing_metadata
+    };
+    
+    fs.writeFileSync(
+      path.join(outputDir, 'COSINGHyperGraph.json'),
+      JSON.stringify(cosingData, null, 2)
+    );
+    console.log('  ✓ COSINGHyperGraph.json');
+  }
 }
 
 // ============================================================================
@@ -961,21 +1341,30 @@ async function main() {
     const analyzer = new GraphAnalyzer();
     const nnMapper = new HyperGraphNeuralNetworkMapper();
     const reportGenerator = new ForensicReportGenerator();
+    const cosingBuilder = new COSINGHyperGraphBuilder();
     
     // Step 1: Build graphs
     const rsGraph = builder.buildRSGraph();
     const rawGraph = builder.buildRAWGraph();
     const hyperGraph = builder.buildRAWSHyperGraph(rsGraph, rawGraph);
     
-    // Step 2: Analyze graphs
+    // Step 2: Build COSING HyperGraph
+    let cosingHyperGraph: COSINGHyperGraph | null = null;
+    try {
+      cosingHyperGraph = cosingBuilder.buildCOSINGHyperGraph(hyperGraph);
+    } catch (error) {
+      console.warn('  ⚠ Could not build COSINGHyperGraph:', (error as Error).message);
+    }
+    
+    // Step 3: Analyze graphs
     const rsAnalysis = analyzer.analyzeGraph(rsGraph);
     const rawAnalysis = analyzer.analyzeGraph(rawGraph);
     const hyperAnalysis = analyzer.analyzeHyperGraph(hyperGraph);
     
-    // Step 3: Map to neural network
+    // Step 4: Map to neural network
     const hgnn = nnMapper.mapToNeuralNetwork(hyperGraph);
     
-    // Step 4: Generate forensic report
+    // Step 5: Generate forensic report
     const report = reportGenerator.generateReport(
       rsGraph,
       rawGraph,
@@ -986,24 +1375,27 @@ async function main() {
       hgnn
     );
     
-    // Step 5: Export all data
+    // Step 6: Export all data
     const outputDir = path.join(process.cwd(), 'vessels', 'database', 'hypergraph');
-    exportGraphs(rsGraph, rawGraph, hyperGraph, hgnn, outputDir);
+    exportGraphs(rsGraph, rawGraph, hyperGraph, hgnn, cosingHyperGraph, outputDir);
     
     const reportPath = path.join(outputDir, 'forensic_analysis_report.json');
     reportGenerator.saveReport(report, reportPath);
     
     // Generate summary markdown
     const summaryPath = path.join(outputDir, 'FORENSIC_ANALYSIS_SUMMARY.md');
-    const summary = generateMarkdownSummary(report, rsGraph, rawGraph, hyperGraph, hgnn);
+    const summary = generateMarkdownSummary(report, rsGraph, rawGraph, hyperGraph, hgnn, cosingHyperGraph);
     fs.writeFileSync(summaryPath, summary);
     console.log(`✓ Summary saved to: ${summaryPath}`);
     
     console.log('\n╔════════════════════════════════════════════════════════════════╗');
     console.log('║  FORENSIC ANALYSIS COMPLETE                                    ║');
     console.log('╚════════════════════════════════════════════════════════════════╝');
-    console.log(`\n📊 Graphs Built: RSGraph, RAWGraph, RAWSHyperGraph`);
+    console.log(`\n📊 Graphs Built: RSGraph, RAWGraph, RAWSHyperGraph${cosingHyperGraph ? ', COSINGHyperGraph' : ''}`);
     console.log(`🧠 Neural Network: RAWSHGNN (${hgnn.architecture.layers.length} layers)`);
+    if (cosingHyperGraph) {
+      console.log(`🔬 COSING Analysis: ${cosingHyperGraph.formulation_types.total_combinations} formulation types identified`);
+    }
     console.log(`📁 Output: ${outputDir}`);
     
   } catch (error) {
@@ -1017,15 +1409,67 @@ function generateMarkdownSummary(
   rsGraph: Graph,
   rawGraph: Graph,
   hyperGraph: HyperGraph,
-  hgnn: HyperGraphNeuralNetwork
+  hgnn: HyperGraphNeuralNetwork,
+  cosingHyperGraph: COSINGHyperGraph | null
 ): string {
+  let cosingSection = '';
+  
+  if (cosingHyperGraph) {
+    const topPatterns = cosingHyperGraph.formulation_types.formulation_patterns
+      .slice(0, 5)
+      .map((p, i) => `${i + 1}. **${p.functions.join(', ')}** - ${p.count} products`)
+      .join('\n');
+    
+    const functionDistribution = Object.entries(cosingHyperGraph.formulation_types.function_distribution)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 10)
+      .map(([func, count]) => `- **${func}**: ${count} ingredients`)
+      .join('\n');
+    
+    cosingSection = `
+## COSINGHyperGraph Analysis
+
+### Formulation Type Estimation
+
+The COSINGHyperGraph provides a functional analysis of formulations by grouping ingredients based on their COSING-defined functions. This enables estimation of formulation type diversity and complexity.
+
+#### Key Statistics
+- **Total Formulation Types:** ${cosingHyperGraph.formulation_types.total_combinations}
+- **Mapped Ingredients:** ${cosingHyperGraph.cosing_metadata.mapped_ingredients}
+- **Unmapped Ingredients:** ${cosingHyperGraph.cosing_metadata.unmapped_ingredients}
+- **Mapping Coverage:** ${((cosingHyperGraph.cosing_metadata.mapped_ingredients / (cosingHyperGraph.cosing_metadata.mapped_ingredients + cosingHyperGraph.cosing_metadata.unmapped_ingredients)) * 100).toFixed(2)}%
+
+#### Formulation Type Interpretation
+
+A "formulation type" is defined as a unique combination of ingredient functions. For example:
+- Type A: Emollient + Humectant + Preservative
+- Type B: Active + Emollient + Emulsifier + Preservative
+
+The system identified **${cosingHyperGraph.formulation_types.total_combinations} distinct formulation types** across the product catalog. This represents the diversity of formulation architectures being used.
+
+#### Top Formulation Patterns
+${topPatterns}
+
+#### Function Distribution
+${functionDistribution}
+
+#### Formulation Complexity Insights
+
+The formulation type count (${cosingHyperGraph.formulation_types.total_combinations}) represents:
+1. **Formulation Diversity**: ${cosingHyperGraph.formulation_types.total_combinations} unique functional architectures
+2. **Innovation Potential**: Additional combinations of functions could yield new formulation types
+3. **Optimization Opportunities**: Products sharing the same formulation type can be optimized together
+
+`;
+  }
+  
   return `# SKIN-TWIN Forensic Hypergraph Analysis Report
 
 **Generated:** ${new Date().toISOString()}
 
 ## Executive Summary
 
-This report presents a comprehensive forensic analysis of the SKIN-TWIN hypergraph architecture, constructing and analyzing the RSGraph (Supply Chain), RAWGraph (Formulation), and their integration into the RAWSHyperGraph. Additionally, we map this hypergraph to a HyperGraph Neural Network (RAWSHGNN) for advanced analytics.
+This report presents a comprehensive forensic analysis of the SKIN-TWIN hypergraph architecture, constructing and analyzing the RSGraph (Supply Chain), RAWGraph (Formulation), and their integration into the RAWSHyperGraph. Additionally, we map this hypergraph to a HyperGraph Neural Network (RAWSHGNN) for advanced analytics.${cosingHyperGraph ? ' The COSINGHyperGraph provides functional analysis and formulation type estimation.' : ''}
 
 ## Graph Construction
 
@@ -1092,6 +1536,8 @@ ${hgnn.architecture.layers.map(layer =>
 - **Loss Function:** ${hgnn.training_config.loss_function}
 - **Optimizer:** ${hgnn.training_config.optimizer}
 
+${cosingSection}
+
 ## Key Insights & Recommendations
 
 ${report.insights.recommendations.map((rec, i) => `${i + 1}. ${rec}`).join('\n')}
@@ -1114,7 +1560,7 @@ ${report.insights.recommendations.map((rec, i) => `${i + 1}. ${rec}`).join('\n')
 - \`adjacency_supply_chain.csv\` - Supply Chain Adjacency Matrix
 - \`adjacency_formulation.csv\` - Formulation Adjacency Matrix
 - \`adjacency_cross_layer.csv\` - Cross-Layer Adjacency Matrix
-- \`forensic_analysis_report.json\` - Complete Analysis Report
+- \`forensic_analysis_report.json\` - Complete Analysis Report${cosingHyperGraph ? '\n- `COSINGHyperGraph.json` - Function-Based Formulation Type Analysis' : ''}
 
 ## Conclusion
 
@@ -1124,7 +1570,7 @@ The forensic analysis reveals a complex, multi-layered hypergraph structure with
 - Supply chain risk prediction
 - Ingredient substitution recommendations
 - Product performance prediction
-- Cost optimization
+- Cost optimization${cosingHyperGraph ? '\n- Function-based formulation type exploration (' + cosingHyperGraph.formulation_types.total_combinations + ' types identified)' : ''}
 
 **Status:** ✅ Ready for deployment and training
 

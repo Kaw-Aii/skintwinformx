@@ -1,10 +1,10 @@
 # SKIN-TWIN Forensic Hypergraph Analysis Report
 
-**Generated:** 2025-11-30T06:51:07.398Z
+**Generated:** 2025-11-30T10:03:38.996Z
 
 ## Executive Summary
 
-This report presents a comprehensive forensic analysis of the SKIN-TWIN hypergraph architecture, constructing and analyzing the RSGraph (Supply Chain), RAWGraph (Formulation), and their integration into the RAWSHyperGraph. Additionally, we map this hypergraph to a HyperGraph Neural Network (RAWSHGNN) for advanced analytics.
+This report presents a comprehensive forensic analysis of the SKIN-TWIN hypergraph architecture, constructing and analyzing the RSGraph (Supply Chain), RAWGraph (Formulation), and their integration into the RAWSHyperGraph. Additionally, we map this hypergraph to a HyperGraph Neural Network (RAWSHGNN) for advanced analytics. The COSINGHyperGraph provides functional analysis and formulation type estimation.
 
 ## Graph Construction
 
@@ -76,6 +76,52 @@ This report presents a comprehensive forensic analysis of the SKIN-TWIN hypergra
 - **Loss Function:** cross_entropy
 - **Optimizer:** adam
 
+
+## COSINGHyperGraph Analysis
+
+### Formulation Type Estimation
+
+The COSINGHyperGraph provides a functional analysis of formulations by grouping ingredients based on their COSING-defined functions. This enables estimation of formulation type diversity and complexity.
+
+#### Key Statistics
+- **Total Formulation Types:** 6
+- **Mapped Ingredients:** 47
+- **Unmapped Ingredients:** 133
+- **Mapping Coverage:** 26.11%
+
+#### Formulation Type Interpretation
+
+A "formulation type" is defined as a unique combination of ingredient functions. For example:
+- Type A: Emollient + Humectant + Preservative
+- Type B: Active + Emollient + Emulsifier + Preservative
+
+The system identified **6 distinct formulation types** across the product catalog. This represents the diversity of formulation architectures being used.
+
+#### Top Formulation Patterns
+1. **Active, Humectant, Other, Surfactant, Unmapped** - 10 products
+2. **Active, Other, Unmapped** - 8 products
+3. **Other, Unmapped** - 4 products
+4. **Active, Humectant, Other, Unmapped** - 4 products
+5. **Active, Emollient, Other, Unmapped** - 1 products
+
+#### Function Distribution
+- **Unmapped**: 133 ingredients
+- **Other**: 23 ingredients
+- **Active**: 12 ingredients
+- **Humectant**: 7 ingredients
+- **Surfactant**: 3 ingredients
+- **Fragrance**: 1 ingredients
+- **Emollient**: 1 ingredients
+
+#### Formulation Complexity Insights
+
+The formulation type count (6) represents:
+1. **Formulation Diversity**: 6 unique functional architectures
+2. **Innovation Potential**: Additional combinations of functions could yield new formulation types
+3. **Optimization Opportunities**: Products sharing the same formulation type can be optimized together
+
+
+
 ## Key Insights & Recommendations
 
 1. Diversify supply chain: 6 critical suppliers identified
@@ -103,6 +149,7 @@ This report presents a comprehensive forensic analysis of the SKIN-TWIN hypergra
 - `adjacency_formulation.csv` - Formulation Adjacency Matrix
 - `adjacency_cross_layer.csv` - Cross-Layer Adjacency Matrix
 - `forensic_analysis_report.json` - Complete Analysis Report
+- `COSINGHyperGraph.json` - Function-Based Formulation Type Analysis
 
 ## Conclusion
 
@@ -113,6 +160,7 @@ The forensic analysis reveals a complex, multi-layered hypergraph structure with
 - Ingredient substitution recommendations
 - Product performance prediction
 - Cost optimization
+- Function-based formulation type exploration (6 types identified)
 
 **Status:** ✅ Ready for deployment and training
 
