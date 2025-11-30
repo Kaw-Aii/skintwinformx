@@ -55,6 +55,7 @@ docs/instructions/Roadmap.md
 !vessels/msdspif/markdown/*.md
 !vessels/cosing/README.md
 !vessels/cosing/FORMULATION_PATTERNS.md
+!docs/FORMULATION_PATTERNS_GUIDE.md
 !.github/agents/*.md
 
 # COSING data files (use compressed versions)
