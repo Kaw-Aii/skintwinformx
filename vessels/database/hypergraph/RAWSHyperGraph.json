@@ -1,0 +1,7049 @@
+{
+  "metadata": {
+    "name": "RAWSHyperGraph",
+    "description": "Integrated Supply Chain and Formulation Hypergraph",
+    "node_count": 231,
+    "edge_count": 612,
+    "density": 0.011518915866741954,
+    "created_at": "2025-11-30T06:51:07.360Z"
+  },
+  "nodes": [
+    {
+      "id": "06A0001",
+      "label": "06 Agencies",
+      "timeset": "",
+      "modularity_class": 1,
+      "type": "supplier"
+    },
+    {
+      "id": "AEC001",
+      "label": "A&E Connock",
+      "timeset": "",
+      "modularity_class": 2,
+      "type": "supplier"
+    },
+    {
+      "id": "AKU001",
+      "label": "AECI",
+      "timeset": "",
+      "modularity_class": 3,
+      "type": "supplier"
+    },
+    {
+      "id": "BOT0003",
+      "label": "Botanichem",
+      "timeset": "",
+      "modularity_class": 4,
+      "type": "supplier"
+    },
+    {
+      "id": "CAR0002",
+      "label": "Carst&Walker,div of Zenith Ho",
+      "timeset": "",
+      "modularity_class": 5,
+      "type": "supplier"
+    },
+    {
+      "id": "CHE0004",
+      "label": "Chempure (Pty) Ltd",
+      "timeset": "",
+      "modularity_class": 6,
+      "type": "supplier"
+    },
+    {
+      "id": "CJP0001",
+      "label": "CJP Chemicals (Pty) Ltd",
+      "timeset": "",
+      "modularity_class": 7,
+      "type": "supplier"
+    },
+    {
+      "id": "CLI0001",
+      "label": "Clive Teubes CC / Scatters Oils",
+      "timeset": "",
+      "modularity_class": 8,
+      "type": "supplier"
+    },
+    {
+      "id": "COS0007",
+      "label": "Cosmetic Ingredients (Pty) Ltd",
+      "timeset": "",
+      "modularity_class": 9,
+      "type": "supplier"
+    },
+    {
+      "id": "CRO0001",
+      "label": "Croda Chemicals S.A (Pty) Ltd",
+      "timeset": "",
+      "modularity_class": 10,
+      "type": "supplier"
+    },
+    {
+      "id": "CTE0001",
+      "label": "Chemgrit Cosmetics (C-Tec)",
+      "timeset": "",
+      "modularity_class": 11,
+      "type": "supplier"
+    },
+    {
+      "id": "EVO0001",
+      "label": "Protea Chemicals",
+      "timeset": "",
+      "modularity_class": 12,
+      "type": "supplier"
+    },
+    {
+      "id": "HEX0001",
+      "label": "Orkila",
+      "timeset": "",
+      "modularity_class": 13,
+      "type": "supplier"
+    },
+    {
+      "id": "LIP0001",
+      "label": "Vantage Speciality Chemicals",
+      "timeset": "",
+      "modularity_class": 14,
+      "type": "supplier"
+    },
+    {
+      "id": "Maccullum",
+      "label": "Exsymol",
+      "timeset": "",
+      "modularity_class": 15,
+      "type": "supplier"
+    },
+    {
+      "id": "MAT0002",
+      "label": "Materia Medica",
+      "timeset": "",
+      "modularity_class": 16,
+      "type": "supplier"
+    },
+    {
+      "id": "MEG0001",
+      "label": "Meganede CC",
+      "timeset": "",
+      "modularity_class": 17,
+      "type": "supplier"
+    },
+    {
+      "id": "MER0001",
+      "label": "Merck (Pty) Ltd",
+      "timeset": "",
+      "modularity_class": 18,
+      "type": "supplier"
+    },
+    {
+      "id": "MIL0001",
+      "label": "Millchem",
+      "timeset": "",
+      "modularity_class": 19,
+      "type": "supplier"
+    },
+    {
+      "id": "NAT0001",
+      "label": "Natchem CC",
+      "timeset": "",
+      "modularity_class": 20,
+      "type": "supplier"
+    },
+    {
+      "id": "ORC0001",
+      "label": "Orchem",
+      "timeset": "",
+      "modularity_class": 21,
+      "type": "supplier"
+    },
+    {
+      "id": "SAV0001",
+      "label": "Savannah Fine Chem (Pty) Ltd",
+      "timeset": "",
+      "modularity_class": 22,
+      "type": "supplier"
+    },
+    {
+      "id": "SIY0002",
+      "label": "IMCD South Africa (Pty) Ltd",
+      "timeset": "",
+      "modularity_class": 23,
+      "type": "supplier"
+    },
+    {
+      "id": "R1907000",
+      "label": "Perf Citrus Therm 701081",
+      "timeset": "",
+      "modularity_class": 1,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1908000",
+      "label": "Azulene Pure (659833) *GRAM",
+      "timeset": "",
+      "modularity_class": 2,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1902003",
+      "label": "Iselux Ultra Mild",
+      "timeset": "",
+      "modularity_class": 3,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905039",
+      "label": "Epigenist LS10003",
+      "timeset": "",
+      "modularity_class": 4,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905042",
+      "label": "Eperuline PW LS 9627",
+      "timeset": "",
+      "modularity_class": 4,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905011",
+      "label": "CM-Glucan Granulate",
+      "timeset": "",
+      "modularity_class": 5,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905012",
+      "label": "Perfection Peptide P3",
+      "timeset": "",
+      "modularity_class": 5,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905023",
+      "label": "AquaCacteen",
+      "timeset": "",
+      "modularity_class": 5,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905024",
+      "label": "Happybelle-PE",
+      "timeset": "",
+      "modularity_class": 5,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905047",
+      "label": "Gatuline Derma - Sensitive",
+      "timeset": "",
+      "modularity_class": 5,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1911000",
+      "label": "Sucragel AOF",
+      "timeset": "",
+      "modularity_class": 5,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1911001",
+      "label": "Carbopol Ultrez 30",
+      "timeset": "",
+      "modularity_class": 5,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1911003",
+      "label": "Carbopol EDT 2050",
+      "timeset": "",
+      "modularity_class": 5,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905016",
+      "label": "Regu-Stretch",
+      "timeset": "",
+      "modularity_class": 6,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905017",
+      "label": "Alpaflor Imperatoria",
+      "timeset": "",
+      "modularity_class": 6,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905021",
+      "label": "L-Carnitine",
+      "timeset": "",
+      "modularity_class": 6,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1901001",
+      "label": "Pomegranate Seed Oil",
+      "timeset": "",
+      "modularity_class": 7,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1901006",
+      "label": "Borage Oil Refined GLA 20PCT",
+      "timeset": "",
+      "modularity_class": 7,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1902000",
+      "label": "Oronal LCG",
+      "timeset": "",
+      "modularity_class": 7,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1902001",
+      "label": "Proteol OAT",
+      "timeset": "",
+      "modularity_class": 7,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905014",
+      "label": "Sepicalm S",
+      "timeset": "",
+      "modularity_class": 7,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1906000",
+      "label": "Montanov L",
+      "timeset": "",
+      "modularity_class": 7,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1906001",
+      "label": "Montanov S",
+      "timeset": "",
+      "modularity_class": 7,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1911002",
+      "label": "Sepimax Zen",
+      "timeset": "",
+      "modularity_class": 7,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1913014",
+      "label": "Grapefruit Oil Pink",
+      "timeset": "",
+      "modularity_class": 8,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905004",
+      "label": "Hyaluronic Acid HMW",
+      "timeset": "",
+      "modularity_class": 9,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1901005",
+      "label": "Arlamol LST-LQ-(MH)",
+      "timeset": "",
+      "modularity_class": 10,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905002",
+      "label": "Chronodyn",
+      "timeset": "",
+      "modularity_class": 10,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905003",
+      "label": "Biopeptide CL",
+      "timeset": "",
+      "modularity_class": 10,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905025",
+      "label": "Skin Tightener-ST(TM) PH",
+      "timeset": "",
+      "modularity_class": 10,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905026",
+      "label": "Beautifeye",
+      "timeset": "",
+      "modularity_class": 10,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905033",
+      "label": "Evermat",
+      "timeset": "",
+      "modularity_class": 10,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905034",
+      "label": "Intenslim",
+      "timeset": "",
+      "modularity_class": 10,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1901002",
+      "label": "Cetiol Sensoft",
+      "timeset": "",
+      "modularity_class": 11,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1901003",
+      "label": "Cetiol B",
+      "timeset": "",
+      "modularity_class": 11,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905019",
+      "label": "Exfo-Bio",
+      "timeset": "",
+      "modularity_class": 11,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905029",
+      "label": "Cosmedia DC",
+      "timeset": "",
+      "modularity_class": 11,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905030",
+      "label": "Uvinul T150",
+      "timeset": "",
+      "modularity_class": 11,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905043",
+      "label": "Cetiol SB45",
+      "timeset": "",
+      "modularity_class": 11,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905015",
+      "label": "Aerosil R972",
+      "timeset": "",
+      "modularity_class": 12,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905022",
+      "label": "Drieline 1S",
+      "timeset": "",
+      "modularity_class": 13,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905008",
+      "label": "Hydranov P",
+      "timeset": "",
+      "modularity_class": 14,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905055",
+      "label": "Ceramidone",
+      "timeset": "",
+      "modularity_class": 14,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905000",
+      "label": "Allistin P5",
+      "timeset": "",
+      "modularity_class": 15,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905020",
+      "label": "LPD's Asiatic Centella",
+      "timeset": "",
+      "modularity_class": 16,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905018",
+      "label": "Glyco Repair",
+      "timeset": "",
+      "modularity_class": 17,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905027",
+      "label": "Deglysome",
+      "timeset": "",
+      "modularity_class": 17,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905035",
+      "label": "Sebonormine OP",
+      "timeset": "",
+      "modularity_class": 17,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905041",
+      "label": "Unflamagyl",
+      "timeset": "",
+      "modularity_class": 17,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905046",
+      "label": "Dermapur HP OP",
+      "timeset": "",
+      "modularity_class": 17,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905048",
+      "label": "Vitagenyl",
+      "timeset": "",
+      "modularity_class": 17,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905049",
+      "label": "Detoxyl OP",
+      "timeset": "",
+      "modularity_class": 17,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905050",
+      "label": "Celldetox",
+      "timeset": "",
+      "modularity_class": 17,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905051",
+      "label": "Mitokinyl",
+      "timeset": "",
+      "modularity_class": 17,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905052",
+      "label": "Fermiskin GR",
+      "timeset": "",
+      "modularity_class": 17,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905053",
+      "label": "Retilactyl D",
+      "timeset": "",
+      "modularity_class": 17,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905054",
+      "label": "Raffermine 2",
+      "timeset": "",
+      "modularity_class": 17,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905056",
+      "label": "Eternaline",
+      "timeset": "",
+      "modularity_class": 17,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905057",
+      "label": "Oxygeskin",
+      "timeset": "",
+      "modularity_class": 17,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905058",
+      "label": "Aquaphyline EL",
+      "timeset": "",
+      "modularity_class": 17,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905009",
+      "label": "Caffeine",
+      "timeset": "",
+      "modularity_class": 18,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905010",
+      "label": "Malic Acid",
+      "timeset": "",
+      "modularity_class": 18,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905032",
+      "label": "Ronacare AP",
+      "timeset": "",
+      "modularity_class": 18,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905044",
+      "label": "Acnacidol BG",
+      "timeset": "",
+      "modularity_class": 19,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905001",
+      "label": "Rayolys D",
+      "timeset": "",
+      "modularity_class": 20,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905037",
+      "label": "ARP 100",
+      "timeset": "",
+      "modularity_class": 20,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905045",
+      "label": "Meadowsweet Medulat 220016",
+      "timeset": "",
+      "modularity_class": 20,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1913000",
+      "label": "Ivy Cosmelene Ext",
+      "timeset": "",
+      "modularity_class": 20,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1913001",
+      "label": "St John's Wort HG Ext",
+      "timeset": "",
+      "modularity_class": 20,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1913002",
+      "label": "Soapwort HG (3009) Extr",
+      "timeset": "",
+      "modularity_class": 20,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1913003",
+      "label": "Horsetail Cosmelene Ext",
+      "timeset": "",
+      "modularity_class": 20,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1913004",
+      "label": "Centella Asiatica Cosmelene Ex",
+      "timeset": "",
+      "modularity_class": 20,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1913005",
+      "label": "Yarrow Phytelene EG 472 Ext",
+      "timeset": "",
+      "modularity_class": 20,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1913006",
+      "label": "Geranium HG Ext",
+      "timeset": "",
+      "modularity_class": 20,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1913007",
+      "label": "Lavender HG Ext",
+      "timeset": "",
+      "modularity_class": 20,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1913008",
+      "label": "Rosemary HG Ext",
+      "timeset": "",
+      "modularity_class": 20,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1913009",
+      "label": "Arnica Phytenele EG 001 Ext",
+      "timeset": "",
+      "modularity_class": 20,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1913011",
+      "label": "Phytelene EGX 247 (BG) 620012",
+      "timeset": "",
+      "modularity_class": 20,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1913012",
+      "label": "Phytelene EGX 773 (BG) 620032",
+      "timeset": "",
+      "modularity_class": 20,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1913013",
+      "label": "Passion Flower Cosmelene",
+      "timeset": "",
+      "modularity_class": 20,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1902002",
+      "label": "Rewoderm S1333 KM 5",
+      "timeset": "",
+      "modularity_class": 21,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1902999",
+      "label": "ColaMate RM / replacement Rewoderm S1333 KM 5",
+      "timeset": "",
+      "modularity_class": 21,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1901004",
+      "label": "Waglinol 3/929",
+      "timeset": "",
+      "modularity_class": 22,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905005",
+      "label": "AA2G",
+      "timeset": "",
+      "modularity_class": 22,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905006",
+      "label": "Hydromanil",
+      "timeset": "",
+      "modularity_class": 22,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905007",
+      "label": "Acquacell",
+      "timeset": "",
+      "modularity_class": 22,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905031",
+      "label": "Ten's Up",
+      "timeset": "",
+      "modularity_class": 22,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905028",
+      "label": "Celligent",
+      "timeset": "",
+      "modularity_class": 23,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905040",
+      "label": "Defensil Plus",
+      "timeset": "",
+      "modularity_class": 23,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905013",
+      "label": "Genencare OSMS BA",
+      "timeset": "",
+      "modularity_class": 23,
+      "type": "ingredient"
+    },
+    {
+      "id": "R1905038",
+      "label": "ProRenew Complex CLR",
+      "timeset": "",
+      "modularity_class": 23,
+      "type": "ingredient"
+    },
+    {
+      "id": "B19PRDSPAMRM000",
+      "label": "SpaZone Marine Replenish Masque",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B19PRDSPAORM000",
+      "label": "SpaZone Overnight Regenerative Masque",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B19PRDSPAAFO000",
+      "label": "SpaZone Active Facial Oil",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B19PRDSPAIFL000",
+      "label": "SpaZone Instant Facial Lift Wonder Serum",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B19PRODZNERN000",
+      "label": "Rejuvoderm Night Maintenance",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B1930P002",
+      "label": "Power Peel 30%",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B1950P002",
+      "label": "Power Peel 50%",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B19CIPP001",
+      "label": "Pigment Perfector",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B19EPGX001",
+      "label": "Epi-GenesXpress",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B19NBN005",
+      "label": "Age Reversal Night Complex",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B19NBO003",
+      "label": "Omega Night Complex",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B19NE31003",
+      "label": "New Expression 365",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B19PRODZNEDZ000",
+      "label": "Derma Zest Cleaning & Toning Gel",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B19PLGO001",
+      "label": "Laser Gel Azu-Repair",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B19QUEL002",
+      "label": "Quantum Elastin - Collagen Revival",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B19RBC001",
+      "label": "Daily Radiant SPF25",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B19RBP002",
+      "label": "Techno-5 Resurfacer",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B19RDS001",
+      "label": "Daily Ultra Def SPF25",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B19RMS001",
+      "label": "Super Smoother",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B19RSP002",
+      "label": "Sensorial Daily Protector SPF25",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B19RSR005",
+      "label": "Scar Repair Forte",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B19RUM002",
+      "label": "Daily Intel Solver SPF 25",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B19RVE003",
+      "label": "Eye Opener Serum",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B19AAP003",
+      "label": "Acne Attack Pro-Masque",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B19AARS001",
+      "label": "Acne Attack Rescue Serum",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B19PRODZNEAIF000",
+      "label": "Zone Anti-Inflamm Ageing",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B19PRDSPANBC000",
+      "label": "SpaZone Bust Refining Rejuvenator",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "B19PRODZNEDDC000",
+      "label": "Zone Derma Deep Rich Creamy Cleanser",
+      "timeset": "",
+      "type": "product"
+    },
+    {
+      "id": "R010000",
+      "label": "De Ion Water",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0101057",
+      "label": "Kahlwax 8108 Beeswax White",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0101059",
+      "label": "Crodamol ISIS LQ [MV]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0101063",
+      "label": "Refined Shea Butter [Naturally Refinded]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0101072",
+      "label": "Lamesoft PO 65",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0101077",
+      "label": "Crodamol SSA LQ [MV]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0101084",
+      "label": "Isohexadecane",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0101094",
+      "label": "Silkflo 366",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0101100",
+      "label": "Evoil Apricot Kernel",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0101102",
+      "label": "Refined Soya Bean Oil",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0101103",
+      "label": "Melissa Oil",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0101114",
+      "label": "B.P. Glycerine",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0101121",
+      "label": "Evoil Hazelnut",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0102002",
+      "label": "Amphisol K",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0102008",
+      "label": "1,3 Butylene Glycol [Cosmetic Quality]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0102018",
+      "label": "Tegosoft TN [Finsolve TN]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0102026",
+      "label": "Eumulgin CO 40",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0102031",
+      "label": "Xanthan Gum FF Food Grade",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0104015",
+      "label": "Microcare PHG",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0104056",
+      "label": "Verstatil PC",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105002",
+      "label": "Medical Salicylic Acid",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105020",
+      "label": "Trilon BD [EDTA NA2]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105035",
+      "label": "Tri Sodium Citrate",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105039",
+      "label": "Citric Acid Anhydrous",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105041",
+      "label": "Galacid Heat Stable 90",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105060",
+      "label": "ASC 3",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105122",
+      "label": "Dragosantol 172585",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105123",
+      "label": "DL A Tocopherol",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105124",
+      "label": "Eyeliss",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105141",
+      "label": "Lipovol C 76",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105152",
+      "label": "Normaseb PH",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105159",
+      "label": "Tinosorb S",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105170",
+      "label": "D Panthenol",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105176",
+      "label": "Empigen BS FA [AF]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105177",
+      "label": "Vit A Palmitate Care [1 Mio] [AJ]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105179",
+      "label": "DL Alpha Tocopheryl Acetate",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105182",
+      "label": "Ascorbyl Palmitate",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105201",
+      "label": "Lipovol Mac [Macadamia Nut Oil]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105203",
+      "label": "Evoil Wheat Germ",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105227",
+      "label": "Hysilk Powder [LMW]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105238",
+      "label": "Dermaxyl",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105240",
+      "label": "Kombuchka",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105258",
+      "label": "Lipovol A [Avocado oil]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105270",
+      "label": "Pentavitin Code: 50 33152",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105304",
+      "label": "Niacinamide PC [AJ]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105308",
+      "label": "Synerlight 2",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105334",
+      "label": "Bioskinup Contour [Airfreight]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105336",
+      "label": "Methyl Sulfonyl Methane [MSM]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105358",
+      "label": "Lumiskin TM MBAL [SE28217] [AJ]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105359",
+      "label": "Dry Flo PC [AJ]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105433",
+      "label": "Matrixyl 3000",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105486",
+      "label": "Lipolight OAP PVA",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105489",
+      "label": "Argan Oil",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105494",
+      "label": "Haloxyl TM MBAL [SE28218]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105527",
+      "label": "Silsoft 034",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105535",
+      "label": "Uvinul A Plus Granular",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105566",
+      "label": "Cohesium",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105587",
+      "label": "Sepicontrol A5 [AJ]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105601",
+      "label": "Inutec SLI",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105621",
+      "label": "Galaflow SL Cosmetic 60",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105639",
+      "label": "Coheliss GR",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0105640",
+      "label": "Filmexel",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0106001",
+      "label": "SP Cosmowax D MBAL PA [SG]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0106004",
+      "label": "Cetyl Alcohol [Nacol 1695]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0106006",
+      "label": "Cetyl Stearyl Alcohol [AJ]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0106012",
+      "label": "Lanol 99",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0106015",
+      "label": "Olivem 1000",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0106020",
+      "label": "Emulfree CBG [AJ]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0106024",
+      "label": "Stearic Acid [POFAC 1655L]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0106038",
+      "label": "SP Arlacel 165 FP MBAL PA [RB] [Simusol 165]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0106063",
+      "label": "Montanov 68 MB [AJ]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0109005",
+      "label": "Crovol A70 LQ [RB]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0110029",
+      "label": "Antil 141 Liquid",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0111012",
+      "label": "Oliwax",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0111062",
+      "label": "Carbopol Ultrez 30",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0111063",
+      "label": "Sepimax Zen",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0112001",
+      "label": "Potassium Hydroxide",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0112003",
+      "label": "T.E.A 99% [AJ]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0112004",
+      "label": "Caustic Soda Flakes [Pearl]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0113026",
+      "label": "Centella Asiatica Phytelene EG 356 [320050]",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0113028",
+      "label": "Olive Oil Extra Virgin",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0113062",
+      "label": "Pineapple Phytelene Eg 401",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0113090",
+      "label": "Camellia Oil",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0113091",
+      "label": "Biochemica Rosehip Oil Refined",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0113094",
+      "label": "Blackcurrant Oil RBD # 266593",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0113117",
+      "label": "Bergamot Oil",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0113124",
+      "label": "Lemon EG 240",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R0113156",
+      "label": "Papaya Phytelene EG402",
+      "timeset": "",
+      "type": "ingredient"
+    },
+    {
+      "id": "R1901000",
+      "label": "Lipolan 31 20",
+      "timeset": "",
+      "type": "ingredient"
+    }
+  ],
+  "edges": [
+    {
+      "source": "06A0001",
+      "target": "R1907000",
+      "type": "Directed",
+      "id": 1,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "AEC001",
+      "target": "R1908000",
+      "type": "Directed",
+      "id": 2,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "AKU001",
+      "target": "R1902003",
+      "type": "Directed",
+      "id": 3,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "BOT0003",
+      "target": "R1905039",
+      "type": "Directed",
+      "id": 4,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "BOT0003",
+      "target": "R1905042",
+      "type": "Directed",
+      "id": 5,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CAR0002",
+      "target": "R1905011",
+      "type": "Directed",
+      "id": 6,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CAR0002",
+      "target": "R1905012",
+      "type": "Directed",
+      "id": 7,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CAR0002",
+      "target": "R1905023",
+      "type": "Directed",
+      "id": 8,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CAR0002",
+      "target": "R1905024",
+      "type": "Directed",
+      "id": 9,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CAR0002",
+      "target": "R1905047",
+      "type": "Directed",
+      "id": 10,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CAR0002",
+      "target": "R1911000",
+      "type": "Directed",
+      "id": 11,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CAR0002",
+      "target": "R1911001",
+      "type": "Directed",
+      "id": 12,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CAR0002",
+      "target": "R1911003",
+      "type": "Directed",
+      "id": 13,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CHE0004",
+      "target": "R1905016",
+      "type": "Directed",
+      "id": 14,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CHE0004",
+      "target": "R1905017",
+      "type": "Directed",
+      "id": 15,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CHE0004",
+      "target": "R1905021",
+      "type": "Directed",
+      "id": 16,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CJP0001",
+      "target": "R1901001",
+      "type": "Directed",
+      "id": 17,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CJP0001",
+      "target": "R1901006",
+      "type": "Directed",
+      "id": 18,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CJP0001",
+      "target": "R1902000",
+      "type": "Directed",
+      "id": 19,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CJP0001",
+      "target": "R1902001",
+      "type": "Directed",
+      "id": 20,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CJP0001",
+      "target": "R1905014",
+      "type": "Directed",
+      "id": 21,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CJP0001",
+      "target": "R1906000",
+      "type": "Directed",
+      "id": 22,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CJP0001",
+      "target": "R1906001",
+      "type": "Directed",
+      "id": 23,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CJP0001",
+      "target": "R1911002",
+      "type": "Directed",
+      "id": 24,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CLI0001",
+      "target": "R1913014",
+      "type": "Directed",
+      "id": 25,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "COS0007",
+      "target": "R1905004",
+      "type": "Directed",
+      "id": 26,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CRO0001",
+      "target": "R1901005",
+      "type": "Directed",
+      "id": 27,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CRO0001",
+      "target": "R1905002",
+      "type": "Directed",
+      "id": 28,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CRO0001",
+      "target": "R1905003",
+      "type": "Directed",
+      "id": 29,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CRO0001",
+      "target": "R1905025",
+      "type": "Directed",
+      "id": 30,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CRO0001",
+      "target": "R1905026",
+      "type": "Directed",
+      "id": 31,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CRO0001",
+      "target": "R1905033",
+      "type": "Directed",
+      "id": 32,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CRO0001",
+      "target": "R1905034",
+      "type": "Directed",
+      "id": 33,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CTE0001",
+      "target": "R1901002",
+      "type": "Directed",
+      "id": 34,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CTE0001",
+      "target": "R1901003",
+      "type": "Directed",
+      "id": 35,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CTE0001",
+      "target": "R1905019",
+      "type": "Directed",
+      "id": 36,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CTE0001",
+      "target": "R1905029",
+      "type": "Directed",
+      "id": 37,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CTE0001",
+      "target": "R1905030",
+      "type": "Directed",
+      "id": 38,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "CTE0001",
+      "target": "R1905043",
+      "type": "Directed",
+      "id": 39,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "EVO0001",
+      "target": "R1905015",
+      "type": "Directed",
+      "id": 40,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "HEX0001",
+      "target": "R1905022",
+      "type": "Directed",
+      "id": 41,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "LIP0001",
+      "target": "R1905008",
+      "type": "Directed",
+      "id": 42,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "LIP0001",
+      "target": "R1905055",
+      "type": "Directed",
+      "id": 43,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "Maccullum",
+      "target": "R1905000",
+      "type": "Directed",
+      "id": 44,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "MAT0002",
+      "target": "R1905020",
+      "type": "Directed",
+      "id": 45,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "MEG0001",
+      "target": "R1905018",
+      "type": "Directed",
+      "id": 46,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "MEG0001",
+      "target": "R1905027",
+      "type": "Directed",
+      "id": 47,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "MEG0001",
+      "target": "R1905035",
+      "type": "Directed",
+      "id": 48,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "MEG0001",
+      "target": "R1905041",
+      "type": "Directed",
+      "id": 49,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "MEG0001",
+      "target": "R1905046",
+      "type": "Directed",
+      "id": 50,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "MEG0001",
+      "target": "R1905048",
+      "type": "Directed",
+      "id": 51,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "MEG0001",
+      "target": "R1905049",
+      "type": "Directed",
+      "id": 52,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "MEG0001",
+      "target": "R1905050",
+      "type": "Directed",
+      "id": 53,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "MEG0001",
+      "target": "R1905051",
+      "type": "Directed",
+      "id": 54,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "MEG0001",
+      "target": "R1905052",
+      "type": "Directed",
+      "id": 55,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "MEG0001",
+      "target": "R1905053",
+      "type": "Directed",
+      "id": 56,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "MEG0001",
+      "target": "R1905054",
+      "type": "Directed",
+      "id": 57,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "MEG0001",
+      "target": "R1905056",
+      "type": "Directed",
+      "id": 58,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "MEG0001",
+      "target": "R1905057",
+      "type": "Directed",
+      "id": 59,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "MEG0001",
+      "target": "R1905058",
+      "type": "Directed",
+      "id": 60,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "MER0001",
+      "target": "R1905009",
+      "type": "Directed",
+      "id": 61,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "MER0001",
+      "target": "R1905010",
+      "type": "Directed",
+      "id": 62,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "MER0001",
+      "target": "R1905032",
+      "type": "Directed",
+      "id": 63,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "MIL0001",
+      "target": "R1905044",
+      "type": "Directed",
+      "id": 64,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "NAT0001",
+      "target": "R1905001",
+      "type": "Directed",
+      "id": 65,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "NAT0001",
+      "target": "R1905037",
+      "type": "Directed",
+      "id": 66,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "NAT0001",
+      "target": "R1905045",
+      "type": "Directed",
+      "id": 67,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "NAT0001",
+      "target": "R1913000",
+      "type": "Directed",
+      "id": 68,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "NAT0001",
+      "target": "R1913001",
+      "type": "Directed",
+      "id": 69,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "NAT0001",
+      "target": "R1913002",
+      "type": "Directed",
+      "id": 70,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "NAT0001",
+      "target": "R1913003",
+      "type": "Directed",
+      "id": 71,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "NAT0001",
+      "target": "R1913004",
+      "type": "Directed",
+      "id": 72,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "NAT0001",
+      "target": "R1913005",
+      "type": "Directed",
+      "id": 73,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "NAT0001",
+      "target": "R1913006",
+      "type": "Directed",
+      "id": 74,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "NAT0001",
+      "target": "R1913007",
+      "type": "Directed",
+      "id": 75,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "NAT0001",
+      "target": "R1913008",
+      "type": "Directed",
+      "id": 76,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "NAT0001",
+      "target": "R1913009",
+      "type": "Directed",
+      "id": 77,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "NAT0001",
+      "target": "R1913011",
+      "type": "Directed",
+      "id": 78,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "NAT0001",
+      "target": "R1913012",
+      "type": "Directed",
+      "id": 79,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "NAT0001",
+      "target": "R1913013",
+      "type": "Directed",
+      "id": 80,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "ORC0001",
+      "target": "R1902002",
+      "type": "Directed",
+      "id": 81,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "ORC0001",
+      "target": "R1902999",
+      "type": "Directed",
+      "id": 82,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "SAV0001",
+      "target": "R1901004",
+      "type": "Directed",
+      "id": 83,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "SAV0001",
+      "target": "R1905005",
+      "type": "Directed",
+      "id": 84,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "SAV0001",
+      "target": "R1905006",
+      "type": "Directed",
+      "id": 85,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "SAV0001",
+      "target": "R1905007",
+      "type": "Directed",
+      "id": 86,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "SAV0001",
+      "target": "R1905031",
+      "type": "Directed",
+      "id": 87,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "SIY0002",
+      "target": "R1905028",
+      "type": "Directed",
+      "id": 88,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "SIY0002",
+      "target": "R1905040",
+      "type": "Directed",
+      "id": 89,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "TCC0001",
+      "target": "R1905013",
+      "type": "Directed",
+      "id": 90,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "TCC0001",
+      "target": "R1905038",
+      "type": "Directed",
+      "id": 91,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19PRDSPAMRM000",
+      "type": "Directed",
+      "id": 1,
+      "weight": 65.6,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19PRDSPAMRM000",
+      "type": "Directed",
+      "id": 2,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19PRDSPAMRM000",
+      "type": "Directed",
+      "id": 3,
+      "weight": 0.8,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19PRDSPAORM000",
+      "type": "Directed",
+      "id": 4,
+      "weight": 64.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19PRDSPAORM000",
+      "type": "Directed",
+      "id": 5,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19PRDSPAIFL000",
+      "type": "Directed",
+      "id": 6,
+      "weight": 71.15,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19PRDSPAIFL000",
+      "type": "Directed",
+      "id": 7,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19PRDSPAIFL000",
+      "type": "Directed",
+      "id": 8,
+      "weight": 0.8,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19PRODZNERN000",
+      "type": "Directed",
+      "id": 9,
+      "weight": 39.725,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B1930P002",
+      "type": "Directed",
+      "id": 10,
+      "weight": 37.7,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B1950P002",
+      "type": "Directed",
+      "id": 11,
+      "weight": 16.7,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19CIPP001",
+      "type": "Directed",
+      "id": 12,
+      "weight": 42.305,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19CIPP001",
+      "type": "Directed",
+      "id": 13,
+      "weight": 1.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19CIPP001",
+      "type": "Directed",
+      "id": 14,
+      "weight": 10,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19CIPP001",
+      "type": "Directed",
+      "id": 15,
+      "weight": 0.4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19EPGX001",
+      "type": "Directed",
+      "id": 16,
+      "weight": 52.99,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19EPGX001",
+      "type": "Directed",
+      "id": 17,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19NBN005",
+      "type": "Directed",
+      "id": 18,
+      "weight": 48.25,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19NBO003",
+      "type": "Directed",
+      "id": 19,
+      "weight": 35.05,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19NE31003",
+      "type": "Directed",
+      "id": 20,
+      "weight": 34.45,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19NE31003",
+      "type": "Directed",
+      "id": 21,
+      "weight": 20,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19NE31003",
+      "type": "Directed",
+      "id": 22,
+      "weight": 0.52,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19PRODZNEDZ000",
+      "type": "Directed",
+      "id": 23,
+      "weight": 23.65,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19QUEL002",
+      "type": "Directed",
+      "id": 24,
+      "weight": 38.4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19QUEL002",
+      "type": "Directed",
+      "id": 25,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19RBC001",
+      "type": "Directed",
+      "id": 26,
+      "weight": 22.55,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19RBC001",
+      "type": "Directed",
+      "id": 27,
+      "weight": 0.8,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19RBP002",
+      "type": "Directed",
+      "id": 28,
+      "weight": 41.45,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19RDS001",
+      "type": "Directed",
+      "id": 29,
+      "weight": 24.75,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19RDS001",
+      "type": "Directed",
+      "id": 30,
+      "weight": 4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19RDS001",
+      "type": "Directed",
+      "id": 31,
+      "weight": 0.24,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19RMS001",
+      "type": "Directed",
+      "id": 32,
+      "weight": 49.7,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19RMS001",
+      "type": "Directed",
+      "id": 33,
+      "weight": 30,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19RMS001",
+      "type": "Directed",
+      "id": 34,
+      "weight": 0.88,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19RSP002",
+      "type": "Directed",
+      "id": 35,
+      "weight": 30.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19RSP002",
+      "type": "Directed",
+      "id": 36,
+      "weight": 0.8,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 37,
+      "weight": 23.25,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 38,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19RUM002",
+      "type": "Directed",
+      "id": 39,
+      "weight": 23.6,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19RUM002",
+      "type": "Directed",
+      "id": 40,
+      "weight": 0.8,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19RVE003",
+      "type": "Directed",
+      "id": 41,
+      "weight": 28.6,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19RVE003",
+      "type": "Directed",
+      "id": 42,
+      "weight": 20,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19RVE003",
+      "type": "Directed",
+      "id": 43,
+      "weight": 0.4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19AAP003",
+      "type": "Directed",
+      "id": 44,
+      "weight": 23.7,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19AARS001",
+      "type": "Directed",
+      "id": 45,
+      "weight": 61,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19PRODZNEAIF000",
+      "type": "Directed",
+      "id": 46,
+      "weight": 45.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19PRODZNEAIF000",
+      "type": "Directed",
+      "id": 47,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19PRDSPANBC000",
+      "type": "Directed",
+      "id": 48,
+      "weight": 54.65,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19PRDSPANBC000",
+      "type": "Directed",
+      "id": 49,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R010000",
+      "target": "B19PRODZNEDDC000",
+      "type": "Directed",
+      "id": 50,
+      "weight": 55.3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101057",
+      "target": "B19PLGO001",
+      "type": "Directed",
+      "id": 51,
+      "weight": 8,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101059",
+      "target": "B19RVE003",
+      "type": "Directed",
+      "id": 52,
+      "weight": 7,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101063",
+      "target": "B19EPGX001",
+      "type": "Directed",
+      "id": 53,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101063",
+      "target": "B19NBN005",
+      "type": "Directed",
+      "id": 54,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101063",
+      "target": "B19NBO003",
+      "type": "Directed",
+      "id": 55,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101063",
+      "target": "B19RDS001",
+      "type": "Directed",
+      "id": 56,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101072",
+      "target": "B19PRODZNEDZ000",
+      "type": "Directed",
+      "id": 57,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101077",
+      "target": "B19RVE003",
+      "type": "Directed",
+      "id": 58,
+      "weight": 8,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101077",
+      "target": "B19AARS001",
+      "type": "Directed",
+      "id": 59,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101084",
+      "target": "B19CIPP001",
+      "type": "Directed",
+      "id": 60,
+      "weight": 7,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101094",
+      "target": "B1930P002",
+      "type": "Directed",
+      "id": 61,
+      "weight": 10,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101094",
+      "target": "B1950P002",
+      "type": "Directed",
+      "id": 62,
+      "weight": 10,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101094",
+      "target": "B19NBO003",
+      "type": "Directed",
+      "id": 63,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101094",
+      "target": "B19AAP003",
+      "type": "Directed",
+      "id": 64,
+      "weight": 10,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101100",
+      "target": "B19PRDSPAAFO000",
+      "type": "Directed",
+      "id": 65,
+      "weight": 10,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101102",
+      "target": "B19PRDSPAAFO000",
+      "type": "Directed",
+      "id": 66,
+      "weight": 10,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101102",
+      "target": "B19RBP002",
+      "type": "Directed",
+      "id": 67,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101102",
+      "target": "B19PRODZNEDDC000",
+      "type": "Directed",
+      "id": 68,
+      "weight": 8,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101103",
+      "target": "B19RBC001",
+      "type": "Directed",
+      "id": 69,
+      "weight": 0.3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101114",
+      "target": "B19PRDSPAMRM000",
+      "type": "Directed",
+      "id": 70,
+      "weight": 4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101114",
+      "target": "B19PRDSPAORM000",
+      "type": "Directed",
+      "id": 71,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101114",
+      "target": "B19PRDSPAIFL000",
+      "type": "Directed",
+      "id": 72,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101114",
+      "target": "B19CIPP001",
+      "type": "Directed",
+      "id": 73,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101114",
+      "target": "B19EPGX001",
+      "type": "Directed",
+      "id": 74,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101114",
+      "target": "B19NBN005",
+      "type": "Directed",
+      "id": 75,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101114",
+      "target": "B19NE31003",
+      "type": "Directed",
+      "id": 76,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101114",
+      "target": "B19PRODZNEDZ000",
+      "type": "Directed",
+      "id": 77,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101114",
+      "target": "B19RBP002",
+      "type": "Directed",
+      "id": 78,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101114",
+      "target": "B19RMS001",
+      "type": "Directed",
+      "id": 79,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101114",
+      "target": "B19RVE003",
+      "type": "Directed",
+      "id": 80,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101114",
+      "target": "B19AARS001",
+      "type": "Directed",
+      "id": 81,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101114",
+      "target": "B19PRDSPANBC000",
+      "type": "Directed",
+      "id": 82,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101114",
+      "target": "B19PRODZNEDDC000",
+      "type": "Directed",
+      "id": 83,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0101121",
+      "target": "B19PRDSPAAFO000",
+      "type": "Directed",
+      "id": 84,
+      "weight": 10,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102002",
+      "target": "B19RBC001",
+      "type": "Directed",
+      "id": 85,
+      "weight": 2.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102002",
+      "target": "B19RDS001",
+      "type": "Directed",
+      "id": 86,
+      "weight": 2.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102002",
+      "target": "B19RSP002",
+      "type": "Directed",
+      "id": 87,
+      "weight": 2.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102002",
+      "target": "B19RUM002",
+      "type": "Directed",
+      "id": 88,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102008",
+      "target": "B19PRODZNERN000",
+      "type": "Directed",
+      "id": 89,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102008",
+      "target": "B1930P002",
+      "type": "Directed",
+      "id": 90,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102008",
+      "target": "B1950P002",
+      "type": "Directed",
+      "id": 91,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102008",
+      "target": "B19NBO003",
+      "type": "Directed",
+      "id": 92,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102008",
+      "target": "B19QUEL002",
+      "type": "Directed",
+      "id": 93,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102008",
+      "target": "B19RBC001",
+      "type": "Directed",
+      "id": 94,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102008",
+      "target": "B19RDS001",
+      "type": "Directed",
+      "id": 95,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102008",
+      "target": "B19RDS001",
+      "type": "Directed",
+      "id": 96,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102008",
+      "target": "B19RSP002",
+      "type": "Directed",
+      "id": 97,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102008",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 98,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102008",
+      "target": "B19RUM002",
+      "type": "Directed",
+      "id": 99,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102008",
+      "target": "B19AAP003",
+      "type": "Directed",
+      "id": 100,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102008",
+      "target": "B19PRODZNEAIF000",
+      "type": "Directed",
+      "id": 101,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102018",
+      "target": "B19RBC001",
+      "type": "Directed",
+      "id": 102,
+      "weight": 8,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102018",
+      "target": "B19RDS001",
+      "type": "Directed",
+      "id": 103,
+      "weight": 8,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102018",
+      "target": "B19RSP002",
+      "type": "Directed",
+      "id": 104,
+      "weight": 8,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102018",
+      "target": "B19RUM002",
+      "type": "Directed",
+      "id": 105,
+      "weight": 8,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102026",
+      "target": "B19PRODZNEDZ000",
+      "type": "Directed",
+      "id": 106,
+      "weight": 2.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102031",
+      "target": "B19PRDSPAORM000",
+      "type": "Directed",
+      "id": 107,
+      "weight": 0.3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102031",
+      "target": "B19PRDSPAIFL000",
+      "type": "Directed",
+      "id": 108,
+      "weight": 0.35,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102031",
+      "target": "B19PRODZNERN000",
+      "type": "Directed",
+      "id": 109,
+      "weight": 0.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102031",
+      "target": "B1930P002",
+      "type": "Directed",
+      "id": 110,
+      "weight": 0.3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102031",
+      "target": "B1950P002",
+      "type": "Directed",
+      "id": 111,
+      "weight": 0.3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102031",
+      "target": "B19CIPP001",
+      "type": "Directed",
+      "id": 112,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102031",
+      "target": "B19EPGX001",
+      "type": "Directed",
+      "id": 113,
+      "weight": 0.3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102031",
+      "target": "B19NBN005",
+      "type": "Directed",
+      "id": 114,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102031",
+      "target": "B19NBO003",
+      "type": "Directed",
+      "id": 115,
+      "weight": 0.3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102031",
+      "target": "B19NE31003",
+      "type": "Directed",
+      "id": 116,
+      "weight": 0.3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102031",
+      "target": "B19QUEL002",
+      "type": "Directed",
+      "id": 117,
+      "weight": 0.3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102031",
+      "target": "B19RBC001",
+      "type": "Directed",
+      "id": 118,
+      "weight": 0.25,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102031",
+      "target": "B19RBP002",
+      "type": "Directed",
+      "id": 119,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102031",
+      "target": "B19RDS001",
+      "type": "Directed",
+      "id": 120,
+      "weight": 0.35,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102031",
+      "target": "B19RSP002",
+      "type": "Directed",
+      "id": 121,
+      "weight": 0.3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102031",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 122,
+      "weight": 0.3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102031",
+      "target": "B19RUM002",
+      "type": "Directed",
+      "id": 123,
+      "weight": 0.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102031",
+      "target": "B19RVE003",
+      "type": "Directed",
+      "id": 124,
+      "weight": 0.3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102031",
+      "target": "B19AAP003",
+      "type": "Directed",
+      "id": 125,
+      "weight": 0.3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102031",
+      "target": "B19AARS001",
+      "type": "Directed",
+      "id": 126,
+      "weight": 0.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102031",
+      "target": "B19PRODZNEAIF000",
+      "type": "Directed",
+      "id": 127,
+      "weight": 0.3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102031",
+      "target": "B19PRDSPANBC000",
+      "type": "Directed",
+      "id": 128,
+      "weight": 0.25,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0102031",
+      "target": "B19PRODZNEDDC000",
+      "type": "Directed",
+      "id": 129,
+      "weight": 0.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0104015",
+      "target": "B1930P002",
+      "type": "Directed",
+      "id": 130,
+      "weight": 1.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0104015",
+      "target": "B1950P002",
+      "type": "Directed",
+      "id": 131,
+      "weight": 1.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0104015",
+      "target": "B19CIPP001",
+      "type": "Directed",
+      "id": 132,
+      "weight": 1.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0104015",
+      "target": "B19EPGX001",
+      "type": "Directed",
+      "id": 133,
+      "weight": 1.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0104015",
+      "target": "B19NBN005",
+      "type": "Directed",
+      "id": 134,
+      "weight": 1.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0104015",
+      "target": "B19NBO003",
+      "type": "Directed",
+      "id": 135,
+      "weight": 1.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0104015",
+      "target": "B19NE31003",
+      "type": "Directed",
+      "id": 136,
+      "weight": 1.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0104015",
+      "target": "B19QUEL002",
+      "type": "Directed",
+      "id": 137,
+      "weight": 1.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0104015",
+      "target": "B19RBC001",
+      "type": "Directed",
+      "id": 138,
+      "weight": 1.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0104015",
+      "target": "B19RBP002",
+      "type": "Directed",
+      "id": 139,
+      "weight": 1.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0104015",
+      "target": "B19RDS001",
+      "type": "Directed",
+      "id": 140,
+      "weight": 1.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0104015",
+      "target": "B19RMS001",
+      "type": "Directed",
+      "id": 141,
+      "weight": 1.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0104015",
+      "target": "B19RSP002",
+      "type": "Directed",
+      "id": 142,
+      "weight": 1.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0104015",
+      "target": "B19RUM002",
+      "type": "Directed",
+      "id": 143,
+      "weight": 1.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0104015",
+      "target": "B19RVE003",
+      "type": "Directed",
+      "id": 144,
+      "weight": 1.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0104015",
+      "target": "B19AAP003",
+      "type": "Directed",
+      "id": 145,
+      "weight": 1.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0104015",
+      "target": "B19AARS001",
+      "type": "Directed",
+      "id": 146,
+      "weight": 1.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0104015",
+      "target": "B19PRODZNEAIF000",
+      "type": "Directed",
+      "id": 147,
+      "weight": 1.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0104015",
+      "target": "B19PRODZNEDDC000",
+      "type": "Directed",
+      "id": 148,
+      "weight": 1.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0104056",
+      "target": "B19PRDSPAMRM000",
+      "type": "Directed",
+      "id": 149,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0104056",
+      "target": "B19PRDSPAORM000",
+      "type": "Directed",
+      "id": 150,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0104056",
+      "target": "B19PRDSPAIFL000",
+      "type": "Directed",
+      "id": 151,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0104056",
+      "target": "B19PRODZNERN000",
+      "type": "Directed",
+      "id": 152,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0104056",
+      "target": "B19PRODZNEDZ000",
+      "type": "Directed",
+      "id": 153,
+      "weight": 1.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0104056",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 154,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0104056",
+      "target": "B19PRDSPANBC000",
+      "type": "Directed",
+      "id": 155,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105002",
+      "target": "B19AAP003",
+      "type": "Directed",
+      "id": 156,
+      "weight": 30,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105020",
+      "target": "B19CIPP001",
+      "type": "Directed",
+      "id": 157,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105020",
+      "target": "B19RBC001",
+      "type": "Directed",
+      "id": 158,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105020",
+      "target": "B19RDS001",
+      "type": "Directed",
+      "id": 159,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105020",
+      "target": "B19RSP002",
+      "type": "Directed",
+      "id": 160,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105020",
+      "target": "B19RUM002",
+      "type": "Directed",
+      "id": 161,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105035",
+      "target": "B19CIPP001",
+      "type": "Directed",
+      "id": 162,
+      "weight": 0.3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105039",
+      "target": "B19PRODZNERN000",
+      "type": "Directed",
+      "id": 163,
+      "weight": 0.75,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105039",
+      "target": "B1930P002",
+      "type": "Directed",
+      "id": 164,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105039",
+      "target": "B1950P002",
+      "type": "Directed",
+      "id": 165,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105039",
+      "target": "B19CIPP001",
+      "type": "Directed",
+      "id": 166,
+      "weight": 0.02,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105039",
+      "target": "B19NBO003",
+      "type": "Directed",
+      "id": 167,
+      "weight": 1.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105041",
+      "target": "B19PRODZNERN000",
+      "type": "Directed",
+      "id": 168,
+      "weight": 3.75,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105041",
+      "target": "B1930P002",
+      "type": "Directed",
+      "id": 169,
+      "weight": 15,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105041",
+      "target": "B1950P002",
+      "type": "Directed",
+      "id": 170,
+      "weight": 25,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105041",
+      "target": "B19NBO003",
+      "type": "Directed",
+      "id": 171,
+      "weight": 7.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105041",
+      "target": "B19AAP003",
+      "type": "Directed",
+      "id": 172,
+      "weight": 12,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105060",
+      "target": "B19QUEL002",
+      "type": "Directed",
+      "id": 173,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105122",
+      "target": "B19PRODZNEDZ000",
+      "type": "Directed",
+      "id": 174,
+      "weight": 0.1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105122",
+      "target": "B19PLGO001",
+      "type": "Directed",
+      "id": 175,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105123",
+      "target": "B19PRDSPAORM000",
+      "type": "Directed",
+      "id": 176,
+      "weight": 0.1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105123",
+      "target": "B19PRDSPAAFO000",
+      "type": "Directed",
+      "id": 177,
+      "weight": 0.1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105123",
+      "target": "B19PRODZNERN000",
+      "type": "Directed",
+      "id": 178,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105123",
+      "target": "B19CIPP001",
+      "type": "Directed",
+      "id": 179,
+      "weight": 0.1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105123",
+      "target": "B19EPGX001",
+      "type": "Directed",
+      "id": 180,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105123",
+      "target": "B19NBO003",
+      "type": "Directed",
+      "id": 181,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105123",
+      "target": "B19NE31003",
+      "type": "Directed",
+      "id": 182,
+      "weight": 0.1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105123",
+      "target": "B19PLGO001",
+      "type": "Directed",
+      "id": 183,
+      "weight": 0.1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105123",
+      "target": "B19QUEL002",
+      "type": "Directed",
+      "id": 184,
+      "weight": 0.1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105123",
+      "target": "B19RBP002",
+      "type": "Directed",
+      "id": 185,
+      "weight": 0.1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105123",
+      "target": "B19RVE003",
+      "type": "Directed",
+      "id": 186,
+      "weight": 0.1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105123",
+      "target": "B19PRODZNEAIF000",
+      "type": "Directed",
+      "id": 187,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105123",
+      "target": "B19PRDSPANBC000",
+      "type": "Directed",
+      "id": 188,
+      "weight": 0.1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105123",
+      "target": "B19PRODZNEDDC000",
+      "type": "Directed",
+      "id": 189,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105124",
+      "target": "B19NE31003",
+      "type": "Directed",
+      "id": 190,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105141",
+      "target": "B19PLGO001",
+      "type": "Directed",
+      "id": 191,
+      "weight": 20,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105152",
+      "target": "B19RBC001",
+      "type": "Directed",
+      "id": 192,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105159",
+      "target": "B19RBC001",
+      "type": "Directed",
+      "id": 193,
+      "weight": 6,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105159",
+      "target": "B19RDS001",
+      "type": "Directed",
+      "id": 194,
+      "weight": 6,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105159",
+      "target": "B19RSP002",
+      "type": "Directed",
+      "id": 195,
+      "weight": 6,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105159",
+      "target": "B19RUM002",
+      "type": "Directed",
+      "id": 196,
+      "weight": 6,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105170",
+      "target": "B19PRODZNERN000",
+      "type": "Directed",
+      "id": 197,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105170",
+      "target": "B1930P002",
+      "type": "Directed",
+      "id": 198,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105170",
+      "target": "B1950P002",
+      "type": "Directed",
+      "id": 199,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105170",
+      "target": "B19CIPP001",
+      "type": "Directed",
+      "id": 200,
+      "weight": 0.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105170",
+      "target": "B19EPGX001",
+      "type": "Directed",
+      "id": 201,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105170",
+      "target": "B19NBN005",
+      "type": "Directed",
+      "id": 202,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105170",
+      "target": "B19NBO003",
+      "type": "Directed",
+      "id": 203,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105170",
+      "target": "B19PRODZNEDZ000",
+      "type": "Directed",
+      "id": 204,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105170",
+      "target": "B19AAP003",
+      "type": "Directed",
+      "id": 205,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105176",
+      "target": "B19PRODZNEDZ000",
+      "type": "Directed",
+      "id": 206,
+      "weight": 8,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105177",
+      "target": "B19PRODZNERN000",
+      "type": "Directed",
+      "id": 207,
+      "weight": 0.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105177",
+      "target": "B19CIPP001",
+      "type": "Directed",
+      "id": 208,
+      "weight": 0.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105177",
+      "target": "B19EPGX001",
+      "type": "Directed",
+      "id": 209,
+      "weight": 0.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105177",
+      "target": "B19NBN005",
+      "type": "Directed",
+      "id": 210,
+      "weight": 0.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105177",
+      "target": "B19NBO003",
+      "type": "Directed",
+      "id": 211,
+      "weight": 0.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105177",
+      "target": "B19QUEL002",
+      "type": "Directed",
+      "id": 212,
+      "weight": 0.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105177",
+      "target": "B19PRODZNEAIF000",
+      "type": "Directed",
+      "id": 213,
+      "weight": 0.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105177",
+      "target": "B19PRODZNEDDC000",
+      "type": "Directed",
+      "id": 214,
+      "weight": 0.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105179",
+      "target": "B19PRODZNERN000",
+      "type": "Directed",
+      "id": 215,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105179",
+      "target": "B19CIPP001",
+      "type": "Directed",
+      "id": 216,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105179",
+      "target": "B19EPGX001",
+      "type": "Directed",
+      "id": 217,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105179",
+      "target": "B19NBN005",
+      "type": "Directed",
+      "id": 218,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105179",
+      "target": "B19NBO003",
+      "type": "Directed",
+      "id": 219,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105179",
+      "target": "B19PLGO001",
+      "type": "Directed",
+      "id": 220,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105179",
+      "target": "B19QUEL002",
+      "type": "Directed",
+      "id": 221,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105179",
+      "target": "B19RBC001",
+      "type": "Directed",
+      "id": 222,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105179",
+      "target": "B19RDS001",
+      "type": "Directed",
+      "id": 223,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105179",
+      "target": "B19RSP002",
+      "type": "Directed",
+      "id": 224,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105179",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 225,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105179",
+      "target": "B19RUM002",
+      "type": "Directed",
+      "id": 226,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105179",
+      "target": "B19PRODZNEAIF000",
+      "type": "Directed",
+      "id": 227,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105179",
+      "target": "B19PRODZNEDDC000",
+      "type": "Directed",
+      "id": 228,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105182",
+      "target": "B19PRODZNERN000",
+      "type": "Directed",
+      "id": 229,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105182",
+      "target": "B19NBN005",
+      "type": "Directed",
+      "id": 230,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105182",
+      "target": "B19NBO003",
+      "type": "Directed",
+      "id": 231,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105201",
+      "target": "B19PLGO001",
+      "type": "Directed",
+      "id": 232,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105203",
+      "target": "B19QUEL002",
+      "type": "Directed",
+      "id": 233,
+      "weight": 7,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105203",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 234,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105227",
+      "target": "B19QUEL002",
+      "type": "Directed",
+      "id": 235,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105227",
+      "target": "B19RMS001",
+      "type": "Directed",
+      "id": 236,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105238",
+      "target": "B19NBN005",
+      "type": "Directed",
+      "id": 237,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105240",
+      "target": "B19CIPP001",
+      "type": "Directed",
+      "id": 238,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105240",
+      "target": "B19RBC001",
+      "type": "Directed",
+      "id": 239,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105240",
+      "target": "B19RBP002",
+      "type": "Directed",
+      "id": 240,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105258",
+      "target": "B19PRDSPAORM000",
+      "type": "Directed",
+      "id": 241,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105258",
+      "target": "B19PRDSPAAFO000",
+      "type": "Directed",
+      "id": 242,
+      "weight": 40.9,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105258",
+      "target": "B19PLGO001",
+      "type": "Directed",
+      "id": 243,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105258",
+      "target": "B19PRDSPANBC000",
+      "type": "Directed",
+      "id": 244,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105270",
+      "target": "B19PRODZNERN000",
+      "type": "Directed",
+      "id": 245,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105270",
+      "target": "B19NBN005",
+      "type": "Directed",
+      "id": 246,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105270",
+      "target": "B19NBO003",
+      "type": "Directed",
+      "id": 247,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105270",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 248,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105304",
+      "target": "B19RBC001",
+      "type": "Directed",
+      "id": 249,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105304",
+      "target": "B19RUM002",
+      "type": "Directed",
+      "id": 250,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105308",
+      "target": "B19CIPP001",
+      "type": "Directed",
+      "id": 251,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105334",
+      "target": "B19RVE003",
+      "type": "Directed",
+      "id": 252,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105336",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 253,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105358",
+      "target": "B19CIPP001",
+      "type": "Directed",
+      "id": 254,
+      "weight": 4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105359",
+      "target": "B19RUM002",
+      "type": "Directed",
+      "id": 255,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105433",
+      "target": "B19NE31003",
+      "type": "Directed",
+      "id": 256,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105433",
+      "target": "B19QUEL002",
+      "type": "Directed",
+      "id": 257,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105486",
+      "target": "B19RBP002",
+      "type": "Directed",
+      "id": 258,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105489",
+      "target": "B19PRDSPAAFO000",
+      "type": "Directed",
+      "id": 259,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105494",
+      "target": "B19NE31003",
+      "type": "Directed",
+      "id": 260,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105527",
+      "target": "B19CIPP001",
+      "type": "Directed",
+      "id": 261,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105527",
+      "target": "B19EPGX001",
+      "type": "Directed",
+      "id": 262,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105527",
+      "target": "B19AARS001",
+      "type": "Directed",
+      "id": 263,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105527",
+      "target": "B19PRODZNEAIF000",
+      "type": "Directed",
+      "id": 264,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105535",
+      "target": "B19RBC001",
+      "type": "Directed",
+      "id": 265,
+      "weight": 8,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105535",
+      "target": "B19RDS001",
+      "type": "Directed",
+      "id": 266,
+      "weight": 8,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105535",
+      "target": "B19RSP002",
+      "type": "Directed",
+      "id": 267,
+      "weight": 8,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105535",
+      "target": "B19RUM002",
+      "type": "Directed",
+      "id": 268,
+      "weight": 8,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105566",
+      "target": "B19PRDSPAMRM000",
+      "type": "Directed",
+      "id": 269,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105587",
+      "target": "B19AARS001",
+      "type": "Directed",
+      "id": 270,
+      "weight": 4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105601",
+      "target": "B19RBP002",
+      "type": "Directed",
+      "id": 271,
+      "weight": 0.75,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105601",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 272,
+      "weight": 0.75,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105621",
+      "target": "B19PRDSPAIFL000",
+      "type": "Directed",
+      "id": 273,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105639",
+      "target": "B19PRDSPAORM000",
+      "type": "Directed",
+      "id": 274,
+      "weight": 4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105640",
+      "target": "B19PRDSPAMRM000",
+      "type": "Directed",
+      "id": 275,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105640",
+      "target": "B19PRDSPAORM000",
+      "type": "Directed",
+      "id": 276,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105640",
+      "target": "B19PRDSPAIFL000",
+      "type": "Directed",
+      "id": 277,
+      "weight": 0.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0105640",
+      "target": "B19PRDSPANBC000",
+      "type": "Directed",
+      "id": 278,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106001",
+      "target": "B19PRODZNERN000",
+      "type": "Directed",
+      "id": 279,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106001",
+      "target": "B19CIPP001",
+      "type": "Directed",
+      "id": 280,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106001",
+      "target": "B19EPGX001",
+      "type": "Directed",
+      "id": 281,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106001",
+      "target": "B19NBO003",
+      "type": "Directed",
+      "id": 282,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106001",
+      "target": "B19QUEL002",
+      "type": "Directed",
+      "id": 283,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106001",
+      "target": "B19PRODZNEAIF000",
+      "type": "Directed",
+      "id": 284,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106004",
+      "target": "B19NE31003",
+      "type": "Directed",
+      "id": 285,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106004",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 286,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106004",
+      "target": "B19RVE003",
+      "type": "Directed",
+      "id": 287,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106006",
+      "target": "B19RBC001",
+      "type": "Directed",
+      "id": 288,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106006",
+      "target": "B19RDS001",
+      "type": "Directed",
+      "id": 289,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106006",
+      "target": "B19RSP002",
+      "type": "Directed",
+      "id": 290,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106006",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 291,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106006",
+      "target": "B19RUM002",
+      "type": "Directed",
+      "id": 292,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106012",
+      "target": "B19PRODZNERN000",
+      "type": "Directed",
+      "id": 293,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106015",
+      "target": "B19PRDSPAORM000",
+      "type": "Directed",
+      "id": 294,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106015",
+      "target": "B19NBN005",
+      "type": "Directed",
+      "id": 295,
+      "weight": 6,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106015",
+      "target": "B19RBP002",
+      "type": "Directed",
+      "id": 296,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106015",
+      "target": "B19PRDSPANBC000",
+      "type": "Directed",
+      "id": 297,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106020",
+      "target": "B19NE31003",
+      "type": "Directed",
+      "id": 298,
+      "weight": 6,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106020",
+      "target": "B19RVE003",
+      "type": "Directed",
+      "id": 299,
+      "weight": 6,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106020",
+      "target": "B19AARS001",
+      "type": "Directed",
+      "id": 300,
+      "weight": 6,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106024",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 301,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106024",
+      "target": "B19AAP003",
+      "type": "Directed",
+      "id": 302,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106038",
+      "target": "B19PRODZNERN000",
+      "type": "Directed",
+      "id": 303,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106038",
+      "target": "B19CIPP001",
+      "type": "Directed",
+      "id": 304,
+      "weight": 4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106038",
+      "target": "B19EPGX001",
+      "type": "Directed",
+      "id": 305,
+      "weight": 4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106038",
+      "target": "B19NBO003",
+      "type": "Directed",
+      "id": 306,
+      "weight": 4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106038",
+      "target": "B19QUEL002",
+      "type": "Directed",
+      "id": 307,
+      "weight": 4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106038",
+      "target": "B19PRODZNEAIF000",
+      "type": "Directed",
+      "id": 308,
+      "weight": 4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106038",
+      "target": "B19PRODZNEDDC000",
+      "type": "Directed",
+      "id": 309,
+      "weight": 4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0106063",
+      "target": "B19RDS001",
+      "type": "Directed",
+      "id": 310,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0109005",
+      "target": "B19PRDSPAMRM000",
+      "type": "Directed",
+      "id": 311,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0109005",
+      "target": "B19PRDSPAIFL000",
+      "type": "Directed",
+      "id": 312,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0110029",
+      "target": "B19PRODZNEDZ000",
+      "type": "Directed",
+      "id": 313,
+      "weight": 10,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0111012",
+      "target": "B19PRDSPAORM000",
+      "type": "Directed",
+      "id": 314,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0111012",
+      "target": "B19NBN005",
+      "type": "Directed",
+      "id": 315,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0111012",
+      "target": "B19NE31003",
+      "type": "Directed",
+      "id": 316,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0111012",
+      "target": "B19RBP002",
+      "type": "Directed",
+      "id": 317,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0111012",
+      "target": "B19RVE003",
+      "type": "Directed",
+      "id": 318,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0111012",
+      "target": "B19PRDSPANBC000",
+      "type": "Directed",
+      "id": 319,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0111062",
+      "target": "B19PRDSPAMRM000",
+      "type": "Directed",
+      "id": 320,
+      "weight": 0.8,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0111063",
+      "target": "B19PRODZNERN000",
+      "type": "Directed",
+      "id": 321,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0111063",
+      "target": "B1930P002",
+      "type": "Directed",
+      "id": 322,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0111063",
+      "target": "B1950P002",
+      "type": "Directed",
+      "id": 323,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0111063",
+      "target": "B19NBO003",
+      "type": "Directed",
+      "id": 324,
+      "weight": 1.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0111063",
+      "target": "B19RDS001",
+      "type": "Directed",
+      "id": 325,
+      "weight": 0.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0111063",
+      "target": "B19AAP003",
+      "type": "Directed",
+      "id": 326,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0111063",
+      "target": "B19AARS001",
+      "type": "Directed",
+      "id": 327,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0111063",
+      "target": "B19PRDSPANBC000",
+      "type": "Directed",
+      "id": 328,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0111063",
+      "target": "B19PRODZNEDDC000",
+      "type": "Directed",
+      "id": 329,
+      "weight": 0.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0112001",
+      "target": "B19CIPP001",
+      "type": "Directed",
+      "id": 330,
+      "weight": 0.375,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0112001",
+      "target": "B19CIPP001",
+      "type": "Directed",
+      "id": 331,
+      "weight": 0.1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0112003",
+      "target": "B19EPGX001",
+      "type": "Directed",
+      "id": 332,
+      "weight": 0.01,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0112003",
+      "target": "B19NBN005",
+      "type": "Directed",
+      "id": 333,
+      "weight": 0.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0112003",
+      "target": "B19RBP002",
+      "type": "Directed",
+      "id": 334,
+      "weight": 0,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0112004",
+      "target": "B19PRDSPAMRM000",
+      "type": "Directed",
+      "id": 335,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0112004",
+      "target": "B19PRDSPAIFL000",
+      "type": "Directed",
+      "id": 336,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0112004",
+      "target": "B19NE31003",
+      "type": "Directed",
+      "id": 337,
+      "weight": 0.13,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0112004",
+      "target": "B19RBC001",
+      "type": "Directed",
+      "id": 338,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0112004",
+      "target": "B19RDS001",
+      "type": "Directed",
+      "id": 339,
+      "weight": 0.06,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0112004",
+      "target": "B19RMS001",
+      "type": "Directed",
+      "id": 340,
+      "weight": 0.22,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0112004",
+      "target": "B19RSP002",
+      "type": "Directed",
+      "id": 341,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0112004",
+      "target": "B19RUM002",
+      "type": "Directed",
+      "id": 342,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0112004",
+      "target": "B19RVE003",
+      "type": "Directed",
+      "id": 343,
+      "weight": 0.1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113026",
+      "target": "B1930P002",
+      "type": "Directed",
+      "id": 344,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113026",
+      "target": "B1950P002",
+      "type": "Directed",
+      "id": 345,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113026",
+      "target": "B19PRODZNEDZ000",
+      "type": "Directed",
+      "id": 346,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113028",
+      "target": "B19PRDSPAORM000",
+      "type": "Directed",
+      "id": 347,
+      "weight": 4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113028",
+      "target": "B19PRODZNERN000",
+      "type": "Directed",
+      "id": 348,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113028",
+      "target": "B19NBN005",
+      "type": "Directed",
+      "id": 349,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113028",
+      "target": "B19NBO003",
+      "type": "Directed",
+      "id": 350,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113028",
+      "target": "B19PRDSPANBC000",
+      "type": "Directed",
+      "id": 351,
+      "weight": 4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113062",
+      "target": "B19RBP002",
+      "type": "Directed",
+      "id": 352,
+      "weight": 10,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113090",
+      "target": "B19PRDSPAAFO000",
+      "type": "Directed",
+      "id": 353,
+      "weight": 10,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113091",
+      "target": "B19PRDSPAAFO000",
+      "type": "Directed",
+      "id": 354,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113091",
+      "target": "B19PRODZNERN000",
+      "type": "Directed",
+      "id": 355,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113091",
+      "target": "B19CIPP001",
+      "type": "Directed",
+      "id": 356,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113091",
+      "target": "B19EPGX001",
+      "type": "Directed",
+      "id": 357,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113091",
+      "target": "B19NBN005",
+      "type": "Directed",
+      "id": 358,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113091",
+      "target": "B19NBO003",
+      "type": "Directed",
+      "id": 359,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113091",
+      "target": "B19NE31003",
+      "type": "Directed",
+      "id": 360,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113091",
+      "target": "B19QUEL002",
+      "type": "Directed",
+      "id": 361,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113091",
+      "target": "B19RBP002",
+      "type": "Directed",
+      "id": 362,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113091",
+      "target": "B19AARS001",
+      "type": "Directed",
+      "id": 363,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113091",
+      "target": "B19PRODZNEAIF000",
+      "type": "Directed",
+      "id": 364,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113091",
+      "target": "B19PRDSPANBC000",
+      "type": "Directed",
+      "id": 365,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113091",
+      "target": "B19PRODZNEDDC000",
+      "type": "Directed",
+      "id": 366,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113094",
+      "target": "B19PRDSPAAFO000",
+      "type": "Directed",
+      "id": 367,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113094",
+      "target": "B19PRODZNERN000",
+      "type": "Directed",
+      "id": 368,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113094",
+      "target": "B19NBN005",
+      "type": "Directed",
+      "id": 369,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113094",
+      "target": "B19NBO003",
+      "type": "Directed",
+      "id": 370,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113094",
+      "target": "B19NE31003",
+      "type": "Directed",
+      "id": 371,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113094",
+      "target": "B19RBP002",
+      "type": "Directed",
+      "id": 372,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113094",
+      "target": "B19AARS001",
+      "type": "Directed",
+      "id": 373,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113094",
+      "target": "B19PRODZNEAIF000",
+      "type": "Directed",
+      "id": 374,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113094",
+      "target": "B19PRDSPANBC000",
+      "type": "Directed",
+      "id": 375,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113094",
+      "target": "B19PRODZNEDDC000",
+      "type": "Directed",
+      "id": 376,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113117",
+      "target": "B19PRDSPAMRM000",
+      "type": "Directed",
+      "id": 377,
+      "weight": 0.4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113117",
+      "target": "B19PRDSPAORM000",
+      "type": "Directed",
+      "id": 378,
+      "weight": 0.4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113117",
+      "target": "B19PRDSPAAFO000",
+      "type": "Directed",
+      "id": 379,
+      "weight": 0.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113117",
+      "target": "B19PRDSPAIFL000",
+      "type": "Directed",
+      "id": 380,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113117",
+      "target": "B19NBN005",
+      "type": "Directed",
+      "id": 381,
+      "weight": 0.6,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113117",
+      "target": "B19RSP002",
+      "type": "Directed",
+      "id": 382,
+      "weight": 0.3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113117",
+      "target": "B19PRDSPANBC000",
+      "type": "Directed",
+      "id": 383,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113124",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 384,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R0113156",
+      "target": "B19RBP002",
+      "type": "Directed",
+      "id": 385,
+      "weight": 10,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1901000",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 386,
+      "weight": 4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1901001",
+      "target": "B19PLGO001",
+      "type": "Directed",
+      "id": 387,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1901002",
+      "target": "B19RBC001",
+      "type": "Directed",
+      "id": 388,
+      "weight": 8,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1901002",
+      "target": "B19RDS001",
+      "type": "Directed",
+      "id": 389,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1901002",
+      "target": "B19RSP002",
+      "type": "Directed",
+      "id": 390,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1901002",
+      "target": "B19RUM002",
+      "type": "Directed",
+      "id": 391,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1901003",
+      "target": "B19RBC001",
+      "type": "Directed",
+      "id": 392,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1901003",
+      "target": "B19RDS001",
+      "type": "Directed",
+      "id": 393,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1901003",
+      "target": "B19RSP002",
+      "type": "Directed",
+      "id": 394,
+      "weight": 10,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1901003",
+      "target": "B19RUM002",
+      "type": "Directed",
+      "id": 395,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1901004",
+      "target": "B19EPGX001",
+      "type": "Directed",
+      "id": 396,
+      "weight": 7,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1901004",
+      "target": "B19PRODZNEAIF000",
+      "type": "Directed",
+      "id": 397,
+      "weight": 7,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1901005",
+      "target": "B19EPGX001",
+      "type": "Directed",
+      "id": 398,
+      "weight": 4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1901005",
+      "target": "B19PRODZNEAIF000",
+      "type": "Directed",
+      "id": 399,
+      "weight": 4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1901006",
+      "target": "B19PLGO001",
+      "type": "Directed",
+      "id": 400,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1902000",
+      "target": "B19PRODZNEDZ000",
+      "type": "Directed",
+      "id": 401,
+      "weight": 25,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1902001",
+      "target": "B19PRODZNEDZ000",
+      "type": "Directed",
+      "id": 402,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1902002",
+      "target": "B19PRODZNEDZ000",
+      "type": "Directed",
+      "id": 403,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1902003",
+      "target": "B19PRODZNEDDC000",
+      "type": "Directed",
+      "id": 404,
+      "weight": 20,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905000",
+      "target": "B1930P002",
+      "type": "Directed",
+      "id": 405,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905000",
+      "target": "B1950P002",
+      "type": "Directed",
+      "id": 406,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905000",
+      "target": "B19NBO003",
+      "type": "Directed",
+      "id": 407,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905000",
+      "target": "B19QUEL002",
+      "type": "Directed",
+      "id": 408,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905000",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 409,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905001",
+      "target": "B1930P002",
+      "type": "Directed",
+      "id": 410,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905001",
+      "target": "B1950P002",
+      "type": "Directed",
+      "id": 411,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905002",
+      "target": "B19NBN005",
+      "type": "Directed",
+      "id": 412,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905003",
+      "target": "B19NBN005",
+      "type": "Directed",
+      "id": 413,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905004",
+      "target": "B19RDS001",
+      "type": "Directed",
+      "id": 414,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905004",
+      "target": "B19RMS001",
+      "type": "Directed",
+      "id": 415,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905005",
+      "target": "B19CIPP001",
+      "type": "Directed",
+      "id": 416,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905006",
+      "target": "B19PRDSPAMRM000",
+      "type": "Directed",
+      "id": 417,
+      "weight": 10,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905006",
+      "target": "B19RMS001",
+      "type": "Directed",
+      "id": 418,
+      "weight": 10,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905007",
+      "target": "B19RMS001",
+      "type": "Directed",
+      "id": 419,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905008",
+      "target": "B19RMS001",
+      "type": "Directed",
+      "id": 420,
+      "weight": 1.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905009",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 421,
+      "weight": 0.2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905010",
+      "target": "B19PRODZNERN000",
+      "type": "Directed",
+      "id": 422,
+      "weight": 3.375,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905010",
+      "target": "B1930P002",
+      "type": "Directed",
+      "id": 423,
+      "weight": 13.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905010",
+      "target": "B1950P002",
+      "type": "Directed",
+      "id": 424,
+      "weight": 22.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905010",
+      "target": "B19NBO003",
+      "type": "Directed",
+      "id": 425,
+      "weight": 6.75,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905012",
+      "target": "B19RBP002",
+      "type": "Directed",
+      "id": 426,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905013",
+      "target": "B19PRODZNEDZ000",
+      "type": "Directed",
+      "id": 427,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905015",
+      "target": "B19PRODZNERN000",
+      "type": "Directed",
+      "id": 428,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905015",
+      "target": "B1930P002",
+      "type": "Directed",
+      "id": 429,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905015",
+      "target": "B1950P002",
+      "type": "Directed",
+      "id": 430,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905015",
+      "target": "B19NBO003",
+      "type": "Directed",
+      "id": 431,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905015",
+      "target": "B19QUEL002",
+      "type": "Directed",
+      "id": 432,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905015",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 433,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905016",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 434,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905017",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 435,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905018",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 436,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905019",
+      "target": "B19RBP002",
+      "type": "Directed",
+      "id": 437,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905020",
+      "target": "B19QUEL002",
+      "type": "Directed",
+      "id": 438,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905020",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 439,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905021",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 440,
+      "weight": 0.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905022",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 441,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905023",
+      "target": "B19RVE003",
+      "type": "Directed",
+      "id": 442,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905024",
+      "target": "B19RBC001",
+      "type": "Directed",
+      "id": 443,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905024",
+      "target": "B19RDS001",
+      "type": "Directed",
+      "id": 444,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905024",
+      "target": "B19RSP002",
+      "type": "Directed",
+      "id": 445,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905024",
+      "target": "B19RUM002",
+      "type": "Directed",
+      "id": 446,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905025",
+      "target": "B19RVE003",
+      "type": "Directed",
+      "id": 447,
+      "weight": 10,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905026",
+      "target": "B19NE31003",
+      "type": "Directed",
+      "id": 448,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905027",
+      "target": "B19QUEL002",
+      "type": "Directed",
+      "id": 449,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905028",
+      "target": "B19RSP002",
+      "type": "Directed",
+      "id": 450,
+      "weight": 4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905029",
+      "target": "B19RBC001",
+      "type": "Directed",
+      "id": 451,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905029",
+      "target": "B19RDS001",
+      "type": "Directed",
+      "id": 452,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905029",
+      "target": "B19RSP002",
+      "type": "Directed",
+      "id": 453,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905029",
+      "target": "B19RUM002",
+      "type": "Directed",
+      "id": 454,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905030",
+      "target": "B19RBC001",
+      "type": "Directed",
+      "id": 455,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905030",
+      "target": "B19RDS001",
+      "type": "Directed",
+      "id": 456,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905030",
+      "target": "B19RSP002",
+      "type": "Directed",
+      "id": 457,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905030",
+      "target": "B19RUM002",
+      "type": "Directed",
+      "id": 458,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905031",
+      "target": "B19NE31003",
+      "type": "Directed",
+      "id": 459,
+      "weight": 10,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905032",
+      "target": "B19RDS001",
+      "type": "Directed",
+      "id": 460,
+      "weight": 4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905032",
+      "target": "B19RSP002",
+      "type": "Directed",
+      "id": 461,
+      "weight": 4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905033",
+      "target": "B19RUM002",
+      "type": "Directed",
+      "id": 462,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905035",
+      "target": "B19RUM002",
+      "type": "Directed",
+      "id": 463,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905038",
+      "target": "B19EPGX001",
+      "type": "Directed",
+      "id": 464,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905039",
+      "target": "B19EPGX001",
+      "type": "Directed",
+      "id": 465,
+      "weight": 0.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905040",
+      "target": "B19PRODZNEAIF000",
+      "type": "Directed",
+      "id": 466,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905041",
+      "target": "B19PRODZNEAIF000",
+      "type": "Directed",
+      "id": 467,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905042",
+      "target": "B19PRODZNEAIF000",
+      "type": "Directed",
+      "id": 468,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905043",
+      "target": "B19PRDSPAORM000",
+      "type": "Directed",
+      "id": 469,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905043",
+      "target": "B19PRODZNERN000",
+      "type": "Directed",
+      "id": 470,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905043",
+      "target": "B19PLGO001",
+      "type": "Directed",
+      "id": 471,
+      "weight": 26.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905043",
+      "target": "B19PRODZNEAIF000",
+      "type": "Directed",
+      "id": 472,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905043",
+      "target": "B19PRODZNEDDC000",
+      "type": "Directed",
+      "id": 473,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905045",
+      "target": "B19AAP003",
+      "type": "Directed",
+      "id": 474,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905046",
+      "target": "B19AARS001",
+      "type": "Directed",
+      "id": 475,
+      "weight": 4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905047",
+      "target": "B19AARS001",
+      "type": "Directed",
+      "id": 476,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905048",
+      "target": "B19PRODZNERN000",
+      "type": "Directed",
+      "id": 477,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905049",
+      "target": "B19PRDSPAIFL000",
+      "type": "Directed",
+      "id": 478,
+      "weight": 4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905050",
+      "target": "B19PRDSPAIFL000",
+      "type": "Directed",
+      "id": 479,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905052",
+      "target": "B19PRDSPANBC000",
+      "type": "Directed",
+      "id": 480,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905053",
+      "target": "B19PRDSPANBC000",
+      "type": "Directed",
+      "id": 481,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905054",
+      "target": "B19PRDSPANBC000",
+      "type": "Directed",
+      "id": 482,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905055",
+      "target": "B19PRDSPAAFO000",
+      "type": "Directed",
+      "id": 483,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905056",
+      "target": "B19PRDSPAORM000",
+      "type": "Directed",
+      "id": 484,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1905058",
+      "target": "B19PRDSPAMRM000",
+      "type": "Directed",
+      "id": 485,
+      "weight": 4,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1906000",
+      "target": "B19RBC001",
+      "type": "Directed",
+      "id": 486,
+      "weight": 3,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1906000",
+      "target": "B19AAP003",
+      "type": "Directed",
+      "id": 487,
+      "weight": 2.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1906001",
+      "target": "B19RSP002",
+      "type": "Directed",
+      "id": 488,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1906001",
+      "target": "B19RUM002",
+      "type": "Directed",
+      "id": 489,
+      "weight": 2.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1907000",
+      "target": "B19PRODZNEDZ000",
+      "type": "Directed",
+      "id": 490,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1908000",
+      "target": "B19PLGO001",
+      "type": "Directed",
+      "id": 491,
+      "weight": 200,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1911000",
+      "target": "B19PLGO001",
+      "type": "Directed",
+      "id": 492,
+      "weight": 20,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1911001",
+      "target": "B19PRDSPAIFL000",
+      "type": "Directed",
+      "id": 493,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1911001",
+      "target": "B19NBN005",
+      "type": "Directed",
+      "id": 494,
+      "weight": 0.25,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1911001",
+      "target": "B19RMS001",
+      "type": "Directed",
+      "id": 495,
+      "weight": 0.8,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1911003",
+      "target": "B19NE31003",
+      "type": "Directed",
+      "id": 496,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1911003",
+      "target": "B19RVE003",
+      "type": "Directed",
+      "id": 497,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1913000",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 498,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1913001",
+      "target": "B1930P002",
+      "type": "Directed",
+      "id": 499,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1913001",
+      "target": "B1950P002",
+      "type": "Directed",
+      "id": 500,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1913002",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 501,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1913003",
+      "target": "B19QUEL002",
+      "type": "Directed",
+      "id": 502,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1913003",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 503,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1913004",
+      "target": "B19PRODZNERN000",
+      "type": "Directed",
+      "id": 504,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1913004",
+      "target": "B19NBN005",
+      "type": "Directed",
+      "id": 505,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1913004",
+      "target": "B19NBO003",
+      "type": "Directed",
+      "id": 506,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1913004",
+      "target": "B19QUEL002",
+      "type": "Directed",
+      "id": 507,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1913004",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 508,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1913005",
+      "target": "B19PRODZNEDZ000",
+      "type": "Directed",
+      "id": 509,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1913006",
+      "target": "B19PRODZNEDZ000",
+      "type": "Directed",
+      "id": 510,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1913007",
+      "target": "B19PRODZNEDZ000",
+      "type": "Directed",
+      "id": 511,
+      "weight": 2,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1913008",
+      "target": "B19PRODZNEDZ000",
+      "type": "Directed",
+      "id": 512,
+      "weight": 1,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1913009",
+      "target": "B19RSR005",
+      "type": "Directed",
+      "id": 513,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1913011",
+      "target": "B19RBC001",
+      "type": "Directed",
+      "id": 514,
+      "weight": 7,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1913011",
+      "target": "B19RUM002",
+      "type": "Directed",
+      "id": 515,
+      "weight": 7,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1913011",
+      "target": "B19AAP003",
+      "type": "Directed",
+      "id": 516,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1913012",
+      "target": "B19RDS001",
+      "type": "Directed",
+      "id": 517,
+      "weight": 8,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1913013",
+      "target": "B19AARS001",
+      "type": "Directed",
+      "id": 518,
+      "weight": 5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1913014",
+      "target": "B19PRDSPAAFO000",
+      "type": "Directed",
+      "id": 519,
+      "weight": 0.5,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1913014",
+      "target": "B19PRODZNEDZ000",
+      "type": "Directed",
+      "id": 520,
+      "weight": 0.25,
+      "label": "",
+      "timeset": ""
+    },
+    {
+      "source": "R1913014",
+      "target": "B19PRODZNEDDC000",
+      "type": "Directed",
+      "id": 521,
+      "weight": 0.5,
+      "label": "",
+      "timeset": ""
+    }
+  ],
+  "layers": {
+    "supply_chain": {
+      "metadata": {
+        "name": "RSGraph",
+        "description": "Supply Chain Network: Suppliers and Ingredients",
+        "node_count": 114,
+        "edge_count": 91,
+        "density": 0.007064120478186617,
+        "created_at": "2025-11-30T06:51:07.356Z"
+      },
+      "node_count": 114,
+      "edge_count": 91
+    },
+    "formulation": {
+      "metadata": {
+        "name": "RAWGraph",
+        "description": "Formulation Network: Products and Ingredients",
+        "node_count": 199,
+        "edge_count": 521,
+        "density": 0.01322267905182478,
+        "created_at": "2025-11-30T06:51:07.358Z"
+      },
+      "node_count": 199,
+      "edge_count": 521
+    }
+  },
+  "cross_layer_edges": []
+}

@@ -45,7 +45,8 @@
     "db:migrate": "drizzle-kit migrate",
     "process-pif": "node scripts/process-pif-documents.cjs",
     "extract-multi-pif": "node scripts/extract-multi-product-pifs.cjs",
-    "create-edges": "node scripts/create-hypergraph-edges.cjs"
+    "create-edges": "node scripts/create-hypergraph-edges.cjs",
+    "forensic-analysis": "npx tsx scripts/forensic-hypergraph-analysis.ts"
   },
   "engines": {
     "node": ">=18.18.0"

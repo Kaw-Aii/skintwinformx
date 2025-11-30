@@ -1,0 +1,1130 @@
+{
+  "timestamp": "2025-11-30T06:51:07.380Z",
+  "graphs": {
+    "rs_graph": {
+      "basic_stats": {
+        "nodes": 114,
+        "edges": 91,
+        "density": 0.007064120478186617,
+        "nodes_by_type": {
+          "supplier": 23,
+          "ingredient": 91
+        },
+        "average_degree": 0.7982456140350878
+      },
+      "centrality_measures": {
+        "top_nodes": [
+          {
+            "id": "NAT0001",
+            "label": "Natchem CC",
+            "type": "supplier",
+            "degree": {
+              "in": 0,
+              "out": 16,
+              "total": 16
+            },
+            "betweenness": 0.14035087719298245,
+            "importance": 8.070175438596491
+          },
+          {
+            "id": "MEG0001",
+            "label": "Meganede CC",
+            "type": "supplier",
+            "degree": {
+              "in": 0,
+              "out": 15,
+              "total": 15
+            },
+            "betweenness": 0.13157894736842105,
+            "importance": 7.565789473684211
+          },
+          {
+            "id": "CAR0002",
+            "label": "Carst&Walker,div of Zenith Ho",
+            "type": "supplier",
+            "degree": {
+              "in": 0,
+              "out": 8,
+              "total": 8
+            },
+            "betweenness": 0.07017543859649122,
+            "importance": 4.035087719298246
+          },
+          {
+            "id": "CJP0001",
+            "label": "CJP Chemicals (Pty) Ltd",
+            "type": "supplier",
+            "degree": {
+              "in": 0,
+              "out": 8,
+              "total": 8
+            },
+            "betweenness": 0.07017543859649122,
+            "importance": 4.035087719298246
+          },
+          {
+            "id": "CRO0001",
+            "label": "Croda Chemicals S.A (Pty) Ltd",
+            "type": "supplier",
+            "degree": {
+              "in": 0,
+              "out": 7,
+              "total": 7
+            },
+            "betweenness": 0.06140350877192982,
+            "importance": 3.530701754385965
+          },
+          {
+            "id": "CTE0001",
+            "label": "Chemgrit Cosmetics (C-Tec)",
+            "type": "supplier",
+            "degree": {
+              "in": 0,
+              "out": 6,
+              "total": 6
+            },
+            "betweenness": 0.05263157894736842,
+            "importance": 3.026315789473684
+          },
+          {
+            "id": "SAV0001",
+            "label": "Savannah Fine Chem (Pty) Ltd",
+            "type": "supplier",
+            "degree": {
+              "in": 0,
+              "out": 5,
+              "total": 5
+            },
+            "betweenness": 0.043859649122807015,
+            "importance": 2.5219298245614037
+          },
+          {
+            "id": "CHE0004",
+            "label": "Chempure (Pty) Ltd",
+            "type": "supplier",
+            "degree": {
+              "in": 0,
+              "out": 3,
+              "total": 3
+            },
+            "betweenness": 0.02631578947368421,
+            "importance": 1.513157894736842
+          },
+          {
+            "id": "MER0001",
+            "label": "Merck (Pty) Ltd",
+            "type": "supplier",
+            "degree": {
+              "in": 0,
+              "out": 3,
+              "total": 3
+            },
+            "betweenness": 0.02631578947368421,
+            "importance": 1.513157894736842
+          },
+          {
+            "id": "BOT0003",
+            "label": "Botanichem",
+            "type": "supplier",
+            "degree": {
+              "in": 0,
+              "out": 2,
+              "total": 2
+            },
+            "betweenness": 0.017543859649122806,
+            "importance": 1.0087719298245614
+          }
+        ],
+        "average_importance": 0.7963988919667558
+      },
+      "community_structure": {
+        "num_communities": 23,
+        "communities": [
+          {
+            "id": 1,
+            "size": 2,
+            "members": [
+              "06A0001",
+              "R1907000"
+            ]
+          },
+          {
+            "id": 2,
+            "size": 2,
+            "members": [
+              "AEC001",
+              "R1908000"
+            ]
+          },
+          {
+            "id": 3,
+            "size": 2,
+            "members": [
+              "AKU001",
+              "R1902003"
+            ]
+          },
+          {
+            "id": 4,
+            "size": 3,
+            "members": [
+              "BOT0003",
+              "R1905039",
+              "R1905042"
+            ]
+          },
+          {
+            "id": 5,
+            "size": 9,
+            "members": [
+              "CAR0002",
+              "R1905011",
+              "R1905012",
+              "R1905023",
+              "R1905024"
+            ]
+          },
+          {
+            "id": 6,
+            "size": 4,
+            "members": [
+              "CHE0004",
+              "R1905016",
+              "R1905017",
+              "R1905021"
+            ]
+          },
+          {
+            "id": 7,
+            "size": 9,
+            "members": [
+              "CJP0001",
+              "R1901001",
+              "R1901006",
+              "R1902000",
+              "R1902001"
+            ]
+          },
+          {
+            "id": 8,
+            "size": 2,
+            "members": [
+              "CLI0001",
+              "R1913014"
+            ]
+          },
+          {
+            "id": 9,
+            "size": 2,
+            "members": [
+              "COS0007",
+              "R1905004"
+            ]
+          },
+          {
+            "id": 10,
+            "size": 8,
+            "members": [
+              "CRO0001",
+              "R1901005",
+              "R1905002",
+              "R1905003",
+              "R1905025"
+            ]
+          },
+          {
+            "id": 11,
+            "size": 7,
+            "members": [
+              "CTE0001",
+              "R1901002",
+              "R1901003",
+              "R1905019",
+              "R1905029"
+            ]
+          },
+          {
+            "id": 12,
+            "size": 2,
+            "members": [
+              "EVO0001",
+              "R1905015"
+            ]
+          },
+          {
+            "id": 13,
+            "size": 2,
+            "members": [
+              "HEX0001",
+              "R1905022"
+            ]
+          },
+          {
+            "id": 14,
+            "size": 3,
+            "members": [
+              "LIP0001",
+              "R1905008",
+              "R1905055"
+            ]
+          },
+          {
+            "id": 15,
+            "size": 2,
+            "members": [
+              "Maccullum",
+              "R1905000"
+            ]
+          },
+          {
+            "id": 16,
+            "size": 2,
+            "members": [
+              "MAT0002",
+              "R1905020"
+            ]
+          },
+          {
+            "id": 17,
+            "size": 16,
+            "members": [
+              "MEG0001",
+              "R1905018",
+              "R1905027",
+              "R1905035",
+              "R1905041"
+            ]
+          },
+          {
+            "id": 18,
+            "size": 4,
+            "members": [
+              "MER0001",
+              "R1905009",
+              "R1905010",
+              "R1905032"
+            ]
+          },
+          {
+            "id": 19,
+            "size": 2,
+            "members": [
+              "MIL0001",
+              "R1905044"
+            ]
+          },
+          {
+            "id": 20,
+            "size": 17,
+            "members": [
+              "NAT0001",
+              "R1905001",
+              "R1905037",
+              "R1905045",
+              "R1913000"
+            ]
+          },
+          {
+            "id": 21,
+            "size": 3,
+            "members": [
+              "ORC0001",
+              "R1902002",
+              "R1902999"
+            ]
+          },
+          {
+            "id": 22,
+            "size": 6,
+            "members": [
+              "SAV0001",
+              "R1901004",
+              "R1905005",
+              "R1905006",
+              "R1905007"
+            ]
+          },
+          {
+            "id": 23,
+            "size": 5,
+            "members": [
+              "SIY0002",
+              "R1905028",
+              "R1905040",
+              "R1905013",
+              "R1905038"
+            ]
+          }
+        ]
+      },
+      "vulnerability_assessment": {
+        "single_point_failures": 6,
+        "critical_nodes": [
+          "CAR0002",
+          "CJP0001",
+          "CRO0001",
+          "CTE0001",
+          "MEG0001",
+          "NAT0001"
+        ]
+      }
+    },
+    "raw_graph": {
+      "basic_stats": {
+        "nodes": 199,
+        "edges": 521,
+        "density": 0.01322267905182478,
+        "nodes_by_type": {
+          "product": 28,
+          "ingredient": 171
+        },
+        "average_degree": 2.6180904522613067
+      },
+      "centrality_measures": {
+        "top_nodes": [
+          {
+            "id": "R010000",
+            "label": "De Ion Water",
+            "type": "ingredient",
+            "degree": {
+              "in": 0,
+              "out": 50,
+              "total": 50
+            },
+            "betweenness": 0.1306532663316583,
+            "importance": 25.065326633165828
+          },
+          {
+            "id": "B19RSR005",
+            "label": "Scar Repair Forte",
+            "type": "product",
+            "degree": {
+              "in": 29,
+              "out": 0,
+              "total": 29
+            },
+            "betweenness": 0.1407035175879397,
+            "importance": 14.57035175879397
+          },
+          {
+            "id": "B19RDS001",
+            "label": "Daily Ultra Def SPF25",
+            "type": "product",
+            "degree": {
+              "in": 26,
+              "out": 0,
+              "total": 26
+            },
+            "betweenness": 0.11557788944723618,
+            "importance": 13.057788944723619
+          },
+          {
+            "id": "B19CIPP001",
+            "label": "Pigment Perfector",
+            "type": "product",
+            "degree": {
+              "in": 25,
+              "out": 0,
+              "total": 25
+            },
+            "betweenness": 0.10552763819095477,
+            "importance": 12.552763819095478
+          },
+          {
+            "id": "B19PRODZNERN000",
+            "label": "Rejuvoderm Night Maintenance",
+            "type": "product",
+            "degree": {
+              "in": 24,
+              "out": 0,
+              "total": 24
+            },
+            "betweenness": 0.12060301507537688,
+            "importance": 12.06030150753769
+          },
+          {
+            "id": "B19NBO003",
+            "label": "Omega Night Complex",
+            "type": "product",
+            "degree": {
+              "in": 24,
+              "out": 0,
+              "total": 24
+            },
+            "betweenness": 0.12060301507537688,
+            "importance": 12.06030150753769
+          },
+          {
+            "id": "B19RBC001",
+            "label": "Daily Radiant SPF25",
+            "type": "product",
+            "degree": {
+              "in": 24,
+              "out": 0,
+              "total": 24
+            },
+            "betweenness": 0.11557788944723618,
+            "importance": 12.057788944723619
+          },
+          {
+            "id": "B19RUM002",
+            "label": "Daily Intel Solver SPF 25",
+            "type": "product",
+            "degree": {
+              "in": 24,
+              "out": 0,
+              "total": 24
+            },
+            "betweenness": 0.11557788944723618,
+            "importance": 12.057788944723619
+          },
+          {
+            "id": "R0102031",
+            "label": "Xanthan Gum FF Food Grade",
+            "type": "ingredient",
+            "degree": {
+              "in": 0,
+              "out": 23,
+              "total": 23
+            },
+            "betweenness": 0.11557788944723618,
+            "importance": 11.557788944723619
+          },
+          {
+            "id": "B19NBN005",
+            "label": "Age Reversal Night Complex",
+            "type": "product",
+            "degree": {
+              "in": 22,
+              "out": 0,
+              "total": 22
+            },
+            "betweenness": 0.11055276381909548,
+            "importance": 11.055276381909549
+          }
+        ],
+        "average_importance": 2.630590136612706
+      },
+      "community_structure": {
+        "num_communities": 1,
+        "communities": [
+          {
+            "id": 0,
+            "size": 199,
+            "members": [
+              "B19PRDSPAMRM000",
+              "B19PRDSPAORM000",
+              "B19PRDSPAAFO000",
+              "B19PRDSPAIFL000",
+              "B19PRODZNERN000"
+            ]
+          }
+        ]
+      },
+      "vulnerability_assessment": {
+        "single_point_failures": 0,
+        "critical_nodes": []
+      }
+    },
+    "rawsh_hypergraph": {
+      "basic_stats": {
+        "nodes": 231,
+        "edges": 612,
+        "density": 0.011518915866741954,
+        "nodes_by_type": {
+          "supplier": 23,
+          "ingredient": 180,
+          "product": 28
+        },
+        "average_degree": 2.6493506493506493
+      },
+      "centrality_measures": {
+        "top_nodes": [
+          {
+            "id": "R010000",
+            "label": "De Ion Water",
+            "type": "ingredient",
+            "degree": {
+              "in": 0,
+              "out": 50,
+              "total": 50
+            },
+            "betweenness": 0.11255411255411256,
+            "importance": 25.056277056277057
+          },
+          {
+            "id": "B19RSR005",
+            "label": "Scar Repair Forte",
+            "type": "product",
+            "degree": {
+              "in": 29,
+              "out": 0,
+              "total": 29
+            },
+            "betweenness": 0.12121212121212122,
+            "importance": 14.56060606060606
+          },
+          {
+            "id": "B19RDS001",
+            "label": "Daily Ultra Def SPF25",
+            "type": "product",
+            "degree": {
+              "in": 26,
+              "out": 0,
+              "total": 26
+            },
+            "betweenness": 0.09956709956709957,
+            "importance": 13.04978354978355
+          },
+          {
+            "id": "B19CIPP001",
+            "label": "Pigment Perfector",
+            "type": "product",
+            "degree": {
+              "in": 25,
+              "out": 0,
+              "total": 25
+            },
+            "betweenness": 0.09090909090909091,
+            "importance": 12.545454545454545
+          },
+          {
+            "id": "B19PRODZNERN000",
+            "label": "Rejuvoderm Night Maintenance",
+            "type": "product",
+            "degree": {
+              "in": 24,
+              "out": 0,
+              "total": 24
+            },
+            "betweenness": 0.1038961038961039,
+            "importance": 12.051948051948052
+          },
+          {
+            "id": "B19NBO003",
+            "label": "Omega Night Complex",
+            "type": "product",
+            "degree": {
+              "in": 24,
+              "out": 0,
+              "total": 24
+            },
+            "betweenness": 0.1038961038961039,
+            "importance": 12.051948051948052
+          },
+          {
+            "id": "B19RBC001",
+            "label": "Daily Radiant SPF25",
+            "type": "product",
+            "degree": {
+              "in": 24,
+              "out": 0,
+              "total": 24
+            },
+            "betweenness": 0.09956709956709957,
+            "importance": 12.04978354978355
+          },
+          {
+            "id": "B19RUM002",
+            "label": "Daily Intel Solver SPF 25",
+            "type": "product",
+            "degree": {
+              "in": 24,
+              "out": 0,
+              "total": 24
+            },
+            "betweenness": 0.09956709956709957,
+            "importance": 12.04978354978355
+          },
+          {
+            "id": "R0102031",
+            "label": "Xanthan Gum FF Food Grade",
+            "type": "ingredient",
+            "degree": {
+              "in": 0,
+              "out": 23,
+              "total": 23
+            },
+            "betweenness": 0.09956709956709957,
+            "importance": 11.54978354978355
+          },
+          {
+            "id": "B19NBN005",
+            "label": "Age Reversal Night Complex",
+            "type": "product",
+            "degree": {
+              "in": 22,
+              "out": 0,
+              "total": 22
+            },
+            "betweenness": 0.09523809523809523,
+            "importance": 11.047619047619047
+          }
+        ],
+        "average_importance": 2.655984707932762
+      },
+      "community_structure": {
+        "num_communities": 24,
+        "communities": [
+          {
+            "id": 1,
+            "size": 2,
+            "members": [
+              "06A0001",
+              "R1907000"
+            ]
+          },
+          {
+            "id": 2,
+            "size": 2,
+            "members": [
+              "AEC001",
+              "R1908000"
+            ]
+          },
+          {
+            "id": 3,
+            "size": 2,
+            "members": [
+              "AKU001",
+              "R1902003"
+            ]
+          },
+          {
+            "id": 4,
+            "size": 3,
+            "members": [
+              "BOT0003",
+              "R1905039",
+              "R1905042"
+            ]
+          },
+          {
+            "id": 5,
+            "size": 9,
+            "members": [
+              "CAR0002",
+              "R1905011",
+              "R1905012",
+              "R1905023",
+              "R1905024"
+            ]
+          },
+          {
+            "id": 6,
+            "size": 4,
+            "members": [
+              "CHE0004",
+              "R1905016",
+              "R1905017",
+              "R1905021"
+            ]
+          },
+          {
+            "id": 7,
+            "size": 9,
+            "members": [
+              "CJP0001",
+              "R1901001",
+              "R1901006",
+              "R1902000",
+              "R1902001"
+            ]
+          },
+          {
+            "id": 8,
+            "size": 2,
+            "members": [
+              "CLI0001",
+              "R1913014"
+            ]
+          },
+          {
+            "id": 9,
+            "size": 2,
+            "members": [
+              "COS0007",
+              "R1905004"
+            ]
+          },
+          {
+            "id": 10,
+            "size": 8,
+            "members": [
+              "CRO0001",
+              "R1901005",
+              "R1905002",
+              "R1905003",
+              "R1905025"
+            ]
+          },
+          {
+            "id": 11,
+            "size": 7,
+            "members": [
+              "CTE0001",
+              "R1901002",
+              "R1901003",
+              "R1905019",
+              "R1905029"
+            ]
+          },
+          {
+            "id": 12,
+            "size": 2,
+            "members": [
+              "EVO0001",
+              "R1905015"
+            ]
+          },
+          {
+            "id": 13,
+            "size": 2,
+            "members": [
+              "HEX0001",
+              "R1905022"
+            ]
+          },
+          {
+            "id": 14,
+            "size": 3,
+            "members": [
+              "LIP0001",
+              "R1905008",
+              "R1905055"
+            ]
+          },
+          {
+            "id": 15,
+            "size": 2,
+            "members": [
+              "Maccullum",
+              "R1905000"
+            ]
+          },
+          {
+            "id": 16,
+            "size": 2,
+            "members": [
+              "MAT0002",
+              "R1905020"
+            ]
+          },
+          {
+            "id": 17,
+            "size": 16,
+            "members": [
+              "MEG0001",
+              "R1905018",
+              "R1905027",
+              "R1905035",
+              "R1905041"
+            ]
+          },
+          {
+            "id": 18,
+            "size": 4,
+            "members": [
+              "MER0001",
+              "R1905009",
+              "R1905010",
+              "R1905032"
+            ]
+          },
+          {
+            "id": 19,
+            "size": 2,
+            "members": [
+              "MIL0001",
+              "R1905044"
+            ]
+          },
+          {
+            "id": 20,
+            "size": 17,
+            "members": [
+              "NAT0001",
+              "R1905001",
+              "R1905037",
+              "R1905045",
+              "R1913000"
+            ]
+          },
+          {
+            "id": 21,
+            "size": 3,
+            "members": [
+              "ORC0001",
+              "R1902002",
+              "R1902999"
+            ]
+          },
+          {
+            "id": 22,
+            "size": 6,
+            "members": [
+              "SAV0001",
+              "R1901004",
+              "R1905005",
+              "R1905006",
+              "R1905007"
+            ]
+          },
+          {
+            "id": 23,
+            "size": 5,
+            "members": [
+              "SIY0002",
+              "R1905028",
+              "R1905040",
+              "R1905013",
+              "R1905038"
+            ]
+          },
+          {
+            "id": 0,
+            "size": 117,
+            "members": [
+              "B19PRDSPAMRM000",
+              "B19PRDSPAORM000",
+              "B19PRDSPAAFO000",
+              "B19PRDSPAIFL000",
+              "B19PRODZNERN000"
+            ]
+          }
+        ]
+      },
+      "vulnerability_assessment": {
+        "single_point_failures": 6,
+        "critical_nodes": [
+          "CAR0002",
+          "CJP0001",
+          "CRO0001",
+          "CTE0001",
+          "MEG0001",
+          "NAT0001"
+        ]
+      },
+      "layer_integration": {
+        "supply_chain_coverage": 49.35064935064935,
+        "formulation_coverage": 86.14718614718615,
+        "overlap_percentage": 35.4978354978355,
+        "shared_ingredients": 82
+      },
+      "cross_layer_analysis": {
+        "supply_chain": {
+          "nodes": 114,
+          "edges": 91,
+          "density": 0.007064120478186617,
+          "nodes_by_type": {
+            "supplier": 23,
+            "ingredient": 91
+          },
+          "average_degree": 0.7982456140350878
+        },
+        "formulation": {
+          "nodes": 199,
+          "edges": 521,
+          "density": 0.01322267905182478,
+          "nodes_by_type": {
+            "product": 28,
+            "ingredient": 171
+          },
+          "average_degree": 2.6180904522613067
+        },
+        "integration_strength": 0.7192982456140351
+      }
+    }
+  },
+  "neural_network": {
+    "architecture_summary": {
+      "name": "RAWSHGNN",
+      "layers": 6,
+      "total_parameters": 23040
+    },
+    "feature_dimensions": {
+      "nodes": 231,
+      "features": 8
+    },
+    "training_readiness": {
+      "ready": true,
+      "adjacency_tensors": 3,
+      "training_config": {
+        "learning_rate": 0.001,
+        "epochs": 100,
+        "batch_size": 32,
+        "loss_function": "cross_entropy",
+        "optimizer": "adam"
+      }
+    }
+  },
+  "insights": {
+    "critical_nodes": [
+      {
+        "id": "R010000",
+        "label": "De Ion Water",
+        "type": "ingredient",
+        "degree": {
+          "in": 0,
+          "out": 50,
+          "total": 50
+        },
+        "betweenness": 0.1306532663316583,
+        "importance": 25.065326633165828
+      },
+      {
+        "id": "B19RSR005",
+        "label": "Scar Repair Forte",
+        "type": "product",
+        "degree": {
+          "in": 29,
+          "out": 0,
+          "total": 29
+        },
+        "betweenness": 0.1407035175879397,
+        "importance": 14.57035175879397
+      },
+      {
+        "id": "B19RDS001",
+        "label": "Daily Ultra Def SPF25",
+        "type": "product",
+        "degree": {
+          "in": 26,
+          "out": 0,
+          "total": 26
+        },
+        "betweenness": 0.11557788944723618,
+        "importance": 13.057788944723619
+      },
+      {
+        "id": "B19CIPP001",
+        "label": "Pigment Perfector",
+        "type": "product",
+        "degree": {
+          "in": 25,
+          "out": 0,
+          "total": 25
+        },
+        "betweenness": 0.10552763819095477,
+        "importance": 12.552763819095478
+      },
+      {
+        "id": "B19PRODZNERN000",
+        "label": "Rejuvoderm Night Maintenance",
+        "type": "product",
+        "degree": {
+          "in": 24,
+          "out": 0,
+          "total": 24
+        },
+        "betweenness": 0.12060301507537688,
+        "importance": 12.06030150753769
+      },
+      {
+        "id": "NAT0001",
+        "label": "Natchem CC",
+        "type": "supplier",
+        "degree": {
+          "in": 0,
+          "out": 16,
+          "total": 16
+        },
+        "betweenness": 0.14035087719298245,
+        "importance": 8.070175438596491
+      },
+      {
+        "id": "MEG0001",
+        "label": "Meganede CC",
+        "type": "supplier",
+        "degree": {
+          "in": 0,
+          "out": 15,
+          "total": 15
+        },
+        "betweenness": 0.13157894736842105,
+        "importance": 7.565789473684211
+      },
+      {
+        "id": "CAR0002",
+        "label": "Carst&Walker,div of Zenith Ho",
+        "type": "supplier",
+        "degree": {
+          "in": 0,
+          "out": 8,
+          "total": 8
+        },
+        "betweenness": 0.07017543859649122,
+        "importance": 4.035087719298246
+      },
+      {
+        "id": "CJP0001",
+        "label": "CJP Chemicals (Pty) Ltd",
+        "type": "supplier",
+        "degree": {
+          "in": 0,
+          "out": 8,
+          "total": 8
+        },
+        "betweenness": 0.07017543859649122,
+        "importance": 4.035087719298246
+      },
+      {
+        "id": "CRO0001",
+        "label": "Croda Chemicals S.A (Pty) Ltd",
+        "type": "supplier",
+        "degree": {
+          "in": 0,
+          "out": 7,
+          "total": 7
+        },
+        "betweenness": 0.06140350877192982,
+        "importance": 3.530701754385965
+      }
+    ],
+    "bottlenecks": [
+      {
+        "id": "CAR0002",
+        "label": "Carst&Walker,div of Zenith Ho",
+        "type": "supplier",
+        "risk": "high"
+      },
+      {
+        "id": "CJP0001",
+        "label": "CJP Chemicals (Pty) Ltd",
+        "type": "supplier",
+        "risk": "high"
+      },
+      {
+        "id": "CRO0001",
+        "label": "Croda Chemicals S.A (Pty) Ltd",
+        "type": "supplier",
+        "risk": "high"
+      },
+      {
+        "id": "CTE0001",
+        "label": "Chemgrit Cosmetics (C-Tec)",
+        "type": "supplier",
+        "risk": "high"
+      },
+      {
+        "id": "MEG0001",
+        "label": "Meganede CC",
+        "type": "supplier",
+        "risk": "high"
+      },
+      {
+        "id": "NAT0001",
+        "label": "Natchem CC",
+        "type": "supplier",
+        "risk": "high"
+      }
+    ],
+    "recommendations": [
+      "Diversify supply chain: 6 critical suppliers identified",
+      "Optimize formulation complexity: Average 2.6 ingredients per product",
+      "Strengthen cross-layer integration: 82 shared ingredients provide resilience",
+      "Implement RAWSHGNN for predictive analytics and optimization",
+      "Monitor critical nodes with high betweenness centrality for supply chain disruptions"
+    ]
+  }
+}
